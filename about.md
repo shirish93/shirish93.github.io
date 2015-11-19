@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tufts CS grad interested in Computational Linguistics, the digital humanities, and the ethics of ML and implication on human lives.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+...work in progress __last edited: 11/18/2015__
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shirish.pokharel@tufts.edu](mailto:email@domain.com)
