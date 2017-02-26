@@ -23,6 +23,23 @@ body {
   color: $darkGray;
 }
 
+#sidebar
+{
+  float: left;
+  width: 25%;
+  background: #ccc;
+  min-height: 100%;
+  text-align: left;
+}
+
+#main
+{
+  float: right;
+  text-align: left;
+  width: 70%;
+}
+
+
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -281,6 +298,19 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+#sidebar
+{
+    float: left;
+    width: 250px;
+    background: #ccc;
+    min-height: 100%;
+}
+
+#main
+{
+    float: left;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
