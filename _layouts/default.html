@@ -12,6 +12,21 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
+    
+      <style>
+    #left {
+      width: 200px;
+      float: left;
+    }
+    #right {
+      margin-left: 200px;
+      /* Change this to whatever the width of your left column is*/
+    }
+    .clear {
+      clear: both;
+    }
+  </style>
+    
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -33,8 +48,10 @@
         </header>
       </div>
     </div>
-
-    <div id="main" role="main" class="container">
+    <div id = "right">
+      TESTING TESTING TESTING
+    </div>
+    <div id="main left" role="main" class="container">
       {{ content }}
     </div>
 
