@@ -24,11 +24,12 @@ body {
 }
 
 #left {
-	width: 200px;
+	max-width: 80%;
 	float: left;
 }
 #right {
-	margin-left: 200px;
+	margin-left: 80%;
+	max-width: 18%
 /* Change this to whatever the width of your left column is*/
 }
 .clear {
