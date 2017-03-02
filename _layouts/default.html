@@ -37,7 +37,10 @@
       </div>
     </div>
     <div id = "right">
-      TESTING TESTING TESTING
+      Old posts
+      {%for post in site.posts%}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {%endfor%}
     </div>
     <div id="main left" role="main" class="container">
       {{ content }}
