@@ -1,0 +1,37 @@
+<div id="content">
+                <div>
+                    <article class="hentry" role="article">
+                        <div id="blog-archives">
+                            I'm Shirish! Welcome to my blog. Here's every post I've ever written. If you want somewhere to start, try <a href="/favorite">my favorites</a> (the ones with stars next to them, below). Enjoy!
+                            {{ page.url }}
+                            <br><br>
+                               As of October 2017, I'm looking for Software engineer jobs to start in Jan 2018, so if you like my posts, consider hiring me to work for you!
+                            I can be reached at shirish dot pokharel at tufts dot <edu class=""></edu>
+                             <br><br>
+                            I stole parts of this website from <a href="https://jvns.ca"> Julia Evans's website</a>. Instead of going to her Github, I just reverse engineered it. Hurray, unnecessary work!
+                            <br><br>
+                            <table>
+                                <ul id="tags">
+                                </ul>
+                                <ul id="tags">
+                                </ul>
+                               
+                                {% for post in site.posts %}
+                                <tr>
+                                        
+                                    <td style="width: 5.5em">
+                                        <time style="padding-right: 10px; color: #444; font-size: 14px;" datetime="" pubdate>{{ post.date | date_to_string }}</time>
+                                    </td>
+                                    <td style="padding-right: 0.25em; color: orange;">
+                                    </td>
+                                    <td>
+                                        {{ i }}
+                                        <span><a style="font-family: Montserrat, sans-serif; color: black;font-size: 14px;" href="{{ post.url }}">{{ post.title }}</a></span>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
+                    </article>
+                </div>
+            </div>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Shirish Pokharel</title>
+    <meta name="author" content="Shirish Pokharel">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="description" content="Shirish Pokharel"
+    >
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="canonical" href="index.html">
+    <link href="https://jvns.ca/favicon.ico" rel="icon">
+    <link href="{{ baseurl }}/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+</head>
+
+<style>
+    #mh1 {
+        text-decoration: none;
+        color: #ff0063;
+    }
+    
+</style>
+<body>
+    <div id="wrap">
+        <header role="banner">
+            <hgroup>
+                <h1><a href="index.html" id="mh1">Shirish P.</a></h1>
+            </hgroup>
+            <ul class="header-links">
+                <span><li><a href="{{ baseurl }}/about">About</a></li>
+<li><a href="/talks">Talks</a></li>
+<li><a href="/projects/">Projects</a></li></span>
+
+                <li><a href="https://github.com/shirish93">Github</a></li>
+                </span>
+            </ul>
+        </header>
+        <nav role="navigation" class="header-nav">
+            <ul class="main-navigation">
+                <li><a href="/favorite">Favorites</a></li>
+                <li><a href="/ideas">Ideas</a></li>
+            </ul>
+        </nav>
+        <div id="main">
+            {% include {{include.src}} cat=include.cat%}
+        </div>
+        <nav role="navigation" class="footer-nav"> <a href="index.html">Archives</a>
+        </nav>
+    </div>
+</body>
+
+</html>

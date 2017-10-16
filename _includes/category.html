@@ -1,0 +1,25 @@
+<div id="content">
+                <div>
+                
+                    <article class="hentry" role="article">
+                        <div id="blog-archives">
+                            {{ content }}
+
+                                {% for post in site.categories[{{include.cat}}] %}
+                                <tr>
+                                        
+                                    <td style="width: 5.5em">
+                                        <time style="padding-right: 10px; color: #444; font-size: 14px;" datetime="" pubdate>{{ post.date | date_to_string }}</time>
+                                    </td>
+                                    <td style="padding-right: 0.25em; color: orange;">
+                                    </td>
+                                    <td>
+                                        <span><a style="font-family: Montserrat, sans-serif; color: black;font-size: 14px;" href="{{ post.url }}">{{ post.title }}</a></span>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+                            </table>
+                        </div>
+                    </article>
+                </div>
+            </div>
