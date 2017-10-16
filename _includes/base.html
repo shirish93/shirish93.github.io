@@ -4,7 +4,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Shirish Pokharel</title>
+    <title>Shirish Pokharel{{page.title}}</title>
     <meta name="author" content="Shirish Pokharel">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
@@ -46,7 +46,7 @@
         <div id="main">
             {% include {{include.src}} cat=include.cat%}
         </div>
-        <nav role="navigation" class="footer-nav"> <a href="index.html">Archives</a>
+        <nav role="navigation" class="footer-nav"> <a href="{{basepath}}/index.html">Archives</a>
         </nav>
     </div>
 </body>
