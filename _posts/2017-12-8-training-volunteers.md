@@ -23,12 +23,12 @@ Aspects of training:
   ..3 hours
 
 3) Various cultural issues in Nepal (12)
-    a) How do people interact?
-    b) The pace of life
-    c) Norms and traditions
-    d) Things to not do
-    e) Women
-    f) the various cultural groups of nepal/cultural diversity
+      a) How do people interact?
+      b) The pace of life
+      c) Norms and traditions
+      d) Things to not do
+      e) Women
+      f) the various cultural groups of nepal/cultural diversity
 
 4) The history of foreign volunteers in Nepal (3)
 
