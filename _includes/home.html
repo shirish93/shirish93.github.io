@@ -1,44 +1,43 @@
 <div id="content">
-                <div>
-                    <article class="hentry" role="article">
-                        <div id="blog-archives">
-                            
-                            Hi, I'm Shirish Pokharel! Welcome to my website. Here's every post I've ever written. If you want somewhere to start, try <a href="/favorite">my favorites</a> (the ones with stars next to them, below). Enjoy!
-                            {{ page.url }}
-                            <br><br>
-                            I stole parts of this website from <a href="https://jvns.ca"> Julia Evans's website</a>. Instead of going to her Github, I just reverse engineered it. Hurray, unnecessary work!
-                            <br><br>
-                            In my free time, I like to read all sorts of books (recent favourites: "The Difficulty in Being Good: The Subtle Art of Dharma" and academic essays on the Harry Potter Universe.)
-                            I like reading 1000-yearold love poetry translated from Sanksrit.
-                          <br><br>
-                            Please check the 'about me' page to find out more about me.
-                            I do a little homebrewing during my free time. It's been mostly Kombucha, but there have been multiple batches of rice wine and 'Kraut more recently!
-               
-                          <br><br>
-                          I go by 'Shirish' which is pronounced She-Reash. My last name is pronounced Pokhared -- Poe-Kh-Rael. You can contact me at shirish dot pokharel at tufts dot edu.
-                          <br><br>
-                            <table>
-                                <ul id="tags">
-                                </ul>
-                                <ul id="tags">
-                                </ul>
-                               
-                                {% for post in site.posts %}
-                                <tr>
-                                        
-                                    <td style="width: 5.5em">
-                                        <time style="padding-right: 10px; color: #444; font-size: 14px;" datetime="" pubdate>{{ post.date | date_to_string }}</time>
-                                    </td>
-                                    <td style="padding-right: 0.25em; color: orange;">
-                                    </td>
-                                    <td>
-                                        {{ i }}
-                                        <span><a style="font-family: Montserrat, sans-serif; color: black;font-size: 14px;" href="{{ post.url }}">{{ post.title }}</a></span>
-                                    </td>
-                                </tr>
-                                {% endfor %}
-                            </table>
-                        </div>
-                    </article>
-                </div>
-            </div>
+  <div>
+    <article class="hentry" role="article">
+      <div id="blog-archives">
+        Hi, I'm Shirish Pokharel! Welcome to my website. Here's every post I've ever written. If you want somewhere to start, try <a href="/favorite">my favorites</a> (the ones with stars next to them, below). Enjoy!
+        {{ page.url }}
+        <br><br>
+        I go by 'Shirish' which is pronounced She-Reash. My last name is pronounced Pokhared -- Poe-Kh-Rael. You can contact me at shirish dot pokharel at tufts dot edu.
+        <br><br>
+        I 'stole' parts of this website from <a href="https://jvns.ca"> Julia Evans's website</a>. Instead of going to her Github, I just reverse engineered it. Hurray, unnecessary work!
+        <br><br>
+        In my free time, I like to read all sorts of books (recent favourites: "The Difficulty in Being Good: The Subtle Art of Dharma" and academic essays on the Harry Potter Universe.)
+        I like reading 1000-yearold love poetry translated from Sanksrit.
+        <br><br>
+        Please check the 'about me' page to find out more about me.
+        I do a little homebrewing during my free time. It's been mostly Kombucha, but there have been multiple batches of rice wine and 'Kraut more recently!
+        <br><br>
+        These are difficult times, let me know if I can help you in any way, my email id's on my 'about' page. As of May 2020 I'm working on agriculture-tech projects outside of work.
+        <br><br>
+        <table>
+          <ul id="tags">
+          </ul>
+          <ul id="tags">
+          </ul>
+          {% for post in site.posts %}
+          <tr>
+            <td style="width: 5.5em">
+              <time style="padding-right: 10px; color: #444; font-size: 14px;" datetime="" pubdate>{{ post.date | date_to_string }}</time>
+            </td>
+            <td style="padding-right: 0.25em; color: orange;">
+            </td>
+            <td>
+              {{ i }}
+              <span><a style="font-family: Montserrat, sans-serif; color: black;font-size: 14px;" href="{{ post.url }}">{{ post.title }}</a></span>
+            </td>
+          </tr>
+          {% endfor %}
+        </table>
+      </div>
+    </article>
+  </div>
+</div>
+
