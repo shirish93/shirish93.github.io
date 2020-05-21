@@ -16,25 +16,6 @@
         <br><br>
         These are difficult times, let me know if I can help you in any way, my email id's on top. As of May 2020 I'm working on agriculture-tech projects outside of work.
         <br><br>
-        <table>
-          <ul id="tags">
-          </ul>
-          <ul id="tags">
-          </ul>
-          {% for post in site.posts %}
-          <tr>
-            <td style="width: 5.5em">
-              <time style="padding-right: 10px; color: #444; font-size: 14px;" datetime="" pubdate>{{ post.date | date_to_string }}</time>
-            </td>
-            <td style="padding-right: 0.25em; color: orange;">
-            </td>
-            <td>
-              {{ i }}
-              <span><a style="font-family: Montserrat, sans-serif; color: black;font-size: 14px;" href="{{ post.url }}">{{ post.title }}</a></span>
-            </td>
-          </tr>
-          {% endfor %}
-        </table>
       </div>
     </article>
   </div>
