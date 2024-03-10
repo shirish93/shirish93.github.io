@@ -14,8 +14,8 @@ authors:
     name: Shirish
     display_name: Sirish
     email: contact@shirish.me
+    avatar: 'assets/images/face.png'
     web: https://shirish.me
-    twitter: https://twitter.com/wowthemesnet
     description: "This is where all my quirky comments will go."
   john:
     name: Shirish
@@ -23,7 +23,6 @@ authors:
     avatar: 'assets/images/gravatar.png'
     email: contact@shirish.me
     web: https://shirish.me
-    twitter: https://twitter.com/wowthemesnet
     description: "This is where all my quirky comments will go"
 
 # Plugins
