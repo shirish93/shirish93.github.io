@@ -8,6 +8,7 @@ beforetoc: "Don't entomb your applications, make them flexible, ready to make a 
 featured: true
 hidden: true
 ---
+Don't entomb your applications, make them flexible, ready to make a change here and there. That way, they won't need an overhaul from scratch when the time comes.
 
 **Introduction**
 
