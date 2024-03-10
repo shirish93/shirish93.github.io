@@ -23,7 +23,7 @@ Before Solaria, I was at a business automation startup in Downtown Boston.
 Before that, I was a Master's student at UMass-Amherst in the Computer Science Department. My field of specialization was Secure Distributed Systems, and security in Machine Learning models.
 
 </p>
-<p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="http://www.solarialabs.com/assets/images/bg-joinTeam.jpg"></p>
+<p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="https://www.solarialabs.com/assets/images/bg-joinTeam.jpg"></p>
 
 </div>
 
