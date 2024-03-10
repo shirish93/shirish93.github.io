@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title:  "This website is under construction LOREM IPSUM"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
