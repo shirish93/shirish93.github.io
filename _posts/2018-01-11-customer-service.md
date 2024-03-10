@@ -6,8 +6,6 @@ categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
 image: assets/images/11.jpg
 description: "Just testing the deployment of a new website, please don't mind the growing pains. Will be back with full content soon."
-featured: true
-hidden: true
 rating: 4.5
 ---
 Mathurā is at the center of the Kṛṣṇa story, but Kṛṣṇa is not in Mathurā.
