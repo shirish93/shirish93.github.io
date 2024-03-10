@@ -5,6 +5,8 @@ description: "Innovation engineer, Consultant, Mentor"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 include: ["_pages"]
+siteurl: shirish.me
+baseurl: ''
 permalink: /:title/
 
 # Authors
