@@ -33,7 +33,7 @@ Before that, I was a Master's student at UMass-Amherst in the Computer Science D
 <h5>About Me</h5>
 
 <p>Hi, I'm Shirish. I'm based in Seattle. I attended <a target="_blank" href="https://www.tufts.edu">Tufts University</a> and <a target="_blank" href="https://www.cics.umass.edu">Amherst-UMass</a>, and I'm a Senior Innovation Engineer at  <a target="_blank" href="https://www.solarialabs.com">Solaria Labs</a>. I have founded businesses that have floundered and failed, and some that succeeded, and organized <a target="_blank" href="https://www.ted.com/tedx/events/6545">outrageously successful events</a>.</p>
-<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="assets/images/lq1.jpg"></p>
+<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="assets/images/lq1.jpg" style="width: 35vw"></p>
 
 </div>
 </div>
