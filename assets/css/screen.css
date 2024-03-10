@@ -292,7 +292,9 @@ span.post-read-more a:hover {
 }
 
 .nav-item .current {
-    border-bottom: 4px solid #5e211d;
+    border-bottom: 2px solid #db1a0d;
+    border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
 }
 
 .mediumnavigation .search-icon {
