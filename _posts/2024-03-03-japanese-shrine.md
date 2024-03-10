@@ -5,7 +5,6 @@ author: john
 categories: [ engineering, software, rewrite ]
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ise_Daijingu_sengyo_no_zu_%E4%BC%8A%E5%8B%A2%E5%A4%AA%E7%A5%9E%E5%AE%AE%E9%81%B7%E5%BE%A1%E4%B9%8B%E5%9B%B3_%28Depiction_of_the_Relocation_of_the_Grand_Shrine_of_Ise%29_%28BM_2008%2C3037.21409%29.jpg"
 beforetoc: "Don't entomb your applications, make them flexible, ready to make a change here and there. That way, they won't need an overhaul from scratch when the time comes."
-toc: true
 featured: true
 hidden: true
 ---
@@ -116,6 +115,7 @@ There's a reason people don't like to budget in continuous development for a sof
 Building large, complicated pieces of software is like building a large building: a relatively long and complicated process that needs good planning, requires teams of experts with different levels of expertise to collaborate, and has the goal of achieving a specific initial vision. With churn in the composition of team, the original vision becomes less clearly defined, until somebody decides their new and improved(!) vision should replace the existing one. But buildings don't change significantly the longer they're built, nobody decides to start from scratch because actually the foundation-constructing technologies changed in the last two years. We should treat software the same way.
 
 **Beyond Agile vs. Waterfall**
+
 This comparison is not just the difference between Agile and waterfall methodologies of Software engineering either. A team can be perfectly Agile in creating a product, consider it 'complete', and fall into the rewrite trap as soon as a certain 'threshold' of team knowledge and original vision is lost. 
 
 The idea is to reject rewriting software replacement from scratch every X years, but to evolve it gradually like the ship of Theseus. Software development stacks and philosophies can change, generally accepted wisdom in the industry can turn around. Change can come from anywhere, from changing demographics to change in taste, of customers and of customers, and we must write our systems to integrate those changes without starting from scratch. Good planning involves strategizing ways to deal with such changes in advance.
@@ -125,3 +125,5 @@ The idea is to reject rewriting software replacement from scratch every X years,
 Don't entomb your applications, make them flexible, ready to make a change here and there. That way, they won't need an overhaul from scratch when the time comes.
 
 A related discussion can be found [here](https://highscalability.com/heres-a-1300-year-old-solution-to-resilience-rebuild-rebuild/). That is what originally inspired me to write this piece.
+
+__Image credit: Ukiyo-e depicting the Sengū ceremony (relocation of kami) when it was rebuilt in 1849. by Hiroshige, 1849, via [Wikipedia](https://en.wikipedia.org/wiki/Ise_Grand_Shrine)__
