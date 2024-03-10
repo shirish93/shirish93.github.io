@@ -3,10 +3,10 @@ jQuery(document).ready(function($){
 
   let current_url = document.location;
   document.querySelectorAll(".nav-link").forEach(function(e){
-     if(e.href == current_url){
-        e.classList += " current";
-     }
-  });
+    if(e.href == current_url.href.replace("www.", "")){
+            e.classList += " current";
+         }
+      }); 
 
     //fix for stupid ie object cover
     if (document.documentMode || /Edge/.test(navigator.userAgent)) {
