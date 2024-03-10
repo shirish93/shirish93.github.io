@@ -1,5 +1,13 @@
 jQuery(document).ready(function($){
 
+
+  let current_url = document.location;
+  document.querySelectorAll(".navbar .btn").forEach(function(e){
+     if(e.href == current_url){
+        e.classList += " current";
+     }
+  });
+
     //fix for stupid ie object cover
     if (document.documentMode || /Edge/.test(navigator.userAgent)) {
       jQuery('.featured-box-img-cover').each(function(){

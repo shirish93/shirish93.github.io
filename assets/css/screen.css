@@ -291,6 +291,10 @@ span.post-read-more a:hover {
     font-size: 0.9rem;
 }
 
+.nav-item .current {
+    border-bottom: 4px solid #5e211d;
+}
+
 .mediumnavigation .search-icon {
     margin-left: -40px;
     display: inline-block;
@@ -304,10 +308,6 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Righteous;
-}
-
-h5.sitetitle{
     font-family: Righteous;
 }
 
