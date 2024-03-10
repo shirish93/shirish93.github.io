@@ -3,7 +3,7 @@ layout: post
 title:  "This website is under construction LOREM IPSUM SPOILER"
 author: sal
 categories: [ Jekyll, tutorial ]
-image: assets/images/booch.jpg
+image: assets/images/boocha.jpg
 featured: true
 hidden: true
 ---
