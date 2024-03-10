@@ -2,7 +2,7 @@ jQuery(document).ready(function($){
 
 
   let current_url = document.location;
-  document.querySelectorAll(".nav-item").forEach(function(e){
+  document.querySelectorAll(".nav-link").forEach(function(e){
      if(e.href == current_url){
         e.classList += " current";
      }
