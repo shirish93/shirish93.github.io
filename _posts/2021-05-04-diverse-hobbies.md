@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-My journey with juggling multiple unrelated hobbies suggests that engineers with a diverse and varied set of interests can be essential assets to organizations hoping to foster innovation and creativity.
+My journey with juggling multiple unrelated hobbies suggests that engineers with a diverse interest are assets to foster innovation and creativity.
 
 **From mad-scientist to Problem-Solver**
 
