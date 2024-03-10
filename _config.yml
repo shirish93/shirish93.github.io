@@ -3,7 +3,7 @@ name: "Shirish Pokharel"
 title: "Shirish Pokharel"
 description: "Innovation engineer, Consultant, Mentor"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/logo.png'
 include: ["_pages"]
 baseurl: 'https://shirish.me'
 permalink: /:title/
