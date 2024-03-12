@@ -4,8 +4,6 @@ title:  "A tale in the treacherous task of a Kubernetes upgrade"
 author: sal
 categories: [ engineering, software, cloudformation, infrastructure, kubernetes ]
 image: "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0upfXtjqscQ5NQfN.png"
-featured: false
-hidden: false
 ---
 
 A tale of unmitigated blast radius, in this essay I discuss how I broke one of our developer environments and our recovery attempts.
