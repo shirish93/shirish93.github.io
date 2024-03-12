@@ -9,8 +9,6 @@ hidden: true
 ---
 To help engineering leaders understand themselves, and evaluate the best way to leverage their skillset, here's a novel lens to seeing yourself
 
-## The Multidimensional Landscape of Engineering Leadership
-
 ### Introduction
 
 Leadership in engineering is a delicate balance, demanding both technical proficiency and inspiring vision. While taking Technical Leadership course offered University of Washington-Seattle's Engineering Leadership program, I realized the frameworks offered didn't quite satisfy how I envisioned myself as a leader, or what I expected from engineering leaders in my organizations. Over the last year or so, I have developed a novel way of understanding the skills and roles of such leaders.
