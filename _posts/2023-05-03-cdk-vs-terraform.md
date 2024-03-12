@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Infrastructure Management: From Chaos to Cloudformation to Confusion"
+title:  "Infrastructure management: from chaos to Cloudformation CDK to confusion"
 author: sal
 categories: [ engineering, software, cloudformation, terraform ]
 image: "assets/images/cfn.jpg"
