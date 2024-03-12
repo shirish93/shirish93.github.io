@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Understanding what kind of leader you are: a new lens of seeing Engineering leadership"
+title:  "Understanding what kind of leader you are: a new lens to look at Engineering leadership"
 author: sal
 categories: [ engineering, leadership, styles ]
 image: "assets/images/leadership-styles.jpg"
 featured: true
 hidden: true
 ---
-To help engineering leaders understand themselves, and evaluate the best way to leverage their skillset, here's a novel lens to seeing yourself
+Here's a novel way to help engineering leaders understand themselves, and evaluate the best way to leverage their skillsets.
 
 ### Introduction
 
