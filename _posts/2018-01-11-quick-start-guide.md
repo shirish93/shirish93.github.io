@@ -4,8 +4,7 @@ title:  "This website is under construction LOREM IPSUM SPOILER"
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/boocha.jpg
-featured: true
-hidden: true
+hidden: false
 ---
 
 At this point I'm successfully testing uploading my own stock images.
