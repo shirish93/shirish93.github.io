@@ -21,7 +21,9 @@ As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy worki
 Before Solaria, I was at a business automation startup in Downtown Boston.
 <p></p>
 Before that, I was a Master's student at UMass-Amherst in the Computer Science Department. My field of specialization was Secure Distributed Systems, and security in Machine Learning models.
-
+</p>
+<p>
+I've done bad standup comedy and am quite bad at the Driving Range, but I keep trying, much like the spider in the King Robert Bruce tale.
 </p>
 <p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="https://www.solarialabs.com/assets/images/bg-joinTeam.jpg"></p>
 
