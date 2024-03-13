@@ -35,8 +35,17 @@ I've done bad standup comedy and am quite bad at the Driving Range, but I keep t
 <h5>About Me</h5>
 
 <p> I'm currently working as a Senior Innovation Engineer at  <a target="_blank" href="https://www.solarialabs.com">Solaria Labs</a>. I'm based in Seattle and believe the Pacific Northwest is heaven on Earth. I went to <a target="_blank" href="https://www.tufts.edu">Tufts University</a> and <a target="_blank" href="https://www.cics.umass.edu">Amherst UMass</a> for college and grad school. A few of the small businesses I have founded have succeeded, and others have floundered and failed. I was an organizer of <a target="_blank" href="https://www.ted.com/tedx/events/6545">TEDx events</a> two years in a row.</p>
-<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="assets/images/lq1.jpg" style="width: 10vw"></p>
-
+<div class="container">
+<div class="row">
+<div class="col">
+</div>
+<div class="col">
+<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="assets/images/lq1.jpg" ></p>
+</div>
+<div class="col">
+</div>
+</div>
+</div>
 </div>
 </div>
 </div>
