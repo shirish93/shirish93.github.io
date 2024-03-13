@@ -40,3 +40,5 @@ We have not committed to our move away from the CDK world, but the murmurs of di
 ### Lessons Learned: Beyond the Toolset
 
 Beyond the specifics of CDK and Terraform, this experience has highlighted the importance of exercising caution when relying solely on vendor-specific tools for critical infrastructure management. While free tools from large vendors can be tempting, the lack of robust financial commitment and service-level agreements (SLAs) introduces a degree of uncertainty regarding their long-term support and viability. There is quite a bit of value in prioritizing technological merit and established community support over convenience factors when choosing tools for managing essential infrastructure.
+
+__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
