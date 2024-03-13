@@ -4,8 +4,6 @@ title:  "Watching Age of Empires IV made me a better software engineer. Here's h
 author: sal
 categories: [ engineering, software, aoe4, infrastructure, esports ]
 image: "assets/images/aoe4.webp"
-featured: true
-hidden: true
 ---
 Surprising lessons on how watching Age of Empires IV videogame online teaches important lessons applicable for software engineers.
 

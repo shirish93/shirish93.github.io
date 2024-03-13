@@ -4,8 +4,6 @@ title:  "Infrastructure management: from chaos to Cloudformation CDK to confusio
 author: sal
 categories: [ engineering, software, cloudformation, terraform ]
 image: "assets/images/cfn.jpg"
-featured: true
-hidden: true
 ---
 Our team decided to use Amazon's infrastructure-management tooling versus other available tooling a while back. We are now reconsidering the decision.
 

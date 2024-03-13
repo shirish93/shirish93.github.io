@@ -4,8 +4,6 @@ title:  "Diverse hobbies for igniting engineering innovation"
 author: sal
 categories: [ engineering, software, hobbies ]
 image: "assets/images/boocha.jpg"
-featured: true
-hidden: true
 ---
 
 My journey with juggling multiple unrelated hobbies suggests that engineers with a diverse interest are assets to foster innovation and creativity.
