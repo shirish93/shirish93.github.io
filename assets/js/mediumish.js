@@ -8,7 +8,9 @@ jQuery(document).ready(function($){
          }
       });
   
-      $("#homepage-image")[0].src = `assets/images/profile/${Math.floor(Math.random() * 5) + 1}.jpg`;
+      if (current_url.href.endsWith(".me/") || current_url.href.endsWith("/about") ){
+        $("#homepage-image")[0].src = `assets/images/profile/${Math.floor(Math.random() * 5) + 1}.jpg`;
+      }
 
     //fix for stupid ie object cover
     if (document.documentMode || /Edge/.test(navigator.userAgent)) {
