@@ -18,13 +18,19 @@ I go by 'Shirish' which is pronounced Si-Reash. My last name is pronounced Pokha
 <p>
 As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.
 </p><p>
-Before Solaria, I was at a business automation startup in Downtown Boston.
-<p></p>
-Before that, I was a Master's student at UMass-Amherst in the Computer Science Department. My field of specialization was Secure Distributed Systems, and security in Machine Learning models.
+'ve done bad standup comedy and am quite bad at the Driving Range, but I keep trying, much like the spider in the King Robert Bruce tale.
 </p>
 <p>
-I've done bad standup comedy and am quite bad at the Driving Range, but I keep trying, much like the spider in the King Robert Bruce tale.
-</p>
+I am an amateur novelist, and have been known to work concurrently on several novels. I have ~60,000 in my longest draft. It's pretty bad.
+</p><p>
+I like fermenting things. I have made hundreds of batches of kombucha, kefir, and so on, the list of my ferments is too long to list. Go to [this will be a working link in the future](shirish.me) to read more on the brews I have worked on. GO to [this will be a working link in the future](shirish.me) if you want to get a sense of what I'll be working on next.
+</p><p>
+I am an amateur food scientist, and have done non-fermenting food preservation projects too. I have dehydrated enough fruits and vegetables, and powdered them to feed a small, highly mobile army with boring food habits. Turning fruits and vegetables into edible chips is fun, though not as healthy as one might hope, it turns out... I also have a tiny hydroponics system in my apartment to grow off-season veggies and give a boost to my houseplants, and I grow mushrooms indoors on a semi-regular basis. I'm a due-paying, card-carrying member of [Puget Sound Mycological Society](https://www.psms.org/) and [Puget Sound Beekeeper's Association](https://pugetsoundbees.org/). 
+</p><p>
+I enjoy doing research on hindu myths and traditions, and the historical arts, sciences and technology in the South Asian subcontinent.
+</p><p>
+I like to bike, and my trusty cheapo folding bike was my dear friend between 2015-2020. It got me out of several tricky situations, like walk besides the state highway in NH to commute to work. I have unfortunately not been able to bike recently after moving to Seattle. I live on the top of a steep hill, with four floors to climb to get in my apartment...
+
 <p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="https://www.solarialabs.com/assets/images/bg-joinTeam.jpg"></p>
 
 </div>
