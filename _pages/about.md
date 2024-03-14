@@ -17,7 +17,7 @@ comments: true
 <p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="https://www.solarialabs.com/assets/images/bg-joinTeam.jpg"></p>
 
 <p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p>
-
+<ul>
 <li>My stand-up comedy skills are just as good as my skills at the driving range. Absolutely terrible. Yet I enjoy both activities.</li>
 <li>I am an amateur novelist, and I write multiple novels at the same time. My longest draft is a whopping 60,000 words (and yes, it needs work!)</li>
 <li>I'm a fermentation enthusiast! I've brewed countless batches of kombucha, kefir, and more - I've lost count! Check out shirish.me: shirish.me to see what I've been up to and what's next.</li>
