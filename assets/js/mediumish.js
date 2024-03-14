@@ -2,11 +2,17 @@ jQuery(document).ready(function($){
 
 
   let current_url = document.location;
-  document.querySelectorAll(".nav-link").forEach(function(e){
+    document.querySelectorAll(".nav-link").forEach(function(e){
     if(e.href == current_url.href.replace("www.", "")){
             e.classList += " current";
          }
-      }); 
+      });
+  
+    document.querySelectorAll("#hompage-image").forEach(function(e){
+      let number = Math.floor(Math.random() * 5) + 1;
+      let image = `assets/images/profile/${number}.jpg`;
+      e.src=image;
+    });
 
     //fix for stupid ie object cover
     if (document.documentMode || /Edge/.test(navigator.userAgent)) {
