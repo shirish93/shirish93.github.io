@@ -14,23 +14,18 @@ comments: true
 
 <p>As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
 
-<p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p>
-
-<p>I've done some pretty terrible standup comedy performances and am quite bad at the Driving Range, but I keep trying, much like the spider in the King Robert Bruce tale.</p>
-
-<p>I am an amateur novelist, and have been known to work concurrently on several novels. I have ~60,000 in my longest draft. It's pretty bad.</p>
-
 <p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="https://www.solarialabs.com/assets/images/bg-joinTeam.jpg"></p>
 
-<p>I like fermenting things. I have made hundreds of batches of kombucha, kefir, and so on, the list of my ferments is too long to list. Go to <a href="shirish.me">this will be a working link in the future</a> to read more on the brews I have worked on. GO to <a href="shirish.me">this will be a working link in the future</a> if you want to get a sense of what I'll be working on next</p>
+<p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p>
 
-<p>I am an amateur food scientist, and have done non-fermenting food preservation projects too. I have dehydrated enough fruits and vegetables, and powdered them to feed a small, highly mobile army with boring food habits. Turning fruits and vegetables into edible chips is fun, though not as healthy as one might hope, it turns out... I also have a tiny hydroponics system in my apartment to grow off-season veggies and give a boost to my houseplants, and I grow mushrooms indoors on a semi-regular basis. I'm a due-paying, card-carrying member of <a href="https://www.psms.org/">Puget Sound Mycological Society</a> and <a href="https://pugetsoundbees.org/">Puget Sound Beekeeper's Association</a>.</p>
-
-<p>I enjoy doing research on hindu myths and traditions, and the historical arts, sciences and technology in the South Asian subcontinent.</p>
-
-<p>I like to bike, and my trusty cheapo folding bike was my dear friend between 2015-2020. It got me out of several tricky situations, like walk besides the state highway in NH to commute to work. I have unfortunately not been able to bike recently after moving to Seattle. I live on the top of a steep hill, with four floors to climb to get in my apartment...</p>
-
-
+<li>My stand-up comedy skills are just as good as my skills at the driving range. Absolutely terrible. Yet I enjoy both activities.</li>
+<li>I am an amateur novelist, and I write multiple novels at the same time. My longest draft is a whopping 60,000 words (and yes, it needs work!)</li>
+<li>I'm a fermentation enthusiast! I've brewed countless batches of kombucha, kefir, and more - I've lost count! Check out shirish.me: shirish.me to see what I've been up to and what's next.</li>
+<li>I'm an amateur food scientist who dabbles in non-fermentation food preservation as well. I've dehydrated and powdered enough fruits and veggies to feed a small army (though maybe not a very healthy one!).</li>
+<li>I grow things! I have a hydroponics system for off-season veggies and houseplants, and I'm a proud indoor mushroom cultivator. I'm also a member of the Puget Sound Mycological Society (https://www.psms.org/) and the Puget Sound Beekeeper's Association (https://pugetsoundbees.org/).</li>
+<li>I'm a history buff! I love researching Hindu myths, culinary traditions, and the historical arts, sciences, and technology of South Asia.</li>
+<li>(Though currently on hold) I'm a biking enthusiast! My trusty folding bike was my partner-in-crime from 2015-2020, saving me from sticky situations (like walking next to a highway to commute!). Unfortunately, my current Seattle residence with its steep hill and four-flight climb isn't the most bike-friendly...</li>
+</ul>
 </div>
 
 <div class="col-md-4">
