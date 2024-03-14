@@ -4,6 +4,7 @@ title:  "Book Review: Learning to Learn and the Navigation of Moods by Gloria P.
 author: sal
 categories: [ engineering, leadership, learning, skill, book-review ]
 image: "assets/images/learn.jpg"
+rating: 4
 ---
 
 In her book *Learning to Learn* psychologist and researcher Gloria Flores argues that the key to a mindset open, receptive to learning is to manage one's 'moods'. She argues that only by modifying the less-productive (for learning) moods towards more productive ones, does learning get easier.

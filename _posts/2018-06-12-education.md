@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "IGNORE! Template post about markdown. Slated to be deleted."
 author: john
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
