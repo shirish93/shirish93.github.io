@@ -1,9 +1,10 @@
 ---
 title: "Idea for training volunteer in Kathmandu"
 categories: ["ideas"]
-layout: blog-layout
+layout: post
 ---
 
+## This is an old post from a now-deprecated website. I'm keeping it around only for historical preservation reasons. Not much of it is relevant to the website you're currently reading on. Also, this was a terribly-planned and executed post in general, I should have started writing earlier.
 
 Airy is a 45-hour long training spread over three weeks (3 hours a day, five hours a week), aimed to acclimatize foreign volunteers 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Powerful things you can do with the Markdown editor"
+title:  title:  "IGNORE! Template post about markdown. Slated to be deleted."
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
