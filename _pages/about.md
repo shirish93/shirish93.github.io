@@ -14,6 +14,8 @@ comments: true
 
 <p>As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
 
+<p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p>
+
 <p>I've done some pretty terrible standup comedy performances and am quite bad at the Driving Range, but I keep trying, much like the spider in the King Robert Bruce tale.</p>
 
 <p>I am an amateur novelist, and have been known to work concurrently on several novels. I have ~60,000 in my longest draft. It's pretty bad.</p>
