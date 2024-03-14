@@ -38,7 +38,7 @@ comments: true
 <div class="container">
 <div class="row justify-content-md-center">
 <div class="w-90 p-3">
-<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="assets/images/lq1.jpg" id="homepage-image"></p>
+<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="assets/images/profile/small.png" id="homepage-image"></p>
 </div>
 </div>
 </div>
