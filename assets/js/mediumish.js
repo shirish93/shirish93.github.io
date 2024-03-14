@@ -8,11 +8,7 @@ jQuery(document).ready(function($){
          }
       });
   
-    document.querySelectorAll("#hompage-image").forEach(function(e){
-      let number = Math.floor(Math.random() * 5) + 1;
-      let image = `assets/images/profile/${number}.jpg`;
-      e.src=image;
-    });
+      $("#homepage-image")[0].src = `assets/images/profile/${Math.floor(Math.random() * 5) + 1}.jpg`;
 
     //fix for stupid ie object cover
     if (document.documentMode || /Edge/.test(navigator.userAgent)) {
