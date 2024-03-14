@@ -16,7 +16,7 @@ comments: true
 
 <a href="assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="assets/images/team-small.jpg"></p></a>
 
-<p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p>
+<p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p> If you think this stuff is all rather silly, I disagree! Read <a href="https://www.shirish.me/diverse-hobbies/">this post</a> I wrote for a retort.
 <ul>
 <li>My stand-up comedy skills are just as good as my skills at the driving range. Absolutely terrible. Yet I enjoy both activities.</li>
 <li>I am an amateur novelist, and I write multiple novels at the same time. My longest draft is a whopping 60,000 words (and yes, it needs work!)</li>
