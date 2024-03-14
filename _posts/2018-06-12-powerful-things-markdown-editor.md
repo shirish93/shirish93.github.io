@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  title:  "IGNORE! Template post about markdown. Slated to be deleted."
+title: "IGNORE! Template post about markdown. Slated to be deleted."
 author: sal
 categories: [ Jekyll, tutorial ]
 image: assets/images/16.jpg
