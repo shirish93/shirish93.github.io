@@ -8,7 +8,7 @@ jQuery(document).ready(function($){
          }
       });
   
-      if (current_url.href.endsWith(".me/") || current_url.href.endsWith("/about") ){
+      if (current_url.href.endsWith("/about") ){
         $("#homepage-image")[0].src = `assets/images/profile/${Math.floor(Math.random() * 5) + 1}.jpg`;
       }
 
