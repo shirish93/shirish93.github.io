@@ -14,11 +14,12 @@
     $("#lunrsearch").on('click', loadLunr)
     function loadLunr(){    
         if (lunrLoaded && lunrSearchLoaded) return;
-        $.getScript("{{site.baseurl}}/assets/js/lunrsearchengine.js", function(){
-            lunrSearchLoaded = true;
-        });
         $.getScript("{{site.baseurl}}/assets/js/lunr.js", function(){
             lunrLoaded = true;
+            $.getScript("{{site.baseurl}}/assets/js/lunrsearchengine.js", function(){
+                lunrSearchLoaded = true;
+                console.log("Lunr loaded")
+            });
         });
     }
     function loadAndSearchLunr(elem){
