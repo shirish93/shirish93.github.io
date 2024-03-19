@@ -8,30 +8,10 @@
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
 
-<script>
-    //$.getScript("{{site.baseurl}}/assets/js/lunr.js")
-    //$.getScript("{{site.baseurl}}/assets/js/lunrsearchengine.js")
-    let lunrLoaded = false;
-    let lunrSearchLoaded = false;
-    function loadLunr(){    
-       if (lunrLoaded && lunrSearchLoaded) return;
-       $.getScript("{{site.baseurl}}/assets/js/lunr.js", function(){
-            lunrLoaded = true;
-            $.getScript("{{site.baseurl}}/assets/js/lunrsearchengine.js", function(){
-                lunrSearchLoaded = true;
-                console.log("Lunr loaded")
-
-            });
-        });
-    }
-    $("#lunrsearch").on('click', loadLunr)
-    function loadAndSearchLunr(elem){
-        loadLunr(elem);
-        return lunr_search(elem);
-    }
-</script>
-<form class="bd-search" onSubmit="return loadAndSearchLunr(document.getElementById('lunrsearch').value);">
-    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" onclick="loadLunr" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+<script src="{{site.baseurl}}/assets/js/lunr.js" type="module"></script>
+<script src="{{site.baseurl}}/assets/js/lunrsearchengine.js" type="module"></script>
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
 </form>
 
 <div id="lunrsearchresults">
