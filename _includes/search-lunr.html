@@ -11,19 +11,20 @@
 <script>
     let lunrLoaded = false;
     let lunrSearchLoaded = false;
-    $("#lunrsearch").on('click', loadLunr)
     function loadLunr(){    
-        if (lunrLoaded && lunrSearchLoaded) return;
-        $.getScript("{{site.baseurl}}/assets/js/lunr.js", function(){
+       if (lunrLoaded && lunrSearchLoaded) return;
+       $.getScript("{{site.baseurl}}/assets/js/lunr.js", function(){
             lunrLoaded = true;
             $.getScript("{{site.baseurl}}/assets/js/lunrsearchengine.js", function(){
                 lunrSearchLoaded = true;
                 console.log("Lunr loaded")
+
             });
         });
     }
+    $("#lunrsearch").on('click', loadLunr)
     function loadAndSearchLunr(elem){
-        loadLunr();
+        loadLunr(elem);
         return lunr_search(elem);
     }
 </script>
