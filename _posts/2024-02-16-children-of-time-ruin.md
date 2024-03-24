@@ -20,7 +20,7 @@ In Children of Time, humanity ventures to terraform distant planets, inadvertent
 
 The sequel, Children of Ruin, takes place millennia after the events of the first book. The spider civilization is thriving, and has engineered a collaborative co-operational existence -- some might say subjugative -- relationship with the humans. All the sentient creatures have evolved into a diverse multi-species spacefaring society with access to fragmented memories of their past encounter with each other. A cryptic radio signal draws a Portiid vessel to a new star system, where they encounter not the expected humans, but a strange civilization descended from octopuses[^1], genetically modified by long-lost humans on another terraforming project. As alliances form and mysteries unfold, a dark threat emerges, manipulating minds and technology across the galaxy. The Portiids, humans, and the octopus civilization must find a way to overcome their differences and unite against this unseen enemy, while grappling with questions of identity, legacy, and the true meaning of sentience.
 
-[^1:] Octopi? Octopods? All appear to be _technically_ correct.
+[^1]: Octopi? Octopods? All appear to be _technically_ correct.
 
 ## From Alien Minds to Algorithmic Ethics
 
