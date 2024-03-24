@@ -6,6 +6,7 @@ logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
 include: ["_pages"]
 baseurl: ''
+url: "https://shirish.me"
 permalink: /:title
 
 # Authors
