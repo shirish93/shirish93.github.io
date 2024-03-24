@@ -60,7 +60,7 @@ Individual resistance: Managers who benefit from the existing power dynamics mig
 Despite the inertia, demonstrating the alignment of interests between individuals, teams, and the organization can be a powerful motivator for change:
 
 1. Individual growth and fulfillment: Consistent utilization offers top performers greater challenges, learning opportunities, and career advancement, improving their satisfaction and retention.
-2. Teamwork and collaboration: Sharing knowledge and expertise across levels builds stronger teams, fostering a culture of learning and innovation.
+2. Teamwork and collaboration: Sharing knowledge and expertise across levels builds stronger teams, growing a culture of learning and innovation.
 3. Organizational success: By maximizing the potential of their talent, organizations achieve faster development cycles, improved product quality, and a competitive edge.
 
 ### Strategies for Overcoming Inertia:

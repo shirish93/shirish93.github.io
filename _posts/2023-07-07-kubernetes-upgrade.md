@@ -67,7 +67,7 @@ Faced with this cascade of interconnected errors, our team swiftly mobilized to 
 
 * **Enhanced Communication and Future-Proofing Measures:** Recognizing the potential for human error and miscommunication, we implemented stricter collaboration practices, emphasizing the importance of clear communication and documenting key decisions. Furthermore, we established a ticketing system to track and address potential issues identified during the upgrade process. To mitigate future dependencies on external vendors, we initiated a project to migrate container image downloads entirely to our internal proxy, eliminating reliance on external services with potentially less stringent security controls.
 
-The journey highlighs the intricate nature of infrastructure management, emphasizing the importance of meticulous planning, comprehensive testing, and adaptability in the face of unforeseen circumstances. While the process presented its fair share of challenges, the valuable lessons learned and the enhanced infrastructure security posture instilled a sense of accomplishment and fortified our team's resolve to navigate future
+The journey highlighs the complex nature of infrastructure management, emphasizing the importance of meticulous planning, comprehensive testing, and adaptability in the face of unforeseen circumstances. While the process presented its fair share of challenges, the valuable lessons learned and the enhanced infrastructure security posture instilled a sense of accomplishment and fortified our team's resolve to navigate future
 
 
 __Open source image above from [kubernetes.io](https://kubernetes.io/).__
