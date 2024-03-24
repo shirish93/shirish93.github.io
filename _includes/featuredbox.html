@@ -30,6 +30,14 @@
                             </h2>
 
                             <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:35 }}</h4>
+                            <h6>
+                                {% capture words %}
+                                {{ post.content | number_of_words | minus: 180 }}
+                                {% endcapture %}
+                                {% unless words contains '-' %}
+                                {{ words | plus: 150 | divided_by: 150 | prepend: 'Reading time: ' | append: " minutes" }}
+                                {% endunless %}
+                            </h6>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
