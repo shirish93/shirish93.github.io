@@ -13,7 +13,7 @@ Here's a novel way to help engineering leaders understand themselves, and evalua
 
 Leadership in engineering is a delicate balance, demanding both technical proficiency and inspiring vision. While taking Technical Leadership course offered University of Washington-Seattle's Engineering Leadership program, I realized the frameworks offered didn't quite satisfy how I envisioned myself as a leader, or what I expected from engineering leaders in my organizations. Over the last year or so, I have developed a novel way of understanding the skills and roles of such leaders.
 
-Traditional leadership theories, while valuable, often fall short when capturing the intricate demands of the engineering field. In this essay I introduce a novel perspective: a multidimensional framework that illuminates the multifaceted nature of engineering leadership. It empowers both leaders and followers to navigate this complex terrain with greater understanding and effectiveness.
+Traditional leadership theories, while valuable, often fall short when capturing the demands of the engineering field. In this essay I introduce a novel perspective: a multidimensional framework that illuminates the multifaceted nature of engineering leadership. It empowers both leaders and followers to navigate this complex terrain with greater understanding and effectiveness.
 
 ### The Multidimensional Framework
 
@@ -24,7 +24,7 @@ This framework transcends singular leadership styles, instead recognizing the in
 3. **Personal:** The guidance, mentorship, and interpersonal skills fostering individual growth.
 4. **Inspirational/Celebrity:** The impact on a broader community through exceptional work and influence.
 
-By exploring these dimensions, leaders can identify their unique strengths and areas for development, fostering self-awareness and growth. For followers, the framework unlocks a deeper understanding of the diverse leadership styles they encounter, enabling them to identify the leaders who resonate most with their individual needs and aspirations.
+By exploring these dimensions, leaders can identify their unique strengths and areas for development, working on self-awareness and growth. For followers, the framework unlocks a deeper understanding of the diverse leadership styles they encounter, enabling them to identify the leaders who resonate most with their individual needs and aspirations.
 
 What is important to understand is that a leader can excel at any one of these skills, and make for an excellent example for their charges, while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. Regardless, my proposed framework provides an opportunity for flexibility in interpretating what a good engineering leader can be which most existing framework don't completely clarify.
 
@@ -36,7 +36,7 @@ Throughout this essay, we delve deeper into each dimension, exploring key attrib
 
 #### Spiritual Leadership
 
-* **Key Attributes:** Vision setting, purpose definition, ethical leadership, fostering team culture.
+* **Key Attributes:** Vision setting, purpose definition, ethical leadership, creating a strong team culture.
 * **Strengths:** Motivates and inspires teams, creates a sense of community, drives innovation through shared values.
 * **Weaknesses:** Can be overly idealistic, may neglect pragmatic details, potential for manipulation.
 * **Example:** Yvon Chouinard, founder of Patagonia, known for his commitment to protecting the environment and sustainability, before it became trendy. He aligned his company's mission towards his vision despite it being at odds with profitability.
@@ -66,7 +66,7 @@ Leaders with this style foster your personal growth, watch out for your potentia
 * **Key Attributes:** Charisma, public influence, motivating large audiences, building brand recognition.
 * **Strengths:** Drives external interest and investment, attracts top talent, inspires broader social impact.
 * **Weaknesses:** Can be susceptible to ego and fame, may neglect internal team needs, focus more on external perception than internal reality.
-* **Example:** Steve Jobs (inspiring a generation with innovative products and captivating presentations)
+* **Example:** Steve Jobs (inspiring a generation with inspired products and captivating presentations)
 
 This kind of leadership is not necessarily related to one's field, but can be. This sort of leader has such charm, charisma, and drive that onlookers can't but help be inspired and driven. These leaders are great at being celebrities too, and use their influence in all the right ways. They might not know you personally, but they will have changed millions of lives for the better through charisma and ability. While Steve Jobs is an obvious example, I want to give another example of Julia Evans [who](jvns.ca) maintains an excellent tech blog, give public presentations, and inspired me to start working on this website.
 

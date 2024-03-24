@@ -10,7 +10,7 @@ rating: 4
 In her book *Learning to Learn* psychologist and researcher Gloria Flores argues that the key to a mindset open, receptive to learning is to manage one's 'moods'. She argues that only by modifying the less-productive (for learning) moods towards more productive ones, does learning get easier.
 
 **Introduction**
-Learning is not just something that's done in school anymore. We have to keep learning to keep in pace with the changing world: learn how to use a new app, learn to search on the web, learn a new job skill, learn to use generative ai, and so forth. Mastering new skills can be emotionally challenging, making the process of learning a hard one. Gloria P. Flores, a corporate trainer and psychologist, proposes a groundbreaking approach in her book, *"Learning to Learn and the Navigation of Moods"*. 
+Learning is not just something that's done in school anymore. We have to keep learning to keep in pace with the changing world: learn how to use a new app, learn to search on the web, learn a new job skill, learn to use generative ai, and so forth. Mastering new skills can be emotionally challenging, making the process of learning a hard one. Gloria P. Flores, a corporate trainer and psychologist, proposes a curious approach in her book, *"Learning to Learn and the Navigation of Moods"*. 
 
 Flores argues that "learning to learn" is a distinct skill, and the key lies in understanding and managing the emotional shifts that accompany learning.  She identifies common emotional pitfalls, from beginner confusion to expert arrogance, and offers strategies to navigate them.  This book targets a wide audience, from students to professionals seeking to refine their skills.
 

@@ -8,18 +8,14 @@
     .lunrsearchresult a:hover .title {text-decoration: underline;}
 </style>
 
-<!--script src="{{site.baseurl}}/assets/js/lunr.js"></script>
-<script src="{{site.baseurl}}/assets/js/lunrsearchengine.js"></script-->
 <script>
-    //$.getScript("{{site.baseurl}}/assets/js/lunr.js")
-    //$.getScript("{{site.baseurl}}/assets/js/lunrsearchengine.js")
     let lunrLoaded = false;
     let lunrSearchLoaded = false;
     function loadLunr(){    
        if (lunrLoaded && lunrSearchLoaded) return;
-       $.getScript("{{site.baseurl}}/assets/js/lunr.js", function(){
+       $.getScript("{{site.url}}/assets/js/lunr.js", function(){
             lunrLoaded = true;
-            $.getScript("{{site.baseurl}}/assets/js/lunrsearchengine.js", function(){
+            $.getScript("{{site.url}}/assets/js/lunrsearchengine.js", function(){
                 lunrSearchLoaded = true;
                 console.log("Lunr loaded")
 
