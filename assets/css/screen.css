@@ -55,6 +55,13 @@ pre {
     transition: all 0.4s;
 }
 
+.footnotes::before {
+    display: block;
+    content: "Footnotes:";
+    font-weight: bold;
+    font-size: 150%
+}
+
 section {
     margin-bottom: 20px;
 }
