@@ -11,6 +11,60 @@
 <script>
     let lunrLoaded = false;
     let lunrSearchLoaded = false;
+    let pregen_idx = {};
+    function expand(compact) {
+        const fields = compact["fields"];
+        const fieldVectors = compact["fieldVectors"].map((item) => {
+            const id = item[0];
+            const vectors = item[1];
+            let prev = null;
+            const expanded = vectors.map((v, ii) => {
+                if (ii % 2 === 0) {
+                    if (v === null) {
+                        v = prev + 1;
+                    }
+                    prev = v;
+                }
+                return v;
+            });
+            return [id, expanded];
+        });
+        const invertedIndex = compact["invertedIndex"].map((item, itemIdx) => {
+            const token = item[0];
+            const fieldMap = {"_index": itemIdx};
+            fields.forEach((field, fieldIdx) => {
+                const matches = {};
+                let docRef = null;
+                item[fieldIdx + 1].forEach((v, ii) => {
+                    if (ii % 2 === 0) {
+                        docRef = fieldVectors[v][0].slice(`${field}/`.length);
+                    } else {
+                        matches[docRef] = v;
+                    }
+                });
+                fieldMap[field] = matches;
+            })
+            return [token, fieldMap];
+        });
+        invertedIndex.sort((a, b) => {
+            if (a[0] < b[0]) {
+                return -1;
+            }
+            if (a[0] > b[0]) {
+                return 1;
+            }
+            return 0;
+        });
+        return {
+            "version": compact["version"],
+            "fields": fields,
+            "fieldVectors": fieldVectors,
+            "invertedIndex": invertedIndex,
+            "pipeline": compact["pipeline"],
+        }
+    };
+
+    function expand_mini(e){const n=e.fields,l=e.fieldVectors.map((e=>{const n=e[0],l=e[1];let t=null;return[n,l.map(((e,n)=>(n%2==0&&(null===e&&(e=t+1),t=e),e)))]})),t=e.invertedIndex.map(((e,t)=>{const i=e[0],r={_index:t};return n.forEach(((n,t)=>{const i={};let o=null;e[t+1].forEach(((e,t)=>{t%2==0?o=l[e][0].slice(`${n}/`.length):i[o]=e})),r[n]=i})),[i,r]}));return t.sort(((e,n)=>e[0]<n[0]?-1:e[0]>n[0]?1:0)),{version:e.version,fields:n,fieldVectors:l,invertedIndex:t,pipeline:e.pipeline}}
     function loadLunr(){    
        if (lunrLoaded && lunrSearchLoaded) return;
        $.getScript("{{site.url}}/assets/js/lunr.js", function(){
@@ -20,6 +74,10 @@
                 console.log("Lunr loaded")
 
             });
+            $.getJSON( "assets/js/idx.json", function(compacted) {
+                serializedIndex = expand(compacted);
+                pregen_idx = lunr.Index.load(serializedIndex)
+            })
         });
     }
     $(".navbar-nav").on("click", loadLunr)

@@ -37,10 +37,6 @@ for i, post in enumerate(posts):
 idx = lunr(ref='id', fields=['title', 'body', 'url'], documents=docs)
 serialized_idx = idx.serialize()
 
-#with open('idx.json', 'w') as fd:
-#   json.dump(serialized_idx,
-#fd)
-
 def compact_inv_index(index):
     fields = index["fields"]
     field_vector_idxs = {v[0]: idx for idx, v in enumerate(index["fieldVectors"])}
@@ -93,6 +89,8 @@ serialized_idx['invertedIndex'] = json.loads(json.dumps(compact_inv_index(serial
 serialized_idx['fieldVectors'] = fieldVectors
 print (len(json.dumps(serialized_idx)))
 
+with open('assets/js/idx.json', 'w') as fd:
+   json.dump(serialized_idx,fd)
 # TODO: Write down the index to file here!
 '''
    
