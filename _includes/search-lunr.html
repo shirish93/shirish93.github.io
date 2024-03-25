@@ -74,10 +74,10 @@
                 console.log("Lunr loaded")
 
             });
-            $.getJSON( "assets/js/idx.json", function(compacted) {
+            /*$.getJSON( "assets/js/idx.json", function(compacted) {
                 serializedIndex = expand(compacted);
                 pregen_idx = lunr.Index.load(serializedIndex)
-            })
+            })*/
         });
     }
     $(".navbar-nav").on("click", loadLunr)
