@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The tasks LLM's are good at, and the tasks they're sh**t at: a personal review"
-author: sal
+author: shirish
 categories: [ ai, llm, collaboration]
 featured: false
 hidden: false

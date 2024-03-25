@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A blogger's plea (and a proposal) to Google: bring back Blogger!"
-author: sal
+author: shirish
 categories: [ blogger, product, leadership]
 featured: false
 hidden: false

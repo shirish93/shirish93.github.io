@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Kubernetes Odyssey in setting up the NVIDIA GPU drivers and time-slicing"
-author: sal
+author: shirish
 categories: [ infrastructure, data-science, kubernetes]
 featured: false
 hidden: false

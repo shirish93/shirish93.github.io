@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LLM's will be the next spellcheck assistant, not the next robotic overlords!"
-author: sal
+author: shirish
 categories: [ ai, llm, collaboration]
 featured: false
 hidden: false

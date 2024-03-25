@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Innovation Trap: Aligning Technology with Business Needs"
-author: sal
+author: shirish
 categories: [ engineering, architecture, leadership, innovation]
 featured: false
 hidden: false

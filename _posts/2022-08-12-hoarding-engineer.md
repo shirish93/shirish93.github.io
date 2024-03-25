@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Don't hoard your star performers, let them out in the field"
-author: sal
+author: shirish
 categories: [ engineering, software, leadership]
 image: "assets/images/teamwork.jpg"
 ---

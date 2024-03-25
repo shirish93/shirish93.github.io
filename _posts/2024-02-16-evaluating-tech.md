@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to evaluate the right choice of technology for your team"
-author: sal
+author: shirish
 categories: [ engineering, tooling, collaboration]
 featured: false
 hidden: false

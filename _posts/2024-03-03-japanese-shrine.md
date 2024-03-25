@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What a 1,300-year-old temple can teach us about software maintenance"
-author: sal
+author: shirish
 categories: [ engineering, software, rewrite ]
 image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ise_Daijingu_sengyo_no_zu_%E4%BC%8A%E5%8B%A2%E5%A4%AA%E7%A5%9E%E5%AE%AE%E9%81%B7%E5%BE%A1%E4%B9%8B%E5%9B%B3_%28Depiction_of_the_Relocation_of_the_Grand_Shrine_of_Ise%29_%28BM_2008%2C3037.21409%29.jpg"
 beforetoc: "Don't entomb your applications, make them flexible, ready to make a change here and there. That way, they won't need an overhaul from scratch when the time comes."

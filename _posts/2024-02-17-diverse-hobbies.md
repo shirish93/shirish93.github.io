@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Diverse hobbies for igniting engineering innovation"
-author: sal
+author: shirish
 categories: [ engineering, software, hobbies ]
 image: "assets/images/boocha.jpg"
 ---

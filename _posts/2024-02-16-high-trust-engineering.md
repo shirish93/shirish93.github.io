@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Symphony of Trust: Building High-Performing Engineering Teams"
-author: sal
+author: shirish
 categories: [ engineering, architecture, leadership, trust]
 featured: false
 hidden: false

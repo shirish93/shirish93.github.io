@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Book review of Children of Ruin and Chlidren of Time by Adrian Tchaikovsky"
-author: sal
+author: shirish
 categories: [ ai, book-review, leadership]
 featured: false
 hidden: false

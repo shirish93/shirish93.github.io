@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Watching Age of Empires IV made me a better software engineer. Here's how."
-author: sal
+author: shirish
 categories: [ engineering, software, aoe4, infrastructure, esports ]
 image: "assets/images/aoe4.webp"
 ---
