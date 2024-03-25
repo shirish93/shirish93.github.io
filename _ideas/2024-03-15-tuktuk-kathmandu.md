@@ -24,13 +24,6 @@ Tuk-tuks are iconic three-wheeled vehicles, widely used in South Asia for passen
 * **Enhanced Public Transport:** Electric tuk-tuks offer a flexible, affordable, and accessible mode of public transport, catering to diverse needs and reducing pressure on existing systems, improving overall transportation efficiency.
 * **Economic Benefits:** Increased adoption can create jobs in manufacturing, maintenance, and charging infrastructure, boosting the local economy.
 
-
-## Proposal for Encouraging and Enabling Electric Tuk-Tuks in Kathmandu
-
-**Introduction:**
-
-Kathmandu faces crucial challenges with air quality, noise pollution, reliance on fossil fuels, and **congestion due to a proliferation of motorbikes and private cars**. Public transport systems, often dominated by gasoline-powered tuk-tuks, further contribute to these issues. However, electric tuk-tuks offer a promising solution.
-
 **Benefits of Electric Tuk-Tuks Compared to Motorbikes, Taxis and Private Cars:**
 
 * **Reduced Traffic Congestion:** Electric tuk-tuks have a smaller footprint than cars, requiring less parking space and potentially leading to more efficient traffic flow. Additionally, their maneuverability could allow for easier navigation in narrow streets, further reducing congestion compared to larger vehicles.
