@@ -63,3 +63,8 @@ adsense: "disabled"
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, pregenerate_index.py]
+
+collections:
+  ideas:
+    output: true
+    permalink: /:collection/:path

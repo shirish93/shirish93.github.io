@@ -27,9 +27,15 @@ Content has been written, the process of upload takes a long time, it turns out.
     </div>
     <div class="row">
 
-    {% for post in site.categories.ideas %}
+    {% for post in site.collections.ideas %}
 
-            {% include postbox.html %}
+            {% include featuredbox.html %}
+
+    {% endfor %}
+
+    {% for post in site.ideas %}
+
+            {% include featuredbox.html %}
 
     {% endfor %}
 
@@ -37,8 +43,11 @@ Content has been written, the process of upload takes a long time, it turns out.
 </section>
 
 {% endif %}
+
+
+<!-- Pagination
+================================================== -->
 <div class="bottompagination">
 <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-
 </div>
 
