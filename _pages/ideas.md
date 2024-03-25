@@ -25,21 +25,9 @@ Content has been written, the process of upload takes a long time, it turns out.
     <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
 </div>
 <div class="row listrecent">
-
-    {% for post in site.collections.ideas %}
-
-            {% include postbox.html %}
-
-    {% endfor %}
-
-Order test
-
     {% for post in site.ideas %}
-
             {% include postbox.html %}
-
     {% endfor %}
-
 </div>
 </section>
 
