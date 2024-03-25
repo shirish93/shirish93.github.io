@@ -19,35 +19,28 @@ Content has been written, the process of upload takes a long time, it turns out.
 </p>
 {% if page.url == "/ideas" %}
 
-<!-- Featured
-================================================== -->
+
 <section class="recent-posts">
-    <div class="section">
-        <h2><span>All ideas</span></h2>
-    </div>
-    <div class="row">
+<div class="section-title">
+    <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
+</div>
+<div class="row listrecent">
 
     {% for post in site.collections.ideas %}
 
-            {% include featuredbox.html %}
+            {% include postbox.html %}
 
     {% endfor %}
+
+Order test
 
     {% for post in site.ideas %}
 
-            {% include featuredbox.html %}
+            {% include postbox.html %}
 
     {% endfor %}
 
-    </div>
+</div>
 </section>
 
 {% endif %}
-
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-</div>
-
