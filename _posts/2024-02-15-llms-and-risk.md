@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The risk of production, customer-facing LLM's let lose"
-author: sal
+author: shirish
 categories: [ ai, llm, collaboration]
 featured: false
 hidden: false

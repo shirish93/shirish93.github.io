@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Illustrate, draw, dance and play! Recommendations for advanced technical communication techniques"
-author: sal
+author: shirish
 categories: [ communication, creativity, leadership, product]
 featured: false
 hidden: false

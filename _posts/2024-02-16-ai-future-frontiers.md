@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's next for AI? My predictions for the next 10 years"
-author: sal
+author: shirish
 categories: [ ai, llm, engineering]
 featured: false
 image: "assets/images/llm.jpg"

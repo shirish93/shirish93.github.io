@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Book review of David Epstein’s Range: Why Generalists Triumph in a Specialized World"
-author: sal
+author: shirish
 categories: [ book-review, leadership]
 featured: false
 image: "assets/images/range.jpg"

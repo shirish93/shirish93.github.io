@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Book Review: Learning to Learn and the Navigation of Moods by Gloria P. Flores"
-author: sal
+author: shirish
 categories: [ engineering, leadership, learning, skill, book-review ]
 image: "assets/images/learn.jpg"
 rating: 4

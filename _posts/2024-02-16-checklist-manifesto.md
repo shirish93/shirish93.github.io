@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Checklist Manifesto: A Guide to Better Software Engineering"
-author: sal
+author: shirish
 categories: [ review, book-review, leadership]
 featured: false
 hidden: false

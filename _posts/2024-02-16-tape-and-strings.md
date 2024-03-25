@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  " Duct-Tape and Strings vs. Building to Spec in Software Development"
-author: sal
+author: shirish
 categories: [ engineering, architecture, leadership]
 featured: false
 hidden: false

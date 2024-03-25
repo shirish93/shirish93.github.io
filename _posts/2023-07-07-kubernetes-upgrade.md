@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A tale of the treacherous task of Kubernetes upgrade"
-author: sal
+author: shirish
 categories: [ engineering, software, cloudformation, infrastructure, kubernetes ]
 image: "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0upfXtjqscQ5NQfN.png"
 ---

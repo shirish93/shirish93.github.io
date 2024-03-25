@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How my Fermentation Hobby Helps Me as a Software Engineer"
-author: sal
+author: shirish
 categories: [ engineering, fermentation, hobbies]
 featured: false
 hidden: false

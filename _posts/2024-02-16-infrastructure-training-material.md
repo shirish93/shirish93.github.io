@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A intro workshop for interns and new engineers on software infrastructure and databases"
-author: sal
+author: shirish
 categories: [ infrastructure, llm, collaboration, workshop]
 featured: false
 hidden: false
