@@ -14,7 +14,12 @@ var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or p
     "url": "{{site.url}}{{ page.url }}",
     "title": "{{ page.title }}",
     "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
-    }, {% endfor %}{% for page in site.posts %}{
+    }, {% endfor %}{% for page in site.ideas %}{
+        "id": {{ counter }},
+        "url": "{{site.url}}{{ page.url }}",
+        "title": "{{ page.title }}",
+        "body": "{{ page.content | markdownify | replace: '.', '. ' | replace: '</h2>', ': ' | replace: '</h3>', ': ' | replace: '</h4>', ': ' | replace: '</p>', ' ' | strip_html | strip_newlines | replace: '  ', ' ' | replace: '"', ' ' }}"{% assign counter = counter | plus: 1 %}
+    },{% endfor %}{% for page in site.posts %}{
     "id": {{ counter }},
     "url": "{{site.url}}{{ page.url }}",
     "title": "{{ page.title }}",
