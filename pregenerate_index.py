@@ -34,6 +34,7 @@ for i, post in enumerate(posts):
        })
 
 
+print (docs[0])
 idx = lunr(ref='id', fields=['title', 'body', 'url'], documents=docs)
 serialized_idx = idx.serialize()
 with open('assets/js/idx.json', 'w') as fd:

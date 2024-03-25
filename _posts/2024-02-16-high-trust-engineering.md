@@ -5,6 +5,7 @@ author: sal
 categories: [ engineering, architecture, leadership, trust]
 featured: false
 hidden: false
+image: "assets/images/trust.jpg"
 ---
 
 A strong engineering team with high degree of trust between indiviudal contributors, and between leadership and the rest of the team can be a potent force for effective organizations. Here's how to create such teams, and the pros and cons.
@@ -58,4 +59,4 @@ Building a high-trust engineering organization is a journey, not a destination. 
 Building trust takes time and effort, but the rewards are substantial. By investing in your engineering team's well-being and nurturing a culture of collaboration, one can create a symphony of success that will resonate for years to come.
 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Photo by Dio Hasbi Saniskoro: [link](https://www.pexels.com/photo/people-doing-group-hand-cheer-3280130/).__

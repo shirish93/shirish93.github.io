@@ -5,6 +5,7 @@ author: sal
 categories: [ infrastructure, llm, collaboration, workshop]
 featured: false
 hidden: false
+image: "assets/images/training.jpg"
 ---
 
 This is the syllabus I originally designed to train Hack.diversity fellows for a 8-week workship (1 hour weekly classes, 2 hours of expected assignment load) to help them perform well on their internship/co-op interviews. I've worked on this with the engineer I mentor with the organization, and will be proposing this workshop for entry-level software engineers to the Liberty Mutual IT organization.
@@ -170,4 +171,5 @@ Structure of the sessions:
       Choose an ML application or LL/NC platform and research its potential impact on software development.
       Attend a webinar or workshop on a new technology relevant to the future of software engineering.
       Write a blog post on your thoughts about the future of software engineering and the skills needed to thrive in it
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+
+__Photo by Pixabay: https://www.pexels.com/photo/chess-piece-260024/__

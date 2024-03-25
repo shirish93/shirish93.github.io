@@ -3,7 +3,6 @@ layout: post
 title:  "Illustrate, draw, dance and play! Recommendations for advanced technical communication techniques"
 author: sal
 categories: [ communication, creativity, leadership, product]
-image: "assets/images/burnout.jpg"
 featured: false
 hidden: false
 ---

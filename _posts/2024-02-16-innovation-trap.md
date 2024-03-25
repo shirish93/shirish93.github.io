@@ -5,6 +5,7 @@ author: sal
 categories: [ engineering, architecture, leadership, innovation]
 featured: false
 hidden: false
+image: "assets/images/inno-trap.jpg"
 ---
 
 Don't be seduced by the latest 'innovation' fads; instead, focus on aligning innovation with your core business goals and customer needs. This approach will help you avoid the innovation trap and achieve long-term success.
@@ -84,4 +85,4 @@ So how do you adapt your organization to be more in alignment with business need
 By adopting a strategic and politically savvy approach, you can ensure that innovation works for you, not against you. While it may be tempting, don't be seduced by the latest fads. Focus on aligning innovation with your core business goals and customer needs. This approach will help you avoid the innovation trap and achieve long-term success.
 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__<a href="https://www.freepik.com/free-vector/catching-money-wth-idea_902007.htm#fromView=search&page=1&position=1&uuid=b6dad76c-6a05-40e7-be3c-36902a519be1">Image by dooder on Freepik</a>__

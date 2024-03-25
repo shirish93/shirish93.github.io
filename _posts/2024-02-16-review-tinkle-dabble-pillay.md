@@ -5,6 +5,8 @@ author: sal
 categories: [ creativity, book-review, leadership]
 featured: false
 hidden: false
+image: "assets/images/tinker-pillay.jpg"
+rating: 4
 ---
 
 Planned "unfocused" activities can enhance your cognitive toolkit. In "Tinker Dabble Doodle Try: The Power of an Unfocused Mind," Dr. Srini Pillay challenges the idea that laser-sharp focus is the key to success, particularly for engineers grappling with complex problems.
@@ -61,4 +63,4 @@ Overall:
 
 If you're an open-minded engineer seeking to expand your problem-solving toolkit and embrace different perspectives, "Tinker Dabble Doodle Try" can offer valuable insights. However, approach it with a critical eye, focusing on practical techniques and filtering out content that resonates less with your specific needs and expertise. 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Lead image from the book website.__

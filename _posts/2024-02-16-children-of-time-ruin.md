@@ -5,6 +5,8 @@ author: sal
 categories: [ ai, book-review, leadership]
 featured: false
 hidden: false
+image: "assets/images/children.jpg"
+rating: 4
 ---
 
 Adrian Tchaikovsky's captivating science fiction books, Children of Time and Children of Ruin, transcend genre boundaries to offer a profound exploration of evolution, intelligence, and consciousness. There is a third part in the series that I haven't read and don't intend to. The trilogy's  world-building, thought-provoking themes, and grand space opera narrative makes it a must-read for software engineers and engineering leaders seeking more than just entertainment.
@@ -44,4 +46,4 @@ Speculative elements: The fantastical nature of the story might not resonate wit
 Despite these minor points, Children of Time and Children of Ruin stand out in the science fiction genre. Their unique blend of action, philosophical inquiry, and world-building mastery places them alongside classics like Iain M. Banks' Culture series and Cixin Liu's Remembrance of Earth's Past trilogy.
 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Royalty-free header image from the book website.__

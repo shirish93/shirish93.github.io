@@ -5,6 +5,7 @@ author: sal
 categories: [ engineering, tooling, collaboration]
 featured: false
 hidden: false
+image: "assets/images/choices.jpg"
 ---
 
 Choosing the right tool and framework for software engineering projects can feel like navigating a minefield. This essay will offer a practical framework for evaluating competing technologies and making informed choices that align with your project's specific needs. Each option promises unique advantages, but understanding the potential pitfalls and trade-offs is crucial before making a decision.
@@ -41,4 +42,4 @@ Carefully evaluating the various factors, considering your specific needs and pr
 
 In conclusion, the choice of technology is not merely about selecting the most popular or feature-rich option. It's a strategic decision that requires careful consideration of your specific needs, team capabilities, and project goals. By prioritizing factors like cost, community support, security, and future growth, you can make informed choices that avoid potential pitfalls and contribute to long-term success.
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Royalty-free stock image Photo by Pixabay: https://www.pexels.com/photo/seven-white-closed-doors-277593/.__

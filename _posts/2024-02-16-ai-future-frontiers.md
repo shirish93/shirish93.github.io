@@ -4,6 +4,7 @@ title:  "What's next for AI? My predictions for the next 10 years"
 author: sal
 categories: [ ai, llm, engineering]
 featured: false
+image: "assets/images/llm.jpg"
 hidden: false
 ---
 Explainable AI, optical AI, analog AI, and meta-learning. I predict the culmination of optimizing massive generative models will result generative AI being turned into a commodity, and these four areas will be the next frontiers of innovation in machine learning.
@@ -40,4 +41,4 @@ Or a healthcare system revolutionized by Optical AI and meta-learning, leading t
 
 These are just a few visions of the potential of these converging fields. Navigating this future responsibly requires careful consideration of ethical implications. It's important to keep in mind the equitable access to these advancements, mitigate potential biases, and safeguard against misuse. Transparency, collaboration, and responsible development are a must to harnessing these technologies if we want to ensure a fair and democratic future.
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__<a href="https://www.freepik.com/free-vector/robotic-process-automation-illustration_21743709.htm#fromView=search&page=1&position=28&uuid=14852b8d-0772-4624-97fc-6cf3a5b513be">Image by freepik</a>.__

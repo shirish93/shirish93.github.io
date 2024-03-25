@@ -5,6 +5,8 @@ author: sal
 categories: [ review, book-review, leadership]
 featured: false
 hidden: false
+image: "assets/images/checklist.jpg"
+rating: 4.5
 ---
 
 A review of Atul Gawande's seminal book ~ The Checklist Manifesto ~ and the lessons it holds for engineers and engineering leaders.
@@ -61,4 +63,4 @@ I highly recommend "The Checklist Manifesto" to software engineers and leaders. 
 
 By embracing the power of checklists and fostering a collaborative environment, we can empower our teams to build better, more reliable software. 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Header image from book PR.__
