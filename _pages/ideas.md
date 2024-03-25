@@ -20,10 +20,10 @@ Content has been written, the process of upload takes a long time, it turns out.
 {% if page.url == "/ideas" %}
 
 
-<section class="recent-posts">
+<section class="featured-posts">
 <div class="row listrecent">
     {% for post in site.ideas %}
-            {% include postbox.html %}
+            {% include featuredbox.html %}
     {% endfor %}
 </div>
 </section>
