@@ -21,7 +21,7 @@ Content has been written, the process of upload takes a long time, it turns out.
 
 </div>
 </div>
-<section class="featured-posts">
+<section class="recent-posts">
 <div class="row listrecent">
     {% for post in site.ideas %}
             {% include postbox.html %}
