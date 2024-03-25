@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Proposal for Encouraging and Enabling Electric Tuk-Tuks in Kathmand"
+title:  "Proposal for Encouraging and Enabling Electric Tuk-Tuks in Kathmandu"
 author: sal
 categories: [ innovation, tuktuk ]
-image: "assets/images/cfn.jpg"
+image: "assets/images/tuktuk.jpg"
 ---
 
 Kathmandu faces crucial challenges with air quality, noise pollution, and reliance on fossil fuels. Public transport systems often contribute significantly to these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. This proposal outlines a comprehensive plan to encourage and enable their widespread adoption in Kathmandu.

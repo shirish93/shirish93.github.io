@@ -21,19 +21,15 @@ Content has been written, the process of upload takes a long time, it turns out.
 
 <!-- Featured
 ================================================== -->
-<section class="featured-posts">
+<section class="recent-posts">
     <div class="section">
-        <h2><span>Featured</span></h2>
+        <h2><span>All ideas</span></h2>
     </div>
     <div class="row">
 
-    {% for post in site.ideas %}
+    {% for post in site.categories.ideas %}
 
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
+            {% include postbox.html %}
 
     {% endfor %}
 
@@ -41,35 +37,8 @@ Content has been written, the process of upload takes a long time, it turns out.
 </section>
 
 {% endif %}
-
-<!-- Posts Index
-================================================== -->
-<section class="recent-posts">
-
-    <div class="section">
-
-        <h2><span>All Stories</span></h2>
-
-    </div>
-
-    <div class="row listrecent">
-
-        {% for post in paginator.ideas %}
-
-        {% include postbox.html %}
-
-        {% endfor %}
-
-    </div>
-
-</section>
-
-<!-- Pagination
-================================================== -->
 <div class="bottompagination">
 <div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
+
 </div>
 
