@@ -4,9 +4,8 @@ title:  "Strengthening Local Government Accountability in Nepal through Data-Dri
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
-**Introduction:**
 
-This proposal outlines the establishment of a non-profit organization,**"Accountability Nepal"**, dedicated to promoting transparency and accountability among local governments in Nepal. By focusing on **automating data collection and evaluating data availability**, Accountability Nepal aims to empower citizens, improve service delivery, and strengthen citizen-government relations.
+This proposal outlines the establishment of a non-profit organization dedicated to promoting transparency and accountability among local governments in Nepal. By focusing on **automating data collection and evaluating data availability**, the organization will empower citizens, improve service delivery, and strengthen citizen-government relations.
 
 **Problem:**
 
