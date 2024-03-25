@@ -5,6 +5,7 @@ author: sal
 categories: [ engineering, architecture, leadership]
 featured: false
 hidden: false
+image: "assets/images/complicated.jpg"
 ---
 The "duct-tape and strings" approach to building systems prioritizes functionality and rapid iteration over achieving architectural perfection. While it might raise eyebrows among proponents of meticulous planning, it's borne out of real-world pressure and can lead to successful outcomes.
 
@@ -93,4 +94,4 @@ Leonardo's (of Vinci, the famous one) first flying machine, an ungainly contrapt
 The imperfect, "duct-tape and strings" systems might not be an architectural marvel. It will creak, groan, and occasionally require frantic troubleshooting. But within their cobbled-together functionality lies the potential for rapid response, agile adaptation, and swift market validation. Messy prototypes, the rough drafts, are imperfect first steps that can propel products towards working solutions.
 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Photo by Antoni Shkraba: https://www.pexels.com/photo/complex-press-in-a-graphic-design-studio-6620985/.__

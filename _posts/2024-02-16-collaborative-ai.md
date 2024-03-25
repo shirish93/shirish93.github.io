@@ -5,6 +5,7 @@ author: sal
 categories: [ ai, llm, collaboration]
 featured: false
 hidden: false
+image: "assets/images/llm.jpg"
 ---
 This essay proposes a nuanced perspective on the LLM revolution, one that views AI as a collaborator, not a competitor. AI, particularly generative models, can amplify human capabilities, creating a workplace symphony, not a solo act.
 
@@ -40,4 +41,4 @@ The future of AI in the workplace is not predetermined. It will be shaped by our
 The narrative surrounding AI in the workplace need not be dominated by fear.  Instead, let's view AI as a transformative partner, poised to usher in a new era of human-machine collaboration. By acknowledging its potential pitfalls and taking proactive measures to mitigate them, we can harness the power of AI to augment human capabilities and create a future of work filled with greater efficiency, innovation, and progress.  As we move forward, let's embrace a future where the symphony of human and machine plays in perfect harmony, composing a masterpiece of progress for the benefit of all.
 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__<a href="https://www.freepik.com/free-vector/robotic-process-automation-illustration_21743709.htm#fromView=search&page=1&position=28&uuid=14852b8d-0772-4624-97fc-6cf3a5b513be">Image by freepik</a>.__

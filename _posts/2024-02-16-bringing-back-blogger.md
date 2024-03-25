@@ -5,6 +5,7 @@ author: sal
 categories: [ blogger, product, leadership]
 featured: false
 hidden: false
+image: "assets/images/blogger.jpg"
 ---
 This essay proposes a strategic revitalization of Blogger through a premium subscription model, enhanced features powered by Google's AI capabilities, and a renewed focus on user needs. Blogger, once a dominant force in the blogosphere, has stagnated in recent years. While competitors like Medium and substack have thrived in the 'blogspace', and industry-adjacent companies like Squarespace and Wix have embraced innovation, Blogger has remained largely unchanged, hindering its ability to attract and retain users. 
 

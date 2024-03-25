@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Code and Kombucha: How Fermentation Makes Me a Better Engineer"
+title:  "How my Fermentation Hobby Helps Me as a Software Engineer"
 author: sal
 categories: [ engineering, fermentation, hobbies]
 featured: false
 hidden: false
+image: "assets/images/kimchi.jpg"
 ---
 
 While technical expertise is crucial, I've discovered an unexpected wellspring of professional growth: fermentation. This seemingly unrelated hobby has become a secret weapon, nurturing valuable skills that translate directly to my engineering life.
@@ -49,4 +50,4 @@ Ny journey with fermentation has revealed a profound truth: embracing diverse in
 
 And the journey of discovery doesn't end with code. From baking sourdough bread to composing music, every pursuit holds the potential to enrich our lives and equip us with unique perspectives and skillsets. So, I encourage you, my reader, to step outside your comfort zones, explore your passions, and witness the transformative power of diverse interests. Who knows, your next great innovation might just be brewing in the most unexpected place.
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Royalty-free stock image above by Antoni Shkraba: [Pexels](https://www.pexels.com/photo/clear-glass-jar-with-kimchi-beside-the-wooden-chopsticks-6823267/).__

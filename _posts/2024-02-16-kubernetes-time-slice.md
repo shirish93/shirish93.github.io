@@ -5,6 +5,7 @@ author: sal
 categories: [ infrastructure, data-science, kubernetes]
 featured: false
 hidden: false
+image: "assets/images/gpu.jpg"
 ---
 
 This essay chronicles an unexpected adventure in implementing GPU time slicing on our EKS cluster. What began as a seemingly straightforward task – installing the gpu-operator – blossomed into a multifaceted exploration that unearthed challenges, refined processes, and ultimately yielded substantial benefits across our infrastructure.
@@ -62,4 +63,4 @@ However, the saga wasn't quite over. The base image we utilized wasn't readily a
 This arduous journey is a testament to the unwavering spirit of innovation and collaboration  within our team. By embracing challenges, employing creativity, and actively seeking assistance, we were able to overcome obstacles, unearth and rectify underlying issues, to achive our goal. To install the GPU time-slicing in our EKS cluster.
 
 
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Photo by 洋榤 郭: https://www.pexels.com/photo/black-and-red-computer-motherboard-2399840/.__

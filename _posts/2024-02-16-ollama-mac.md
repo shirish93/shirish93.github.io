@@ -5,6 +5,7 @@ author: sal
 categories: [ ai, llm, tutorial]
 featured: false
 hidden: false
+image: "assets/images/ollama.png"
 ---
 
 This essay will provide an introduction to Large Language Models (LLMs) and explore the process of running them locally on a Mac using OLLAMA.
@@ -143,7 +144,4 @@ The future of local LLMs holds exciting possibilities, pushing the boundaries of
 **Live Inference**: This concept involves the LLM processing real-time sensor data from your microphone or camera and providing immediate responses. This could lead to novel applications in areas like virtual assistants and real-time language translation.
 
 
-
-
-
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
+__Ollama illustration from their website.__
