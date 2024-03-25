@@ -7,6 +7,7 @@ image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/A_view_of_Shivapuri_
 ---
 
 This proposal outlines a project designed to significantly reduce littering in Nepal's national parks, such as Shivapuri and Nagarjuna National park. It proposes a multi-pronged approach drawing on behavioral science, financial incentives, and community participation. It will be cheap to implement, and easy to validate.
+Image source: [wikipedia](https://en.wikipedia.org/wiki/Shivapuri_Nagarjun_National_Park#/media/File:A_view_of_Shivapuri_national_park_from_Sundarijal.jpg)
 
 ## Introduction
 
@@ -26,7 +27,7 @@ This proposal outlines a project designed to significantly reduce littering in N
 
 **2. Problem:**
 
-Despite existing measures, visitors often neglect proper waste disposal within national parks, leaving behind plastic bags, food waste, and other debris. This harms the environment, detracts from visitor experience, and incurs significant cleanup costs for authorities.
+Despite existing measures, visitors often neglect proper waste disposal within national parks, leaving behind plastic bags, food waste, and other debris. This harms the environment, detracts from visitor experience, and incurs significant cleanup costs for authorities. 
 
 **3. Proposed Solutions:**
 
