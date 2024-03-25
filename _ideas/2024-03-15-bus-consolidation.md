@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Proposal for Establishing Research Labs in Kathmandu to outsource research and innovation from foreign Universities"
+title:  "Proposal to consolidate Kathmandu's school bus system"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: bus.jpg
+image: "assets/images/bus.jpg"
 ---
 
 This proposal outlines a plan to consolidate Kathmandu's school bus system, leveraging its potential to reduce traffic, optimize resources, and ultimately improve the educational experience for all.Kathmandu Valley's education system boasts hundreds of private schools, each operating their own individual bus fleets and morning routes. This independent system, while providing transportation options, has resulted in inefficiencies that contribute to traffic congestion, environmental concerns, and missed opportunities for students and families through lost time. 
