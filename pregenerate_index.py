@@ -23,7 +23,7 @@ for i, post in enumerate(posts):
 
 print (docs[0])
 '''
-idx = lunr(ref='id', fields=['title', 'body', 'url'], documents=page_json)
+idx = lunr(ref='id', fields=[dict(field_name='title', boost=10), 'body', 'url'], documents=page_json)
 serialized_idx = idx.serialize()
 with open('assets/js/idx.json', 'w') as fd:
    json.dump(serialized_idx,fd)
