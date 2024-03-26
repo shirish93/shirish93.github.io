@@ -1,7 +1,7 @@
 # Site
 name: "Shirish Pokharel"
 title: "Shirish Pokharel"
-description: "Innovation engineer, Consultant, Mentor"
+description: "Innovation engineer, Mentor"
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
 include: ["_pages"]
