@@ -1,25 +1,12 @@
 
 import markdownify, frontmatter, re, html, json, os
 from lunr import lunr
-tag_re = re.compile(r'(<!--.*?-->|<[^>]*>)')
-txt = ["finame.md",
-""]
-txts = [txt]
+import requests
+baseUrl="https://www.shirish.me/assets/js/documents.json"
 
-#print (os.listdir(r"./_posts"))
-
-txt = [[
-        fname[11:-3], 
-        open(f"./_posts/{fname}", 'r').read()]
-       for fname in  os.listdir(r"./_posts")]
-print(list((each[0] for each in txt)))
-posts = [frontmatter.loads(each[1]) for each in txt]
-docs = []
-pages = []
-posts.extend(pages)
-baseUrl="https://www.shirish.me/"
-
-
+page = requests.get(baseUrl)
+page_json = page.json()
+'''documents = map(x: )
 for i, post in enumerate(posts):
    endpoint = post.url if post.get("url") else baseUrl + txt[i][0]
    # print (post.keys())
@@ -35,7 +22,8 @@ for i, post in enumerate(posts):
 
 
 print (docs[0])
-idx = lunr(ref='id', fields=['title', 'body', 'url'], documents=docs)
+'''
+idx = lunr(ref='id', fields=['title', 'body', 'url'], documents=page_json)
 serialized_idx = idx.serialize()
 with open('assets/js/idx.json', 'w') as fd:
    json.dump(serialized_idx,fd)
@@ -91,8 +79,8 @@ serialized_idx['invertedIndex'] = json.loads(json.dumps(compact_inv_index(serial
 serialized_idx['fieldVectors'] = fieldVectors
 print (len(json.dumps(serialized_idx)))
 
-#with open('assets/js/idx.json', 'w') as fd:
-#   json.dump(serialized_idx,fd)
+with open('assets/js/idx.json', 'w') as fd:
+   json.dump(serialized_idx,fd)
 # TODO: Write down the index to file here!
 '''
    
