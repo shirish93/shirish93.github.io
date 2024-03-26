@@ -23,6 +23,10 @@ for i, post in enumerate(posts):
 
 print (docs[0])
 '''
+details = [''.join([each.get("title")[:50].ljust(50), each.get("url")[:75].ljust(75), each.get('body')[:150].ljust(150)]) for each in page_json]
+with open('assets/js/lookup.txt', 'w') as fd:
+   fd.write('\n'.join(details))
+
 idx = lunr(ref='id', fields=[dict(field_name='title', boost=10), 'body', 'url'], documents=page_json)
 serialized_idx = idx.serialize()
 with open('assets/js/idx.json', 'w') as fd:
