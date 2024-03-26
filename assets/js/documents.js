@@ -1,3 +1,7 @@
+---
+layout: null
+sitemap: false
+---
 {% assign counter = 0 %}
 var documents = [{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}{% else %}{
     "id": {{ counter }},
