@@ -69,6 +69,7 @@
        if (lunrLoaded && lunrSearchLoaded) return;
        $.getScript("{{site.url}}/assets/js/lunr.js", function(){
             $.getScript("{{site.url}}/assets/js/lunrsearchengine.js", function(){
+                lunrLoaded = true;
             });
             $.getJSON( "assets/js/idx.json", function(compacted) {
                 serializedIndex = expand(compacted);
