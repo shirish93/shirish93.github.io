@@ -36,7 +36,7 @@ function lunr_search(term) {
         if(results.length>0){
             for (result of results){
                 var ref = results['ref'];
-                $.getJSON(`assets/js/blurbs/${ref}.json` (document =>{
+                $.getJSON(`assets/js/blurbs/${ref}.json`, (document =>{
                     var url = document['url'];
                     var title = document['title'];
                     var body = document['body'].substring(0,160)+'...';
@@ -51,7 +51,7 @@ function lunr_search(term) {
     }
     return false;
 }
- 
+
 $(function() {
     $("#lunrsearchresults").on('click', '#btnx', function () {
         $('#lunrsearchresults').hide( 5 );
