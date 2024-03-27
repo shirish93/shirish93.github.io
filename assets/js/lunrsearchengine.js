@@ -34,8 +34,8 @@ function lunr_search(term) {
         //put results on the screen.
         var results = idx.search(term);
         if(results.length>0){
-            for (result of results){
-                var ref = results['ref'];
+            for (let result of results){
+                var ref = result['ref'];
                 $.getJSON(`assets/js/blurbs/${ref}.json`, document =>{
                     var url = document['url'];
                     var title = document['title'];
