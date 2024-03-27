@@ -8,7 +8,7 @@ function lunr_search(term) {
         if(results.length>0){
             for (result of results){
                 var ref = results['ref'];
-                $.getJSON(`assets/js/blurbs/${ref}.json` (document =>{
+                $.getJSON(`assets/js/blurbs/${ref}.json`, (document =>{
                     var url = document['url'];
                     var title = document['title'];
                     var body = document['body'].substring(0,160)+'...';
@@ -36,13 +36,13 @@ function lunr_search(term) {
         if(results.length>0){
             for (result of results){
                 var ref = results['ref'];
-                $.getJSON(`assets/js/blurbs/${ref}.json`, (document =>{
+                $.getJSON(`assets/js/blurbs/${ref}.json`, document =>{
                     var url = document['url'];
                     var title = document['title'];
                     var body = document['body'].substring(0,160)+'...';
                     document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></a></li>";
     
-                }))
+                })
             }
 
         }  else {
