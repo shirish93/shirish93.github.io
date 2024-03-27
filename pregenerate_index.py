@@ -6,27 +6,16 @@ baseUrl="https://www.shirish.me/assets/js/documents.json"
 
 page = requests.get(baseUrl)
 page_json = page.json()
-'''documents = map(x: )
-for i, post in enumerate(posts):
-   endpoint = post.url if post.get("url") else baseUrl + txt[i][0]
-   # print (post.keys())
-   if not '.xml' in endpoint and not 'assets' in endpoint and not 'category' in endpoint and not 'tag' in endpoint:
-       docs.append({
-           "id":i,
-           "url": endpoint,
-           "title": post.get("title"),
-           "body":tag_re.sub('', markdownify.markdownify(post.content).replace('.',". ").replace('</h2>',': ').replace('</h3>',': ').
-                             replace('</h4>',': ').replace('</p>',' ')).
-                             replace('\n',' ').replace('  ',' ').replace('"',' ')
-       })
-
-
-print (docs[0])
-'''
-details = [''.join([each.get("title")[:50].ljust(50), each.get("url")[:75].ljust(75), each.get('body')[:150].ljust(150)]) for each in page_json]
-with open('assets/js/lookup.txt', 'w') as fd:
-   fd.write('\n'.join(details))
-
+for i, doc in enumerate(page_json):
+   id = doc.get("id")
+   url = doc.get("url")
+   title = doc.get('title')
+   body = doc.get('body')[:150]
+   #print ({"id": id, "url": url, "title": title,"body": body})
+   
+   with open(f'assets/js/blurbs/{id}.json', 'w') as fd:
+      json.dump({"id": id, "url": url, "title": title,"body": body},fd)
+      
 idx = lunr(ref='id', fields=[dict(field_name='title', boost=10), 'body', 'url'], documents=page_json)
 serialized_idx = idx.serialize()
 with open('assets/js/idx.json', 'w') as fd:

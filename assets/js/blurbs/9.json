@@ -1,0 +1,1 @@
+{"id": 9, "url": "https://shirish.me/robots.txt", "title": "", "body": "User-agent: *Disallow: Sitemap: {{ site. url }}/sitemap. xml "}
