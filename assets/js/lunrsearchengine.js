@@ -37,10 +37,10 @@ function lunr_search(term) {
             for (let result of results){
                 var ref = result['ref'];
                 if (ref){
-                    $.getJSON(`assets/js/blurbs/${ref}.json`, document =>{
-                        var url = document['url'];
-                        var title = document['title'];
-                        var body = document['body'].substring(0,160)+'...';
+                    $.getJSON(`assets/js/blurbs/${ref}.json`, doc =>{
+                        var url = doc['url'];
+                        var title = doc['title'];
+                        var body = doc['body'].substring(0,160)+'...';
                         document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></a></li>";
         
                     })
