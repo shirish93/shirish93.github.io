@@ -23,7 +23,7 @@ function lunr_search(term) {
     }
     return false;
 }
-
+/*
 function lunr_search(term) {
     $('#lunrsearchresults').show( 400 );
     $( "body" ).addClass( "modal-open" );
@@ -50,7 +50,7 @@ function lunr_search(term) {
     }
     return false;
 }
-    
+ */   
 $(function() {
     $("#lunrsearchresults").on('click', '#btnx', function () {
         $('#lunrsearchresults').hide( 5 );
