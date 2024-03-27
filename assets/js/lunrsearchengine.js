@@ -23,7 +23,7 @@ function lunr_search(term) {
     }
     return false;
 }
-/*
+
 function lunr_search(term) {
     $('#lunrsearchresults').show( 400 );
     $( "body" ).addClass( "modal-open" );
@@ -34,23 +34,24 @@ function lunr_search(term) {
         //put results on the screen.
         var results = idx.search(term);
         if(results.length>0){
-            //console.log(idx.search(term));
-            //if results
-            for (var i = 0; i < results.length; i++) {
-                // more statements
-                var ref = results[i]['ref'];
-                var url = documents[ref]['url'];
-                var title = documents[ref]['title'];
-                var body = documents[ref]['body'].substring(0,160)+'...';
-                document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><small><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></small></a></li>";
+            for (result of results){
+                var ref = results['ref'];
+                $.getJSON(`assets/js/blurbs/${ref}.json` (document =>{
+                    var url = document['url'];
+                    var title = document['title'];
+                    var body = document['body'].substring(0,160)+'...';
+                    document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML + "<li class='lunrsearchresult'><a href='" + url + "'><span class='title'>" + title + "</span><br /><span class='body'>"+ body +"</span><br /><span class='url'>"+ url +"</span></a></li>";
+    
+                }))
             }
-        } else {
+
+        }  else {
             document.querySelectorAll('#lunrsearchresults ul')[0].innerHTML = "<li class='lunrsearchresult'>Sorry, no results found. Close & try a different search!</li>";
         }
     }
     return false;
 }
- */   
+ 
 $(function() {
     $("#lunrsearchresults").on('click', '#btnx', function () {
         $('#lunrsearchresults').hide( 5 );
