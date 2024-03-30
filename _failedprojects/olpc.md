@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "OLPC project: a failure to see the limits of technology"
+title:  "OLPC project: a failure to understand the limits of technology"
 author: shirish
 categories: [ innovation, postmortem, ideas, olpc ]
 ---
+
+You can't just hand a hundred laptops out without significantly adapting the syllabus and the pedagogy, they told us. We refused to believe our energy and drive wouldn't be enough. We were wrong.
 
 **Finding Inspiration**
 
