@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Improving Public Hygiene in Kathmandu and Lalitpur: A Collaborative Approach through Student Engagement and Community Incentives"
+title:  "Using student driven awareness and cleanliness campaigns to improving public hygeine and sanitation in Kathmandu valley"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

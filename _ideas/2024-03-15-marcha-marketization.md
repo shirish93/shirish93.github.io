@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Exploring the Wonders of Nepali Marcha"
+title:  "Exploring the Wonders of Nepali Marcha through collection of samples from across Nepal"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

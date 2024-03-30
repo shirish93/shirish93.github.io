@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Upscaling Nepalese Tourism: A Blueprint for Attracting Premium Tourists and Enhancing Local Community Development"
+title:  "Upscaling Nepali tourism: changing the marketing strategy to attract tourists to increase revenue per visitor"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

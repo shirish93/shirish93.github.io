@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BSFL for municipal household waste management in Kathmandu Valley"
+title:  "Black Soldierfly for a novel municipal household waste management mechanism in Kathmandu Valley"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

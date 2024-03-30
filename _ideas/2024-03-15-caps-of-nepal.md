@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Caps of Nepal: A Commercial Celebration of Nepalese Cultural Diversity"
+title:  "Caps of Nepal: A business idea to celebrate Nepal's cultural diversity"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

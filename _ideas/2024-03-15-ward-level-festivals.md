@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Strengthening the Spirit of Kathmandu and Lalitpur: A Proposal for Ward-Level Festivals"
+title:  "Organizing ward-level festivals in Kathmandu and Lalitpur to strengthen the Spirit of the historic cities"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

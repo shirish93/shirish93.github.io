@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Revitalizing Kathmandu and Lalitpur's Cultural Heart: A Proposal for Sustainable Heritage Reconstruction"
+title:  "A radical proposal: market-funded reconstruction of old/dying heritage houses for shared profits, shared culture"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

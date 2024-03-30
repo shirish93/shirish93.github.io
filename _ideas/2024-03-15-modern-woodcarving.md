@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preserving and Expanding Nepali Woodcarving Traditions through Digital Fabrication"
+title:  "Woodcarving for the masses: Preserving and Expanding Nepali Woodcarving Traditions through Digital Fabrication"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
