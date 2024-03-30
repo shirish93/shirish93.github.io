@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A failed Food Research and Development Startup: A Learning Experience"
+title:  "A food research and development company: foiled by factors far beyond our control"
 author: shirish
 categories: [ innovation, postmortem, ideas, food-research ]
 ---

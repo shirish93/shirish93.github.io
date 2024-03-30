@@ -9,7 +9,7 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <p>
-This 'blog' will be about all of the projects I've work on that have failed. I've already written them, just needs proper formatting and uploading, and it's taking a lot longer than I anticipated. Friends, family, acquaintances and random strangers who somehow(???) stumbled into this website: I beg of you, have some patience and wait until I get around to uploading the relevant pages.
+The following essays are post-mortems of the projects I've work on that have failed. I have gone back through the years and unearthed some of my dearest ideas that were so close to success, and yet so far. Feel free to reach out to me if you want detailed proposal documents and other information about the projects. I'd also be more than happy to work with anyone interested in implementing some of those ideas. I believe while they may not have worked out for me, they've failed as concepts.
 </p>
 
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shuttling Educational Resources for making expensive educational resources available"
+title:  "Shuttling laptops in carts: foiled by lack of clear and united team vision"
 author: shirish
 categories: [ innovation, postmortem, ideas, laptops, ecosystem ]
 ---
