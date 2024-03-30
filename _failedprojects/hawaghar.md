@@ -3,6 +3,7 @@ layout: post
 title:  "Hawaghar: a failure in community-building"
 author: shirish
 categories: [ innovation, postmortem, ideas ]
+image: assets/images/hawaghar.png
 ---
 
 **Introduction** Early to mid-2010s, inspired by Peter Thiel and the "unschooling" concept, I wanted to start a learning space for folks to offer and take unaccredited classes on various skills and topics. I called it Hawaghar.
