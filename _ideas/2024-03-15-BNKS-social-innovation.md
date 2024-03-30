@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BNKS Social Innovation Lab: Leveraging Unique Assets for an Innovation Edge"
+title:  "Leveraging Budhanilkantha School's Unique Assets for an Innovation Edge"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

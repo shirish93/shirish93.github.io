@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modernized production, marketing and sales of Chhyang: The ChhyangFriend Business concept"
+title:  "Taking Nepal's traditional rice drink Chhyang to the next level by modernizing production, marketing and sales of Chhyang"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

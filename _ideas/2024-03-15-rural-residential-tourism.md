@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Proposal: Reviving Rural Nepal Through Long-Term Residential Tourism"
+title:  "Reviving rural Nepal by hosting and aggressive marketing long-term residential tourism in remote scenic villages"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

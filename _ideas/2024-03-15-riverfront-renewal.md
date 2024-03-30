@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Riverfront Renewal Proposal: Aligned Interests, Shared Prosperity"
+title:  "Plant trees, build riverfront restaurants, encourage boat-markets. Riverfront renwal in Kathmandu valley by aligning business and governance interests"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---

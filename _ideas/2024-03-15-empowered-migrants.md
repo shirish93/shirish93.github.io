@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Empowering Nepali Migrant Workers: A Skills Upskilling Program for Improved Livelihoods and Economic Impact "
+title:  "Upskilling Nepali migrant workers for increased wages and improved workplace leverage"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
