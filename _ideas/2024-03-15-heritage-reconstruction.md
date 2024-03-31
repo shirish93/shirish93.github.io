@@ -3,6 +3,7 @@ layout: post
 title:  "A radical proposal: market-funded reconstruction of old/dying heritage houses for shared profits, shared culture"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/heritage.png
 ---
 
 This proposal presents a unique and sustainable approach to preserving and revitalizing the traditional houses in the core cultural areas of Kathmandu and Lalitpur, Nepal. Targeting the Kathmandu and Lalitpur municipal governments and the local business community, it outlines a program that blends heritage conservation with innovative financing strategies.
@@ -12,6 +13,9 @@ This proposal presents a unique and sustainable approach to preserving and revit
 **2. The Challenge and Opportunity:**
 
 Many traditional houses in these iconic city centers face numerous challenges. Age, natural disasters, and lack of resources often lead to deterioration, threatening their cultural significance and posing safety risks. This proposal addresses this challenge by creating a win-win solution for homeowners, investors, and the community.
+
+
+<img src="../assets/images/heritage1.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
 
 **3. Proposed Solution:**
 
@@ -48,6 +52,9 @@ Our program involves:
 -   **Community Engagement:** Transparent communication, open public forums, and addressing individual concerns will be key to gaining community buy-in.
 
 -   **Long-Term Sustainability:** Expanding the program to new houses, attracting tourism-related businesses as investors, and establishing a dedicated project management structure will ensure long-term viability.
+
+<img src="../assets/images/heritage2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+
 
 **7. Call to Action:**
 

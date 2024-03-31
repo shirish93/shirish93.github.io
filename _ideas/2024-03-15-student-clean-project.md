@@ -3,6 +3,7 @@ layout: post
 title:  "Using student driven awareness and cleanliness campaigns to improving public hygeine and sanitation in Kathmandu valley"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/eco-nepal.png
 ---
 
 Kathmandu and Lalitpur, the vibrant heart of Nepal, face a critical challenge: inadequate public hygiene. Littering, improper waste disposal, and a lack of community ownership contribute to unsanitary conditions, impacting public health, environmental well-being, and the overall quality of life. This proposal outlines a unique and innovative program that tackles these issues by fostering a sense of community responsibility, leveraging the enthusiasm of students, and creating economic incentives for responsible waste management practices.

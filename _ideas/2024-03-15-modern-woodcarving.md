@@ -3,6 +3,7 @@ layout: post
 title:  "Woodcarving for the masses: Preserving and Expanding Nepali Woodcarving Traditions through Digital Fabrication"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/old-modern.png
 ---
 
 Nepal boasts a rich cultural heritage evident in its intricate woodcarving artistry, adorning temples, houses, and public spaces for centuries. However, traditionally handcrafted woodcarvings are often expensive and time-consuming, limiting their accessibility to a wider audience. This proposal introduces a novel approach to preserve and promote these cultural treasures through digital fabrication technologies like 3D scanning, printing, and CNC machining.
@@ -24,6 +25,8 @@ This project proposes the adoption of digital fabrication technologies for repli
 -   **CNC machine** wooden or plastic carvings for a more traditional feel at competitive prices.
 
 -   **Offer custom designs** based on traditional patterns or user specifications.
+
+<img src="../assets/images/trad-new.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
 
 **4. Impact and Benefits**
 
