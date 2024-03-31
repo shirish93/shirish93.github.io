@@ -3,7 +3,7 @@ layout: post
 title:  "Plant trees, build riverfront restaurants, encourage boat-markets. Riverfront renwal in Kathmandu valley by aligning business and governance interests"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-images: assets/images/riverfront.png
+image: assets/images/riverfront.png
 ---
 
 By drawing inspiration from successful models, aligning diverse interests, and fostering a spirit of shared prosperity, riverfront rejuvenation in Kathmandu and Lalitpur can transform neglected waterways into vibrant economic hubs, cultural destinations, and sources of community pride. This proposal provides the initial vision for such a change.
