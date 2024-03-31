@@ -3,6 +3,7 @@ layout: post
 title:  "Plant trees, build riverfront restaurants, encourage boat-markets. Riverfront renwal in Kathmandu valley by aligning business and governance interests"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+images: assets/images/riverfront.png
 ---
 
 By drawing inspiration from successful models, aligning diverse interests, and fostering a spirit of shared prosperity, riverfront rejuvenation in Kathmandu and Lalitpur can transform neglected waterways into vibrant economic hubs, cultural destinations, and sources of community pride. This proposal provides the initial vision for such a change.
@@ -16,6 +17,8 @@ Kathmandu and Lalitpur's once-vibrant riverfronts face multifaceted challenges. 
 -   **Infrastructure Deficiencies:** Lack of sanitation facilities, inadequate drainage systems, and crumbling riverbanks exacerbate flooding and hygiene concerns.
 
 -   **Community Disconnect:** Alienated residents lose access to a valuable recreational resource, fostering apathy and hindering engagement in restoration efforts.
+
+<img src="../assets/images/riverfront1.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
 
 **Aligning Interests for Sustainable Solutions:**
 
@@ -36,6 +39,8 @@ Our approach goes beyond addressing individual challenges. We recognize the inte
 -   **Skill Development:** Train local communities in sustainable practices, waste management techniques, and riverfront maintenance, empowering them to become active participants and future stewards.
 
 -   **Public-Private Partnerships:** Forge alliances with businesses, NGOs, and government agencies to leverage resources, expertise, and funding for impactful projects.
+
+<img src="../assets/images/riverfront2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
 
 **Pollution Abatement as a Collective Responsibility:**
 
@@ -58,6 +63,9 @@ We propose a five-year phased approach, starting with:
 -   **Year 4:** Expand green spaces, launch eco-tourism initiatives, and support local businesses in developing sustainable ventures.
 
 -   **Year 5:** Conduct impact assessment, refine strategies, and ensure project sustainability through community ownership and capacity building.
+
+<img src="../assets/images/riverfront3.png" width="75%" Title="A vision of what it might look like" Align="RIGHT" />
+
 
 **Conclusion:**
 

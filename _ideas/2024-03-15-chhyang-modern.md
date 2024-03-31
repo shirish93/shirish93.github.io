@@ -3,9 +3,12 @@ layout: post
 title:  "Taking Nepal's traditional rice drink Chhyang to the next level by modernizing production, marketing and sales of Chhyang"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/chhyang.png
 ---
 
 Imagine the intoxicating aroma of fermenting rice filling your kitchen, the warm glow of community spirit around you, and the satisfaction of preserving a cherished cultural tradition. This isn't just a daydream; it's the essence of starting your own "ChhangFriend" business, and this guide will be your compass on this unique entrepreneurial journey.
+
+<img src="../assets/images/chhyang2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
 
 ### Cultivating Culture through Commerce: A Guide to Starting Your ChhangFriend Business
 
@@ -30,6 +33,8 @@ Marketing goes beyond mere promotion. Think long-term community building. Partne
 **Step 5: Expand Your Horizons, Cater to Curiosity:**
 
 As your ChhangFriend venture blossoms, consider diversifying your offerings. Introduce traditional flavorings like ginger, herbs, or even spices -- a tantalizing adventure for the more adventurous brewers. Explore online tutorials and workshops, offering deeper dives into the art of chhyang brewing and creating a continuous learning platform for your community. Tap into the economic potential by partnering with local governments to promote cultural tourism and support regional development. Every step strengthens your business and the cultural movement you represent.
+
+<img src="../assets/images/chhyang3.png" width="75%" Title="A vision of what it might look like" Align="RIGHT" />
 
 **Beyond Profits: The ChhangFriend Difference:**
 

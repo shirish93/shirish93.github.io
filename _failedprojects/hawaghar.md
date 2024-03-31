@@ -6,12 +6,12 @@ categories: [ innovation, postmortem, ideas ]
 image: assets/images/hawaghar.png
 ---
 
-**Introduction** Early to mid-2010s, inspired by Peter Thiel and the "unschooling" concept, I wanted to start a learning space for folks to offer and take unaccredited classes on various skills and topics. I called it Hawaghar.
+Early to mid-2010s, inspired by Peter Thiel and the "unschooling" concept, I wanted to start a learning space for folks to offer and take unaccredited classes on various skills and topics. I called it Hawaghar.The implementation failed miserably, but important lessons were learned.
 
 **The Inspiration**
 In the early to mid-2010s, the "unschooling" movement was all the rage. Inspired by Peter Thiel's "unschooling" fund, a minor industry of complementary institutions and learning centers marketing themselves as alternatives to regular college education had sprung up like mushrooms. It made sense at the time: the internet had opened up a vast trove of freely available educational materials, including syllabuses, homework assignments, and even recorded video lectures from all major educational institutions. What more could one need besides a community of like-minded people and a coordinator to hold everyone accountable to their courses? I wanted to start a learning space where everyone could offer and take courses, teaching life skills, academic content, creative hobbies, and anything in between. It would be a place for learning, collaboration, and presentation. Think of it as a cross between your local community college and community center, but in Kathmandu, where those institutions didn't exist.
 
-<img src="../assets/images/hawaghar_poster.png" width="30%" Title="The original flyer for the pilot program" Align="LEFT" />
+<img src="../assets/images/hawaghar_poster.png" width="75%" Title="The original flyer for the pilot program" Align="LEFT" />
 
 **More Than Just an Idea:** It would be more than just a virtual space or an idea. It would be a physical space where events, classes, and workshops would be organized. It would also come with a website to coordinate all those events and a community relations team to hold it all together. The target audience was individuals who wanted to improve themselves, who were curious, and hungry for knowledge and skills. We would host corporate events, but only if we really, really needed to. That was the original idea.
 

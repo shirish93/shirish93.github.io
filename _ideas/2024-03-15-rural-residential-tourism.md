@@ -3,6 +3,7 @@ layout: post
 title:  "Reviving rural Nepal by hosting and aggressive marketing long-term residential tourism in remote scenic villages"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/homestay.png
 ---
 Nepal possesses breathtaking landscapes and rich cultural heritage, attracting tourists worldwide. However, many remote villages suffer from out-migration, leaving abandoned houses and untapped potential. This proposal presents a unique solution: transforming these houses into bed and breakfasts and stay-homes for long-term tourists, offering an immersive experience while reviving the local economy and preserving cultural heritage.
 

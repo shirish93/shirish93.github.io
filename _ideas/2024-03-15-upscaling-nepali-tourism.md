@@ -3,6 +3,7 @@ layout: post
 title:  "Upscaling Nepali tourism: changing the marketing strategy to attract tourists to increase revenue per visitor"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/tourism.png
 ---
 
 By upscaling the current tourism offerings, focusing on luxury experiences and attracting premium tourists, both the government and local communities can benefit from increased revenue, better infrastructure, and improved living standards. This proposal offers several strategies towards that vision.
@@ -27,11 +28,13 @@ luxury travel expos and events to create a strong presence for Nepalese tourism.
 4. Safety & Security Measures: Establish well-defined safety protocols, ensure local law enforcement agencies are trained and equipped to handle emergencies, and develop clear
 communication channels between the government and tourists to maintain a positive image of Nepal as a safe travel destination.
 
+<img src="../assets/images/stick-dancers1.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
 #### Success Metrics:
 1. Visitor satisfaction ratings
 2. Revenue per visitor
 3. Average hotel prices for non-Nepali tourists
 4. Improvements in community welfare
+
 
 #### Leveraging Nepal as a Destination for Pink Tourism:
 Nepal has the potential to become a leading destination for Pink Tourism, offering a safe, supportive, and engaging experience for LGBTQ travelers from around the world. By embracing this niche market, the country can not only drive increased tourism revenue but also promote greater social acceptance and equality for its local LGBTQ community. To leverage Nepal as a destination for Pink Tourism, consider the following strategies:
@@ -47,6 +50,7 @@ LGBTQ history, immersive culinary experiences at local eateries, or workshops fe
 5. Collaborate with international organizations: Partner with global LGBTQ tourism groups and influencers to raise awareness about Nepal as a welcoming destination for the
 community and tap into existing networks of potential visitors.
 
+<img src="../assets/images/stick-dancers2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
 #### Leveraging Nepal as a Destination for Peace Tourism:
 By embracing Peace Tourism, Nepal can provide an educational and immersive experience for travelers while fostering understanding and dialogue among diverse cultures. To leverage this niche market, consider the following strategies:
 
