@@ -3,6 +3,7 @@ layout: post
 title:  "Using Nepal's municipal websites as a proxy for transparency: strengthening local government accountability data-driven efforts"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/accountability.png
 ---
 
 This proposal outlines the establishment of a non-profit organization dedicated to promoting transparency and accountability among local governments in Nepal. By focusing on **automating data collection and evaluating data availability**, the organization will empower citizens, improve service delivery, and strengthen citizen-government relations.
@@ -38,6 +39,9 @@ Accountability Nepal will:
 -   **Phase 2 (Expansion):** Scale up to encompass all municipalities and expand data categories based on success and feedback.
 
 -   **Technology & Collaboration:** Leverage existing platforms and APIs wherever possible. Partner with relevant government agencies, civil society organizations, and media outlets for wider reach and expertise.
+
+<img src="../assets/images/accountability1.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
+
 
 **Impact:**
 
