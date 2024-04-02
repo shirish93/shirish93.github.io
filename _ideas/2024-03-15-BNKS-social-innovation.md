@@ -3,6 +3,7 @@ layout: post
 title:  "Leveraging Budhanilkantha School's Unique Assets for an Innovation Edge"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/bnks.png
 ---
 
 This proposal outlines an innovative roadmap for BNKS, leveraging its unique assets to empower students, create positive societal impact, and solidify its position as a leader in forward-thinking education. The proposal presents a phased approach, starting with impactful pilot programs and evolving towards ambitious initiatives that capitalize on BNKS's land size, diverse student body, successful alumni network, and prestigious reputation.
