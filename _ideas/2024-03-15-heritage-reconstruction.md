@@ -15,7 +15,7 @@ This proposal presents a unique and sustainable approach to preserving and revit
 Many traditional houses in these iconic city centers face numerous challenges. Age, natural disasters, and lack of resources often lead to deterioration, threatening their cultural significance and posing safety risks. This proposal addresses this challenge by creating a win-win solution for homeowners, investors, and the community.
 
 
-<img src="../assets/images/heritage1.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/heritage1.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 
 **3. Proposed Solution:**
 
@@ -53,7 +53,7 @@ Our program involves:
 
 -   **Long-Term Sustainability:** Expanding the program to new houses, attracting tourism-related businesses as investors, and establishing a dedicated project management structure will ensure long-term viability.
 
-<img src="../assets/images/heritage2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/heritage2.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 
 
 **7. Call to Action:**

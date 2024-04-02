@@ -19,12 +19,12 @@ But collecting recipes is just the beginning.**Delve deeper** as we meticulously
 
 This is more than just research; it's a cultural revolution.**Share your findings through academic publications, workshops, and community events**, fostering knowledge dissemination and preserving Nepal's rich fermentation traditions.**Empower local communities** by promoting sustainable production practices and fair trade within the marcha and chhyang industry, contributing to economic development and uplifting those who hold the keys to this cultural treasure.
 
-<img src="../assets/images/marcha2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/marcha2.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 **Imagine positioning Nepal as the "capital of chhang culture,"** showcasing the diverse tapestry of chhyang flavors born from unique marcha variations. Like Sake for Japan and Makkoli for Korea,**envision chhyang becoming a symbol of Nepal's rich heritage, attracting tourism and export opportunities.**
 
 This is not just an opportunity for scientific discovery; it's a chance to **embody cultural preservation, economic empowerment, and national pride**. With each collected recipe, each recreated chhyang, you'll unravel the whispers of marcha, weaving a new chapter in the story of Nepal's cultural tapestry.**This is a story waiting to be told, a song waiting to be sung, and we invite you to be a part of amplifying its voice for the world to hear.**
 
-<img src="../assets/images/marcha3.png" width="75%" Title="A vision of what it might look like" Align="RIGHT" />
+<img src="../assets/images/marcha3.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 Unearthing the Secrets of Marcha: Unveiling the Science Behind Nepali Chhyang
 -----------------------------------------------------------------------------
 

@@ -18,7 +18,7 @@ Kathmandu and Lalitpur's once-vibrant riverfronts face multifaceted challenges. 
 
 -   **Community Disconnect:** Alienated residents lose access to a valuable recreational resource, fostering apathy and hindering engagement in restoration efforts.
 
-<img src="../assets/images/riverfront1.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/riverfront1.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 
 **Aligning Interests for Sustainable Solutions:**
 
@@ -40,7 +40,7 @@ Our approach goes beyond addressing individual challenges. We recognize the inte
 
 -   **Public-Private Partnerships:** Forge alliances with businesses, NGOs, and government agencies to leverage resources, expertise, and funding for impactful projects.
 
-<img src="../assets/images/riverfront2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/riverfront2.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 
 **Pollution Abatement as a Collective Responsibility:**
 
@@ -64,7 +64,7 @@ We propose a five-year phased approach, starting with:
 
 -   **Year 5:** Conduct impact assessment, refine strategies, and ensure project sustainability through community ownership and capacity building.
 
-<img src="../assets/images/riverfront3.png" width="75%" Title="A vision of what it might look like" Align="RIGHT" />
+<img src="../assets/images/riverfront3.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 
 
 **Conclusion:**
