@@ -3,6 +3,7 @@ layout: post
 title:  "Shuttling laptops in carts: foiled by lack of clear and united team vision"
 author: shirish
 categories: [ innovation, postmortem, ideas, laptops, ecosystem ]
+images: assets/images/laptop.png
 ---
 
 My idea was for a local business to purchase dozens of laptops and shuttle them across different community schools within a neighborhood. At the time, laptops were not as affordable or as common as they are today, and community schools had a limited supply of desktop computers for computer science classes. 
@@ -22,6 +23,8 @@ By increasing the utilization rate of the laptops, the initial investment for th
 **Initial Challenges and the Pilot Project**
 
 People I discussed the idea with doubted that local schools would buy in, believing the existing structure wouldn't be open to such a novel concept. It was surprising then that we were able to secure a pilot project with six community schools located reasonably close to each other. I had a small team of volunteers who had agreed to donate their time. Funding was a challenge, but I had applied for several innovation grants and was confident the pilot project would go smoothly. By the end, I had invested nine months of work and was quite invested in the execution of the pilot.
+
+<img src="../assets/images/laptop2.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 
 **Funding Disagreement Breakdown**
 

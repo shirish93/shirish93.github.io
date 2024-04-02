@@ -3,6 +3,7 @@ layout: post
 title:  "OLPC project: a failure to understand the limits of technology"
 author: shirish
 categories: [ innovation, postmortem, ideas, olpc ]
+image: assets/images/olpc.png
 ---
 
 You can't just hand a hundred laptops out without significantly adapting the syllabus and the pedagogy, they told us. We refused to believe our energy and drive wouldn't be enough. We were wrong.
@@ -22,6 +23,8 @@ So we partnered with a local organization: [https://www.olenepal.org/](https://w
 We went to multiple management meetings, did presentations in front of the school several times, urging everybody to consider bringing in the project, to sign the MoU for the pilot. We went to a couple of schools in India, much better-resourced than ours, and pleaded our case.
 
 A principal offered to buy a hundred units, on the spot, on behalf of the targets of the pilot project. We were unfortunately only 17, and in no position to make the connection between the funding partners and the suppliers of the laptop.
+
+<img src="../assets/images/olpc1.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 
 **The Challenge of Content**
 
