@@ -3,7 +3,7 @@ layout: post
 title:  "Organizing ward-level festivals in Kathmandu and Lalitpur to strengthen the Spirit of the historic cities"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-images: assets/images/festival3.png
+image: assets/images/festival3.png
 ---
 
 This proposal presents a solution:**ward-level festivals** designed to strengthen local spirit, cultivate a sense of community ownership, and encourage civic engagement. Kathmandu and Lalitpur, vibrant cities teeming with diverse communities and rich cultural heritage, face challenges in fostering a strong sense of local belonging. Many residents, particularly young adults, lack engagement with their neighborhoods, leading to issues like littering, apathy towards community events, and low political participation. 
