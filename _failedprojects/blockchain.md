@@ -3,6 +3,7 @@ layout: post
 title:  "The great dream, and the betrayal, of Blockchain: lessons from Grad School"
 author: shirish
 categories: [ innovation, postmortem, ideas, laptops, ecosystem ]
+image: assets/images/blockchain.png
 ---
 
 During my graduate studies at UMass Amherst in 2017, distributed computing was a hot topic. Blockchain technology, in particular, held immense promise for the future. Ethereum was supposed to be next big thing, Solidity the programming language of choice. I was skeptical, but one must seriously consider the most outlandish ideas for some potential or other. I enrolled in a series of Distributed Application Programming (DAP) courses. My aim was to gain a solid academic foundation in this rapidly evolving field.

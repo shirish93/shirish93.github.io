@@ -3,6 +3,7 @@ layout: post
 title:  "A food research and development company: foiled by factors far beyond our control"
 author: shirish
 categories: [ innovation, postmortem, ideas, food-research ]
+image: assets/images/food-research.png
 ---
 
 The idea was to research, develop, market, and sell new and novel health food products into the Nepali market. Our target audience was the health-conscious upper-middle class and foreign "returnees" familiar with Western health-food culture. The idea failed because we didn't realize the non-food aspects of business growth, the the factors influencing customer trends.
