@@ -26,7 +26,7 @@ This project proposes the adoption of digital fabrication technologies for repli
 
 -   **Offer custom designs** based on traditional patterns or user specifications.
 
-<img src="../assets/images/trad-new.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/trad-new.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 
 **4. Impact and Benefits**
 

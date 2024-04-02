@@ -3,6 +3,7 @@ layout: post
 title:  "Upskilling Nepali migrant workers for increased wages and improved workplace leverage"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/migrant2.png
 ---
 
 This proposal presents a transformative solution for the low-skilled Nepali migrant problem: a comprehensive skills upskilling program designed to empower low-skilled Nepali migrant workers seeking employment in construction, agriculture, and service industries abroad. By equipping them with valuable skills and enhancing their employability, we aim to unlock a brighter future for both the workers and the nation.
@@ -22,6 +23,8 @@ The global demand for skilled labor in industries like construction, agriculture
 
 Currently, most Nepali migrant workers occupy low-skilled, labor-intensive jobs with limited earning potential. Their lack of specialized skills translates to stagnant wages, restricted job mobility, and increased vulnerability to exploitation. While existing skills development programs cater to the broader population, they often lack the reach, relevance, and affordability for low-skilled migrant workers. This leaves a significant portion of the workforce trapped in a cycle of low wages and limited opportunities.
 
+<img src="../assets/images/migrant.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
+
 **3. Envisioning a Brighter Future: The Power of Targeted Skills Training**
 
 Our proposed program offers a targeted solution to address the challenges faced by low-skilled Nepali migrant workers. We believe that by providing them with relevant and marketable skills, we can empower them to access better-paying jobs, improve their overall well-being, and contribute more meaningfully to Nepal's economic development.
@@ -31,6 +34,8 @@ The program will offer two key components:
 -   **Pre-departure Training:** A 30-day intensive program focusing on job-specific technical skills aligned with market demand. The curriculum will be tailored to different sectors, offering modules in areas like masonry, carpentry, window-cleaning, hospitality training, and basic construction practices. Training will be delivered through a combination of classroom instruction, practical workshops, and language skills enhancement.
 
 -   **Vacation Upskilling Opportunities:** Recognizing the unique schedules of migrant workers, the program will offer short modules during their vacations in Nepal. These modules will allow workers to either enhance their existing skills or acquire new ones based on evolving market needs, ensuring their continued relevance and competitiveness.
+
+<img src="../assets/images/migrant2.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 
 **4. Collaboration: Building a Network of Support**
 

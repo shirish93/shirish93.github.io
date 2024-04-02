@@ -3,6 +3,7 @@ layout: post
 title:  "Organizing ward-level festivals in Kathmandu and Lalitpur to strengthen the Spirit of the historic cities"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+images: assets/images/festival3.png
 ---
 
 This proposal presents a solution:**ward-level festivals** designed to strengthen local spirit, cultivate a sense of community ownership, and encourage civic engagement. Kathmandu and Lalitpur, vibrant cities teeming with diverse communities and rich cultural heritage, face challenges in fostering a strong sense of local belonging. Many residents, particularly young adults, lack engagement with their neighborhoods, leading to issues like littering, apathy towards community events, and low political participation. 
@@ -19,6 +20,7 @@ The lack of a strong local identity in Kathmandu and Lalitpur manifests in sever
 
 These challenges not only hinder the development of vibrant communities but also impede effective governance and hinder the cities' potential.
 
+
 **The Power of Community Festivals:**
 
 Ward-level festivals offer a unique opportunity to address these challenges by fostering a sense of shared identity and encouraging active participation. By bringing together residents, businesses, and local organizations in a festive environment, these events can:
@@ -32,6 +34,8 @@ Ward-level festivals offer a unique opportunity to address these challenges by f
 -   **Reduce littering:** By fostering a sense of ownership and responsibility for shared spaces, the festivals can encourage responsible waste management practices.
 
 -   **Nurture cultural pride:** Celebrating local traditions and showcasing artistic talent can instill a sense of pride in the community and its heritage.
+
+<img src="../assets/images/festival.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 
 **Envisioning the Festivals:**
 
@@ -70,6 +74,8 @@ The success of these festivals hinges on effective implementation and management
 -   **Volunteer participation:** Community members will be encouraged to volunteer their skills and time, fostering ownership and engagement.
 
 -   **Transparency and accountability:** Regular communication and financial transparency will build trust and ensure responsible management.
+
+<img src="../assets/images/festival2.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 
 **Measuring Impact:**
 

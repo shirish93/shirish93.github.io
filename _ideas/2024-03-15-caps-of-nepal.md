@@ -3,6 +3,7 @@ layout: post
 title:  "Caps of Nepal: A business idea to celebrate Nepal's cultural diversity"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
+image: assets/images/caps.png
 ---
 "Caps of Nepal" is an innovative business venture aiming to celebrate this cultural diversity by offering curated collections of traditional headwear from various ethnic communities across the country. Nepal, nestled in the Himalayas, boasts a rich tapestry of cultures and traditions, each expressed through unique art forms, languages, and attire. Headwear, particularly traditional caps, plays a significant role in Nepalese cultural identity and social expression. 
 

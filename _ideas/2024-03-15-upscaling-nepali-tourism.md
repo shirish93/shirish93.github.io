@@ -28,7 +28,7 @@ luxury travel expos and events to create a strong presence for Nepalese tourism.
 4. Safety & Security Measures: Establish well-defined safety protocols, ensure local law enforcement agencies are trained and equipped to handle emergencies, and develop clear
 communication channels between the government and tourists to maintain a positive image of Nepal as a safe travel destination.
 
-<img src="../assets/images/stick-dancers1.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/stick-dancers1.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 #### Success Metrics:
 1. Visitor satisfaction ratings
 2. Revenue per visitor
@@ -50,7 +50,7 @@ LGBTQ history, immersive culinary experiences at local eateries, or workshops fe
 5. Collaborate with international organizations: Partner with global LGBTQ tourism groups and influencers to raise awareness about Nepal as a welcoming destination for the
 community and tap into existing networks of potential visitors.
 
-<img src="../assets/images/stick-dancers2.png" width="75%" Title="A vision of what it might look like" Align="LEFT" />
+<img src="../assets/images/stick-dancers2.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 #### Leveraging Nepal as a Destination for Peace Tourism:
 By embracing Peace Tourism, Nepal can provide an educational and immersive experience for travelers while fostering understanding and dialogue among diverse cultures. To leverage this niche market, consider the following strategies:
 
