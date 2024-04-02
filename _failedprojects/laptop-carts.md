@@ -3,7 +3,7 @@ layout: post
 title:  "Shuttling laptops in carts: foiled by lack of clear and united team vision"
 author: shirish
 categories: [ innovation, postmortem, ideas, laptops, ecosystem ]
-images: assets/images/laptop.png
+image: assets/images/laptop.png
 ---
 
 My idea was for a local business to purchase dozens of laptops and shuttle them across different community schools within a neighborhood. At the time, laptops were not as affordable or as common as they are today, and community schools had a limited supply of desktop computers for computer science classes. 
