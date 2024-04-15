@@ -5,6 +5,8 @@ author: shirish
 categories: [ funding ]
 ---
 
+LLink to the other document, and say I'm willing to fund so-and-so amount if people are going to do so-and-so work.
+
 Marcha - travel Nepal, collect recipes and marcha from all across the country, do a taste and microbiological analysis of the samples. Collect stories.
     * What exactly is my ask?
     * What credentials/experience do the applicants need to have to get the funding?

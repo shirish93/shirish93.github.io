@@ -5,16 +5,20 @@ author: shirish
 categories: [ fun-facts, about ]
 ---
 
-A proud hack.diversity engineering mentor five years in a row. "Five years Jeremy, five, that's too many!"[link to the meme] Looking forward to five more years!
+* **Hack.Diversity Mentor:**  A proud mentor for Hack.Diversity for five years running!  [link to mentorship page]  Looking forward to many more years of helping others on their tech journeys.
 
-I like Seattle for its beautiful weather. There, I said it. Four years in the PNW, and it's just the beginning of this journey!
-My current favourite hobby is gel printing. The trick, I've learned, is to wait for the agar plates to set and not eat them like a jelly candy.
-Not to overstate my case, but Seattle & the PNW in Summer gets as close to heaven as is possible.
-As a co-organizer of two TEDx events, I can say this with great authority: organizing large events is hard, man, specially when it involves important(TM) people.
+* **Life-Long Learner:** I've donned the hats of student and researcher at six different universities and colleges across the globe. There's always something new to discover!
 
-My life's ultimate calling would be to become a full-time historian of food and culture in Tibet and Nepal. Barring that, whatever I'm doing right now.
-That 'party-size' bag of Doritos I've been known to finish in one sitting is like social media to me. It ain't good for you, but nobody's making it illegal!
+* **Seattle Sunshine Fan:**  Yes, I said it! Three years strong in the PNW, and I'm loving the beauty, nature, and (dare I say) the weather! Seattle summers are pretty darn close to perfect heaven!
 
-I am having so much fun, I'll work on it for 30 more minutes, rest is for the weak, goes the calling cry of the person who burnt themselves out having fun.
+* **Gel Printing Guru:**  My current artistic obsession is gel printing.  Top tip: patience is key!  Let the agar plates set before indulging (they're not candy!).
 
-A billionaire and a close confidant to the British Prime Minister, a sitting U.S. Congressman, and an MD of one of the most prestigious private equity tech investors in the country. What do they all have in common? They all interviewed me for jobs, and then hired me! If you would like to be in their company by hiring me(or interview me to validate your theory that successful people make poor decisions all the time!) email me at <a href="mailto:hired@shirish.me">hired@shirish.me</a>.
+* **TEDx Organizer:**  Co-organizing two TEDx events was an amazing (and occasionally stressful) experience.  Let's just say wrangling VIPs is a challenge!
+
+* **Food & Culture Historian (Aspiring):**  My ultimate life goal: To become a full-time historian exploring the delicious food and rich culture of Tibet and Nepal. Until then, I'm happy with my chosen vocation.
+
+* **Rest is for the Weary:**  "Rest is for the weak" is a motto I try NOT to live by.  Balance is key, even for those who love having fun! 
+
+* **Get in Touch:**  Interested in working together?  Shoot me an email at [your email address].
+
+**Humblebrag Connections [FEEL FREE TO IGNORE!]:** A billionaire and a close confidant to the British Prime Minister, a U.S. Congressman, and an MD of one of the most prestigious private equity investors in the U.S. What do they all have in common? They have all interviewed me for various jobs, and then hired me for the position! If you would like to be in their company by hiring me(or interview me to validate your theory that successful people make poor decisions all the time!) email me at <a href="mailto:hired@shirish.me">hired@shirish.me</a>.

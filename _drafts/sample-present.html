@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Presentation</title>
+    <!-- Link to the reveal.js CSS file -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.0.4/reveal.min.css">
+    <!-- Theme for the presentation -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.0.4/theme/black.min.css">
+    <!-- Optional libraries -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.0.4/plugin/highlight/monokai.min.css">
+    <!-- Your custom CSS file (optional) -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <style>
+    .slides section {
+        background-color: #fff5e6; /* Eggshell white background */
+        color: black;
+        padding: 20px;
+        font-size: 24px;
+        line-height: 1.5;
+    }
+
+    ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+    li {
+        opacity: 0;
+        animation: slideIn 0.5s ease forwards;
+    }
+
+    @keyframes slideIn {
+        from {
+            opacity: 0;
+            transform: translateY(50px); /* Slide in from below */
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    /* Animation for alternating list items */
+    li:nth-child(odd) {
+        animation-name: slideInFromLeft;
+    }
+
+    li:nth-child(even) {
+        animation-name: slideInFromRight;
+    }
+
+    @keyframes slideInFromLeft {
+        from {
+            opacity: 0;
+            transform: translateX(-50px); /* Slide in from the left */
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+
+    @keyframes slideInFromRight {
+        from {
+            opacity: 0;
+            transform: translateX(50px); /* Slide in from the right */
+        }
+        to {
+            opacity: 1;
+            transform: translateX(0);
+        }
+    }
+</style>
+
+</head>
+<body>
+ <div class="reveal">
+        <div class="slides">
+            <!-- Slide 1 -->
+            <section>
+                <h1>Getting ready to graduate</h1>
+                <h3>Taking your product to the market</h3>
+                <p>Shirish Pokharel</p>
+                <ul>
+                    <li>What is ‘graduation’ for a product?</li>
+                    <li>When the initial design, prototyping, and testing phase is done</li>
+                    <li>Taking it to customers to sell, validate, and get feedback</li>
+                    <li>Even if not 100% ready, a demoable prototype is good enough</li>
+                    <li>Marketing, and sales takes over from the development team</li>
+                    <li>Great time to learn about your assumptions, and market situation!</li>
+                </ul>
+            </section>
+
+            <!-- Slide 2 -->
+            <section>
+                <h1>Why graduate</h1>
+                <ul>
+                    <li>At some point you’ll run out of money developing the product!</li>
+                    <li>Or the group funding you will run out of money and/or patience!</li>
+                    <li>Because you’re ready to make real money!</li>
+                    <li>If your product doesn’t make it to the market, you have very little to show for your future endeavors</li>
+                    <li>You’ll get a good sense of where your future direction should be headed</li>
+                </ul>
+            </section>
+
+            <!-- Slide 3 -->
+            <section>
+                <h1>Preparing mentally for graduation</h1>
+                <ul>
+                    <li>Just like preparing for college graduation, mentally prepare that the world ‘out there’ is going to be harder</li>
+                    <li>Understand that there’s going to be a lot of initial hurdles, but you have created a worthy product that the market deserves to get</li>
+                    <li>You will need to put on your ‘sales and marketing’ hat on from now on, be prepared for the change in lifestyle</li>
+                    <li>There will be a lot of competitors doing similar things, it’s good news! That means the market understands the value of your product</li>
+                    <li>Start thinking from the perspective of the future customers, and what they want</li>
+                </ul>
+            </section>
+
+            <!-- Slide 4 -->
+            <section>
+                <h1>What’s next?</h1>
+                <ul>
+                    <li>Prepare a list of all your strengths, and what’s great about your product</li>
+                    <li>Think from the customer perspective, not engineering perspective: how will the customer be able to generate $$$ from your features?</li>
+                    <li>Prepare a ’competitive advantage’ document: among all of of the competitors in the market, what’s so great about you? What’s your niche?</li>
+                    <li>Prepare a technical brochure: a couple of pages (online, physical, any) listing your major features, and how awesome your product is!</li>
+                    <li>Prepare a video/real-time demo of your product, using it as your customer would, and explain how the product is generating value</li>
+                </ul>
+            </section>
+
+            <!-- Slide 5 -->
+            <section>
+                <h1>Talking to the King</h1>
+                <ul>
+                    <li>Use your industry leads to identify top 50 potential customers, start with a list of the 10 likeliest ones.</li>
+                    <li>Call them and offer to run your demo for them, explaining what your business is</li>
+                    <li>Practice the ”sales pitch” AKA what you are going to tell the customer in-person, a hundred times! It better be really good!</li>
+                    <li>Meet the customer in person, give them the sales pitch, and follow up after a couple of days. Keep following up until they either buy, or reject you!</li>
+                    <li>Even if they don’t want your product, ask if they know anybody who would get value from it, and follow up on them.</li>
+                </ul>
+            </section>
+
+            <!-- Slide 6 -->
+            <section>
+                <h1>Immediate steps</h1>
+                <ul>
+                    <li>Come talk to me, schedule an appointment for your projects, and identify your strengths, and make future plans!</li>
+                    <li>Get in the sales and marketing mindset! If your customer doesn’t hear about you, they won’t buy from you! If you give a bad sales pitch, they won’t know how good your product is!</li>
+                    <li>Remember: you have to sell the product for yourself more than anything else. You’ve spent a lot of time and energy towards it, and you want the world to see it, feel it, appreciate it!</li>
+                    <li>Make sure your product is visible in NIC Marketing and PR.</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+    <!-- Link to the reveal.js JavaScript file -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.0.4/reveal.js"></script>
+    <!-- Optional libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/5.0.4/plugin/highlight/highlight.min.js"></script>
+    <!-- Initialization script -->
+    <script>
+        // Wait for the document to be fully loaded before initializing reveal.js
+                document.addEventListener('DOMContentLoaded', function () {
+            // Initialize reveal.js
+            Reveal.initialize({
+                // Choose your reveal.js options here
+                hash: true, // Enable slide hash URLs
+                transition: 'slide', // Choose the default transition (slide in this case)
+                backgroundTransition: 'slide', // Choose the background transition (slide in this case)
+                width: '100%', // Set the presentation width
+                height: '100%', // Set the presentation height
+            });
+        });
+    </script>
+</body>
+</html>

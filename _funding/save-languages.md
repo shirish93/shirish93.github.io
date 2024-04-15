@@ -5,6 +5,9 @@ author: shirish
 categories: [ funding, language ]
 ---
 
+
+
+What's the order? How would the evaluation work? Youtube and tiktok primary? How to make the language popular?
 Language - Save our languages! Offer language courses, digitize dictionaries, youtube videos in those languages with Nepali/English subtitles. What are the possibilities here!
 * What exactly is my ask?
 * What credentials/experience do the applicants need to have to get the funding?
