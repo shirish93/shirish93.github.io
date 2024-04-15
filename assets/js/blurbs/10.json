@@ -1,1 +1,1 @@
-{"id": 10, "url": "https://shirish.me/socials", "title": "Shirish Pokharel social media", "body": "This bit is from the old website, I'll be putting in new content here soon, this will be my well-updated social media page. Until then, here's the cha"}
+{"id": 10, "url": "https://shirish.me/page2/", "title": "Home", "body": "{% if page. url == \u201c/\u201d %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %} "}
