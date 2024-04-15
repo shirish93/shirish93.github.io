@@ -64,3 +64,6 @@ collections:
   failedprojects:
     output: true
     permalink: /:collection/:title
+  aboutme:
+    output: true
+    permalink: /:collection/:title

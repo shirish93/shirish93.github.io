@@ -8,7 +8,7 @@ categories: [ resume ]
 
 **Contact**
 
-* Email: hire@shirish.me | Website: shirish.me | GitHub: github.com/shirish93
+* Email: hire@shirish.me | Website: shirish.me | GitHub: [github.com/shirish93]
 * Seattle, WA
 
 **Programming Languages**
@@ -57,7 +57,7 @@ categories: [ resume ]
 **Product & Innovation**
 
 * **Product Organization Director** | National Innovation Center, Tribhuvan University, Kathmandu Nepal | Jan 2022 - Ongoing
-    * Initiated the creation of the entire product organization at the non-profit which is an engineering accelerator (nicnepal.org)
+    * Initiated the creation of the entire product organization at the non-profit which is an engineering accelerator [nicnepal.org]
     * Mentored team leads and CEO's in their journey, helping them focus on costumer's need-based focus instead of engineer-driven focus
     * Defined product vision, managed backlogs, prioritized features, and ensured alignment with stakeholder needs.
     * Hired and mentored interns and trained them for product owner roles, fostering a culture of innovation and collaboration.
@@ -75,8 +75,8 @@ categories: [ resume ]
         * On-device deployment of machine-learning models to client devices
         * Influencer/Online Content Creator insurance
 * **Technical Mentor** | Hack.Diversity | Jan 2022 – Present (3 years)
-* **Intern Manager** | Solaria Labs @ Liberty Mutual | Jan 2021 – Aug 2022 (2 years)
-* **Intern Manager** | Liberty Mutual Personal Insurance | Aug 2015 – Sept 2016 (1 year)
+* **Intern Mentor** | Solaria Labs @ Liberty Mutual | Jan 2021 – Aug 2022 (2 years)
+* **Intern Mentor** | Liberty Mutual Personal Insurance | Aug 2015 – Sept 2016 (1 year)
     * Designed and structured technical projects for engineering interns, empowering them to work on production-ready projects.
     * Mentored interns at a personal and professional level, emphasizing ownership of their projects.
     * Hosted "programming bootcamp" for interns and trained them for engineering interviews.

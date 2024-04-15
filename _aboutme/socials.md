@@ -1,10 +1,12 @@
 ---
-layout: page
-title: Shirish Pokharel social media
+layout: post
+title:  "Social media and me"
+author: shirish
+categories: [ social-media, online ]
 permalink: /socials
-comments: true
 ---
 
+##  LINK TO THE SOCIAL MEDIA PAGE ABOUT HOW I'M NOT ON ANY. OR MAYBE THIS SHOULD GO TO THAT PAGE?
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
@@ -20,3 +22,9 @@ This bit is from the old website, I'll be putting in new content here soon, this
 <h4>Linkedin</h4> I'm not on Linkedin and have never been.
 <br>
 <h4>Quora</h4> I'm not on Quora and don't plan on getting into it. The Shirish Pokharel in there is not me.
+
+explain how I'm not on any social media, why, and how this website is my social media.
+My theory of social media. MY BELIEF IN SOCIAL MEDIA, THE THEORY
+
+
+
