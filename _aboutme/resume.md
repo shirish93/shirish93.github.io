@@ -3,6 +3,7 @@ layout: post
 title:  "Resume"
 author: shirish
 categories: [ resume ]
+permalink: /resume
 ---
 ## Shirish Pokharel
 
