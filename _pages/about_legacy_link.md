@@ -20,7 +20,7 @@ comments: true
 
 <p>If you find the fun facts (see below) don't satiate you, you can get an extra dose of humblebrag and achievements [here]({{ site.url }}{% link _aboutme/fun-facts.md %})</p>
 
-<p>This website is about 80% complete. Some pages are still being edited, contact is being added, and some features are on the buggier side. Check out the search bar on the top right to see a slightly buggy implementation of in-page search!</p>
+<p>This website is about 80% complete. Some pages are still being edited, content is being added, and some features are on the buggier side. Check out the search bar on the top right to see a slightly buggy implementation of in-page search!</p>
 
 
 <a href="../assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="../assets/images/team-small.jpg"></p></a>
