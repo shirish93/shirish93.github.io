@@ -15,7 +15,7 @@ Tired of the boring professional face of the rest of the website? Well here you'
 
 * **Seattle Sunshine Fan:**  Yes, I said it! Three years strong in the Pacific NorthWest, and I'm loving the beauty, nature, and (dare I say) the weather! Seattle summers are pretty close to perfect heaven!
 
-* **Gel Printing Guru:**  My current artistic obsession is gel printing.  Top tip: patience is key!  Let the agar plates set before indulging.
+* **Gel Printing Novice:**  My current artistic obsession is gel printing.  Top tip: patience is key!  Let the agar plates set before indulging.
 
 * **TEDx Organizer:**  Co-organizing two TEDx events was an amazing (and occasionally stressful) experience.  Let's just say wrangling VIPs and training them to present on a given format is a challenge!
 
