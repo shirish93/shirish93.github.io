@@ -5,7 +5,7 @@ author: shirish
 categories: [ fermentation, hobby ]
 ---
 
-This timeline charts the experiences, both grand and quirky, that have shaped who I am today.
+Hi I'm Shirish and this timeline charts the experiences, both grand and tiny, that have shaped who I am today.
 
 **2008: Big Interviews, Big Troubles:** As student reporter, I interviewed two of Nepal's most prominent figures: the Prime Minister and the President. I was horrified to discover that my compliment to the [Prime Minister](https://en.wikipedia.org/wiki/Girija_Prasad_Koirala) on writing an autobiography "nobody's as big as you" was likely misinterpreted, as he was famously tall. Ahh youthful naivety.
 

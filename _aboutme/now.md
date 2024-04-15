@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  ""
+title:  "What am I up to this very moment?"
 author: shirish
-categories: [ fermentation, hobby ]
+categories: [ now ]
+permalink: /now
 ---
 
-Create a template so that each of those entries appear as a 'social media post'...
+### TODO: Create a template so that each of those entries appear as a 'social media post'...
 
 What am I up to right now, over the course of the last two weeks or so?
   * Talk about hobbies progress.

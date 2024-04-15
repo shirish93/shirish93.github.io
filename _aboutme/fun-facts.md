@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  ""
+title:  "Fun facts about me"
 author: shirish
 categories: [ fun-facts, about ]
 ---
 
-* **Hack.Diversity Mentor:**  A proud mentor for Hack.Diversity for five years running!  [link to mentorship page]  Looking forward to many more years of helping others on their tech journeys.
+Tired of the boring professional face of the rest of the website? Well here you'll find a more personal touch: my interests and hobbies, and exciting things I've done in the past. And a little bit of humblebrag, if I may!
+
+* **Hack.Diversity Mentor:**  I've been a proud mentor for Hack.Diversity[link here] for five years running!  [link to mentorship page]  Looking forward to many more years of helping others on their tech journeys.
 
 * **Life-Long Learner:** I've donned the hats of student and researcher at six different universities and colleges across the globe. There's always something new to discover!
 
