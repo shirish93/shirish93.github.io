@@ -14,13 +14,14 @@ comments: true
 
 <p>As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
 
-<p>If your interests here are strictly professional, my resume can be found [here]({{ site.url }}{% link _aboutme/resume.md %})</p>
+<p>If your interests here are strictly professional, my resume can be found <a href="{{ site.url }}{% link _aboutme/resume.md%}">here</a>.</p>
 
-<p>A 'timeline' of interesting things I've been doing in the past 15 or so years can be found [here]({{ site.url }}{% link _aboutme/timeline.md %})</p>
+<p>A 'timeline' of interesting things I've been doing in the past 15 or so years can be found <a href="{{ site.url }}{% link _aboutme/timeline.md %}">here</a>.</p>
 
-<p>If you find the fun facts (see below) don't satiate you, you can get an extra dose of humblebrag and achievements [here]({{ site.url }}{% link _aboutme/fun-facts.md %})</p>
+<p>If you find the fun facts (see below) don't satiate you, you can get an extra dose of humblebrag and achievements <a href="{{ site.url }}{% link _aboutme/fun-facts.md %}">here</a>.</p>
 
 <p>This website is about 80% complete. Some pages are still being edited, content is being added, and some features are on the buggier side. Check out the search bar on the top right to see a slightly buggy implementation of in-page search!</p>
+
 
 <a href="assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="assets/images/team-small.jpg"></p></a>
 
