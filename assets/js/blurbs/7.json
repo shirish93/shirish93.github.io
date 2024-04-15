@@ -1,1 +1,1 @@
-{"id": 7, "url": "https://shirish.me/", "title": "Home", "body": "{% if page. url == \u201c/\u201d %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %} "}
+{"id": 7, "url": "https://shirish.me/ideas", "title": "Steal these ideas!", "body": "Here's a list of proposals, ready to be worked on! These are the ideas I believe will change the way people live and interact with their social and ph"}

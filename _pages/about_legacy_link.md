@@ -14,7 +14,7 @@ comments: true
 
 <p>As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
 
-<a href="assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="assets/images/team-small.jpg"></p></a>
+<a href="../assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="../assets/images/team-small.jpg"></p></a>
 
 <p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p> If you think this stuff is all rather silly, I disagree! Read <a href="https://www.shirish.me/diverse-hobbies">this post</a> I wrote for a retort.
 <ul>
@@ -38,7 +38,7 @@ comments: true
 <div class="container">
 <div class="row justify-content-md-center">
 <div class="w-90 p-3">
-<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="assets/images/profile/small.png" id="homepage-image"></p>
+<p class="mb-5"><img class="shadow-lg" alt="Image of the man described above." src="../assets/images/profile/small.png" id="homepage-image"></p>
 </div>
 </div>
 </div>
