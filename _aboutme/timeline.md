@@ -2,7 +2,7 @@
 layout: post
 title:  "A personal timeline of errors and achievements"
 author: shirish
-categories: [ fermentation, hobby ]
+categories: [ timeline ]
 ---
 
 Hi I'm Shirish and this timeline charts the experiences, both grand and tiny, that have shaped who I am today.

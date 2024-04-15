@@ -7,8 +7,7 @@ permalink: /socials
 ---
 
 ##  LINK TO THE SOCIAL MEDIA PAGE ABOUT HOW I'M NOT ON ANY. OR MAYBE THIS SHOULD GO TO THAT PAGE?
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+
 
 <p>
 This bit is from the old website, I'll be putting in new content here soon, this will be my well-updated social media page. Until then, here's the chaff for the algorithm gods.
