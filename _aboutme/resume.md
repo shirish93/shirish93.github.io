@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: summary
 title:  "Resume"
 author: shirish
 categories: [ resume ]

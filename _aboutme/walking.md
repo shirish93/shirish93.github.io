@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: summary
 title:  ""
 author: shirish
 categories: [ fermentation, hobby ]
