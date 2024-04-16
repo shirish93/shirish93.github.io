@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: summary
 title:  "Social media and me"
 author: shirish
 categories: [ social-media, online ]

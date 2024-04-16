@@ -44,14 +44,6 @@ post_class: post-template
                     </div>
                 {% endif %}
                 <!-- End Toc -->
-                <h6>
-                    {% capture words %}
-                    {{ content | number_of_words | minus: 180 }}
-                    {% endcapture %}
-                    {% unless words contains '-' %}
-                    {{ words | plus: 150 | divided_by: 150 | prepend: 'Estimated reading time: ' | append: " minutes" }}
-                    {% endunless %}
-                </h6>
                 {{content}}
             </div>
 

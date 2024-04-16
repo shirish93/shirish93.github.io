@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: summary
 title:  "A personal timeline of errors and achievements"
 author: shirish
 categories: [ timeline ]
