@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: summary
 title:  "Fun facts about me"
 author: shirish
 categories: [ fun-facts, about ]

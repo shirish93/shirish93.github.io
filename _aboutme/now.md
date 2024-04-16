@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: summary
 title:  "What am I up to this very moment?"
 author: shirish
 categories: [ now ]
