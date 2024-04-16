@@ -12,6 +12,17 @@ In the coming days and months, I'll create template so that each individual entr
 
 In this space, I will talk about the following, so be prepared!
 
+<link href="{{ site.url }}/assets/css/tooltip.css" rel="stylesheet">
+
+<div class="tooltip-left">
+This is my latest message, on date so and so
+</div>
+
+<div class="tooltip-right">
+This is my second-to-latest message, on date so and so
+</div>
+
+
 What am I up to right now, over the course of the last two weeks or so?
   * Talk about hobbies progress.
     * Walking? How is it going? New Routes? New discoveries? New experiences?
