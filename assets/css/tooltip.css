@@ -6,6 +6,16 @@
     text-align: center;
 }
 
+.date-box{
+    margin-right: auto;
+    font-size: .7em;
+    margin-bottom:0;
+    bottom: 0;
+    position:absolute;
+    right:1em;
+    color: #AAB8C2;
+  }
+
 /* HTML: <div class="tooltip">This is the same as #5 but with another shape for the tail </div> */
 .tooltip-right {
     color: #14171A;
