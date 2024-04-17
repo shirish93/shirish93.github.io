@@ -19,7 +19,8 @@ This is my latest message, on date so and so
 </div>
 
 <div class="message tooltip-right">
-This is my second-to-latest message, on date so and so
+Happy to share with the world that I just had a burrito, and let me tell you, oh what a burrito it was, one of the best burritos ever!
+<div class="date-box">-Shirish on Jan 12, 2023 from Seattle, WA</div>
 </div>
 
 
