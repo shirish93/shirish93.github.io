@@ -14,11 +14,11 @@ In this space, I will talk about the following, so be prepared!
 
 <link href="{{ site.url }}/assets/css/tooltip.css" rel="stylesheet">
 
-<div class="messages tooltip-left">
+<div class="message tooltip-left">
 This is my latest message, on date so and so
 </div>
 
-<div class="messages tooltip-right">
+<div class="message tooltip-right">
 This is my second-to-latest message, on date so and so
 </div>
 
