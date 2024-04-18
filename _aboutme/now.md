@@ -28,6 +28,20 @@ This is my latest message, on date so and so
 <div class="date-box">-Shirish on Jan 12, 2023 from Seattle, WA</div>
 </div>
 
+{% for update in site.aboutme.updates %}
+<div class="message tooltip-right">
+  <div class='cont'>
+  {{update.content}}
+  </div>
+  {% if update.image %}
+  <div class="img">
+    <img src="{{update.image}}">
+  </div>
+  {% endif %}
+<div class="date-box">-Shirish on {{ update.date | default: {{ site.time | date: '%B %d, %Y' }}}} from {{ update.location | default: Seattle, WA }}</div>
+</div>
+{% endfor %}
+
 
 
 What am I up to right now, over the course of the last two weeks or so?
