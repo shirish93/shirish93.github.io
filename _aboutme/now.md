@@ -29,7 +29,7 @@ This is my latest message, on date so and so
 </div>
 
 {% for update in site.data.updates %}
-<div class="message tooltip-right">
+<div class="message tooltip-{%cycle left, right%}">
   <div class='cont'>
   {{update.content}}
   </div>
@@ -38,7 +38,7 @@ This is my latest message, on date so and so
     <img src="{{update.image}}">
   </div>
   {% endif %}
-<div class="date-box">-Shirish on {{ update.date | default: "now" | date: "%B %d, %Y" }} from {{ update.location | default: Seattle, WA }}</div>
+<div class="date-box">-Shirish on {{ update.date | default: "now" | date: "%B %d, %Y" }} from {{ update.location | default: "Seattle, WA" }}</div>
 </div>
 {% endfor %}
 
