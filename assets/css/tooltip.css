@@ -1,3 +1,38 @@
+.thumbnail {
+    position: relative;
+    z-index: 1;
+  }
+  
+  .thumbnail:hover {
+    background-color: transparent;
+    z-index: 500;
+  }
+  
+  .thumbnail span {
+    /*CSS for enlarged image*/
+    position: absolute;
+    /*padding: 5px;*/
+    left: -1000px;
+    width: 15em;
+    /*border: 1px dashed gray;*/
+    visibility: hidden;
+    color: black;
+    text-decoration: none;
+  }
+  
+  .thumbnail span img {
+    /*CSS for enlarged image*/
+    border-width: 0;
+    padding: 2px;
+  }
+  
+  .thumbnail:hover span {
+    /*CSS for enlarged image on hover*/
+    visibility: visible;
+    top: 0;
+    left: 100%; /*position where enlarged image should offset horizontally */
+  }
+
 
 .message {
     margin-top: 2em;
