@@ -19,9 +19,15 @@ This is my latest message, on date so and so
 </div>
 
 <div class="message tooltip-right">
-Happy to share with the world that I just had a burrito, and let me tell you, oh what a burrito it was, one of the best burritos ever!
+  <div class='cont'>
+  Happy to share with the world that I just had a burrito, and let me tell you, oh what a burrito it was, one of the best burritos ever!
+  </div>
+  <div class="img">
+    <img src="https://www.shirish.me/assets/images/profile/4.jpg">
+  </div>
 <div class="date-box">-Shirish on Jan 12, 2023 from Seattle, WA</div>
 </div>
+
 
 
 What am I up to right now, over the course of the last two weeks or so?
