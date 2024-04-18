@@ -38,8 +38,7 @@ This is my latest message, on date so and so
     <img src="{{update.image}}">
   </div>
   {% endif %}
-  {% assign defaultdate = site.time | date: '%B %d, %Y' %}
-<div class="date-box">-Shirish on {{ update.date | default: defaultdate }} from {{ update.location | default: Seattle, WA }}</div>
+<div class="date-box">-Shirish on {{ update.date | default: "now" | date: "%B %d, %Y" }} from {{ update.location | default: Seattle, WA }}</div>
 </div>
 {% endfor %}
 
