@@ -1,6 +1,9 @@
-- content: This is one of by better pictures, it looks pretty decent, doesnt it?
+- content: Just finished making a gallon of yogurt because the milk was about to expire! Perhaps it's time for me to make dried, preserved yogurt? Hmm.
+  date: Apr 17, 2024
+
+- content: > This is also a test message, where I'm definining date, image and location. It validates that my very rudimentary implementation of 'social updates' feature done through yaml files has been a success. I can edit yaml files and succeed. Next goal: to use thumbnail versions of the attached images instead of full-strength ones, and link them to the main version. But that's for a later day. Also, this shows that I can post long multi-line, multiparagraph messages...
   date: April 17, 2024
   image: https://www.shirish.me/assets/images/profile/4.jpg
   location: Seattle, WA
 
-- content: This message has no metadata attached to it, and all of the variables are pre-poopulated defaults. Looks alright to me?
+- content: > This is a test message, it has no metadata attached to it, and all of the variables are pre-poopulated defaults. Looks alright to me? The posted date will look a bit strange, but that's a price we're willing to pay.
