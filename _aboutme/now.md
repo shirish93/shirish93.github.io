@@ -29,7 +29,7 @@ This is my latest message, on date so and so
 </div>
 
 {% for update in site.data.updates %}
-<div class="message tooltip-{%cycle left, right%}">
+<div class="message tooltip-{% cycle 'left', 'right' %}">
   <div class='cont'>
   {{update.content}}
   </div>
