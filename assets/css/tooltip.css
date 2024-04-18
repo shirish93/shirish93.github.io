@@ -2,8 +2,9 @@
 .message {
     margin-top: 2em;
     margin-bottom: 2em;
-    max-width: 95%;
+    max-width: 100%;
     text-align: center;
+    box-shadow: 3px 3px 5px 6px #ccc;
 }
 
 .date-box{
@@ -17,17 +18,17 @@
   }
 
 .cont{
-margin-bottom:1em;
+    margin-bottom:1.5em;
 }
 
 
 .img{
-margin-bottom: .5em;
-border-width: .4em;
-background-color: gray;
-border: aliceblue;
-filter: drop-shadow(.1em .04em .1em black);
-margin-bottom: 1.5em;
+    margin-bottom: .5em;
+    border-width: .4em;
+    background-color: gray;
+    border: aliceblue;
+    filter: drop-shadow(.1em .04em .1em black);
+    margin-bottom: 1.5em;
 }
 /* HTML: <div class="tooltip">This is the same as #5 but with another shape for the tail </div> */
 .tooltip-right {
