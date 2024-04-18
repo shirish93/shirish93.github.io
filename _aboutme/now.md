@@ -28,7 +28,7 @@ This is my latest message, on date so and so
 <div class="date-box">-Shirish on Jan 12, 2023 from Seattle, WA</div>
 </div>
 
-{% for update in site.aboutme.updates %}
+{% for update in site.data.updates %}
 <div class="message tooltip-right">
   <div class='cont'>
   {{update.content}}
