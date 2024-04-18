@@ -1,8 +1,6 @@
-- content: This is what the content of the message looks like.
+- content: This is one of by better pictures, it looks pretty decent, doesnt it?
   date: April 17, 2024
   image: https://www.shirish.me/assets/images/profile/4.jpg
   location: Seattle, WA
 
-- content: This is what the content of the message looks like.
-  date: April 17, 2024
-  image: https://www.shirish.me/assets/images/profile/4.jpg
+- content: This message has no metadata attached to it, and all of the variables are pre-poopulated defaults. Looks alright to me?
