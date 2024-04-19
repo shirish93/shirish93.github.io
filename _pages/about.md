@@ -15,13 +15,16 @@ comments: true
 <p>As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
 
 <p>
-{% assign resume_link ="{{ site.url }}{% link _aboutme/resume.md%}" %}
+{% assign resume_link = "{{ site.url }}/resume" %}
 {% include thumbnail.html link=resume_link text="My resume" image="thumbnails/resume.webp" %} is available if your interests are strictly professional.
 If your interests here are strictly professional, my resume can be found <a href="{{ site.url }}{% link _aboutme/resume.md%}">here</a>.</p>
 
+{% assign timeline_link ="{{ site.url }}/aboutme/timeline" %}
+{% include thumbnail.html link=timeline_link text="A personal timeline" image="thumbnails/timeline.webp" %} of interesting things I have done in the past 15 years or so, if that interests you.
 <p>A 'timeline' of interesting things I've been doing in the past 15 or so years can be found <a href="{{ site.url }}{% link _aboutme/timeline.md %}">here</a>.</p>
 
-
+{% assign funfacts_link ="{{ site.url }}/aboutme/fun-facts%}" %}
+{% include thumbnail.html link=funfacts_link text="Fun and interesting facts" image="thumbnails/funfacts.webp" %} about me, if those at the bottom of this page (see below the image) are found unsatisfactory.
 <p>If you find the fun facts (see below) don't satiate you, you can get an extra dose of humblebrag and achievements <a href="{{ site.url }}{% link _aboutme/fun-facts.md %}">here</a>.</p>
 
 <p>This website is about 80% complete. Some pages are still being edited, content is being added, and some features are on the buggier side. Check out the search bar on the top right to see a slightly buggy implementation of in-page search!</p>
