@@ -14,7 +14,10 @@ comments: true
 
 <p>As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
 
-<p>If your interests here are strictly professional, my resume can be found <a href="{{ site.url }}{% link _aboutme/resume.md%}">here</a>.</p>
+<p>
+{% assign resume_link ="{{ site.url }}{% link _aboutme/resume.md%}" %}
+{% include thumbnail.html link=resume_link text="My resume" image="thumbnails/resume.webp" %} is available if your interests are strictly professional.
+If your interests here are strictly professional, my resume can be found <a href="{{ site.url }}{% link _aboutme/resume.md%}">here</a>.</p>
 
 <p>A 'timeline' of interesting things I've been doing in the past 15 or so years can be found <a href="{{ site.url }}{% link _aboutme/timeline.md %}">here</a>.</p>
 
