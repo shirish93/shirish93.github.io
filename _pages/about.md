@@ -26,15 +26,11 @@ comments: true
 <p>
 {% assign funfacts_link = "/aboutme/fun-facts" %} 
 {% include thumbnail.html link=funfacts_link text="Fun and interesting facts" image="thumbnails/funfacts.webp" %} about me, if those at the bottom of this page (see below the image) are found unsatisfactory.
-<</p>
+</p>
 
 <p>This website is about 80% complete. Some pages are still being edited, content is being added, and some features are on the buggier side. Check out the search bar on the top right to see a slightly buggy implementation of in-page search!</p>
 
-<a class="thumbnail" href="#thumb">This<span><img src="https://www.shirish.me/assets/images/profile/2.jpg"></span></a> is a custom link that will be used for all of the links.
-
 <a href="assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="assets/images/team-small.jpg"></p></a>
-
-{% include thumbnail.html link="shirish.me" text="This" image="profile/2.jpg" %} is a custom link that should work.
 
 <p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p> If you think this stuff is all rather silly, I disagree! Read <a href="https://www.shirish.me/diverse-hobbies">this post</a> I wrote for a retort.
 <ul>
