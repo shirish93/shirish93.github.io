@@ -7,7 +7,7 @@ comments: true
 
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
-
+<link href="{{ site.url }}/assets/css/tooltip.css" rel="stylesheet">
 <p>Hi, I'm Shirish Pokharel!</p>
 
 <p>I go by 'Shirish' which is pronounced Si-Reash. My last name is pronounced Pokharel -- Poe-Kh-Rael.</p>
