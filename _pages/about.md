@@ -23,7 +23,7 @@ If your interests here are strictly professional, my resume can be found <a href
 {% include thumbnail.html link=timeline_link text="A personal timeline" image="thumbnails/timeline.webp" %} of interesting things I have done in the past 15 years or so, if that interests you.
 <p>A 'timeline' of interesting things I've been doing in the past 15 or so years can be found <a href="{{ site.url }}{% link _aboutme/timeline.md %}">here</a>.</p>
 
-{% assign funfacts_link ="{{ site.url }}/aboutme/fun-facts%}" %}
+{% assign funfacts_link ="{{ site.url }}/aboutme/fun-facts" %} 
 {% include thumbnail.html link=funfacts_link text="Fun and interesting facts" image="thumbnails/funfacts.webp" %} about me, if those at the bottom of this page (see below the image) are found unsatisfactory.
 <p>If you find the fun facts (see below) don't satiate you, you can get an extra dose of humblebrag and achievements <a href="{{ site.url }}{% link _aboutme/fun-facts.md %}">here</a>.</p>
 
