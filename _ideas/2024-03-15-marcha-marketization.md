@@ -13,7 +13,7 @@ Imagine immersing yourself in the vibrant tapestry of Nepali culture, uncovering
 
 **Join us on an extraordinary expedition**, traversing diverse landscapes and collaborating with local communities, ethnic cultural organizations, and even government bodies. You'll journey into the heart of traditional kitchens, learning from generations-old wisdom as you meticulously record the whispers of each unique marcha variation. Each ingredient, each step, each murmured secret becomes a woven thread in a tapestry of cultural and scientific discovery.
 
-But collecting recipes is just the beginning.**Delve deeper** as we meticulously recreate each variation with the expertise of our master chhyang brewer. Each meticulously recreated chhyang becomes a bridge between tradition and science, allowing you to analyze its properties, distinct flavors, and the cultural significance whispered within.
+But collecting recipes is just the beginning.**Explore deeper** as we meticulously recreate each variation with the expertise of our master chhyang brewer. Each meticulously recreated chhyang becomes a bridge between tradition and science, allowing you to analyze its properties, distinct flavors, and the cultural significance whispered within.
 
 **Experience the symphony of flavors through a captivating sensorial journey**. In a double-blind taste test, guided by relevant adjectives, you'll become a translator of chhyang's language, offering objective descriptions that unravel its hidden depths. Meanwhile, agar cultures unveil the orchestra of microbes within each marcha, revealing the incredible diversity that defines Nepal's unique fermentation heritage.
 
@@ -122,7 +122,7 @@ Our research embarks on a captivating journey to unlock these secrets. We stand 
 
 Imagine traversing diverse landscapes, collaborating with local communities, ethnic cultural organizations, and even governmental bodies. We envision ourselves nestled in traditional kitchens, learning from generations-old wisdom, carefully recording the whispers of each marcha variation. Each ingredient, each step, each murmur woven into the fabric of our research.
 
-But merely collecting recipes is not enough. We delve deeper, recreating each variation. Our lead researcher, a master chhyang brewer, breathes life into these ancient secrets. Each meticulously recreated chhyang becomes a bridge between tradition and science, allowing us to analyze its properties, its distinct flavors, its whispers of cultural significance.
+But merely collecting recipes is not enough. We go deeper, recreating each variation. Our lead researcher, a master chhyang brewer, breathes life into these ancient secrets. Each meticulously recreated chhyang becomes a bridge between tradition and science, allowing us to analyze its properties, its distinct flavors, its whispers of cultural significance.
 
 Our sensory analysis, employing a double-blind taste test, captures the subjective symphony of flavors. Each participant, guided by relevant adjectives, becomes a translator of chhyang's language. Meanwhile, agar cultures reveal the hidden orchestra of microbes within each marcha, their diversity a testament to Nepal's unique fermentation heritage.
 

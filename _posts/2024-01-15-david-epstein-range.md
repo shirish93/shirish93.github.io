@@ -14,7 +14,7 @@ Epstein's central thesis in "Range" is bold and potentially disruptive to our in
 
 David Epstein's "Range" caught my attention because it tackles a belief long-held in sports, arts and high-performance industries. Challenging the conventional wisdom of early specialization, Epstein argues that generalists, not specialists, are primed to excel in complex and unpredictable fields. This resonated deeply with me, as building successful teams requires more than just deep technical expertise. We need leaders who can think broadly, draw from diverse experiences, and navigate uncertainty with agility. The book validated confirmed that understanding.
 
-In this review, I'll explore how "Range" has impacted my understanding of leadership. We'll delve into Epstein's arguments, his supporting evidence, and ultimately assess whether his thesis holds water in today's competitive landscape. This review is tailored specifically for those seeking, or currently in the roles as engineers, or engineering leaders.
+In this review, I'll explore how "Range" has impacted my understanding of leadership. We'll thread through Epstein's arguments, his supporting evidence, and ultimately assess whether his thesis holds water in today's competitive landscape. This review is tailored specifically for those seeking, or currently in the roles as engineers, or engineering leaders.
 
 Epstein's central thesis in "Range" is bold and potentially disruptive to our ingrained beliefs about success. He argues that individuals who embrace diverse experiences and develop a broader range of skills outperform specialists in complex and unpredictable environments. This flies in the face of the conventional wisdom that champions early specialization and deliberate practice in a single domain.
 
@@ -52,7 +52,7 @@ Some readers might find the arguments overly broad. The book covers diverse fiel
 
 Despite those foibles, "Range" stands out within the self-improvement genre by focusing on the benefits of generalism. While other books often emphasize specialization and mastery, Epstein offers a unique perspective on the advantages of a broader skillset, an interesting perspective to consider. Epstein's other strength is in exploring diverse fields by drawing from various disciplines, offering a wider lens than publications focused on a single domain.
 
-I found the book most similar to Malcolm Gladwell's "Outliers": Both explore the paths to success, but "Range" delves deeper into the psychological and cognitive aspects, offering a more nuanced perspective. The book was unfairly maligned for the '10,000 hours' rule which it disavowed in the first few chapters.
+I found the book most similar to Malcolm Gladwell's "Outliers": Both explore the paths to success, but "Range" goes deeper into the psychological and cognitive aspects, offering a more nuanced perspective. The book was unfairly maligned for the '10,000 hours' rule which it disavowed in the first few chapters.
  
 Overall, "Range" offers a valuable addition to the conversation about success and personal development, providing a unique perspective on the power of generalism in today's complex world. It adopts an engaging and persuasive tone, drawing readers in with personal anecdotes, relatable examples, and humor. Epstein avoids overly technical jargon, making the complex ideas accessible to a broad audience. However, some might find the tone slightly sensationalized at times, particularly when presenting counterintuitive arguments against deep specialization.
 

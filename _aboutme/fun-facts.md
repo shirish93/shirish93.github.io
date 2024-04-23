@@ -5,7 +5,7 @@ author: shirish
 categories: [ fun-facts, about ]
 ---
 
-Tired of the boring professional face of the rest of the website? Well here you'll find a more personal touch: my interests and hobbies, and exciting things I've done in the past. And a little bit of humblebrag, if I may!
+Here you'll find my interests and hobbies, and exciting things I've done in the past. And a little bit of humblebrag, if I may!
 
 * **Hack.Diversity Mentor:**  I've been a proud mentor for [Hack.Diversity](https://www.hackdiversity.com/) for five years running! [link to mentorship page, still a work in progress...]  Looking forward to many more years of helping others on their tech journeys.
 

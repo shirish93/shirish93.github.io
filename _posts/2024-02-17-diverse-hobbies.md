@@ -10,7 +10,7 @@ My journey with juggling multiple unrelated hobbies suggests that engineers with
 
 **From mad-scientist to Problem-Solver**
 
-The traditional image of a software engineer rarely includes fermentation vats with big blobs floating inside them, or paintbrushes. My personal journey fermenting unique beverages reveals an unexpected truth: diverse hobbies can unlock potent tools for engineers, helping them tackle complex challenges with ingenuity. This essay delves into this transformative potential, we will explore how seemingly unrelated pursuits cultivate valuable skills and perspectives that ignite innovation in engineering.
+The traditional image of a software engineer rarely includes fermentation vats with big blobs floating inside them, or paintbrushes. My personal journey fermenting unique beverages reveals an unexpected truth: diverse hobbies can unlock potent tools for engineers, helping them tackle complex challenges with ingenuity. This essay discusses this transformative potential, we will explore how seemingly unrelated pursuits cultivate valuable skills and perspectives that ignite innovation in engineering.
 
 **Beyond Technical Expertise**
 

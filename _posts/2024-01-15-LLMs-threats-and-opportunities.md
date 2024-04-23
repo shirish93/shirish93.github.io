@@ -14,7 +14,7 @@ Here's the story of how I became an LLM convert. LLM's can be quite good at some
 
 The sterile fluorescent lights of the lecture hall buzzed overhead, casting a studious glow on the sea of students hunched over laptops. We were delving into the intricacies of engineering leadership, deciphering the philosophies of industry titans and academics alike. My mind hummed with its own nascent theory, a unique perspective shaped by my experiences, yet I struggled to navigate the labyrinth of frameworks and competing ideas. How could I structure my thoughts? Where would I begin presenting my argument?
 
-Enter Gemini, the LLM, my unlikely partner in this journey of intellectual exploration. Initially skeptical, I tentatively fed it my jumbled collection of insights and emerging questions. What followed was impressive. Gemini didn't simply offer regurgitated facts or predefined models - it became a sounding board, reflecting my ideas back in a clearer, more structured light. It prodded me with questions I hadn't considered, revealing blind spots and pushing me to delve deeper into nuances I'd deemed insignificant. In doing so, it acted as a catalyst, forcing me to articulate my thoughts with precision, identify key concepts, and map out a compelling narrative.
+Enter Gemini, the LLM, my unlikely partner in this journey of intellectual exploration. Initially skeptical, I tentatively fed it my jumbled collection of insights and emerging questions. What followed was impressive. Gemini didn't simply offer regurgitated facts or predefined models - it became a sounding board, reflecting my ideas back in a clearer, more structured light. It prodded me with questions I hadn't considered, revealing blind spots and pushing me to explore deeper into nuances I'd deemed insignificant. In doing so, it acted as a catalyst, forcing me to articulate my thoughts with precision, identify key concepts, and map out a compelling narrative.
 
 The process wasn't seamless. There were moments of frustration, grappling with Gemini's limitations in understanding the human nuances of leadership or the complexities of my specific arguments. However, it forced me to refine my own understanding, rephrase my thoughts with clarity, and  sharpen the core tenets of my philosophy. With each iteration, my essay evolved, not just in structure but also in depth and conviction[^1].
 
@@ -73,7 +73,7 @@ While unlikely, considering worst-case scenarios helps guide responsible develop
 
 Remember, addressing these threats is a shared responsibility. Industry, governments, academia, and users all have a role to play in ensuring LLMs are developed and used ethically and responsibly. Open dialogue, continuous evaluation, and proactive mitigation strategies are essential for harnessing the immense potential of LLMs while safeguarding society from potential harms.
 
-Here, we delve deeper into specific threats and explore potential solutions:
+Here, we list specific threats and explore potential solutions:
 
 **Bias and Fairness:**
 

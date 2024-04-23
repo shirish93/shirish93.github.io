@@ -26,7 +26,7 @@ The sequel, Children of Ruin, takes place millennia after the events of the firs
 
 ## From Alien Minds to Algorithmic Ethics
 
-The series delves further, posing profound questions about the nature of intelligence and consciousness. The rise of the spider civilization, with its distributed intelligence and hive mind mentality, challenges our anthropocentric understanding of these concepts. This exploration sparks discussions among engineers on:
+The series goes further, posing profound questions about the nature of intelligence and consciousness. The rise of the spider civilization, with its distributed intelligence and hive mind mentality, challenges our anthropocentric understanding of these concepts. This exploration sparks discussions among engineers on:
 
 __The potential and limitations of artificial intelligence__: The spider civilization's collective intelligence offers a glimpse into the potential of advanced AI. What are the ethical considerations involved in developing and deploying such technologies?
 __Redefining intelligence beyond human norms__: The books challenge our assumptions about what constitutes intelligence. How can we broaden our perspectives to recognize and appreciate different forms of intelligence, both within and beyond human society?

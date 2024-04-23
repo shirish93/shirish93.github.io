@@ -29,7 +29,7 @@ Additionally, some recommendations, especially in later chapters, felt overly op
 
 Overall, "Tinker Dabble Doodle Try" offers valuable insights into the power of "unfocused" thinking for engineers. However, its effectiveness could be improved by focusing on practical techniques, omitting irrelevant and non-scientific topics, and providing clearer guidance on implementation within the structured environment of engineering teams and projects.
 
-"Tinker Dabble Doodle Try" shines when it delves into practical techniques and case studies directly relevant to software engineers. 
+"Tinker Dabble Doodle Try" shines when it gets into practical techniques and case studies directly relevant to software engineers. 
 
 ### Key Strenghts
 
@@ -37,7 +37,7 @@ Overall, "Tinker Dabble Doodle Try" offers valuable insights into the power of "
 
 2. Enhancing Creativity: The book offers various exercises to stimulate creative thinking, particularly useful for tackling complex design challenges. Experimenting with new technologies, exploring different programming languages, or engaging in artistic pursuits can spark unexpected connections and lead to out-of-the-box solutions.
 
-3. Boosting Problem-Solving: The book delves into how "unfocused" activities can improve problem-solving skills. Techniques like "mind-mapping," "brainstorming in unusual settings," and "using metaphors" can help readers break down complex problems, identify hidden patterns, and arrive at more elegant solutions.
+3. Boosting Problem-Solving: The book explains into how "unfocused" activities can improve problem-solving skills. Techniques like "mind-mapping," "brainstorming in unusual settings," and "using metaphors" can help readers break down complex problems, identify hidden patterns, and arrive at more elegant solutions.
 
 4. Encouraging Collaboration: The book emphasizes the importance of fostering a culture of "unfocused exploration" within engineering teams. Collaborative brainstorming sessions, hackathons, and even encouraging team members to pursue personal hobbies unrelated to work can lead to cross-pollination of ideas and unexpected breakthroughs. I've written on the final point [extensively]({% post_url 2024-02-17-diverse-hobbies %}) 
 

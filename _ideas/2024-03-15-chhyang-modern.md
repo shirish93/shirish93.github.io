@@ -70,7 +70,7 @@ Imagine the intoxicating aroma of fermenting rice filling your kitchen, the warm
 
 Unearthing the Cultural Gem:
 
-Before diving into business strategies, immerse yourself in the rich tapestry of chhyang. Travel to local villages, witness families gather around pots of bubbling brew, and listen to stories passed down through generations. Delve into the folklore surrounding chhyang, understand its role in festivals and celebrations, and appreciate the skill involved in the brewing process. This connection to the cultural heart of chhyang will not only ignite your passion but also inform your business decisions, guiding you towards offerings that resonate with your audience.
+Before diving into business strategies, immerse yourself in the rich tapestry of chhyang. Travel to local villages, witness families gather around pots of bubbling brew, and listen to stories passed down through generations. Explore the folklore surrounding chhyang, understand its role in festivals and celebrations, and appreciate the skill involved in the brewing process. This connection to the cultural heart of chhyang will not only ignite your passion but also inform your business decisions, guiding you towards offerings that resonate with your audience.
 
 Crafting Your Kit, Cultivating Curiosity:
 
