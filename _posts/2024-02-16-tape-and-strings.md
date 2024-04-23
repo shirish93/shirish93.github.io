@@ -14,7 +14,7 @@ Imagine pouring your heart and soul into crafting the perfect software system,  
 
 Let's take a recent example from within my own company. We worked on a pilot project that started as a proof of concept of a new technology. Initially designed to showcase the potential of a new technology, it quickly captured the attention of management and stakeholders. Faced with an urgent need to deliver, the team opted to launch the system in its proof-of-concept form, knowing it wasn't perfect but recognizing its immediate value. This decision, while unorthodox for the company, proved successful, providing the business with critical functionality while the team iterated and improved the underlying infrastructure.
 
-The "duct-tape and strings" approach -- which so many of us are right to be suspicious of -- isn't inherently bad; it's a tool within our toolbox, with its own set of advantages and disadvantages. This essay will delve deeper into these considerations, examining the rationale behind building to spec, exploring the benefits and drawbacks of the "duct-tape and strings" philosophy, and discussing how we can leverage both approaches to achieve optimal results.
+The "duct-tape and strings" approach -- which so many of us are right to be suspicious of -- isn't inherently bad; it's a tool within our toolbox, with its own set of advantages and disadvantages. This essay will go deeper into these considerations, examining the rationale behind building to spec, exploring the benefits and drawbacks of the "duct-tape and strings" philosophy, and discussing how we can leverage both approaches to achieve optimal results.
 
 ### Building Systems to Spec vs. Perfect Systems from the Start
 

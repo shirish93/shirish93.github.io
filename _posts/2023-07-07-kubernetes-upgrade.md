@@ -46,7 +46,7 @@ The true test of our resilience emerged shortly after successfully navigating th
 
 * **Deployment Failures:** Our engineers had observed failures in deployments initiated from scratch a few weeks approaching the upgrade. This unexpected behavior indicated potential compatibility issues, prompting us to investigate further. Upon closer examination, we assumed that the Calico network policy engine, a crucial component responsible for network security within the cluster, remained on an un-upgraded version, and that was causing the deployment issues. This incompatibility, coupled with the changes introduced during the upgrade process, appeared to be the culprit behind the observed deployment failures.
 
-This seemingly isolated incident would snowball into a cascade of interconnected problems, demanding urgent attention and a daylong all-hands debugging session. The next part of this essay delves into this series of interconnected errors and the crucial steps we took to recover and ensure the successful completion of the upgrade process.
+This seemingly isolated incident would snowball into a cascade of interconnected problems, demanding urgent attention and a daylong all-hands debugging session. The next part of this essay looks into this series of interconnected errors and the crucial steps we took to recover and ensure the successful completion of the upgrade process.
 
 
 ### A Cascade of Interconnected Errors and the Road to Recovery

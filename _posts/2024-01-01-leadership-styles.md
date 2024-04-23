@@ -32,7 +32,7 @@ What is important to understand is that a leader can excel at any one of these s
 
 A quote often (wrongly) attributed to Mark Twain goes: _Only kings, presidents, editors, and people with tapeworms have the right to use the editorial ‘we’._ Despite that, I will refer to myself in the plural hereon, as the framework, once out in the work doesn't belong to my person anymore. Let us proceed.
 
-Throughout this essay, we delve deeper into each dimension, exploring key attributes, strengths, and potential limitations of each. We showcase real-world examples of engineering leaders who embody these characteristics, highlighting the impact of their diverse styles.
+Throughout this essay, we explore deeper into each dimension, exploring key attributes, strengths, and potential limitations of each. We showcase real-world examples of engineering leaders who embody these characteristics, highlighting the impact of their diverse styles.
 
 #### Spiritual Leadership
 

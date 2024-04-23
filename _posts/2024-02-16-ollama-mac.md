@@ -114,7 +114,7 @@ Interaction:
 
 Beyond the Basics: Exploring Advanced Features and Future Prospects
 
-This section delves into the broader capabilities of Ollama and explores the potential of local LLMs in the future.
+This section goes into the broader capabilities of Ollama and explores the potential of local LLMs in the future.
 
 8. Programmatic Access with Ollama's API:
 

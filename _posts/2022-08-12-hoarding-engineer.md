@@ -12,11 +12,11 @@ Even well-run organizations can fall into the trap of 'hoarding' their star perf
 
 Imagine a dusty attic overflowing with heirlooms, gathering cobwebs instead of enriching lives. This image perfectly captures the irony of hoarding mentality in software engineering, where top performers – the organization's most valuable assets – are often underutilized, their potential locked away like precious antiques.
 
-This essay delves into the detrimental effects of hoarding top performers in engineering, from what I have witnessed in some organizations. We'll explore the negative consequences, advocate for a more empowering alternative, and equip ourselvesv with tools to champion a shift towards consistent utilization.
+This essay discusses the detrimental effects of hoarding top performers in engineering, from what I have witnessed in some organizations. We'll explore the negative consequences, advocate for a more empowering alternative, and equip ourselvesv with tools to champion a shift towards consistent utilization.
  
 I witnessed this firsthand in a Kathmandu engineering firm, where a highly skilled engineer was kept on the sidelines for "big emergencies," while their colleagues struggled with everyday challenges. This experience left me deeply troubled, not just by the underutilization of talent, but by the missed opportunities and hampered efficiency it caused.
  
-This sparked a burning question: how can organizations break free from this limiting approach and unleash the true power of their human capital? In this essay, we'll delve into the "use-it-or-lose-it" reality of hoarding psychology in software engineering, exploring its negative consequences and advocating for a more empowering alternative.
+This sparked a burning question: how can organizations break free from this limiting approach and unleash the true power of their human capital? In this essay, we'll talk about the "use-it-or-lose-it" reality of hoarding psychology in software engineering, exploring its negative consequences and advocating for a more empowering alternative.
 
 ### From Orchestras to Engineering Teams
 
@@ -70,6 +70,6 @@ Despite the inertia, demonstrating the alignment of interests between individual
 3. Data-driven approach: Quantifying the negative impacts of hoarding and the potential gains from change, using metrics like employee satisfaction, innovation rates, or product development cycle times, can build a compelling case for action.
 4. Incentives and recognition: Recognizing and rewarding individuals who champion the shift towards consistent utilization can encourage broader adoption.
 
-Throughout this essay, we've explored the detrimental effects of the "hoarding mentality" in software engineering, highlighting the missed opportunities, stifled innovation, and underutilized potential it creates. We've also delved into the transformative power of consistent utilization, showcasing its benefits for individuals, and the organization as a whole.
+Throughout this essay, we've explored the detrimental effects of the "hoarding mentality" in software engineering, highlighting the missed opportunities, stifled innovation, and underutilized potential it creates. We've also discussed the transformative power of consistent utilization, showcasing its benefits for individuals, and the organization as a whole.
 
 The choice is not between utilizing or hoarding top performers; it's about unleashing their true potential or letting it remain locked away. The path forward requires acknowledging the challenges, embracing the power of aligned interests, and implementing strategic changes that empower individuals, strengthen teams.
