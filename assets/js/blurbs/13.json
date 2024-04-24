@@ -1,1 +1,1 @@
-{"id": 13, "url": "https://shirish.me/aboutme/fun-facts", "title": "Fun facts about me", "body": "Here you\u2019ll find my interests and hobbies, and exciting things I\u2019ve done in the past. And a little bit of humblebrag, if I may!    Hack. Diversity Men"}
+{"id": 13, "url": "https://shirish.me/page5/", "title": "Home", "body": "{% if page. url == \u201c/\u201d %}       Featured:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %} "}
