@@ -37,8 +37,8 @@ function lunr_search(term) {
             let found = {};
             for (let result of results){
                 var ref = result['ref'];
-                found[ref] = true;
                 if (ref && !found[ref]){
+                    found[ref] = true;
                     $.getJSON(`assets/js/blurbs/${ref}.json`, doc =>{
                         var url = doc['url'];
                         var title = doc['title'];
