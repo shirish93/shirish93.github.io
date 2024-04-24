@@ -6,12 +6,9 @@ categories: [ social-media, online ]
 permalink: /socials
 ---
 
-In this page explain how I'm not on any social media, why, and how this website is my social media.
-I will write more about my theory of social media, and the direction it should take. I'll also share my experience with the dopamine rush of social validation when I WAS on social media (2009-2012!) and the implications.
+I am currently writing an essay explaining why I'm not on social media, and how this website is my social media. There I discuss my understanding of social media and connectivity, and the direction it should take. I also share my experience with social media and the dopamine rush with social validation when I used Facebook (2009-2012!) and the implications of that. Until then, there's' this.
 
 To keep updated on my social media posts, go [here]({{ site.baseurl }}{% link _aboutme/now.md %}).
-
-This bit is from the old website, I'll be putting in new content here soon, this will be my well-updated social media page. Until then, here's the chaff for the algorithm gods.
 
 <h4>Twitter</h4> Surprising as it may sound, I do not have a twitter account. I do check some people's twitter accounts once in a while, but it's not for me.
 
