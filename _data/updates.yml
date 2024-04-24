@@ -1,3 +1,7 @@
+- content: >
+    Just spent 30 minutes with a research librarian at the central branch of Seattle Public Library. Learning to do academic research into traditional foods of various ethnicities in Nepal. 
+  date: April 23, 2024
+
 - content: Just made a gallon of yogurt because the milk was about to expire. Maybe it's the universe telling me I should try my hand at making dried, preserved yogurt? I've dreamt about it for ever... Hmm.
   date: Apr 17, 2024
 
@@ -8,8 +12,5 @@
   image: https://www.shirish.me/assets/images/profile/4.jpg
   location: Seattle, WA
 
-- content: >
-    TEST. This is where I update using github UI. It'll be just like the (former) bird site, no need to fudge around with cli and git.
-  date: April 16, 2024
 - content: >
     TEST. This is a test message, it has no metadata attached to it, and all of the variables are pre-poopulated defaults. Looks alright to me?
