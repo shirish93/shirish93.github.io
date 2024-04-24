@@ -34,9 +34,11 @@ function lunr_search(term) {
         //put results on the screen.
         var results = idx.search(term);
         if(results.length>0){
+            let found = {};
             for (let result of results){
                 var ref = result['ref'];
-                if (ref){
+                found[ref] = true;
+                if (ref && !found[ref]){
                     $.getJSON(`assets/js/blurbs/${ref}.json`, doc =>{
                         var url = doc['url'];
                         var title = doc['title'];
