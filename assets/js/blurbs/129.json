@@ -1,1 +1,0 @@
-{"id": 129, "url": "https://shirish.me/kubernetes-upgrade", "title": "A tale of the treacherous task of Kubernetes upgrade", "body": "2023/07/07 - A tale of unmitigated blast radius, in this essay I discuss how I broke one of our developer environments and our recovery attempts. Intr"}
