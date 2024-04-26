@@ -7,17 +7,17 @@ image: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Ise_Daijingu_sengyo_
 beforetoc: "Don't entomb your applications, make them flexible, ready to make a change here and there. That way, they won't need an overhaul from scratch when the time comes."
 ---
 
-Don't entomb your applications, make them flexible, ready to make a change here and there. That way, they won't need an overhaul from scratch when the time comes.
+Don't entomb your applications, make them flexible, ready to make gradual changes. That way, they won't need an overhaul from scratch when the time comes.
 
 **Introduction**
 
-Two weeks into his new job, a young engineer  in my team proposed throwing away our entire application. It sounded tempting, but the echo of past rewrites, projects that promised salvation but delivered chaos, made me hesitate. There was a better way. 
+Two weeks into his new job, a young engineer in our team proposed throwing away our entire application and starting 'net new' from scratch. It sounded tempting, but the memories of past rewrites and projects that promised a reset but delivered chaos, made me hesitate. There was a better alternative. 
 
-The siren song of the complete rewrite is a constant melody in the software engineering world. Tempting. And deadly. Legacy code is often vilified, deemed inefficient and outdated, a burden begging to be replaced. But is tossing everything aside truly the answer?
+The concept of a complete rewrite is a constant Siren song for software engineers. Tempting and counter-productive. Legacy code is often vilified, considered inefficient and outdated, seen a burden begging to be replaced. But is tossing everything aside truly the answer? Hardly ever.
 
 **The Siren Song of the Rewrite**
 
-Instead, let me propose a different approach: the eventual rewrite. Imagine, like the meticulous, cyclical rebuilding of the Ise Jingu shrine, we can gradually modernize our software, piece by piece, without succumbing to the disruptive allure of starting from scratch. This essay explores the "eventual rewrite" philosophy, arguing that it offers a more sustainable and cost-effective solution for managing the evolution of our software systems.
+Let me propose a different approach: the eventual, or gradual, rewrite. Imagine, like the meticulous, cyclical rebuilding of the Ise Jingu shrine in Japan, we can gradually modernize our software, piece by piece, without giving in to the disruptive temptation of starting from scratch. This essay explores the "gradual rewrite" philosophy, arguing that it offers a sustainable and cost-effective solution for managing the evolution of our software systems.
 
 Maintaining existing systems, particularly those that one doesn't understand the business or engineering decisions behind, isn't fun or interesting. It's easy to dismiss choices made by others at an unknown past as inefficient and incorrect. One can justify them as being made during dark ages when efficiency, ease of development or testing were unaccounted for. Armed with an 'enlightened' perspective of hindsight, teams convince themselves that their solution is future-proof and perfect. Once such conversations begin, interest in maintaining and improving old code goes away, the legacy system is treated very much like a leper colony. A clean start is the only viable option considered, uninfected by the vagaries of the yore.
 
@@ -25,11 +25,11 @@ But a clean rewrite can take precious development time and resource away from re
 
 **Learning from the Ise Jingu Shrine**
 
-In search for solutions, let's consider a parallel in another field: construction. Every 20 years, locals tear down the Ise Jingu grand shrine in Mie Prefecture, Japan, only to rebuild it anew. This has been happening since around 8th century CE, the temple has been reconstructed about 65 times. By maintaining the cultural continuity in architecture while making the reconstruction a fundamental part of the temple's upkeep, the locals have achieved goals often in conflict with each other: preserving original architecture and intention behind the construction, while using new construction materials, and budgeting for the upgrades.
+In search for solutions, let's consider a parallel in another field: construction. Every 20 years, locals tear down the Ise Jingu grand shrine in Mie Prefecture, Japan, only to rebuild it anew. This has been happening since around 8th century CE, the temple has been reconstructed about 65 times. By maintaining the cultural continuity in architecture while making the reconstruction a fundamental part of the temple's upkeep, the locals have achieved goals often in conflict with each other: preserving original architecture and intention behind the construction, while using new construction materials and techniques, and budgeting for the upgrades.
 
 Is there anything we can learn from this tradition in Software engineering, to try to deal with the legacy-code allergy?
 
-I call by proposed solution 'eventual rewrite'. If there's a part of application that's specially inefficient, for example, it might be replaced with newer versions of library code, just as the temple replaces worn-out wood beams with new ones. If new features need to be added to existing codebase, perhaps a second buildchain might be added and some functionality be offloaded to binary generated by a different programming language.
+As we've alluded to before, I call my proposed solution 'eventual/gradual rewrite'. If there's a part of application that's specially inefficient, for example, it might be replaced with newer versions of library code, just as the temple replaces worn-out wood beams with new ones. If new features need to be added to existing codebase, perhaps a second buildchain might be added and some functionality be offloaded to binary generated by a different programming language.
 
 To use another parallel from the Temple's reconstruction cycle, if we can make our system upgrades and partial rewrites cyclical and regular like the 20-year cycle for the temple, there would be a lot less churn and duplication of code within a team.
 
@@ -42,11 +42,11 @@ The eventual rewrite proposes a piece-by-piece modernization approach. Here's ho
 * **Modularization:** Introduce separate buildchains for new features, reducing codebase complexity.
 * **Cyclical Improvement:** Schedule regular upgrades and partial rewrites to minimize churn and duplication.
 
-Just as the temple rebuilds retain the original design while incorporating new materials and techniques, an "eventual rewrite" upgrades parts of software while preserving its core functionality and form. Where technical debt has accumulated beyond tolerance, frameworks outdated, can be selectively re-written -- in different languages -- without  bringing everything down. In high-interest environments, budget runways are limited. As you run out of gas, would you want a car that might one day be built to run faster at great cost, or one that currently works whose parts you will eventually change to form a new car?
+Just as the temple rebuilds retain the original design while incorporating new materials and techniques, an "eventual rewrite" upgrades parts of software while preserving its core functionality and form. Where technical debt has accumulated beyond tolerance and frameworks are outdated, it can be selectively re-written -- in different languages -- without  bringing everything down. In high-interest environments, budget runways are limited. As you run out of gas, would you want a car that might one day be built to run faster, at great current cost, or one that currently works whose parts you will eventually change to form a new car?
 
-While the partial rewrite would save on runway and speed-to-market, it would also make the overall system more complicated. But the goal is to future-proof the system, ideally moving towards lesser complexity as the code eventually adapts towards stability and less complexity. Maintenance challenges move towards the right direction because more of the codebase is updated, and easy for newengineers to work on. Just like traditional woodworking artisans work together with modern construction techniques, CnC machining and 3d printing, the legacy code can exist with updated code. Change is a fact of life, and if a piece of software needs to be future-proof, it must be forward-looking. 
+The one downside of a partial rewrite is that, while it would save on runway and speed-to-market, it would also make the system more complicated. But the goal is to future-proof the system, ideally moving towards lesser complexity as the code eventually adapts towards stability and less complexity. Maintenance challenges move towards the right direction because more of the codebase is updated, and easy for newengineers to work on. Just like traditional woodworking artisans work together with modern construction techniques, CnC machining and 3d printing, the legacy code can exist with updated code. Change is a fact of life, and if a piece of software needs to be future-proof, it must be forward-looking. 
 
-To put it differently, software should not be considered 'complete' as long as it is 'living', where one might want to apply updates, fix bugs, add more features. 
+To put it differently, software should never be considered 'complete' as long as it is 'living', where one might want to apply updates, fix bugs, add more features. 
 
 **Exceptions to the Rule**
 
@@ -110,7 +110,7 @@ Complete Rewrite:
 
 **Building Software Like Building Structures**
 
-There's a reason people don't like to budget in continuous development for a software's lifetime. They are used to thinking of software in terms of physical infrastructure, such as long-lasting constructions like the Roman amphitheaters that have stood for thousands of years. That comparison leads to the misleading comparison, with the understanding that good software should be built once to perfection and never touched again. If there's additional requirements, it's time for a complete rewrite. Just like the Italians don't watch movies inside the old arenas, and have needed new theaters, so too must new from-scratch development happen for similar-but-different uses. But that comparison misses something crucial: if the original engineers and architects of the Colosseum had anticipated the need for parking lots, comfortable seats, table service, 3d surround sound systems and so on, it's quite likely they would have under-built the original piece, and instead earmarked some of the budget to adapt the location with changing times.
+There's a reason people don't like to budget in continuous development for a software's lifetime. They are used to thinking of software in terms of physical infrastructure, such as long-lasting constructions like the Roman amphitheaters that have stood for thousands of years. That is a misleading comparison, with the understanding that good software should be built once to perfection and never touched again. If there's additional requirements, it's time for a complete rewrite. Just like the Italians don't watch movies or organize their school plays inside the millennia-old arenas, and have needed new modern theaters, so too must new from-scratch development happen for similar-but-different uses. But that comparison misses something crucial: if the original engineers and architects of the Colosseum had anticipated the need for parking lots, comfortable seats, table service, 3d surround sound systems and so on, it's quite likely they would have under-built the original piece, and instead earmarked some of the budget to adapt the location with changing times.
 
 Building large, complicated pieces of software is like building a large building: a relatively long and complicated process that needs good planning, requires teams of experts with different levels of expertise to collaborate, and has the goal of achieving a specific initial vision. With churn in the composition of team, the original vision becomes less clearly defined, until somebody decides their new and improved(!) vision should replace the existing one. But buildings don't change significantly the longer they're built, nobody decides to start from scratch because actually the foundation-constructing technologies changed in the last two years. We should treat software the same way.
 
@@ -122,7 +122,7 @@ The idea is to reject rewriting software replacement from scratch every X years,
 
 **Conclusion**
 
-Don't entomb your applications, make them flexible, ready to make a change here and there. That way, they won't need an overhaul from scratch when the time comes.
+Don't entomb your applications, make them flexible, ready to make iterative changes. That way, they won't need an overhaul from scratch when the time comes.
 
 A related discussion can be found [here](https://highscalability.com/heres-a-1300-year-old-solution-to-resilience-rebuild-rebuild/). That is what originally inspired me to write this piece.
 
