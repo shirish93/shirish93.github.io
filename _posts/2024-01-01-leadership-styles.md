@@ -13,7 +13,7 @@ Here's a novel way to help engineering leaders understand themselves, and evalua
 
 Engineering leaders need to be multidimensional: they need both technical proficiency and people skills, including the ability to communicate their inspiring vision. When I took `Technical Leadership for Engineers` course offered by University of Washington-Seattle's Engineering Leadership program last year, I found the leadership frameworks offered unsatisfying. They didn't align with how envisioned myself as a leader, or what I expected from engineering leaders in my organizations. And thus over the last year or so, I have developed a novel way of understanding the skills and roles of such leaders.
 
-Traditional leadership theories, while valuable, often fall short when capturing the demands of software engineering. In this essay I introduce a novel perspective: a multidimensional framework that illuminates the multi-dimensional nature of engineering leadership. It will hopefully help both leaders and followers effectively understand their respective roles, and how they can improve in their situations..
+Traditional leadership theories, while useful, often fall short when capturing the demands of software engineering. In this essay I introduce a novel perspective: a multidimensional framework that illuminates the multi-dimensional nature of engineering leadership. It will hopefully help both leaders and followers effectively understand their respective roles, and how they can improve in their situations..
 
 ### The Multidimensional Framework
 
@@ -21,7 +21,7 @@ This framework considers engineering leadership to be comprised of four distinct
 
 1. **Spiritual:** The ability to inspire vision, meaning, and purpose within the team and individual contributors.
 2. **Technical:** The 'hard-skills', expertise and innovation driving projects forward.
-3. **Personal:** The guidance, mentorship, and interpersonal skills fostering individual growth.
+3. **Personal:** The guidance, mentorship, and interpersonal skills nurtuturing individual growth.
 4. **Inspirational/Celebrity:** The impact on a broader community through exceptional work and influence.
 
 By exploring these dimensions, leaders can identify their unique strengths and areas for development, and improve on growth accordingly. For followers, the framework allows a quick way to evaluate the diverse leadership styles they encounter. This enables them to identify the leaders who resonate most with their individual needs and aspirations.
@@ -55,10 +55,10 @@ A technical leader bedazzles with their technical skills, quick-wittedness, abil
 
 #### Personal Leadership
 
-Leaders with this style foster your personal growth, watch out for your potential career-wise, guide you towards tools and techniques to improve yourself, and make sure you're performing the best you can. They empower you to push yourself as hard as you can go, and make you understand the worth of your work. They clear the blockers standing on your way, and help you see your mission more clearly. They touch you at a personal level, as a mentor.
+Leaders with this style incubate your personal growth, watch out for your potential career-wise, guide you towards tools and techniques to improve yourself, and make sure you're performing the best you can. They empower you to push yourself as hard as you can go, and make you understand the worth of your work. They clear the blockers standing on your way, and help you see your mission more clearly. They touch you at a personal level, as a mentor.
 
-* **Key Attributes:** Strong interpersonal skills, mentoring and coaching, fostering individual growth, building trust and rapport.
-* **Strengths:** Creates a positive and supportive work environment, helps individuals reach their full potential, promotes collaboration and knowledge sharing.
+* **Key Attributes:** Strong interpersonal skills, mentoring and coaching, encouraging individual growth, building trust and rapport.
+* **Strengths:** Creates a positive and supportive work environment, helps individuals reach their full potential, promotes teamwork and knowledge sharing.
 * **Weaknesses:** Can be overly individualistic, neglecting the collective needs of the team, potential for favoritism.
 * **Example:** Somebody's team lead, could be a great mentor!
 
@@ -107,9 +107,9 @@ In this section we will discuss actionable advice for both leaders and followers
 
 #### How Leaders Can Develop Each Dimension
 
-* **Spiritual Leadership:** Develop a strong personal vision, connect with team values, foster ethical decision-making, inspire through storytelling.
+* **Spiritual Leadership:** Develop a strong personal vision, connect with team values, encourage ethical decision-making, inspire through storytelling.
 * **Technical Leadership:** Continuously learn and upskill, collaborate with technical experts, communicate technical concepts effectively, focus on problem-solving and innovation.
-* **Personal Leadership:** Develop interpersonal skills, be a mentor and coach, build trust and rapport, foster a learning environment.
+* **Personal Leadership:** Develop interpersonal skills, be a mentor and coach, build trust and rapport, create a learning environment.
 * **Inspirational/Celebrity Leadership:** Develop your personal brand, connect with the broader community, leverage your influence for good, stay authentic and humble.
 
 ### How the Framework Benefits Followers
@@ -134,9 +134,9 @@ The multidimensional framework of engineering leadership empowers followers in s
 * **Personal growth and empowerment:** Understanding leadership styles helps you become a more self-aware and proactive team member:
     * Identifying your own leadership potential: Reflect on your strengths and explore how you can contribute to the team in diverse ways.
     * Taking initiative and ownership: Proactively solve problems and contribute positively based on your understanding of the leadership needs.
-    * Building stronger teams: Recognizing different styles helps you bridge communication gaps and foster collaboration within the team.
+    * Building stronger teams: Recognizing different styles helps you bridge communication gaps and encourage joint effort within the team.
 
-By learning about these leadership styles, you gain valuable tools to navigate your own professional journey and become a more effective team member.
+By learning about these leadership styles, you gain a powerful understanding to navigate your own professional journey and become a more effective team member.
 
 ### Conclusion
 

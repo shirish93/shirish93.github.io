@@ -10,7 +10,7 @@ A tale of unmitigated blast radius, in this essay I discuss how I broke one of o
 
 ### Introduction
 
-Maintaining up-to-date software systems is paramount for security, performance, and access to the latest features. This essay chronicles our team's experience navigating the complexities of upgrading a Kubernetes cluster, highlighting the challenges encountered, the valuable lessons learned, and the importance of resilience in the face of unforeseen obstacles. We were out of internal development environment for about half a day, but discovered several potential issues with our workflow and coding practices, that makes us more resilient to future failures.
+Maintaining up-to-date software systems is paramount for security, performance, and access to the latest features. This essay chronicles our team's experience navigating the complexities of upgrading a Kubernetes cluster, highlighting the challenges encountered, the lessons learned, and the importance of resilience in the face of unforeseen obstacles. We were out of internal development environment for about half a day, but discovered several potential issues with our workflow and coding practices, that makes us more resilient to future failures.
 
 ### The Impetus for Modernization
 
@@ -28,7 +28,7 @@ With the urgency established, our team meticulously planned a multi-faceted appr
 
 * **Istio:** Given the significant age of our Istio version, a direct upgrade to the latest Kubernetes version was not feasible. To ensure compatibility, we implemented a multi-step upgrade process, carefully migrating through two intermediate Istio versions before reaching the desired state.
 * **Kubernetes:** Similar to Istio, the Kubernetes version also underwent multiple upgrades to ensure seamless compatibility with the other components within the cluster.
-* **Calico:** The Calico network policy engine, another crucial component of our Kubernetes setup, was also upgraded in a phased manner, adhering to the established compatibility requirements.
+* **Calico:** The Calico network policy engine, another component of our Kubernetes setup, was also upgraded in a phased manner, adhering to the established compatibility requirements.
 * **Amazon Machine Images (AMIs):** Upgrading the underlying AMIs was essential to unlock the latest features and security patches offered by the newer versions.
 * **Runtime Environments:** The runtime environments for our Python and JavaScript Lambda functions, which played a vital role in our deployment process, were also upgraded to ensure compatibility with the updated system.
 
@@ -44,9 +44,9 @@ Despite our meticulous planning and careful execution, the path to modernization
 
 The true test of our resilience emerged shortly after successfully navigating these initial hurdles. As we basked in the perceived success of the upgrade, a critical issue surfaced, threatening to unravel our progress:
 
-* **Deployment Failures:** Our engineers had observed failures in deployments initiated from scratch a few weeks approaching the upgrade. This unexpected behavior indicated potential compatibility issues, prompting us to investigate further. Upon closer examination, we assumed that the Calico network policy engine, a crucial component responsible for network security within the cluster, remained on an un-upgraded version, and that was causing the deployment issues. This incompatibility, coupled with the changes introduced during the upgrade process, appeared to be the culprit behind the observed deployment failures.
+* **Deployment Failures:** Our engineers had observed failures in deployments initiated from scratch a few weeks approaching the upgrade. This unexpected behavior indicated potential compatibility issues, prompting us to investigate further. Upon closer examination, we assumed that the Calico network policy engine, a  component responsible for network security within the cluster, remained on an un-upgraded version, and that was causing the deployment issues. This incompatibility, coupled with the changes introduced during the upgrade process, appeared to be the culprit behind the observed deployment failures.
 
-This seemingly isolated incident would snowball into a cascade of interconnected problems, demanding urgent attention and a daylong all-hands debugging session. The next part of this essay looks into this series of interconnected errors and the crucial steps we took to recover and ensure the successful completion of the upgrade process.
+This seemingly isolated incident would snowball into a cascade of interconnected problems, demanding urgent attention and a daylong all-hands debugging session. The next part of this essay looks into this series of interconnected errors and the  steps we took to recover and ensure the successful completion of the upgrade process.
 
 
 ### A Cascade of Interconnected Errors and the Road to Recovery
@@ -65,9 +65,9 @@ Faced with this cascade of interconnected errors, our team swiftly mobilized to 
 
 * **Lambda Function Fixes:** We addressed the long-standing bug within the Lambda deployment function, ensuring its consistent functionality across all deployment iterations. Additionally, we rectified the image pull issue within the sidecars by manually modifying deployments, DaemonSets, and ConfigMaps to utilize the correct internal proxy. This approach eliminated the reliance on external repositories and prevented future timeout issues.
 
-* **Enhanced Communication and Future-Proofing Measures:** Recognizing the potential for human error and miscommunication, we implemented stricter collaboration practices, emphasizing the importance of clear communication and documenting key decisions. Furthermore, we established a ticketing system to track and address potential issues identified during the upgrade process. To mitigate future dependencies on external vendors, we initiated a project to migrate container image downloads entirely to our internal proxy, eliminating reliance on external services with potentially less stringent security controls.
+* **Enhanced Communication and Future-Proofing Measures:** Recognizing the potential for human error and miscommunication, we implemented stricter partnership practices, emphasizing the importance of clear communication and documenting key decisions. Furthermore, we established a ticketing system to track and address potential issues identified during the upgrade process. To mitigate future dependencies on external vendors, we initiated a project to migrate container image downloads entirely to our internal proxy, eliminating reliance on external services with potentially less stringent security controls.
 
-The journey highlighs the complex nature of infrastructure management, emphasizing the importance of meticulous planning, comprehensive testing, and adaptability in the face of unforeseen circumstances. While the process presented its fair share of challenges, the valuable lessons learned and the enhanced infrastructure security posture instilled a sense of accomplishment and fortified our team's resolve to navigate future
+The journey highlighs the complex nature of infrastructure management, emphasizing the importance of meticulous planning, comprehensive testing, and adaptability in the face of unforeseen circumstances. While the process presented its fair share of challenges, the worthwhile lessons learned and the enhanced infrastructure security posture instilled a sense of accomplishment and fortified our team's resolve to navigate future
 
 
 __Open source image above from [kubernetes.io](https://kubernetes.io/).__

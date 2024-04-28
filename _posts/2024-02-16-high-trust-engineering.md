@@ -30,9 +30,9 @@ Unfortunately, many organizations inadvertently create dissonant environments, c
 
 ### Conducting the Performance: Building a Culture of Trust
 
-The remedy lies in building a culture of high trust, where communication flows freely like a well-rehearsed ensemble. Open communication, where team members actively listen, respectfully disagree, and readily share information, fosters transparency and builds trust. Imagine a team meeting where ideas are exchanged like musical motifs, each member actively contributing to the composition. Regular team meetings, clear expectations, and an open-door policy become the sheet music, providing a shared framework for collaboration.
+The remedy lies in building a culture of high trust, where communication flows freely like a well-rehearsed ensemble. Open communication, where team members actively listen, respectfully disagree, and readily share information, generates transparency and builds trust. Imagine a team meeting where ideas are exchanged like musical motifs, each member actively contributing to the composition. Regular team meetings, clear expectations, and an open-door policy become the sheet music, providing a shared framework for collaboration.
 
-Empowering leadership styles, characterized by clear vision, delegation, and open communication, are akin to a conductor who inspires and guides, allowing individual musicians to shine within the broader composition. Leaders who admit mistakes, celebrate successes, and actively seek feedback demonstrate their commitment to creating a trustworthy environment, fostering a sense of psychological safety where individuals feel comfortable taking risks and experimenting without fear of judgment.
+Empowering leadership styles, characterized by clear vision, delegation, and open communication, are akin to a conductor who inspires and guides, allowing individual musicians to shine within the broader composition. Leaders who admit mistakes, celebrate successes, and actively seek feedback demonstrate their commitment to creating a trustworthy environment, alllowing for a sense of psychological safety where individuals feel comfortable taking risks and experimenting without fear of judgment.
 
 However, building a high-trust organization isn't a solo performance; it requires a multi-instrumental approach. Balancing trust with accountability requires team-based approaches and clear individual expectations, ensuring each musician understands their role while trusting their fellow performers to deliver their parts. Addressing individual discomfort with high-trust environments might involve offering diverse roles and flexible integration options, allowing even the most introverted musicians to contribute meaningfully.
 
@@ -48,15 +48,15 @@ Despite these challenges, numerous organizations have successfully navigated thi
 
 The rewards of a high-trust engineering organization are as harmonious as a perfectly executed symphony. Teams experience increased productivity, morale, and innovation. Recruitment and retention improve. Ultimately, customer satisfaction reaches new heights.
 
-Building a high-trust engineering organization is a journey, not a destination. But the rewards are clear: a vibrant, creative, and high-performing team that propels the organization towards success. As engineering teams look to unlock their full potential, prioritizing trust is not just a feel-good notion, but a strategic imperative, the key to composing a symphony of success. By growing a culture of trust, communication, and collaboration, you can unlock the full potential of your team and achieve remarkable results. Here are some initial steps you can take:
+Building a high-trust engineering organization is a journey, not a destination. But the rewards are clear: a vibrant, creative, and high-performing team that propels the organization towards success. As engineering teams look to unlock their full potential, prioritizing trust is not just a feel-good notion, but a strategic imperative, the key to composing a symphony of success. By growing a culture of trust, communication, and teamwork, you can unlock the full potential of your team and achieve remarkable results. Here are some initial steps you can take:
 
 * **Conduct a trust assessment:** Evaluate your current team dynamics to identify areas for improvement. 
 * **Prioritize open communication:** Encourage regular team meetings, information sharing, and active listening.
 * **Empower your team:** Delegate tasks, provide clear expectations, and celebrate achievements.
-* **Foster psychological safety:** Create an environment where individuals feel comfortable taking risks and learning from mistakes.
+* **Create psychological safety:** Create an environment where individuals feel comfortable taking risks and learning from mistakes.
 * **Align values and goals:** Ensure everyone understands the organization's vision and how their work contributes to it.
 
-Building trust takes time and effort, but the rewards are substantial. By investing in your engineering team's well-being and nurturing a culture of collaboration, one can create a symphony of success that will resonate for years to come.
+Building trust takes time and effort, but the rewards are substantial. By investing in your engineering team's well-being and nurturing a culture of joint responsibility, one can create a symphony of success that will resonate for years to come.
 
 
 __Photo by Dio Hasbi Saniskoro: [link](https://www.pexels.com/photo/people-doing-group-hand-cheer-3280130/).__

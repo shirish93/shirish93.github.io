@@ -39,7 +39,7 @@ The program will offer two key components:
 
 **4. Collaboration: Building a Network of Support**
 
-We understand that no single entity can address this complex challenge alone. Therefore, we envision a collaborative approach to ensure the program's success. We will partner with the following stakeholders:
+We understand that no single entity can address this complex challenge alone. Therefore, we envision a collaborative angle to ensure the program's success. We will partner with the following stakeholders:
 
 -   **Manpower companies:** As key players in the recruitment process, manpower companies have a vested interest in the success of their workers. We will collaborate with them to identify training needs, market relevant skills, and support worker engagement in the program.
 

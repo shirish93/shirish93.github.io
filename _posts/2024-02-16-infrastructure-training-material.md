@@ -55,7 +55,7 @@ Structure of the sessions:
       3. Introduction to version control systems (VCS) like Git and common workflows.
       4. Using code linters and formatters to maintain code quality.
       5. Understanding the importance of code reviews and best practices for providing constructive feedback.
-        * improving development speed, simplifying deployment processes, and facilitating collaboration, not just finding errors
+        * improving development speed, simplifying deployment processes, and facilitating joint effort, not just finding errors
         * this is how engineers are trained!
       6. Different deployment rollout strategies, their comparative strengths and weaknesses
 
