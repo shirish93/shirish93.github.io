@@ -28,7 +28,7 @@ While the focus often falls on AI tools, the human element remains central to cr
 
 __Collaboration and Communication__: Effective collaboration and communication between humans and AI systems are crucial. Designing interfaces that facilitate clear communication and understanding of LLM outputs is essential.the
 
-__Human Oversight and Control__: While LLMs provide valuable insights and support, the ultimate responsibility for critical decisions rests with humans. Mechanisms for human oversight and control must be clearly defined and implemented to ensure accountability and ethical decision-making.
+__Human Oversight and Control__: While LLMs provide interesting observation on underlying data and support, the ultimate responsibility for critical decisions rests with humans. Mechanisms for human oversight and control must be clearly defined and implemented to ensure accountability and ethical decision-making.
 
 __Building Trust and Confidence__: Ultimately, trust in LLMs for critical scenarios hinges on transparency, explainability, and demonstrably ethical development and deployment. By engaging in open dialogue and establishing clear ethical guidelines, we can foster trust and harness the true potential of LLMs for the greater good.
 
@@ -48,7 +48,7 @@ Learning from these past mistakes is essential to navigate the LLM landscape res
 
 Building upon the lessons learned, let's chart a course for responsible LLM deployment in critical scenarios:
 
-1. Prioritize Human-in-the-Loop Systems: While LLMs offer valuable insights, critical decisions should ultimately involve human judgment and oversight. Designing systems that facilitate clear communication and understanding between humans and LLMs is crucial.
+1. Prioritize Human-in-the-Loop Systems: LLMs make it easy to analyze data, but critical decisions should ultimately involve human judgment and oversight. Designing systems that facilitate clear communication and understanding between humans and LLMs is crucial.
 
 2. Foster an Ethical Development Culture: From design to deployment, ethical considerations must be integrated throughout the LLM development process. This includes addressing potential biases, ensuring data privacy, and developing clear ethical guidelines for responsible use.
 
