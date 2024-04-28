@@ -3,7 +3,7 @@ layout: post
 title:  "In defence of the duct-Tape and strings approach to software development"
 author: shirish
 categories: [ engineering, architecture, leadership]
-image: "assets/images/complicated.jpg"
+image: "assets/images/jenga.png"
 ---
 The "duct-tape and strings" approach to building software systems prioritizes functionality and rapid iteration over achieving design perfection. While it might raise eyebrows among proponents of careful planning, it's borne out of real-world pressure and can lead to successful outcomes.
 
