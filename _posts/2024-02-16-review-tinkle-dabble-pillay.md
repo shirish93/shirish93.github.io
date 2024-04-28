@@ -37,7 +37,7 @@ Overall, "Tinker Dabble Doodle Try" offers important argument in favor of the po
 
 3. Boosting Problem-Solving: The book explains into how "unfocused" activities can improve problem-solving skills. Techniques like "mind-mapping," "brainstorming in unusual settings," and "using metaphors" can help readers break down complex problems, identify hidden patterns, and arrive at more elegant solutions.
 
-4. Encouraging Teanwork: The book emphasizes the importance of enabling a culture of "unfocused exploration" within engineering teams. Collaborative brainstorming sessions, hackathons, and even encouraging team members to pursue personal hobbies unrelated to work can lead to cross-pollination of ideas and unexpected breakthroughs. I've written on the final point [here]]({% post_url 2024-02-17-diverse-hobbies %}) 
+4. Encouraging Teanwork: The book emphasizes the importance of enabling a culture of "unfocused exploration" within engineering teams. Joint brainstorming sessions, hackathons, and even encouraging team members to pursue personal hobbies unrelated to work can lead to cross-pollination of ideas and unexpected breakthroughs. I've written on the final point [here]]({% post_url 2024-02-17-diverse-hobbies %}) 
 
 5. Promoting Adaptability: In the fast-paced world of software engineering, adaptability is key. The book's message of embracing "unfocused" activities encourages flexible thinking, openness to new ideas, and the ability to adapt to changing circumstances, all useful skills for engineers navigating an ever-evolving technological landscape.
 

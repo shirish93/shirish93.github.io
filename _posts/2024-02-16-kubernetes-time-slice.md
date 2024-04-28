@@ -8,7 +8,7 @@ hidden: false
 image: "assets/images/gpu.jpg"
 ---
 
-This essay narrates an unexpected adventure in implementing GPU time slicing on our EKS kubernetes cluster. What began as a seemingly straightforward task – installing the gpu-operator – turned into a long-lasting exploration that uncovered challenges, helped us refine our processes, and ultimately led to substantial benefits om our infrastructure.
+This essay narrates an unexpected adventure in implementing GPU time slicing on our EKS kubernetes cluster. What began as a seemingly straightforward task – installing the gpu-operator – turned into a long-lasting exploration that uncovered challenges, helped us refine our processes, and ultimately led to substantial benefits for our infrastructure.
 
 **The Initial Hurdle: A Charting Error**
 
@@ -56,7 +56,7 @@ Yet another hurdle emerged when the Helm installation encountered a 503 service 
 
 Frustration mounting, I resorted to an unconventional approach: destroying the cluster and forcing a complete reinstallation. Surprisingly, this unorthodox method proved successful – the installation completed without errors, and the desired resources, including the gpu-operator, were present with GPU time slicing enabled!
 
-However, the saga wasn't quite over. The base image we utilized wasn't readily available in the newly migrated Solaria AWS accounts, and publishing the images would require significant effort. Consequently, a collaborative plan with the GDS team is being formulated to ensure image availability before merging all changes to the main codebase. A year later after this initiative, and we are still not yet at Prod deployment readiness, though to be fair we haven't had the need to deploy to prod immediately.
+However, the saga wasn't quite over. The base image we utilized wasn't readily available in the newly migrated Solaria AWS accounts, and publishing the images would require significant effort. Consequently, a joint plan with the GDS team is being formulated to ensure image availability before merging all changes to the main codebase. A year later after this initiative, and we are still not yet at Prod deployment readiness, though to be fair we haven't had the need to deploy to prod immediately.
 
 **A Testament to Collaboration and Innovation**
 
