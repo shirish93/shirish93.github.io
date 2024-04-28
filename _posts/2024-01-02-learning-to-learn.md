@@ -22,7 +22,7 @@ Flores goes beyond stating that learning involves navigating moods. Her core the
 
 * **Weaknesses:** The book primarily focuses on awareness of mood shifts rather than offering specific mood modulation techniques. While case studies showcase results, they lack concrete steps for actively reshaping moods. Readers seeking a more prescriptive guide might find it lacking.
 
-Flores' dual background as a corporate trainer and psychologist lends credibility to the book. Her experience allows her to look into the connection between emotions and learning, offering lessons grounded in both theory and practice. Furthermore, her family background in learning research strengthens her credibility. While the book focuses on managing emotions for learning effectiveness, it offers in-depth guidance on a crucial aspect.
+Flores' dual background as a corporate trainer and psychologist lends credibility to the book. Her experience allows her to look into the connection between emotions and learning, offering lessons grounded in both theory and practice. Furthermore, her family background in learning research strengthens her credibility. While the book focuses on managing emotions for learning effectiveness, it offers in-depth guidance on a critical aspect.
 
 Flores employs a clear and engaging writing style, authoritative yet approachable. She effectively utilizes real-life anecdotes and case studies. The book benefits from a well-organized structure, logically guiding readers through the process. However, some might find the reliance on case studies overwhelming. 
 

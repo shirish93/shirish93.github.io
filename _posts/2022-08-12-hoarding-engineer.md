@@ -10,7 +10,7 @@ Even well-run organizations can fall into the trap of 'hoarding' their star perf
 
 ### Introduction
 
-Imagine a dusty attic overflowing with heirlooms, gathering cobwebs instead of enriching lives. This image perfectly captures the irony of hoarding mentality in software engineering, where top performers – the organization's most valuable assets – are often underutilized, their potential locked away like precious antiques.
+Imagine a dusty attic overflowing with heirlooms, gathering cobwebs instead of enriching lives. This image perfectly captures the irony of hoarding mentality in software engineering, where top performers – the organization's most important assets – are often underutilized, their potential locked away like precious antiques.
 
 This essay discusses the detrimental effects of hoarding top performers in engineering, from what I have witnessed in some organizations. We'll explore the negative consequences, advocate for a more empowering alternative, and equip ourselvesv with tools to champion a shift towards consistent utilization.
  
@@ -32,21 +32,21 @@ Consider a chain reaction: an underutilized top performer in an organization fee
 
 These analogies illustrate the universality of the hoarding mentality and its far-reaching consequences. Just as the gardener cultivates their expertise by planting seeds, and the orchestra thrives when all musicians contribute, organizations must embrace consistent utilization of their top performers. This shift unlocks individual potential, builds stronger teams, and ultimately drives innovation and success, benefiting not just the organization but society as a whole.
 
-This hoarding manifests in various ways. Top performers might be stuck with mundane tasks, excluded from crucial decision-making, or kept in the dark about valuable resources. A culture of fear and information silos thrives, where knowledge and expertise are tightly controlled, not freely shared. It's like having a library locked away, its wisdom inaccessible to those who need it most.
+This hoarding manifests in various ways. Top performers might be stuck with mundane tasks, excluded from critical decision-making, or kept in the dark about talented resources. A culture of fear and information silos thrives, where knowledge and expertise are tightly controlled, not freely shared. It's like having a library locked away, its wisdom inaccessible to those who need it most.
 
-The consequences of this restrictive approach are stark. Top performers feel underutilized, their skills plateauing, and their motivation waning. Teams suffer from knowledge gaps and missed collaboration opportunities, leading to inefficiencies and slower progress. The organization itself loses its competitive edge, struggling with stifled innovation and sluggish development cycles.
+The consequences of this restrictive approach are stark. Top performers feel underutilized, their skills plateauing, and their motivation waning. Teams suffer from knowledge gaps and missed partnership opportunities, leading to inefficiencies and slower progress. The organization itself loses its competitive edge, struggling with stifled innovation and sluggish development cycles.
 
-Now, imagine a different scenario. In a culture of consistent utilization, top performers are challenged, empowered, and seen as integral parts of the team. They actively share their knowledge, fostering collaboration and learning across all levels. This unlocks a treasure trove of benefits: individuals experience growth and recognition, teams function with increased synergy, and the organization thrives on a wave of innovation and agility.
+Now, imagine a different scenario. In a culture of consistent utilization, top performers are challenged, empowered, and seen as integral parts of the team. They actively share their knowledge, encouraging knowledge-sharing and learning across all levels. This unlocks a treasure trove of benefits: individuals experience growth and recognition, teams function with increased synergy, and the organization thrives on a wave of innovation and agility.
 
 Software engineering organizations must abandon the hoarding mentality and embrace the power of consistent utilization for their top performers. This shift is not just a moral imperative, but a strategic one, unlocking human capital's full potential and propelling organizations towards success in a rapidly evolving landscape 
 
 ### Emphasizing the Benefits of Consistent Utilization
 
-Conversely, consistent utilization of top performers unlocks a wealth of benefits. Companies like Facebook and OpenAI, renowned for empowering their top talent, showcase the advantages firsthand. Facebook's culture of "hackathons" encourages senior engineers to actively share knowledge and contribute to diverse projects, fostering innovation and rapid prototyping. OpenAI leverages its top researchers not just for research, but also for code reviews and mentorship, accelerating development cycles and knowledge transfer. In both cases, consistent utilization led to faster development cycles, improved product quality, and a more agile and innovative workforce.
+Conversely, consistent utilization of top performers unlocks a wealth of benefits. Companies like Facebook and OpenAI, renowned for empowering their top talent, showcase the advantages firsthand. Facebook's culture of "hackathons" encourages senior engineers to actively share knowledge and contribute to diverse projects, promoting innovation and rapid prototyping. OpenAI leverages its top researchers not just for research, but also for code reviews and mentorship, accelerating development cycles and knowledge transfer. In both cases, consistent utilization led to faster development cycles, improved product quality, and a more agile and innovative workforce.
 
 Remember the family with the rarely used fancy china and living room? This seemingly harmless habit embodies the core principle of hoarding – valuing possession over utilization. While they hold onto these resources for "special occasions," their true potential – bringing joy and creating memories – remains locked away. This mirrors how organizations hoard top talent, keeping them underutilized for "emergencies," neglecting their everyday contributions and stifling their potential.
 
-Shifting towards consistent utilization of top performers requires overcoming not just tactical challenges, but also the inertia of established practices. Organizations often fall into comfortable routines, hesitant to disrupt the status quo even when the current approach proves suboptimal. Understanding these underlying forces is crucial to forging a path towards change.
+Shifting towards consistent utilization of top performers requires overcoming not just tactical challenges, but also the inertia of established practices. Organizations often fall into comfortable routines, hesitant to disrupt the status quo even when the current approach proves suboptimal. Understanding these underlying forces is significant to forging a path towards change.
 
 ### Sources of Inertia:
 
@@ -66,7 +66,7 @@ Despite the inertia, demonstrating the alignment of interests between individual
 ### Strategies for Overcoming Inertia:
 
 1. Start small: Pilot programs showcasing the benefits of consistent utilization in specific teams can build momentum and overcome resistance.
-2. Transparency and communication: Engaging stakeholders in open dialogue about the challenges of hoarding and the potential benefits of change fosters understanding and buy-in.
+2. Transparency and communication: Engaging stakeholders in open dialogue about the challenges of hoarding and the potential benefits of change allows for understanding and buy-in.
 3. Data-driven approach: Quantifying the negative impacts of hoarding and the potential gains from change, using metrics like employee satisfaction, innovation rates, or product development cycle times, can build a compelling case for action.
 4. Incentives and recognition: Recognizing and rewarding individuals who champion the shift towards consistent utilization can encourage broader adoption.
 

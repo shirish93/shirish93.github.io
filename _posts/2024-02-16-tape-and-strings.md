@@ -23,11 +23,11 @@ The "build to spec" approach involves carefully defining the system's requiremen
 
 * **Lower initial investment:** Instead of aiming for a comprehensive solution upfront, this approach allows for focusing on essential features first, reducing initial development costs.
 * **Respond to market needs:** Being able to adapt and iterate quickly based on user feedback and market trends enables companies to stay ahead of the curve and remain competitive.
-* **Capture early adopters:** Companies that move fast can attract early adopters who are willing to provide valuable feedback and contribute to the system's growth.
+* **Capture early adopters:** Companies that move fast can attract early adopters who are willing to provide feedback and contribute to the system's growth.
 
 Additionally, the carefully-architected, slow-built systems also have the following downsides.
 
-* **Lengthy development timelines:** Extensive planning and construction can significantly extend development timelines, potentially missing market windows or delaying crucial functionality.
+* **Lengthy development timelines:** Extensive planning and construction can significantly extend development timelines, potentially missing market windows or delaying critical functionality.
 * **Potential missed market opportunities:** In fast-paced industries, waiting for a perfect system can mean losing ground to competitors who adopt agile approaches and adapt to changing market needs more quickly.
 * **Limited room for iteration:** Strict adherence to a pre-defined plan can leave little room for adapting to real-world feedback and user needs, potentially resulting in a system that misses the mark.
 
@@ -46,7 +46,7 @@ Here are some real-world examples of companies that successfully utilized the "d
 * **Airbnb:** Began as a simple website connecting home-sharing individuals, focusing on functionality over design, and rapidly scaled based on user traction.
 * **Instagram:** Launched with a limited set of features, prioritizing usability and user engagement over advanced editing tools, and became a cultural phenomenon.
 
-However, it's crucial to acknowledge that not all systems are ideal candidates for the "duct-tape and strings" approach. This philosophy might not be suitable for systems requiring high security, reliability, or scalability.
+However, it's important to acknowledge that not all systems are ideal candidates for the "duct-tape and strings" approach. This philosophy might not be suitable for systems requiring high security, reliability, or scalability.
 
 Additionally, it's important to also consider that speed to market isn't a guaranteed winner, product finish and customer preferences play a huge part in the calculus. Apple wasn't the first to enter the mp3 player market with its iPod devices, yet in very short few years, it drove Microsoft's Zune -- the first mover -- out of business. Then it repeated the move with the iPhone, displacing 'serious' phone makers in short order. Tesla wasn't the first electric car in America either, yet it quickly became the first successful American mass-market EV manufacturer.
 

@@ -60,7 +60,7 @@ However, the saga wasn't quite over. The base image we utilized wasn't readily a
 
 **A Testament to Collaboration and Innovation**
 
-This incredible journey is a testament to the unwavering spirit of relentless collaboration  within our team. We embraced challenges, employed creative ways out of difficult holes, and actively sought assistance from other teams, and were able to overcome obstacles. We unearthed and rectifed underlying issues while doing all of that. Just to install the GPU time-slicing in our EKS cluster. Which we later ended up bit completely requiring as our needs didn't quite fit what was on the offer, but that's a tale for a different day!
+This journey is an example to the spirit of relentless partnership within our organization. We embraced challenges, employed creative ways out of difficult situations, and actively sought assistance from other teams, and were able to overcome obstacles. We unearthed and rectifed underlying issues while doing all of that. Just to install the GPU time-slicing in our EKS cluster. Which we later ended up bit completely requiring as our needs didn't quite fit what was on the offer, but that's a tale for a different day!
 
 
 __Photo by 洋榤 郭: https://www.pexels.com/photo/black-and-red-computer-motherboard-2399840/.__

@@ -34,8 +34,8 @@ Think of a politically suave leader not as a scheming manipulator, but as someon
 This political savviness translates into actionable steps for businesses:
 
 * **Conduct thorough market research:** Don't rely on hype; understand where value is generated.
-* **Encourage interdepartmental collaboration:** Break down silos and share insights across teams.
-* **Empower employees to explore:** Foster an innovation mindset to identify relevant technologies.
+* **Encourage interdepartmental Work:** Break down silos and share insights across teams.
+* **Empower employees to explore:** Encourage an innovation mindset to identify relevant technologies.
 * **Develop a robust innovation pipeline:** Evaluate ideas, assess viability, and invest wisely.
 * **Continuously monitor and reassess:** Track progress, adjust strategies, and communicate openly.
 
@@ -46,7 +46,7 @@ So, is aligning innovation and business needs a foolproof guarantee of success? 
 * **Missed Opportunities:** A focus on immediate business needs might lead companies to overlook disruptive innovations that could revolutionize their industry. Remember: sometimes, the biggest risks yield the biggest rewards.
 * **Resistance to Change:** Aligning innovation and business often requires challenging the status quo. This can be met with resistance from entrenched interests who prefer comfort zones over potential disruptions.
 * **Measuring ROI:** Quantifying the return on investment (ROI) of innovation can be tricky. It's not always about immediate profits, but rather building long-term value and adaptability.
-* **Market Shifts:** While aligning with current needs is crucial, unforeseen market shifts might render your aligned plan irrelevant. Stay agile and prepared to adapt.
+* **Market Shifts:** While aligning with current needs is important, unforeseen market shifts might render your aligned plan irrelevant. Stay agile and prepared to adapt.
 
 Despite these limitations, embracing political savviness and strategic alignment offers significant potential gains:
 
@@ -66,7 +66,7 @@ Remember, the benefits outweigh the drawbacks. A politically savvy organization 
 
 * **Increased competitiveness:** Stay ahead of the curve by anticipating shifts and adapting quickly.
 * **Better resource allocation:** Invest in initiatives that truly generate value for your customers and business.
-* **Improved organizational success:** Aligned innovation fosters a culture of growth and adaptability, leading to long-term success.
+* **Improved organizational success:** Aligned innovation enriches a culture of growth and adaptability, leading to long-term success.
 
 So how do you adapt your organization to be more in alignment with business needs?
 
@@ -75,8 +75,8 @@ So how do you adapt your organization to be more in alignment with business need
 * **Assess your organization's current practices.** Are innovation and business needs truly aligned? If not, what steps can you take to bridge the gap?
 
 * **Industry Leaders: Champion political savviness within your organizations.** Encourage open communication, interdepartmental collaboration, and regular market trend reassessments. Understand the importance of a well-targeted PR campaign and learn to leverage it at the right time.  A savvy leader can:
-    * Foster a culture of open communication where ideas can flow freely across departments.
-    * Break down silos and encourage collaboration between teams with different expertise.
+    * Create a culture of open communication where ideas can flow freely across departments.
+    * Break down silos and encourage cooperation between teams with different expertise.
     * Regularly reassess market trends to identify new opportunities and challenges.
     * Develop a clear and compelling narrative that explains how innovation aligns with business goals.
     * Utilize PR strategically to generate positive buzz and build trust with stakeholders.
