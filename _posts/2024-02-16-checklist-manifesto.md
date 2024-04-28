@@ -29,11 +29,11 @@ Numerous books explore healthcare delivery and patient safety, but Gawande offer
 
 Gawande draws a thought-provoking analogy between modern surgery and complex software projects.  He dismantles the "superstar surgeon" myth, showcasing the teamwork between surgeons, anesthesiologists, nurses, and technicians. This teamwork necessitates constant communication and information sharing – a far cry from the lone-wolf coding hero stereotype.
 
-This collaborative thinking applies directly to software development. Today's projects are rarely linear endeavors undertaken by isolated individuals.  They resemble complex ecosystems requiring expertise from various specialists – frontend developers, backend engineers, security experts, and more. Effective communication, information management, and shared ownership are critical for success, mirroring the dynamics of a successful surgical team.
+This team-oriented thinking applies directly to software development. Today's projects are rarely linear endeavors undertaken by isolated individuals.  They resemble complex ecosystems requiring expertise from various specialists – frontend developers, backend engineers, security experts, and more. Effective communication, information management, and shared ownership are critical for success, mirroring the dynamics of a successful surgical team.
 
 **Checklists: A Recipe for Working Together**
 
-By embracing checklists, software engineering leaders can create this collaborative environment:
+By embracing checklists, software engineering leaders can create this thriving cooperative environment:
 
 * **Effective Information Organization:**  Complex projects generate vast amounts of data. Leaders need clear communication structures, documentation practices, and knowledge management systems to ensure everyone has access to the information they need.
 * **Seamless Coordination:** Silos between teams hinder progress. Leaders must promote teamwork, break down communication barriers, and encourage cross-functional teamwork.
@@ -61,6 +61,6 @@ I highly recommend "The Checklist Manifesto" to software engineers and leaders. 
 * **Critical Thinking Matters:** Checklists are a tool, not a replacement for critical thinking and judgment. Encourage team members to use their expertise and adapt to specific situations.
 * **Integration is Key:**  Combine checklists with other practices like code reviews, training materials, and team communication channels for optimal results.
 
-By embracing the power of checklists and promoting a collaborative environment, we can empower our teams to build better, more reliable software. 
+By embracing the power of checklists and promoting a team-focused environment, we can empower our teams to build better, more reliable software. 
 
 __Header image from book PR.__
