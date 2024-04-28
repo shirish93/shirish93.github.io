@@ -8,7 +8,7 @@ hidden: false
 image: "assets/images/stupid-robot.png"
 ---
 
-Remember the recent case where a Canadian passenger, Jake Moffatt, sued Air Canada after its online chatbot misinformed him about bereavement fares, costing him hundreds of dollars? Air Canada ended up losing the case, and now must stand by the commitment made by its AI agents. This incident, a real-world example of the potential dangers of relying on untested and poorly implemented technology in critical situations, serves as a cautionary tale in the rapidly evolving landscape of Large Language Models (LLMs). These powerful language models, capable of generating human-quality text and engaging in complex reasoning, hold great potential. However, the Air Canada example starkly illuminates the critical question: can we truly trust LLMs in situations where accuracy, safety, and ethical considerations are paramount?
+Remember the recent case where a Canadian passenger, Jake Moffatt, sued Air Canada after its online chatbot misinformed him about bereavement fares, costing him hundreds of dollars? Air Canada ended up losing the case, and now must stand by the commitment made by its AI agents. This incident, a real-world example of the potential dangers of relying on untested and poorly implemented technology in critical situations, serves as a cautionary tale in the rapidly evolving landscape of Large Language Models (LLMs). These powerful language models, capable of generating human-quality text and engaging in complex reasoning, hold great potential. However, the Air Canada example starkly illuminates the critical question: can we truly trust LLMs in situations where accuracy, safety, and ethical considerations are of fundamental importance?
 
 Moffatt's experience highlights the potential pitfalls of trusting information provided by chatbot. He relied on the airline's chatbot for critical information about bereavement fares, only to discover later that the provided information was inaccurate, leading to financial loss. This incident raises concerns about the inherent limitations of such AI-powered systems and the potential for misinformation, especially when dealing with sensitive topics and critical decisions.
 
@@ -16,7 +16,7 @@ To build trust in LLMs for critical applications, rigorous testing, transparency
 
 When venturing into the technical depths of LLMs, specific questions regarding accuracy and safety come to the forefront.
 
-__Metrics for LLM Performance__: Evaluating LLM performance in critical scenarios goes beyond traditional accuracy metrics. Task-specific measures like diagnostic accuracy in healthcare or legal document summarization precision become key. Additionally, assessing factual consistency and ensuring alignment with ethical guidelines is paramount.
+__Metrics for LLM Performance__: Evaluating LLM performance in critical scenarios goes beyond traditional accuracy metrics. Task-specific measures like diagnostic accuracy in healthcare or legal document summarization precision become key. Additionally, assessing factual consistency and ensuring alignment with ethical guidelines is vital.
 
 __Mitigating Risks__: A Multi-Layered Approach: Addressing safety concerns demands a multifaceted approach. Adversarial training can help LLMs identify and resist malicious inputs. Human-in-the-loop systems ensure human oversight and control over critical decisions. Robust monitoring and auditing procedures are essential to detect and address potential biases or errors.
 

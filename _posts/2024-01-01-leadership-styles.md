@@ -3,7 +3,7 @@ layout: post
 title:  "Understanding what kind of leader you are: a new lens to look at Engineering leadership"
 author: shirish
 categories: [ engineering, leadership, styles ]
-image: "assets/images/leadership-styles.jpg"
+image: "assets/images/leaderships.png"
 featured: true
 hidden: true
 ---
