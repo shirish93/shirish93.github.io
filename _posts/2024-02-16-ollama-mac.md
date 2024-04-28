@@ -36,11 +36,11 @@ However, there are also drawbacks to consider:
 
 **Hardware requirements**: Running larger LLMs locally requires powerful hardware, particularly a strong GPU, which can be expensive.
 **Maintenance**: Maintaining and updating the LLM and its hardware can be time-consuming and require technical expertise.
-**Limited scalability**: Local LLMs typically have lower processing power and memory compared to cloud-based options, limiting their ability to handle very large tasks.
+**Limited scalability**: Local LLMs typically have lower processing power and memory compared to cloud-based options, limiting their ability to handle very large tasks. However, that seems to be rapidly changing, as even 'small' models are competing with the capacities of the best models released less than half a year previously.
 
 3. Setting Up Your Mac for Local LLMs (Disclaimer & Requirements)
 
-Disclaimer: This guide is intended for informational purposes only and should not be taken as professional advice. Please be aware that running local LLMs may require technical knowledge and involve potential risks.
+Disclaimer: This guide is intended for informational purposes only and should not be taken as professional advice. Please be aware that running local LLMs may require technical knowledge and involve potential risks. Make sure you have the relevant permissions from your employer's IT department if installing in your work system.
 
 Minimum System Requirements:
 
@@ -67,7 +67,7 @@ Installation:
 Running a Model:
 
     Open the Ollama application.
-    In the terminal window within Ollama, use the command ollama run <model_name>, replacing <model_name> with the desired model (e.g., ollama run llama2). This will download and run the selected model.
+    In the terminal window within Ollama, use the command ollama run <model_name>, replacing <model_name> with the desired model (e.g., ollama run llama3). This will download and run the selected model.
 
 Customizing Prompts:
 
@@ -139,9 +139,8 @@ Ollama demonstrates the potential for running open-source LLMs locally. However,
 
 The future of local LLMs holds exciting possibilities, pushing the boundaries of what these models can achieve. Here are some potential areas of exploration:
 
-**Function Calling**: Researchers are working on enabling LLMs to understand and execute specific functions on your computer based on your instruction. This could revolutionize how you interact with your system and automate tasks.
-**Embeddings**: LLMs could potentially return the vector representation of words, phrases, or documents within them. This opens up possibilities for advanced applications like information retrieval and text classification.
-**Live Inference**: This concept involves the LLM processing real-time sensor data from your microphone or camera and providing immediate responses. This could lead to novel applications in areas like virtual assistants and real-time language translation.
-
+**Function Calling**: Ollama engineers are working on enabling LLMs to understand and execute specific functions on your computer based on your instruction. This is in the backlog for the group, but similar functionality could be achieved by Langchain library for python.
+**Embeddings**: Local models can return the vector representation of words, phrases, or documents within them. This opens up possibilities for advanced applications like information retrieval and text classification.
+**Live Inference**: This involves the LLM processing real-time sensor data from your microphone or camera and providing immediate responses. This could lead to novel applications in areas like virtual assistants and real-time language translation.
 
 __Ollama illustration from their website.__
