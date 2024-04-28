@@ -3,7 +3,7 @@ layout: post
 title:  "Diverse hobbies for igniting engineering innovation"
 author: shirish
 categories: [ engineering, software, hobbies ]
-image: "assets/images/boocha.jpg"
+image: "assets/images/kombucha-hand.jpg"
 ---
 
 My journey with juggling multiple unrelated hobbies suggests that engineers with a diverse interest are assets to allows for greater innovation and creativity.

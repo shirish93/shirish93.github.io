@@ -10,7 +10,7 @@ A tale of unmitigated blast radius, in this essay I discuss how I broke one of o
 
 ### Introduction
 
-Maintaining up-to-date software systems is paramount for security, performance, and access to the latest features. This essay chronicles our team's experience navigating the complexities of upgrading a Kubernetes cluster, highlighting the challenges encountered, the lessons learned, and the importance of resilience in the face of unforeseen obstacles. We were out of internal development environment for about half a day, but discovered several potential issues with our workflow and coding practices, that makes us more resilient to future failures.
+Maintaining up-to-date software systems is of utmost importance for security, performance, and access to the latest features. This essay chronicles our team's experience navigating the complexities of upgrading a Kubernetes cluster, highlighting the challenges encountered, the lessons learned, and the importance of resilience in the face of unforeseen obstacles. We were out of internal development environment for about half a day, but discovered several potential issues with our workflow and coding practices, that makes us more resilient to future failures.
 
 ### The Impetus for Modernization
 

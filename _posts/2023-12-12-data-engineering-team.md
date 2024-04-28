@@ -3,7 +3,7 @@ layout: post
 title:  "How our squad integrated data scientists and software engineers"
 author: shirish
 categories: [ engineering, leadership, teamwork ]
-image: "assets/images/eng-data-science.jpg"
+image: "assets/images/teamwork2.png"
 featured: true
 hidden: true
 ---

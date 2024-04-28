@@ -12,9 +12,9 @@ Don't be seduced by the latest 'innovation' fads; instead, focus on aligning inn
 
 ## The Innovation Trap
 
-Forget mansions in the Metaverse and AI-powered body-doubles. The real battle between businesses isn't about the hottest trends, but aligning innovation with their bottom line. While everyone chases the next big thing, many get lost in a jumble of buzzwords and expensive fads, forgetting to ask: Does this actually help our customers and make us money?
+Forget mansions in the Metaverse and AI-powered self-driving cars, or even a land where banks are replaced by blockchains running on customer hardware. The real battle between businesses isn't about the hottest trends, but aligning innovation with their bottom line. While everyone chases the next big thing, many get lost in a jumble of buzzwords and expensive fads, forgetting to ask: Does this actually help our customers and make us money?
 
-Enter Gamestop, the video game retailer that gambled $100 million on an NFT marketplace in 2021. A year later, the project was bleeding cash and eventually shut down two years later. What went wrong? They mistook hype for need, neglecting their core business for a risky trend with no clear value proposition. They forgot to ask: what is the real need of our customers, and how are we creating value for them through this project?
+Take the example of Gamestop, the video game retailer that gambled $100 million on an NFT marketplace in 2021. A year later, the project was bleeding cash and eventually shut down two years later, with negative revenue to show overall. What went wrong? They mistook hype for need, and neglected their core business for a risky trend with no clear value proposition. They forgot to ask: what is the real need of our customers, and how are we creating value for them through this project?
 
 This isn't an isolated incident. Companies often waste resources on innovation for the sake of innovation, neglecting to align it with their strategic goals and customer needs. This misalignment can lead to:
 
@@ -29,7 +29,7 @@ Think of a politically suave leader not as a scheming manipulator, but as someon
 * **Navigate complex situations:** They understand the shifting needs of customers, partners, and investors.
 * **Anticipate market changes:** They see emerging trends and identify true customer requirements.
 * **Balance competing demands:** They prioritize long-term growth while addressing short-term needs.
-* **Communicate effectively:** They package the value-generating deliverables with the shiniest bells-and-whistles, satisfying both the actual needs and perceived needs.
+* **Communicate effectively:** They package the value-generating deliverables with the shiniest bells-and-whistles, satisfying both the actual needs and perceived needs. Couch your boring database replacement in the latest buzzwords, giving you what your business needs, a tech update, while providing your stakeholders with the confidence that you're moving in the right direction.
 
 This political savviness translates into actionable steps for businesses:
 

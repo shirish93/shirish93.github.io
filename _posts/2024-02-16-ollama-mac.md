@@ -5,7 +5,7 @@ author: shirish
 categories: [ ai, llm, tutorial]
 featured: false
 hidden: false
-image: "assets/images/ollama.png"
+image: "assets/images/llama.png"
 ---
 
 This essay will provide an introduction to Large Language Models (LLMs) and explore the process of running them locally on a Mac using OLLAMA.
