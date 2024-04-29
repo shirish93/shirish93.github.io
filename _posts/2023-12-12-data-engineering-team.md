@@ -8,7 +8,7 @@ featured: true
 hidden: true
 ---
 
-We learned an important lessons after integrating data scientists and software engineers into a unified team as we tested different team structures and planning regimen. This essay takes us through the journey of that discovery.
+We learned important lessons after integrating data scientists and software engineers into a unified team as we tested different team structures and planning regimen. This essay takes us through the journey of that discovery.
 
 ### Introduction
 Every tech company grapples with the challenge of optimizing engineering resource allocation while maintaining a clear workflow and plan. This becomes particularly complex when data scientists are involved, as their needs don't align directly to those of traditional software engineers. In our team at Solaria Labs, we experimented a few structures before stabilizing on the final form of the team. I will walk you throw our journey of getting to the best configuration for team composition with engineers and data scientists in it. 
