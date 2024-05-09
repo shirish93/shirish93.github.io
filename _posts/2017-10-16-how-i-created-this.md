@@ -4,7 +4,7 @@ categories: ["projects"]
 layout: post
 ---
 
-## This is an old post from a now-deprecated website. I'm keeping it around only for historical preservation reasons. Not much of it is relevant to the website you're currently reading on.
+### This is an old post from a now-deprecated website. I'm keeping it around only for historical preservation reasons. Not much of it is relevant to the website you're currently reading on.
 
 Three months after buying the shirish.me domain name, I decided to make a good-looking blog. Since I'm a comically bad designer, I needed an inspiration. Fortunately for me, [Julia Evans's website](jvns.ca) was a site I regularly visited, so that's where I began.
 

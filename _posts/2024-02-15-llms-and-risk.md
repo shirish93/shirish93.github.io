@@ -59,7 +59,7 @@ We have discussed the potential risks and downsides of improperly-deployed LLM m
 
 2. Measuring Human Abilities in the LLM Age: LLMs possess the ability to mimic human language and creative outputs, potentially impacting how we assess critical skills like thinking, writing, and critical analysis. In an education system increasingly incorporating LLMs, concerns arise about the ability to distinguish genuine understanding from machine-generated outputs, posing challenges for evaluating and nurturing genuine human abilities. The value of genuine human interactions might go down, and thus the perceived need of cooperating with other humans, as people get more addicted to spending time with and socializing with their idealized version of friends and partners that are LLM-generated.
 
-### Navigating these challenges:
+Here are some ways we mimght nagivate these challenges?
 
 __Developing Detection Techniques__ : Advancements in AI and machine learning can be leveraged to create tools capable of identifying and flagging LLM-generated content.
 __Promoting Media Literacy__: Educating the public on the capabilities and limitations of LLMs is crucial to nurture critical thinking and discernment skills in navigating online information.

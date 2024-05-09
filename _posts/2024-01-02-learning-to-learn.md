@@ -7,12 +7,12 @@ image: "assets/images/learn.jpg"
 rating: 4
 ---
 
-In her book *Learning to Learn* psychologist and researcher Gloria Flores argues that the key to a mindset open, receptive to learning is to manage one's 'moods'. She argues that only by modifying the less-productive (for learning) moods towards more productive ones, does learning get easier.
+In her book *Learning to Learn* psychologist and Learning researcher Gloria Flores argues that by managing one's 'moods' one can create a mindset highly open and receptive to learning quickly. She argues that only by modifying the less-productive (for learning) moods towards more productive ones, does learning get easier.
 
 **Introduction**
-Learning is not just something that's done in school anymore. We have to keep learning to keep in pace with the changing world: learn how to use a new app, learn to search on the web, learn a new job skill, learn to use generative ai, and so forth. Mastering new skills can be emotionally challenging, making the process of learning a hard one. Gloria P. Flores, a corporate trainer and psychologist, proposes a curious approach in her book, *"Learning to Learn and the Navigation of Moods"*. 
+Learning is not just something that's done in school. We have to keep learning to keep in pace with the changing world: learn how to use a new app, learn to search on the web, learn a new job skill, learn to use generative AI, and so forth. Mastering new skills can be emotionally challenging, making the process of learning a hard one. Gloria P. Flores, a corporate trainer and psychologist, proposes a curious approach in her book, *"Learning to Learn and the Navigation of Moods"*. 
 
-Flores argues that "learning to learn" is a distinct skill, and the key lies in understanding and managing the emotional shifts that accompany learning.  She identifies common emotional pitfalls, from beginner confusion to expert arrogance, and offers strategies to navigate them.  This book targets a wide audience, from students to professionals seeking to refine their skills.
+Flores argues that "learning to learn" is a distinct skill, and the key lies in understanding and managing the emotional shifts that accompany learning. She identifies common emotional pitfalls, from beginner confusion to expert arrogance, and offers strategies to navigate them. This book targets a wide audience, from students to professionals seeking to refine their skills.
 
 **Empowering Learners Through Emotional Management**
 
@@ -30,6 +30,6 @@ Flores employs a clear and engaging writing style, authoritative yet approachabl
 
 *"Learning to Learn and the Navigation of Moods"* offers a valuable framework for understanding the impact of emotions on learning. Flores's expertise and engaging style make the book accessible. While the use of case studies might feel repetitive, the real-world examples strengthen the core message. This book is recommended for learners of all levels, especially those with a growth mindset seeking to optimize their learning potential. Software engineers and leaders navigating the ever-evolving tech landscape will find the book's focus on managing emotions for improved learning effectiveness particularly relevant.
 
-I have bought two copies of book to give as gift to friends, and will buy more copies as needed. Highly recommend!
+I have bought three copies of and gifted them to friends, and will buy more copies as needed. Highly recommend!
 
 __Image from book marketing and Amazon page [here](https://www.amazon.com/Learning-Learn-Navigation-Moods-Acquisition/dp/0692801790).__
