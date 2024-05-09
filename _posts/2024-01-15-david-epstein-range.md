@@ -42,7 +42,7 @@ __Grit by itself can lead to tunnel vision__: Individuals focused solely on mast
 __Early specialization can stifle curiosity__: Forcing young people into narrow paths prematurely can limit their exploration of interests and hinder the development of crucial skills like problem-solving and critical thinking.
 __Lifelong learning is key__: Cultivating a growth mindset and encouraging exploration across various domains promotes adaptability and individual growth, leading to more resilient and adaptive teams.
 
-Overall, Epstein effectively achieves his goal of questioning existing understanding of creating high-performing leaders and artists. He presents a compelling case through a captivating blend of:
+Epstein effectively achieves his goal of questioning existing understanding of creating high-performing leaders and artists. He presents a compelling case through a captivating blend of:
 
 __Compelling research__: He draws from various fields, including psychology, education, and sports, to provide diverse and credible evidence supporting his claims.
 __Real-life examples__: He showcases success stories of individuals who defied specialization and thrived with their generalist approach, making his arguments relatable and impactful.

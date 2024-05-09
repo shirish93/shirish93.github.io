@@ -11,9 +11,9 @@ Here's a novel way to help engineering leaders understand themselves, and evalua
 
 ### Introduction
 
-Engineering leaders need to be multidimensional: they need both technical proficiency and people skills, including the ability to communicate their inspiring vision. When I took `Technical Leadership for Engineers` course offered by University of Washington-Seattle's Engineering Leadership program last year, I found the leadership frameworks offered unsatisfying. They didn't align with how envisioned myself as a leader, or what I expected from engineering leaders in my organizations. And thus over the last year or so, I have developed a novel way of understanding the skills and roles of such leaders.
+Engineering leaders need to be multidimensional: they need both technical proficiency and people skills, including the ability to communicate their inspiring vision. When I took `Technical Leadership for Engineers` course offered by University of Washington-Seattle's [Engineering Leadership program](https://ise.washington.edu/students/cert/engineering-leadership) last year, I found the leadership frameworks offered unsatisfying. They didn't align with how envisioned myself as a leader, or what I expected from engineering leaders in my organizations. And thus over the last year or so, I have developed a novel way of understanding the skills and roles of such leaders.
 
-Traditional leadership theories, while useful, often fall short when capturing the demands of software engineering. In this essay I introduce a novel perspective: a multidimensional framework that illuminates the multi-dimensional nature of engineering leadership. It will hopefully help both leaders and followers effectively understand their respective roles, and how they can improve in their situations..
+Traditional leadership theories, while useful, often fall short when capturing the demands of software engineering. In this essay I introduce a novel perspective: a multidimensional framework that illuminates the multi-dimensional nature of engineering leadership. It will hopefully help both leaders and followers effectively understand their respective roles, and how they can improve in their situations.
 
 ### The Multidimensional Framework
 
@@ -24,19 +24,19 @@ This framework considers engineering leadership to be comprised of four distinct
 3. **Personal:** The guidance, mentorship, and interpersonal skills nurtuturing individual growth.
 4. **Inspirational/Celebrity:** The impact on a broader community through exceptional work and influence.
 
-By exploring these dimensions, leaders can identify their unique strengths and areas for development, and improve on growth accordingly. For followers, the framework allows a quick way to evaluate the diverse leadership styles they encounter. This enables them to identify the leaders who resonate most with their individual needs and aspirations.
+By exploring these dimensions, leaders can identify their unique strengths and areas for development, and improve on growth accordingly. For followers, the framework allows a quick way to evaluate the diverse leadership styles they encounter. This lets them identify the leaders who resonate most with their individual needs and aspirations.
 
 It's important to understand that a leader can excel at any one of these skills, and make for an excellent example for their charges, while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. Regardless, the framework provides an opportunity for flexibility in interpretating what a good engineering leader can be.
 
 ___
 
-Imagine a software engineer drawn to the technical brilliance of a solutions architect. A product owner is inspired and motivated to push herself harder bu the philosophical leadership of another leader. This framework encourages such nuanced appreciation, conceding that different leaders excel in different dimensions, and they contribute uniquely to the collective success of an engineering team.
+Imagine a software engineer drawn to the technical brilliance of a solutions architect. A product owner who is inspired and motivated to push herself harder by the philosophical leadership of another leader. This framework encourages such nuanced appreciation, acknowledging that different leaders excel in different dimensions, and every single leader contributes uniquely to the collective success of an engineering team.
 
 A quote often (wrongly) attributed to Mark Twain goes: _Only kings, presidents, editors, and people with tapeworms have the right to use the editorial ‘we’._ Despite that, I will refer to myself in the plural hereon, as the framework, once out in the work doesn't belong to my person anymore. Let us proceed. Throughout this essay, we explore each dimension in depth, exploring key attributes, strengths, and potential limitations of each. We showcase real-world examples of engineering leaders who embody these characteristics, clarifying the impact of their diverse styles.
 
 #### Spiritual Leadership
 
-A spiritual leader shows the path...and vision...for the long term. They may not guide you technically, or help you in your day-to-day work, but their vision and mission of what is to be done, and what should be done is so strong, you can't but be allured by the possibilities. You are driven to your work to work towards their vision, overcoming for their other potential deficiencies in technical or personal aspects by finding other means.
+A spiritual leader shows the path...and vision...for the long term. They may not guide you technically, or help you in your day-to-day work, but their vision and mission of what is to be done, and what should be done is so strong, you can't but be allured by the possibilities. You are driven to your work to get towards their vision, overcoming for their other potential deficiencies in technical or personal aspects by finding other means.
 
 * **Key Attributes:** Vision setting, purpose definition, ethical leadership, creating a strong team culture.
 * **Strengths:** Motivates and inspires teams, creates a sense of community, drives innovation through shared values.
@@ -46,7 +46,7 @@ A spiritual leader shows the path...and vision...for the long term. They may not
 
 #### Technical Leadership
 
-A technical leader bedazzles with their technical skills, quick-wittedness, ability to come to anybody's assitance at a moment's notice and immediacy in identifying the issue at hand. They gain respect by their sharpened skills in their field of expertise, and inspire others because of their sheer intelligence, work ethic and competence. The followers want to become them, be even tenth as effective and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it doesn't matter, because their technical expertise trumps all.
+A technical leader bedazzles with their technical skills, quick-thinking, ability to come to anybody's assitance at a moment's notice and immediacy in identifying the issue at hand. They gain respect by their sharpened skills in their field of expertise, and inspire others because of their sheer intelligence, work ethic and competence. The followers want to become them, be even tenth as effective and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it doesn't matter, because their technical expertise trumps all.
 
 * **Key Attributes:** Deep technical expertise, problem-solving skills, driving project execution.
 * **Strengths:** Builds trust through competence, delivers results efficiently, ensures technical solutions are sound.
@@ -70,7 +70,7 @@ This kind of leadership is not necessarily related to one's field, but can be. T
 * **Key Attributes:** Charisma, public influence, motivating large audiences, building brand recognition.
 * **Strengths:** Drives external interest and investment, attracts top talent, inspires broader social impact.
 * **Weaknesses:** Can be susceptible to ego and fame, may neglect internal team needs, focus more on external perception than internal reality.
-* **Example:** Steve Jobs (inspiring a generation with inspired products and captivating presentations)
+* **Example:** Steve Jobs (inspiring a generation with inspired products and captivating presentations), Julia Evans (for me!)
 
 
 ### Potential Pitfalls
@@ -118,7 +118,7 @@ The multidimensional framework of engineering leadership empowers followers in s
 
 * **Improved understanding of leaders:** Recognizing the different dimensions of leadership allows you to better understand your leaders' motivations, strengths, and potential limitations. This empowers you to:
     * Appreciate different leadership styles: Instead of judging a leader based on a single trait, you can appreciate their unique way of contributing to the team.
-    * Identify your preferred leadership style: Recognizing your own needs and preferences helps you gravitate towards leaders who inspire you in specific ways.
+    * Identify your preferred leadership style: Recognizing your own needs and preferences helps you move towards leaders who inspire you in specific ways.
     * Anticipate leader behavior: Understanding the strengths and weaknesses of different leadership styles helps you predict how leaders might react in different situations.
 
 * **More effective communication and collaboration:** Knowing your leader's strengths can help you tailor your communication and collaboration style to be more effective:
@@ -136,10 +136,8 @@ The multidimensional framework of engineering leadership empowers followers in s
     * Taking initiative and ownership: Proactively solve problems and contribute positively based on your understanding of the leadership needs.
     * Building stronger teams: Recognizing different styles helps you bridge communication gaps and encourage joint effort within the team.
 
-By learning about these leadership styles, you gain a powerful understanding to navigate your own professional journey and become a more effective team member.
-
 ### Conclusion
 
-The multidimensional framework we presented in this essay hopefully offers a fresh and useful perspective on leadership in engineering. By recognizing the combination of spiritual, technical, personal, and inspirational/celebrity dimensions, leaders and followers can become more self-aware, effective, ampathetic, and eventually successful.
+The multidimensional framework we presented in this essay hopefully offers a fresh and useful perspective on leadership in engineering. By recognizing the combination of spiritual, technical, personal, and inspirational/celebrity dimensions, leaders and followers can become more self-aware, effective, empathetic, and eventually successful.
 
 __Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
