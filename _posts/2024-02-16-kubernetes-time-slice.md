@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The long journey of setting up NVIDIA GPU drivers and time-slicing in our GPU EKS cluster"
+title:  "The story of what it took to setup NVIDIA GPU drivers and time-slicing in our GPU EKS cluster"
 author: shirish
 categories: [ infrastructure, data-science, kubernetes]
 featured: false
