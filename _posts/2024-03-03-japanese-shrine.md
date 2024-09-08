@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What a 1,300-year-old temple can teach us about software maintenance"
+title:  "Bringing lessons from Japanese temple constructions to software maintenance"
 author: shirish
 categories: [ engineering, software, rewrite ]
 image: "assets/images/temple.png"

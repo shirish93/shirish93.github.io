@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction to Large Language Models (LLMs) and Running Them Locally on Your Mac Using OLLAMA"
+title:  "Running large language models (LLM) locally on your Mac using OLLAMA"
 author: shirish
 categories: [ ai, llm, tutorial]
 featured: false

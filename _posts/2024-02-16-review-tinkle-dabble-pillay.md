@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Srini Pillay's Tinker Dabble Try: The Power of an Unfocused Mind, A book review"
+title:  "Srini Pillay's Tinker Dabble Try: The Power of an Unfocused Mind, a book review"
 author: shirish
 categories: [ creativity, book-review, leadership]
 featured: false

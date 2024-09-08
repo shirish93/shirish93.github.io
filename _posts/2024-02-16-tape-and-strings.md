@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "In defense of the duct-tape and strings approach to software development"
+title:  "The duct-tape and strings approach to software is unfairly maligned"
 author: shirish
 categories: [ engineering, architecture, leadership]
 image: "assets/images/jenga.png"
