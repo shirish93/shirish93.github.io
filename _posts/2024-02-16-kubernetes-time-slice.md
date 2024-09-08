@@ -8,7 +8,7 @@ hidden: false
 image: "assets/images/gpu.jpg"
 ---
 
-I spent six months working on a work project that I thought would take two weeks. This essay the adventure in implementing GPU time slicing on our EKS kubernetes cluster. It began as a seemingly straightforward task – installing the gpu-operator. The work morphed into a long-lasting exploration that uncovered bugs, helped us improve internal processes, eventually leading to infrastructure upgrade.
+I spent six months working on a work project that I thought would take two weeks. This essay narrates the adventure in implementing GPU time slicing on our EKS kubernetes cluster. It began as a seemingly straightforward task – installing the gpu-operator. The work morphed into a long-lasting exploration that uncovered bugs, helped us improve internal processes, eventually leading to infrastructure upgrade.
 
 My work was supposed to be simple. The ticket said 'install the nvidia gpu operator and the time slicing addon-on into our EKS GPU cluster'. I headed to the NVIDIA official website, and they had instructions for exactly my requirements. How fortuitous, I thought, it'd be a done in a day or two.
 
