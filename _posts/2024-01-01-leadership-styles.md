@@ -7,41 +7,41 @@ image: "assets/images/leaderships.png"
 featured: true
 hidden: true
 ---
-Here's a novel way to help engineering leaders understand themselves, and evaluate the best way to leverage their skillsets.
+Here's my approach to to help engineering leaders understand themselves. It will allow them leverage their skillsets the best.
 
 ### Introduction
 
-Engineering leaders need to be multidimensional: they need both technical proficiency and people skills, including the ability to communicate their inspiring vision. When I took `Technical Leadership for Engineers` course offered by University of Washington-Seattle's [Engineering Leadership program](https://ise.washington.edu/students/cert/engineering-leadership) last year, I found the leadership frameworks offered unsatisfying. They didn't align with how envisioned myself as a leader, or what I expected from engineering leaders in my organizations. And thus over the last year or so, I have developed a novel way of understanding the skills and roles of such leaders.
+I have been helping a Nepali engineering non-profit shop with Product Management since 2022. When I started, I found it curious that the CEO was not a technical leader. My engineer instincts told me non-engineers leading technicals would be disastrous. A few months in, the whole picture came into view. Technical individuals don't necessarily make for good leaders. And good leaders don't always have to be very technical. It's a tough pill to swallow for engineers. Allow me to explain.
 
-Traditional leadership theories, while useful, often fall short when capturing the demands of software engineering. In this essay I introduce a novel perspective: a multidimensional framework that illuminates the multi-dimensional nature of engineering leadership. It will hopefully help both leaders and followers effectively understand their respective roles, and how they can improve in their situations.
+Engineering leaders need to be multidimensional, that's not a tall claim. They need technical proficiency, and people skills. They need to communicate their inspiring vision and collaborate across organization. And so forth. I took `Technical Leadership for Engineers` course offered by University of Washington-Seattle's [Engineering Leadership program](https://ise.washington.edu/students/cert/engineering-leadership) last year. I found the leadership frameworks offered in the course unsatisfying. They didn't align with how envisioned myself as a leader. I viewed engineering leaders in my company using a different lens. To get clarity on my thoughts, I wrote down how I saw my leaders. I wrote down what I wanted for them. That's how I came up with an alternative framework to understand skills and roles of engineering leaders.
+
+I found traditional leadership theories lacking when capturing the demands of software engineering. This essay introduces a framework that focuses on the multi-dimensional nature of engineering leadership. My goal is to help leaders understand how they see themselves and improve.
 
 ### The Multidimensional Framework
 
 This framework considers engineering leadership to be comprised of four distinct dimensions:
 
 1. **Spiritual:** The ability to inspire vision, meaning, and purpose within the team and individual contributors.
-2. **Technical:** The 'hard-skills', expertise and innovation driving projects forward.
+2. **Technical:** The 'hard-skills', expertise, and innovation driving projects forward.
 3. **Personal:** The guidance, mentorship, and interpersonal skills nurtuturing individual growth.
-4. **Inspirational/Celebrity:** The impact on a broader community through exceptional work and influence.
+4. **Inspirational/Celebrity:** The impact on a broader community through popular work and influence.
 
-By exploring these dimensions, leaders can identify their unique strengths and areas for development, and improve on growth accordingly. For followers, the framework allows a quick way to evaluate the diverse leadership styles they encounter. This lets them identify the leaders who resonate most with their individual needs and aspirations.
+Leaders can identify strengths and dimensions for development, and improve on growth accordingly. For followers, the framework allows a quick way to evaluate the diverse leadership styles they encounter. This lets them find leaders who they connect with the most. They can align their individual needs and aspirations.
 
-It's important to understand that a leader can excel at any one of these skills, and make for an excellent example for their charges, while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. Regardless, the framework provides an opportunity for flexibility in interpretating what a good engineering leader can be.
+A leader can excel at any one of these skills, and make for an excellent example. They could do so while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. This framework allows for flexibility in interpretating what a good engineering leader can be.
 
 ___
 
-Imagine a software engineer drawn to the technical brilliance of a solutions architect. A product owner who is inspired and motivated to push herself harder by the philosophical leadership of another leader. This framework encourages such nuanced appreciation, acknowledging that different leaders excel in different dimensions, and every single leader contributes uniquely to the collective success of an engineering team.
-
-A quote often (wrongly) attributed to Mark Twain goes: _Only kings, presidents, editors, and people with tapeworms have the right to use the editorial ‘we’._ Despite that, I will refer to myself in the plural hereon, as the framework, once out in the work doesn't belong to my person anymore. Let us proceed. Throughout this essay, we explore each dimension in depth, exploring key attributes, strengths, and potential limitations of each. We showcase real-world examples of engineering leaders who embody these characteristics, clarifying the impact of their diverse styles.
+We will now explore each dimension in depth. We explore key attributes, strengths, and potential limitations of each. Ther are real-world examples of engineering leaders who embody these characteristics. They will make us understand the impact of their diverse styles.
 
 #### Spiritual Leadership
 
-A spiritual leader shows the path...and vision...for the long term. They may not guide you technically, or help you in your day-to-day work, but their vision and mission of what is to be done, and what should be done is so strong, you can't but be allured by the possibilities. You are driven to your work to get towards their vision, overcoming for their other potential deficiencies in technical or personal aspects by finding other means.
+A spiritual leader shows the path...and vision...for the long term. They may not guide you technically, or help you in your day-to-day work. They have a strong and clear vision and and well-defined mission of what is to be done. You can't but be allured by the possibilities. You are driven to your work to get towards their vision. They inspire you to work. This could overcome their potential deficiencies in technical or personal aspects by finding other means.
 
 * **Key Attributes:** Vision setting, purpose definition, ethical leadership, creating a strong team culture.
 * **Strengths:** Motivates and inspires teams, creates a sense of community, drives innovation through shared values.
 * **Weaknesses:** Can be overly idealistic, may neglect pragmatic details, potential for manipulation.
-* **Example:** Yvon Chouinard, founder of Patagonia, known for his commitment to protecting the environment and sustainability, before it became trendy. He aligned his company's mission towards his vision despite it being at odds with profitability.
+* **Example:** Yvon Chouinard, founder of Patagonia. He is known for his commitment to protecting the environment and sustainability, before it became trendy. He aligned his company's mission towards his vision despite it being at odds with profitability.
 
 
 #### Technical Leadership
