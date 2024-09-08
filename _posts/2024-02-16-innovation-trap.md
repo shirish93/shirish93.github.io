@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Innovation Trap: Aligning Technology with Business Needs"
+title:  "How to prioritize profit while supporting innovation"
 author: shirish
 categories: [ engineering, architecture, leadership, innovation]
 featured: false
@@ -8,21 +8,21 @@ hidden: false
 image: "assets/images/inno-trap.jpg"
 ---
 
-Don't be seduced by the latest 'innovation' fads; instead, focus on aligning innovation with your core business goals and customer needs. This approach will help you avoid the innovation trap and achieve long-term success.
+It's easy to be seduced by the latest 'innovation' fads. But it's important to focusing on aligning innovation with core business goals and customer needs. This approach will help teams avoid the innovation trap and achieve long-term success.
 
 ## The Innovation Trap
 
-Forget mansions in the Metaverse and AI-powered self-driving cars, or even a land where banks are replaced by blockchains running on customer hardware. The real battle between businesses isn't about the hottest trends, but aligning innovation with their bottom line. While everyone chases the next big thing, many get lost in a jumble of buzzwords and expensive fads, forgetting to ask: Does this actually help our customers and make us money?
+Forget mansions in the Metaverse and AI-powered self-driving cars. Or even a land where banks are replaced by blockchains running on customer hardware. Businesses grow and die not on the hottest trends, but at the 'bottom line'. The victors are those who successfully align innovation with core business outcomes. As companies chase next big thing, they get lost in a jumble of buzzwords and expensive fads. They forget to ask: Does this actually help our customers and make us money?
 
-Take the example of Gamestop, the video game retailer that gambled $100 million on an NFT marketplace in 2021. A year later, the project was bleeding cash and eventually shut down two years later, with negative revenue to show overall. What went wrong? They mistook hype for need, and neglected their core business for a risky trend with no clear value proposition. They forgot to ask: what is the real need of our customers, and how are we creating value for them through this project?
+Take the example of Gamestop, the video game retailer that gambled $100 million on an NFT marketplace in 2021. A year later, the project was bleeding cash and eventually shut down two years later, with negative revenue to show overall. What went wrong? They mistook hype for need. They neglected their core business for a risky trend with no clear value proposition. They forgot to ask: what is the real need of our customers? How are we creating value for them through this project?
 
-This isn't an isolated incident. Companies often waste resources on innovation for the sake of innovation, neglecting to align it with their strategic goals and customer needs. This misalignment can lead to:
+This isn't an isolated incident. Companies often waste resources on innovation for the sake of innovation, neglecting to align it with their strategic goals and customer needs. Such misalignment leads to:
 
-* **Wasted capital:** Throwing money at unproven trends instead of investing in core strengths.
-* **Missed opportunities:** Ignoring innovations that could truly benefit the business.
+* **Wasted capital:** Throwing money at unproven trends instead of investing in core strengths. NFT's on IOT Blockchain, anybody?
+* **Missed opportunities:** Ignoring innovations that could truly benefit the business. I could have been a Metaverse millionaire!
 * **Reduced profitability:** Diverting resources from essential areas to fringe projects.
 
-So, how can businesses avoid this innovation trap? The answer lies in political savvy, not just blindfolded trend-chasing. It's about understanding the complex dynamics of your organization, industry, and customers with diplomacy and skill.
+How can businesses avoid this innovation trap? The answer lies in political savvy, not blind trend-chasing. It's about understanding the complex dynamics of your organization, industry, and customers with diplomacy and skill.
 
 Think of a politically suave leader not as a scheming manipulator, but as someone who can:
 
@@ -43,26 +43,25 @@ So, is aligning innovation and business needs a foolproof guarantee of success? 
 
 ### Downsides and Limitations of Alignment
 
-* **Missed Opportunities:** A focus on immediate business needs might lead companies to overlook disruptive innovations that could revolutionize their industry. Remember: sometimes, the biggest risks yield the biggest rewards.
-* **Resistance to Change:** Aligning innovation and business often requires challenging the status quo. This can be met with resistance from entrenched interests who prefer comfort zones over potential disruptions.
+* **Missed Opportunities:** A focus on immediate business needs might lead companies to overlook disruptive innovations. Revolutionary changes could be missed. Sometimes, the biggest risks yield the biggest rewards.
+* **Resistance to Change:** Aligning innovation and business often requires challenging the status quo. This can meet resistance from entrenched interests who prefer comfort over disruptions.
 * **Measuring ROI:** Quantifying the return on investment (ROI) of innovation can be tricky. It's not always about immediate profits, but rather building long-term value and adaptability.
-* **Market Shifts:** While aligning with current needs is important, unforeseen market shifts might render your aligned plan irrelevant. Stay agile and prepared to adapt.
+* **Market Shifts:** Aligning with current needs is important, but unforeseen market shifts might render your plan irrelevant. Stay agile and prepared to adapt.
 
 Despite these limitations, embracing political savvy and strategic alignment offers significant potential gains:
 
 ### Benefits of Alignment
 
 * **Upsides:** Increased competitiveness, effective resource allocation, improved stakeholder trust, and better decision-making are just a few benefits of alignment.
-* **Applicability:** Alignment isn't a one-size-fits-all solution. It's a flexible framework that can be adapted to different needs and situations. For example, in disruptive scenarios, alignment might focus on understanding the new landscape and finding ways to adapt existing business models.
+* **Applicability:** Alignment isn't a one-size-fits-all solution. It's a flexible framework that can be adapted to different needs and situations. For example, in disruptive scenarios, alignment might focus on understanding the new landscape and adapting existing business models.
 * **Tools for Evaluation:** To judge when alignment is useful, consider:
-
     * Maturity of the technology: Is it established or emerging?
     * Industry dynamics: Is the industry stable or prone to rapid change?
     * Organizational goals: Are immediate profits or long-term growth more important?
 
-## Embracing Alignment: The Path to Innovation Success
+## Aligning innovation and business goals
 
-Remember, the benefits outweigh the drawbacks. A politically savvy organization can navigate these challenges and reap the rewards of aligned innovation:
+The benefits outweigh the drawbacks. A politically savvy organization can navigate these challenges and reap the rewards of aligned innovation:
 
 * **Increased competitiveness:** Stay ahead of the curve by anticipating shifts and adapting quickly.
 * **Better resource allocation:** Invest in initiatives that truly generate value for your customers and business.
@@ -70,11 +69,9 @@ Remember, the benefits outweigh the drawbacks. A politically savvy organization 
 
 So how do you adapt your organization to be more in alignment with business needs?
 
-## Embracing Alignment: The Path to Innovation Success
-
 * **Assess your organization's current practices.** Are innovation and business needs truly aligned? If not, what steps can you take to bridge the gap?
 
-* **Industry Leaders: Champion political savviness within your organizations.** Encourage open communication, interdepartmental collaboration, and regular market trend reassessments. Understand the importance of a well-targeted PR campaign and learn to leverage it at the right time.  A savvy leader can:
+* **Industry Leaders: Champion political savvy within your organizations.** Encourage open communication, interdepartmental collaboration, and regular market trend reassessments. Understand the importance of a well-targeted PR campaign and learn to leverage it at the right time.  A savvy leader can:
     * Create a culture of open communication where ideas can flow freely across departments.
     * Break down silos and encourage cooperation between teams with different expertise.
     * Regularly reassess market trends to identify new opportunities and challenges.
@@ -83,6 +80,3 @@ So how do you adapt your organization to be more in alignment with business need
     * Achieve *real* business needs by using innovation tooling as a PR tooling where necessary to sell the unphotogenic parts of change.
 
 By adopting a strategic and politically savvy approach, you can ensure that innovation works for you, not against you. While it may be tempting, don't be seduced by the latest fads. Focus on aligning innovation with your core business goals and customer needs. This approach will help you avoid the innovation trap and achieve long-term success.
-
-
-__<a href="https://www.freepik.com/free-vector/catching-money-wth-idea_902007.htm#fromView=search&page=1&position=1&uuid=b6dad76c-6a05-40e7-be3c-36902a519be1">Image by dooder on Freepik</a>__
