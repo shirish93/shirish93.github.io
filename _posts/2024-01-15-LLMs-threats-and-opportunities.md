@@ -30,6 +30,7 @@ Personal LLMs are emerging as a bridge, addressing these limitations. Unlike tec
 
 These LLMs don't operate in isolation. Powerful tools like Hugging Face's Transformers library serve as the bridge, allowing developers to easily integrate these programs into other applications. Imagine wanting to add an LLM-powered writing assistant to your word processor - with Transformers, it's just a few lines of code away!
 
+
 ## Stepping Out of the Shadows: Comparing LLMs to Existing Solutions
 
 While LLMs hold immense potential, understanding their relative strengths and weaknesses compared to existing solutions is vital. Let's dive into a three-way comparison:

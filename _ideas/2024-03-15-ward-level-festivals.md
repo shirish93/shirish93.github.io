@@ -16,7 +16,7 @@ The lack of a strong local identity in Kathmandu and Lalitpur manifests in sever
 
 -   **Increased littering:** Disengagement translates to a lack of ownership, reflected in widespread littering and disregard for public spaces.
 
--   **Apathy towards politics:** Young adults, crucial for shaping the city's future, exhibit low voter turnout and minimal involvement in civic affairs.
+-   **Apathy towards local politics:** Young adults, crucial for shaping the city's future, exhibit low voter turnout and minimal involvement in civic affairs.
 
 These challenges not only hinder the development of vibrant communities but also impede effective governance and hinder the cities' potential.
 

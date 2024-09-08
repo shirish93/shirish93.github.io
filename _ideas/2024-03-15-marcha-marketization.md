@@ -5,7 +5,7 @@ author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/marcha.png
 ---
-Marcha, the enigmatic yeast and mold colony at the heart of Nepal's beloved chhyang, remains largely undocumented, its diverse recipes passed down through generations. We will meticulously collect and recreate marcha variations, bridging the gap between tradition and science to unlock the secrets of chhyang's unique properties, and make marcha a veritable cultural heritage that's living through commercial modern channels as well.
+Marcha, the yeast and mold colony at the heart of Nepal's beloved fermented rice drink chhyang, remains largely undocumented, its diverse recipes passed down through generations. We will meticulously collect and recreate marcha variations, bridging the gap between tradition and science to unlock the secrets of chhyang's unique properties, and make marcha a veritable cultural heritage that's living through commercial modern channels as well.
 
 ## Introduction
 
