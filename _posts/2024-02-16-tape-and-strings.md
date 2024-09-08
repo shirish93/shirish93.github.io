@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "In defence of the duct-Tape and strings approach to software development"
+title:  "In defence of the duct-tape and strings approach to software development"
 author: shirish
 categories: [ engineering, architecture, leadership]
 image: "assets/images/jenga.png"
 ---
-The "duct-tape and strings" approach to building software systems prioritizes functionality and rapid iteration over achieving design perfection. While it might raise eyebrows among proponents of careful planning, it's borne out of real-world pressure and can lead to successful outcomes.
+The "duct-tape and strings" approach to building software systems prioritizes functionality and rapid iteration. That comes at the cost of achieving design perfection and technical debt. It often raises eyebrows among proponents of careful planning. However it's borne out of real-world pressure and can lead to successful outcomes.
 
 ## The Pragmatism of Imperfection
-Imagine pouring your heart and soul into crafting the perfect software system, architecting every component and anticipating every future need. Meanwhile the urgency of the project passes you buy, and a competitor releases a technically inferior product that happens to meet the exact market needs. The pursuit of perfection is admirable, but the reality for us in the trenches is different. As software engineers we find ourselves facing urgent business needs, limited resources, and rapidly changing landscapes. In these situations, the ideal of a perfectly built system can feel less like a guiding light and more like an increasingly irrelevant tower of babel, ready to collapse under its own glorious weight.
+Imagine pouring your heart and soul into crafting the perfect software system, architecting every component and anticipating every future need. Meanwhile the urgency of the project passes you by, and a competitor releases a technically inferior product that happens to meet the exact market needs. The pursuit of perfection is admirable, but the reality for us in the trenches is different. As software engineers we find ourselves facing urgent business needs, limited resources, and rapidly changing landscapes. In these situations, the ideal of a perfectly built system can feel less like a guiding light and more like an increasingly irrelevant tower of babel, ready to collapse under its own weight.
 
-Let's take an example from a project I worked some years ago. We worked on a pilot project that started as a proof of concept of a new technology. Initially designed to showcase the potential of a new technology, it quickly captured the attention of management and stakeholders. Faced with an urgent need to deliver, the team opted to launch the system in its proof-of-concept form, knowing it wasn't perfect but recognizing its immediate value. This decision, while unusual for the generally orthodox company, proved successful. The business need and critical functionality was satisfied, and the team iterated and improved the underlying infrastructure.
+Let's take an example from a project I worked some years ago. Initially designed as a pilot to showcase the potential of a new technology, it quickly captured the attention of management and stakeholders. Faced with an urgent need to deliver, the team opted to launch the system in its proof-of-concept form, knowing it wasn't perfect but recognizing its immediate value. This decision, while unusual for the generally orthodox company, proved successful. The business need and critical functionality was satisfied, and the team iterated and improved the underlying infrastructure.
 
 The "duct-tape and strings" approach -- which so many of us are right to be suspicious of -- isn't inherently bad; it's a tool within our toolbox, with its own set of advantages and disadvantages. This essay will explore into these considerations, examining the rationale behind building to spec, exploring the benefits and drawbacks of the "duct-tape and strings" philosophy, and discussing how we can leverage both approaches to achieve better results.
 
