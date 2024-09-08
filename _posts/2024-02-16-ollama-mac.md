@@ -10,16 +10,15 @@ image: "assets/images/llama.png"
 
 This is an introduction to Large Language Models (LLMs) and an instruction to running them locally on a Mac using OLLAMA.
 
-It was originally designed as a walk-through Lunch & Learn event at Liberty Mutual with my coworkers. I have orgnanised my thoughts and the steps involved in the process as this tutorial. Some steps may be missing, I'll add them to be more comprehensive.
-
+It was originally designed as a walk-through Lunch & Learn event at Liberty Mutual with my coworkers. I have organized my thoughts and the steps involved in the process as this tutorial. Some steps may be missing, I'll add them to be more comprehensive.
 
 1. What are LLMs and how do they work?
 
-LLMs are a type of deep neural networks, a machine learning technique, capable of 'understanding' and generating text, translating languages, writing different kinds of creative content, and answering your questions in an informative way. They are trained on massive datasets of text and code, allowing them to recognize patterns and generate similar outputs.
+LLMs are a type of deep neural networks, a machine learning technique. They are capable of 'understanding' (not really!) and generating text, translating languages, and answering your questions. They are trained on massive datasets of text and code, allowing them to recognize patterns and generate similar outputs.
 
 Here's a simplified breakdown of their operation:
 
-**Training**: LLMs are trained on massive datasets of text and code. This process involves feeding the model with examples and adjusting its internal parameters to improve its ability to recognize patterns and generate similar outputs.
+**Training**: LLMs are trained on massive datasets of text and code. This involves feeding the model with examples and adjusting its internal parameters to improve its ability to recognize patterns and generate similar outputs.
 **Understanding**: When provided with a prompt or question, the LLM analyzes it based on the patterns learned during training.
 **Generation**: Based on the analysis, the LLM generates a response that is relevant to the prompt or question. This response can be text, code, or even a creative format like poems or scripts.
 
@@ -27,16 +26,15 @@ Here's a simplified breakdown of their operation:
 
 There are several advantages to running LLMs locally:
 
-**Cost**: Running LLMs locally can be cheaper than using cloud-based services, especially for frequent use cases.
-**Data privacy**: By running the LLM locally, you maintain control over your data and avoid potential privacy concerns associated with cloud storage.
-**Latency**: Local execution can be significantly faster than using cloud-based services, especially if you have a powerful machine.
+**Cost**: Running LLMs locally can be cheaper than cloud-based services, especially for frequent use cases.
+**Data privacy**: By running the LLM locally, you maintain control over your data and avoid potential privacy concerns with cloud.
+**Latency**: Local execution can be significantly faster than cloud services, especially if you have a powerful machine.
 **Offline usage**: Local LLMs can be used even without an internet connection.
 
-However, there are also drawbacks to consider:
+However, there are some potential limitations:
 
-**Hardware requirements**: Running larger LLMs locally requires powerful hardware, particularly a strong GPU, which can be expensive.
-**Maintenance**: Maintaining and updating the LLM and its hardware can be time-consuming and require technical expertise.
-**Limited scalability**: Local LLMs typically have lower processing power and memory compared to cloud-based options, limiting their ability to handle very large tasks. However, that seems to be rapidly changing, as even 'small' models are competing with the capacities of the best models released less than half a year previously.
+**Hardware requirements**: Running larger LLMs locally requires powerful hardware, particularly a hefty GPU, which can be expensive.
+**Limited scalability**: Local LLMs typically have lower processing power and memory compared to cloud-based options. This limits their ability to handle very large tasks. However, that is changing, as even 'small' models are competing with the capacities of the best models.
 
 3. Setting Up Your Mac for Local LLMs (Disclaimer & Requirements)
 
@@ -142,5 +140,3 @@ The future of local LLMs holds exciting possibilities, pushing the boundaries of
 **Function Calling**: Ollama engineers are working on enabling LLMs to understand and execute specific functions on your computer based on your instruction. This is in the backlog for the group, but similar functionality could be achieved by Langchain library for python.
 **Embeddings**: Local models can return the vector representation of words, phrases, or documents within them. This opens up possibilities for advanced applications like information retrieval and text classification.
 **Live Inference**: This involves the LLM processing real-time sensor data from your microphone or camera and providing immediate responses. This could lead to novel applications in areas like virtual assistants and real-time language translation.
-
-__Ollama illustration from their website.__
