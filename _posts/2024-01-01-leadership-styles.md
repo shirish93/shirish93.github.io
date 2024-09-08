@@ -46,7 +46,7 @@ A spiritual leader shows the path...and vision...for the long term. They may not
 
 #### Technical Leadership
 
-A technical leader bedazzles with their technical skills, quick-thinking, ability to come to anybody's assitance at a moment's notice and immediacy in identifying the issue at hand. They gain respect by their sharpened skills in their field of expertise, and inspire others because of their sheer intelligence, work ethic and competence. The followers want to become them, be even tenth as effective and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it doesn't matter, because their technical expertise trumps all.
+A technical leader bedazzles with their technical skills. They are quick-thinking, and often provide immediate assistance. They are experts in rapidly identifying the issue at hand. They gain respect by their sharpened skills in their field of expertise. They inspire others because of their sheer intelligence, work ethic and competence. The followers aspire to become as competitive and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it's moot, because their technical expertise trumps all.
 
 * **Key Attributes:** Deep technical expertise, problem-solving skills, driving project execution.
 * **Strengths:** Builds trust through competence, delivers results efficiently, ensures technical solutions are sound.
@@ -55,51 +55,22 @@ A technical leader bedazzles with their technical skills, quick-thinking, abilit
 
 #### Personal Leadership
 
-Leaders with this style incubate your personal growth, watch out for your potential career-wise, guide you towards tools and techniques to improve yourself, and make sure you're performing the best you can. They empower you to push yourself as hard as you can go, and make you understand the worth of your work. They clear the blockers standing on your way, and help you see your mission more clearly. They touch you at a personal level, as a mentor.
+Leaders with this style incubate your personal growth. They watch out for your potential career-wise. They guide you towards tools and techniques to improve yourself. They help you perform the best you can. They empower you to push yourself as hard as you can go. They clarify the worth of your work. They clear the blockers standing on your way. They help you see your personal mission more clearly. They touch you at a personal level, as a mentor.
 
 * **Key Attributes:** Strong interpersonal skills, mentoring and coaching, encouraging individual growth, building trust and rapport.
 * **Strengths:** Creates a positive and supportive work environment, helps individuals reach their full potential, promotes teamwork and knowledge sharing.
-* **Weaknesses:** Can be overly individualistic, neglecting the collective needs of the team, potential for favoritism.
-* **Example:** Somebody's team lead, could be a great mentor!
+* **Weaknesses:** Can be overly individualistic, neglecting the collective needs of the team, potential for favoritism, might lack the big-picture vision
+* **Example:** Anil Dash, the CEO of Fog Creek software. Somebody's team lead, could be a great mentor!
 
 
 #### Inspirational/Celebrity Leadership
 
-This kind of leadership is not necessarily related to one's field, but can be. This sort of leader has such charm, charisma, and drive that onlookers can't but help be inspired and driven. These leaders are great at being celebrities too, and use their influence in all the right ways. They might not know you personally, but they will have changed millions of lives for the better through charisma and ability. While Steve Jobs is an obvious example, I want to give another example of Julia Evans [who](jvns.ca) maintains an excellent tech blog, give public presentations, and inspired me to start working on this website.
+This kind of leadership is not necessarily related to one's field, but can be. This sort of leader has such charm, charisma, and drive that onlookers can't but help be inspired and driven. These leaders are great at being celebrities too. They might not know you personally, but they will have changed millions of lives through charisma and ability. Steve Jobs is an obvious example. Another example is Julia Evans [who](jvns.ca) who maintains an excellent tech blog. She gives public presentations too, and inspired me to start working on this website.
 
-* **Key Attributes:** Charisma, public influence, motivating large audiences, building brand recognition.
+* **Key Attributes:** Charisma, public influence, motivating large audiences
 * **Strengths:** Drives external interest and investment, attracts top talent, inspires broader social impact.
 * **Weaknesses:** Can be susceptible to ego and fame, may neglect internal team needs, focus more on external perception than internal reality.
-* **Example:** Steve Jobs (inspiring a generation with inspired products and captivating presentations), Julia Evans (for me!)
-
-
-### Potential Pitfalls
-
-We must concede that overemphasizing any single dimension within the multidimensional framework can lead to potential pitfalls. That could hinder both individual and team success. Here's a breakdown of the possible downsides for each dimension:
-
-**Spiritual Leadership**
-
-* Overly idealistic vision
-* Neglecting pragmatic details
-* Ethical manipulation
-
-**Technical Leadership**
-
-* Technical elitism
-* Neglecting communication and team dynamics
-* Missing the bigger picture
-
-**Personal Leadership**
-
-* Overly individualistic focus
-* Favoritism and bias
-* Neglecting the collective needs
-
-**Inspirational/Celebrity Leadership**
-
-* Ego and fame
-* External perception over reality
-* Neglecting internal engagement
+* **Example:** Steve Jobs (inspiring a generation with inspired products and captivating presentations), Julia Evans (for me!), Joel Sopolsky
 
 ### Tips for Leaders and Followers
 
@@ -109,14 +80,14 @@ In this section we will discuss actionable advice for both leaders and followers
 
 * **Spiritual Leadership:** Develop a strong personal vision, connect with team values, encourage ethical decision-making, inspire through storytelling.
 * **Technical Leadership:** Continuously learn and upskill, collaborate with technical experts, communicate technical concepts effectively, focus on problem-solving and innovation.
-* **Personal Leadership:** Develop interpersonal skills, be a mentor and coach, build trust and rapport, create a learning environment.
-* **Inspirational/Celebrity Leadership:** Develop your personal brand, connect with the broader community, leverage your influence for good, stay authentic and humble.
+* **Personal Leadership:** Develop interpersonal skills, be a mentor and coach, build trust and rapport, create a learning environment, practice active listening.
+* **Inspirational/Celebrity Leadership:**  Connect with the broader community, leverage your influence for good, stay authentic and humble, be comfortable with fame.
 
-### How the Framework Benefits Followers
+### How the Framework Helps Followers
 
-The multidimensional framework of engineering leadership empowers followers in several ways:
+If you're not a leader, you can still benefit from my framework. The idea is to identify your leaders' strengths, and leveraege them at their strongest axes.
 
-* **Improved understanding of leaders:** Recognizing the different dimensions of leadership allows you to better understand your leaders' motivations, strengths, and potential limitations. This empowers you to:
+* **Better understanding of leaders:** Recognizing the different axes of leadership allows you to better figure out your leaders. You can better understand their motivations, strengths, and potential limitations. This empowers you to:
     * Appreciate different leadership styles: Instead of judging a leader based on a single trait, you can appreciate their unique way of contributing to the team.
     * Identify your preferred leadership style: Recognizing your own needs and preferences helps you move towards leaders who inspire you in specific ways.
     * Anticipate leader behavior: Understanding the strengths and weaknesses of different leadership styles helps you predict how leaders might react in different situations.
@@ -126,18 +97,13 @@ The multidimensional framework of engineering leadership empowers followers in s
     * Connecting with inspirational leaders: Share your personal motivations and goals to find common ground and inspiration.
     * Building rapport with personal leaders: Openly discuss your individual needs and career aspirations for better guidance and support.
 
-* **Enhanced career development:** Recognizing different leadership styles allows you to choose mentors and role models who align with your own career goals:
+* **Better career growth:** Recognizing different leadership styles allows you to choose mentors and role models who align with your own career goals:
     * Seeking technical mentorship: If you aspire towards technical expertise, find leaders who excel in that dimension.
     * Finding inspirational guidance: Choose role models who motivate and inspire you to achieve your personal best.
     * Learning from diverse leaders: Expose yourself to different leadership styles to understand and broaden your own skillset.
 
-* **Personal growth and empowerment:** Understanding leadership styles helps you become a more self-aware and proactive team member:
+* **Personal growth:** Understanding leadership styles helps you become a more self-aware and proactive team member:
     * Identifying your own leadership potential: Reflect on your strengths and explore how you can contribute to the team in diverse ways.
     * Taking initiative and ownership: Proactively solve problems and contribute positively based on your understanding of the leadership needs.
     * Building stronger teams: Recognizing different styles helps you bridge communication gaps and encourage joint effort within the team.
 
-### Conclusion
-
-The multidimensional framework we presented in this essay hopefully offers a fresh and useful perspective on leadership in engineering. By recognizing the combination of spiritual, technical, personal, and inspirational/celebrity dimensions, leaders and followers can become more self-aware, effective, empathetic, and eventually successful.
-
-__Royalty-free stock image above from [Pexels](https://www.pexels.com/).__
