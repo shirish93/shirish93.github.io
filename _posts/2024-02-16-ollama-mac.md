@@ -8,14 +8,14 @@ hidden: false
 image: "assets/images/llama.png"
 ---
 
-This essay will provide an introduction to Large Language Models (LLMs) and explore the process of running them locally on a Mac using OLLAMA.
+This is an introduction to Large Language Models (LLMs) and an instruction to running them locally on a Mac using OLLAMA.
 
-It essay was originally designed as a walk-through Lunch & Learn event at Liberty Mutual with my coworkers. I have orgnanised my thoughts and the steps involved in the process as this tutorial. Some steps may be missing, I'll add them to be more comprehensive.
+It was originally designed as a walk-through Lunch & Learn event at Liberty Mutual with my coworkers. I have orgnanised my thoughts and the steps involved in the process as this tutorial. Some steps may be missing, I'll add them to be more comprehensive.
 
 
 1. What are LLMs and how do they work?
 
-LLMs are a type of deep neural networks, a machine learning technique, capable of understanding and generating text, translating languages, writing different kinds of creative content, and answering your questions in an informative way. They are trained on massive datasets of text and code, allowing them to recognize patterns and generate similar outputs.
+LLMs are a type of deep neural networks, a machine learning technique, capable of 'understanding' and generating text, translating languages, writing different kinds of creative content, and answering your questions in an informative way. They are trained on massive datasets of text and code, allowing them to recognize patterns and generate similar outputs.
 
 Here's a simplified breakdown of their operation:
 
