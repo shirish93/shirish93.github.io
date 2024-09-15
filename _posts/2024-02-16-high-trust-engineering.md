@@ -16,7 +16,7 @@ High-trust engineering teams aren't just teams lacking distrust. They are squads
 
 Mutual respect and open communication lay the foundation of such teams. Members must feel psychologically safe to experiment and learn. Transparency and accountability ensure everyone's aligned and contributing their best. Empowering leaders act only as the guiding hand, they trust their team and celebrate their achievements.
 
-Building such a harmonious ensemble requires effort. Conflicts could arise, but the music continues. By nurturing for trust, organizations unleash the full potential of their engineering teams. They can  thus transform them into high-performing symphonies of talent and innovation.
+Building such an ensemble needs work. Conflicts could arise, but the music continues. By nurturing for trust, organizations let loose the full potential of their engineering teams. They can  thus transform them into high-performing symphonies of talent and innovation.
 
 Unfortunately, many organizations inadvertently create dissonant environments. They are characterized by suspicion, secrecy, and lack of open communication. In such settings, engineers become isolated soloists, hesitant to share their melodies. That ultimately produces a muted and uninspired performance. This lack of trust is expensive. Communication breakdowns due to distrust can lead to significant productivity losses. The absence of trust stifles exchange of ideas essential for innovation. High turnover rates in low-trust organizations are like losing skilled musicians mid-performance. They disrupt the ensemble's ability to deliver. Ultimately, customer satisfaction suffers when internal discord translates into disjointed delivery times and response delays. 
 
