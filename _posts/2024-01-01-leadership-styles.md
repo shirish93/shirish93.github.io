@@ -23,16 +23,16 @@ This framework considers engineering leadership to be comprised of four distinct
 
 1. **Spiritual:** The ability to inspire vision, meaning, and purpose within the team and individual contributors.
 2. **Technical:** The 'hard-skills', expertise, and innovation driving projects forward.
-3. **Personal:** The guidance, mentorship, and interpersonal skills nurtuturing individual growth.
+3. **Personal:** The guidance, mentorship, and interpersonal skills nurturing individual growth.
 4. **Inspirational/Celebrity:** The impact on a broader community through popular work and influence.
 
 Leaders can identify strengths and dimensions for development, and improve on growth accordingly. For followers, the framework allows a quick way to evaluate the diverse leadership styles they encounter. This lets them find leaders who they connect with the most. They can align their individual needs and aspirations.
 
-A leader can excel at any one of these skills, and make for an excellent example. They could do so while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. This framework allows for flexibility in interpretating what a good engineering leader can be.
+A leader can excel at any one of these skills, and make for an excellent example. They could do so while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. This framework allows for flexibility in interpreting what a good engineering leader can be.
 
 ___
 
-We will now explore each dimension in depth. We explore key attributes, strengths, and potential limitations of each. Ther are real-world examples of engineering leaders who embody these characteristics. They will make us understand the impact of their diverse styles.
+We will now explore each dimension in depth. We explore key attributes, strengths, and potential limitations of each. There are real-world examples of engineering leaders who embody these characteristics. They will make us understand the impact of their diverse styles.
 
 #### Spiritual Leadership
 
@@ -85,7 +85,7 @@ In this section we will discuss actionable advice for both leaders and followers
 
 ### How the Framework Helps Followers
 
-If you're not a leader, you can still benefit from my framework. The idea is to identify your leaders' strengths, and leveraege them at their strongest axes.
+If you're not a leader, you can still benefit from my framework. The idea is to identify your leaders' strengths, and leverage them at their strongest axes.
 
 * **Better understanding of leaders:** Recognizing the different axes of leadership allows you to better figure out your leaders. You can better understand their motivations, strengths, and potential limitations. This empowers you to:
     * Appreciate different leadership styles: Instead of judging a leader based on a single trait, you can appreciate their unique way of contributing to the team.

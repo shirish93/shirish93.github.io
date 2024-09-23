@@ -33,9 +33,9 @@ Of course, the iterative software development cycle has its downsides. The pragm
 
   Tech debt can manifest in various ways:
 
-  * **Complex codebase:** Cobbled-together solutions can lead to convoluted and hard-to-understand code, increasing maintenance costs and hindering     future development.
+  * **Complex codebase:** Cobbled-together solutions can lead to convoluted and hard-to-understand code. This increases maintenance costs and hindering     future development.
   * **Integration challenges:** Integrating new features or functionalities into a system cobbled together with workarounds can become increasingly difficult and time-consuming.
-  * **Hidden bugs and vulnerabilities:** Shortcuts and quick fixes can introduce hidden bugs and vulnerabilities that may impact system stability and security in the long run.
+  * **Hidden bugs and vulnerabilities:** Shortcuts and quick fixes can introduce hidden bugs and vulnerabilities. That could hurt system stability and security in the long run.
 
   It can be managed in the following ways.
 
@@ -55,15 +55,15 @@ The choice between these two approaches isn't always black and white. Often, the
 
 Here are some companies that successfully used the "duct-tape and strings" approach to 'win':
 
-* **Dropbox:** Started with a simple prototype focusing on core functionality (file syncing). They iterated based on user feedback to become a dominant player in the cloud storage market.
-* **Airbnb:** Began as a simple website connecting home-sharing individuals. They focused on functionality over design, and rapidly scaled based on user traction.
-* **Instagram:** Launched with a limited set of features, prioritized usability and user engagement over advanced editing tools. Eventually became a cultural phenomenon.
+* **Dropbox:** Started with a simple prototype focusing on core functionality (file syncing). They iterated based on user feedback to become a large player in the cloud storage market.
+* **Airbnb:** Began as a simple website connecting home-sharing individuals. They focused on functionality over design, and scaled based on user traction.
+* **Instagram:** Launched with a limited set of features, prioritized usability and user engagement over advanced editing tools. Eventually became a household appliance.
 
 Not all systems are ideal candidates for the "duct-tape and strings" approach. This philosophy would not be suitable for systems requiring high security, reliability, or scalability.
 
 Importantly, it's important to also consider that speed to market isn't a guaranteed winner. Product finish and customer preferences play a huge part in the calculus. Apple wasn't the first to enter the mp3 player market with its iPod devices. Yet, in very short few years, it drove Microsoft's Zune -- the first mover -- out of business. Then it repeated the move with the iPhone, displacing 'serious' phone makers in short order. Tesla wasn't the first electric car in America either. Again, it quickly became the first successful American mass-market EV manufacturer.
 
 ## Conclusion
-Leonardo's (of Vinci, the famous one) first flying machine, an ungainly contraption of wood and canvas, teetered precariously before crashing spectacularly. Was it a failure? Certainly, in terms of achieving sustained flight. But within that "duct-tape and strings" contraption lay the seeds of revolution. It may not have led to immediate invention of human flight, but it set us on the path. It inspired the right people.
+Leonardo's (of Vinci, the famous one) first flying machine was an ungainly contraption of wood and canvas. It coughed and jumped before crashing spectacularly. Was it a failure? Definitely. In terms of achieving sustained flight. But within that "duct-tape and strings" contraption lay the seeds of revolution. It may not have led to immediate invention of human flight, but it set us on the path. It inspired the right people. Which would not have helped Leonardo's patrons. But you can accelerate the process within your team.
 
-The imperfect, "duct-tape and strings" system might not be an architectural marvel. It will creak, groan, and occasionally require frantic troubleshooting. But it holds potential for rapid response, agile adaptation, and quick market validation. Messy prototypes are the rough drafts of the software world. They are imperfect first steps that pave way for better long-term products.
+The imperfect "duct-tape and strings" system is not an architectural marvel. It will creak, groan, and occasionally require frantic troubleshooting. But it creates path for rapid response, agile adaptation, and quick market validation. Messy prototypes are rough drafts of the software world. They are imperfect first steps that pave way for better long-term products.

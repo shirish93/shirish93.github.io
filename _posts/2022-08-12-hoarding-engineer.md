@@ -6,11 +6,11 @@ categories: [ engineering, software, leadership]
 image: "assets/images/teamwork.jpg"
 ---
 
-Even well-run organizations can fall into the trap of 'hoarding' their star performers. They keep them 'on the bench', unwilling to deploy them in challenging projects. That's an unnecessary inefficiency. As in sports, allowing your strongest players to go out to the field gives them practice. It also improves general team performance and provides boost of morale to the rest of the team.
+Well-run organizations can fall into the trap of 'hoarding' their star performers. They keep them 'on the bench', not deploying them for big, risky, challenging projects. That's an unnecessary inefficiency. As in sports, allowing your strongest players to go out to the field gives them practice. It also improves general team performance and provides boost of morale to the rest of the team. Send your players out to play!
 
 ### Introduction
 
-Imagine a dusty attic overflowing with heirlooms, gathering cobwebs instead of enriching lives. This perfectly captures the irony of hoarding mentality in software engineering. Top performers – the organization's most important assets – are often underutilized, their potential locked away like precious antiques.
+Imagine a dusty attic overflowing with heirlooms, gathering cobwebs. This parallels the irony of hoarding mentality in software engineering. Top performers – an organization's most important assets – are often underutilized, their potential locked away like precious antiques.
 
 I saw this firsthand in a Kathmandu engineering shop. A highly skilled engineer was kept on the sidelines for "big emergencies," while his colleagues struggled with everyday challenges. This experience left me unsettled... the underutilization of talent, the missed opportunities and hampered efficiency was so easy to fix! It was hard to not intervene as an outsider.
 
