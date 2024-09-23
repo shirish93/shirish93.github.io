@@ -35,7 +35,7 @@ To extend the book's logic, we can interpret that by embracing checklists, softw
 
 **The Checklist: A Tool, Not a Silver Bullet**
 
-While compelling, "The Checklist Manifesto" has limitations. Some might find the focus on checklists overly simplistic. Gawande acknowledges this, emphasizing that successful implementation requires team dynamics conducive to adopting new practices.  Additionally, he doesn't delve too deeply into potential downsides like overreliance or bureaucratization.
+While compelling, "The Checklist Manifesto" has limitations. Some might find the focus on checklists overly simplistic. Gawande acknowledges this, emphasizing that successful implementation requires team dynamics conducive to adopting new practices.  He doesn't expolre too deeply into potential downsides like overreliance or bureaucratization.
 
 Despite these limitations, checklists offer significant benefits:
 
