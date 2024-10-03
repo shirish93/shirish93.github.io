@@ -31,7 +31,7 @@ Structure of the sessions:
 
   Homework
     1. Install docker on your machine and 'docker pull' and 'docker run' something fun or useful (or anything at all!)
-    2. Find out what use cases companies use docker for, and what benefits they see. Find a real-world use case of Docker in the industry.
+    2. Find out what use cases companies use docker for, and what benefits they see. Find a real use case of Docker in the industry.
       2.5 Why would anybody use "Docker for developer's development environment"? What are the upsides and the downsides?
     3. Dockerize your application, aka run it inside a docker container and see if you get any benefits out of it.
     4. Dockerize somebody else's application, from github or wherever, and see how that works out.
@@ -94,7 +94,7 @@ Structure of the sessions:
       4. Strategies for overcoming common fears associated with working with databases.
          Why are so many engineers fearful of database and migrations???
       5. More on data loss prevention, troubleshooting queries, and managing schema changes.
-        * examples of real-world data breaches or security incidents and the importance of data security practices in mitigating such risks.
+        * examples of data breaches or security incidents and the importance of data security practices in mitigating such risks.
 
   Homework:
       1. Choose a simple database schema and practice writing SQL queries to CRUD (create, read, update, delete) data.

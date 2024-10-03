@@ -14,7 +14,7 @@ Imagine the intoxicating aroma of fermenting rice filling your kitchen, the warm
 
 For many entrepreneurs, the desire to blend passion with purpose fuels their endeavors. If you find yourself drawn to cultural preservation, community building, and celebrating unique flavors, then starting a "ChhangFriend" business -- centered around reviving home brewing of chhyang, the traditional rice wine of Nepal -- might be your perfect entrepreneurial journey. This guide isn't a hype-filled marketing spiel, but rather a comprehensive and practical roadmap to navigate this unique venture.
 
-**Step 1: Immerse Yourself in the Cultural Tapestry:**
+**Step 1: Immerse Yourself in the Cultural Tradition:**
 
 Before diving into business plans, immerse yourself in the rich history and significance of chhyang. Engage with local communities, witness generations sharing the brewing knowledge, and understand the role chhyang plays in festivals and celebrations. This cultural immersion will not only ignite your passion, but also inform your business decisions, ensuring your offerings resonate with your target audience.
 
@@ -70,7 +70,7 @@ Imagine the intoxicating aroma of fermenting rice filling your kitchen, the warm
 
 Unearthing the Cultural Gem:
 
-Before diving into business strategies, immerse yourself in the rich tapestry of chhyang. Travel to local villages, witness families gather around pots of bubbling brew, and listen to stories passed down through generations. Explore the folklore surrounding chhyang, understand its role in festivals and celebrations, and appreciate the skill involved in the brewing process. This connection to the cultural heart of chhyang will not only ignite your passion but also inform your business decisions, guiding you towards offerings that resonate with your audience.
+Before diving into business strategies, immerse yourself in the rich culture of chhyang. Travel to local villages, witness families gather around pots of bubbling brew, and listen to stories passed down through generations. Explore the folklore surrounding chhyang, understand its role in festivals and celebrations, and appreciate the skill involved in the brewing process. This connection to the cultural heart of chhyang will not only ignite your passion but also inform your business decisions, guiding you towards offerings that resonate with your audience.
 
 Crafting Your Kit, Cultivating Curiosity:
 

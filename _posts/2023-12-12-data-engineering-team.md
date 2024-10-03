@@ -37,9 +37,9 @@ Through the evaluation process, we identified the need for a more specialized te
 
 ### Outcomes
 
-1. Enhanced Resource Allocation and Efficiency: Dividing the engineering team into specialized units was a more efficient allocation of resources. The infrastructure team's dedicated focus on infrastructure management led quicker completions. The data science enablement team, in turn, provided targeted technical support to data scientists. This let them  work more independently and efficiently. The clear separation of responsibilities streamlined the workflow and contributed to overall team productivity.
+1. Improved Resource Allocation and Efficiency: Dividing the engineering team into specialized units was a more efficient allocation of resources. The infrastructure team's dedicated focus on infrastructure management led quicker completions. The data science enablement team, in turn, provided targeted technical support to data scientists. This let them  work more independently and efficiently. The clear separation of responsibilities streamlined the workflow and contributed to overall team productivity.
 
-2. Deeper Teamwork and Knowledge Sharing: The new approach allowed for a more structured and focused form of work. The data science enablement team served as a bridge between data scientists and engineers. They simplified technical communication and knowledge sharing without disrupting workflows.
+2. Better Teamwork and Knowledge Sharing: The new approach allowed for a more structured and focused form of work. The data science enablement team served as a bridge between data scientists and engineers. They simplified technical communication and knowledge sharing without disrupting workflows.
 
 3. Improved Project Turnaround Times: The streamlined workflow contributed to reduction in project turnaround times. Data scientists received timely and focused technical support. They were able to iterate and experiment faster. Software engineers were empowered to focus on long-term development goals, leading to faster completion of core functionalities and features.
 

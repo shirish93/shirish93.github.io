@@ -10,7 +10,7 @@ image: "assets/images/choices.jpg"
 
 Choosing the right tool or library for software engineering projects can feel like navigating a minefield. This essay will offer a practical framework for evaluating competing technologies and making informed choices that align with your project's needs. There is no 'perfect option', so one must understand the potential pitfalls and trade-offs to decide what the best approach for them is.
 
-I'm writing this essay because I realized I had been given the opportunity to decide between multiple competing technologies early in my career, setting the path not just for my team, but the larger organization. This essay is my attempt at formalizing the thought process. TMy goal is for the reader to understand the process of decision-making engineers must go through to decide between competing technologies, and how we might want to consider our priorities.
+I'm writing this essay because I realized I had been given the opportunity to decide between multiple competing technologies early in my career. I was allowed to set the path not just for my team, but the larger organization. This essay is my attempt at formalizing the thought process. TMy goal is for the reader to understand the process of decision-making engineers must go through to decide between competing technologies, and how we might want to consider our priorities.
 
 ## How to make a decision?
 

@@ -78,7 +78,7 @@ We will work with relevant authorities to establish any necessary **regulatory f
 
 **9. Conclusion**
 
-BSFL technology offers a **promising, sustainable, and profitable solution** for Kathmandu's organic waste management challenges. This proposal outlines a pilot project and implementation plan to demonstrate its feasibility and pave the way for a cleaner, greener, and more resource-efficient Kathmandu.
+BSFL technology offers a **promising, sustainable, and profitable solution** for Kathmandu's organic waste management challenges. This proposal outlines a pilot project and implementation plan to demonstrate its feasibility and allow for a cleaner, greener, and more resource-efficient Kathmandu.
 
 **10. Call to Action**
 
