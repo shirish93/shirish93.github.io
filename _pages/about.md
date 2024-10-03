@@ -32,6 +32,7 @@ comments: true
 
 <a href="assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="assets/images/team-small.jpg"></p></a>
 
+</div>
 
 <div class="col-md-4">
 
