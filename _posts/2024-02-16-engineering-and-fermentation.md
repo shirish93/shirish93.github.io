@@ -8,7 +8,7 @@ hidden: false
 image: "assets/images/kimchi.jpg"
 ---
 
-For a software engineer, technical expertise is clearly of the highest importance. However, their attitude towards problem solving can significantly shape how they get their everyday tasks accomplished too. Through a hobby of mine I've discovered an unexpected wellspring of professional growth. Fermentation. This seemingly random hobby has become a secret weapon, helping me nurture skills relevant to my engineering career.
+For a software engineer, technical expertise is clearly of the highest importance. However, their attitude towards problem solving can significantly shape how they get their everyday tasks accomplished too. Through a hobby of mine I've discovered an unexpected wellspring of professional growth. Fermentation. This seemingly random hobby has become a secret weapon, helping me hone skills relevant to my engineering career.
 
 **Lessons from the Unknown:**
 

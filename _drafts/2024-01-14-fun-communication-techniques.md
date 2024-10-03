@@ -33,7 +33,7 @@ Imagine a bustling conference room filled with engineers eager to learn about a 
 
 The orchestra played, each instrument representing a software feature, the tempo mirroring its function. Anticipation turned to bewilderment as non-musicians struggled to translate the musical language. The "Confusing Symphony" showcased the power and pitfalls of multimodal communication.
 
-While interesting and novel, the team overlooked crucial aspects. The complex musical metaphors were lost on an audience unfamiliar with such language. Artistic expression overshadowed clarity, leaving them appreciating the performance, not understanding the software. Symbolism without interpretation becomes an opaque barrier.
+While interesting and novel, the team overlooked important aspects. The complex musical metaphors were lost on an audience unfamiliar with such language. Artistic expression overshadowed clarity, leaving them appreciating the performance, not understanding the software. Symbolism without interpretation becomes an opaque barrier.
 
 This cautionary tale underscores the need for careful execution. Multimodal communication, when done right, can be transformative. But by prioritizing clarity, context, and interpretation, we ensure our creative approaches truly resonate, not just with applause, but with understanding.
 
