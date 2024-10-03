@@ -69,7 +69,7 @@ We propose a five-year phased approach, starting with:
 
 **Conclusion:**
 
-By aligning interests, fostering responsible practices, and empowering communities, riverfront rejuvenation is not just an environmental project, but a catalyst for economic growth, social well-being, and cultural revitalization. We invite you to join us in creating a future where Kathmandu and Lalitpur's rivers become vibrant threads weaving together a tapestry of ecological health, economic prosperity, and shared community pride.
+By aligning interests, fostering responsible practices, and empowering communities, riverfront rejuvenation is not just an environmental project, but a catalyst for economic growth, social well-being, and cultural revitalization. We invite you to join us in creating a future where Kathmandu and Lalitpur's rivers become exciting areas stringing together a culture of ecological health, economic prosperity, and shared community pride.
 
 ---
 
@@ -92,7 +92,7 @@ Beyond environmental restoration and economic revitalization, our approach recog
 
 The thriving waterfronts of Clarke Quay and San Antonio's River Walk offer valuable lessons for our project:
 
--   **Blending History and Modernity:** Both destinations weave historical charm with modern amenities, offering something for everyone. We can adapt this approach to showcase Kathmandu and Lalitpur's rich cultural heritage alongside contemporary dining and entertainment options.
+-   **Blending History and Modernity:** Both destinations create historical charm with modern amenities, offering something for everyone. We can adapt this approach to showcase Kathmandu and Lalitpur's rich cultural heritage alongside contemporary dining and entertainment options.
 
 -   **Diverse Culinary Experiences:** From casual cafes to fine dining restaurants, both locations cater to a variety of budgets and tastes. We can encourage similar diversity in Kathmandu and Lalitpur, highlighting local specialties alongside international cuisines.
 

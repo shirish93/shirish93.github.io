@@ -12,9 +12,9 @@ Well-run organizations can fall into the trap of 'hoarding' their star performer
 
 Imagine a dusty attic overflowing with heirlooms, gathering cobwebs. This parallels the irony of hoarding mentality in software engineering. Top performers – an organization's most important assets – are often underutilized, their potential locked away like precious antiques.
 
-I saw this firsthand in a Kathmandu engineering shop. A highly skilled engineer was kept on the sidelines for "big emergencies," while his colleagues struggled with everyday challenges. This experience left me unsettled... the underutilization of talent, the missed opportunities and hampered efficiency was so easy to fix! It was hard to not intervene as an outsider.
+I saw this firsthand in a Kathmandu engineering shop. A highly skilled engineer was kept on the sidelines for "big emergencies," while his colleagues struggled with their projects. This experience left me unsettled... the underutilization of talent, the missed opportunities and hampered efficiency was so easy to fix! It was hard to not intervene as an outsider.
 
-That led me to wonder: how might organizations break free from such limiting approach and unleash the power of their players? I'll discuss the "use-it-or-lose-it" reality of hoarding psychology in engineering, explore its negative consequences and advocate for a better alternative. 
+That made me wonder: how might organizations break free from such limiting approach and utilize power of their players? I'll discuss the "use-it-or-lose-it" reality of hoarding psychology in engineering, explore its negative consequences and advocate for a better alternative. 
 
 ### From Orchestras to Engineering Teams
 

@@ -13,7 +13,7 @@ TODO: ADD REFERNCES TO THE PHYSICAL CUTOUT  dummy prop version of an app mention
 ## Introduction
 We've all been there: sitting through a seemingly endless string of presentations, PowerPoint slides blurring past our eyes, complex diagrams inducing glazed-over expressions. While these traditional methods are deeply ingrained in technical communication, a nagging question arises: are they truly effective in conveying information and sparking engagement?
 
-My own experience at a recent team meeting served as a stark reminder of their limitations. Amidst a sea of text-heavy presentations and diagrams, one team stood out. They didn't tell us about their interesting idea; they showed us, weaving it into the fabric of a captivating one-act play. Suddenly, I was hooked, actively engaged, and eager to understand their message. This sparked a deeper exploration of alternative communication modalities, leading me to a fundamental truth: our human minds crave more than just words and diagrams.
+My own experience at a recent team meeting served as a stark reminder of their limitations. Amidst a sea of text-heavy presentations and diagrams, one team stood out. They didn't tell us about their interesting idea; they showed us, collecting it into the fabric of a captivating one-act play. Suddenly, I was hooked, actively engaged, and eager to understand their message. This sparked a deeper exploration of alternative communication modalities, leading me to a fundamental truth: our human minds crave more than just words and diagrams.
 
 Within our company, presentations and diagrams reign supreme. PowerPoint dominates our arsenal, while Canva and technical diagrams paint a familiar, yet often unexciting landscape. We grapple with information overload, text-heavy slides that lull attention to sleep, and complex diagrams that leave audiences deciphering a maze of lines and shapes. While these methods serve a purpose, their limitations are undeniable. Attention spans dwindle, engagement dips, and the nuances of complex ideas can easily get lost in translation.
 
@@ -37,7 +37,7 @@ While interesting and novel, the team overlooked important aspects. The complex 
 
 This cautionary tale underscores the need for careful execution. Multimodal communication, when done right, can be transformative. But by prioritizing clarity, context, and interpretation, we ensure our creative approaches truly resonate, not just with applause, but with understanding.
 
-The key lies in careful execution, context, and alignment with the content. The play's success wasn't solely due to the play format. It was their meticulous planning, clear message, and genuine passion that made it resonate. We must embrace this holistic approach when venturing into new modalities.The anecdote of the play serves as a testament to the power of multimodal communication to capture attention and ignite understanding. But beyond individual anecdotes, adopting this approach can truly transform the way we share and receive information within our company.
+The key lies in careful execution, context, and alignment with the content. The play's success wasn't solely due to the play format. It was their incredible planning, clear message, and genuine passion that made it resonate. We must embrace this holistic approach when venturing into new modalities.The anecdote of the play serves as a testament to the power of multimodal communication to capture attention and ignite understanding. But beyond individual anecdotes, adopting this approach can truly transform the way we share and receive information within our company.
 
 Imagine:
 
@@ -49,7 +49,7 @@ Of course, this transformation won't happen overnight. Challenges like overcomin
 
 We can offer workshops and resources to equip engineers and technical professionals with the skills to effectively utilize various modalities. We can create dedicated spaces and tools for experimentation and collaboration. Most importantly, we can foster a culture of innovation and encourage a willingness to step outside the traditional communication comfort zone.
 
-By embracing multimodal communication, we can unleash the full potential of information within our company. It's not just about adding bells and whistles to presentations; it's about igniting minds, fostering engagement, and ensuring that every message resonates, transforms, and empowers us to achieve our goals.
+By embracing multimodal communication, we can release the full potential of information within our company. It's not just about adding bells and whistles to presentations; it's about igniting minds, fostering engagement, and ensuring that every message resonates, transforms, and empowers us to achieve our goals.
 
 
 __Royalty-free stock image above from [Pexels](https://www.pexels.com/).__

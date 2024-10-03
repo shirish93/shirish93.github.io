@@ -9,7 +9,7 @@ Surprising lessons on how watching Age of Empires IV videogame online teaches im
 
 ### Introduction 
 
-The worlds of competitive e-sports and software/infrastructure engineering might seem like disparate universes at first glance. I have however learned useful lessons from watching Age of Empired IV (AOE4) that I've been able to leverage into useful skills at work. This essay will explore how the skills honed through watching AOE4 esports have made me a better engineer, focusing on pressure-handling, strategic planning, resource management, and adapting to change.
+Competitive e-sports and software/infrastructure engineering might seem like disparate universes at first glance. I have however learned useful lessons from watching Age of Empired IV (AOE4) that I've been able to leverage into useful skills at work. This essay will explore how the skills honed through watching AOE4 esports have made me a better engineer, focusing on pressure-handling, strategic planning, resource management, and adapting to change.
 
 I have been watching the game ever since it released, following a few game 'casters', but mostly the players themselves on their recorded game casts on Youtube. It was initially just a way to entertain myself, like watching movies, but I've realized that I've internalized life skills applicable for a software engineer through those games.
 
@@ -33,7 +33,7 @@ Understanding the long-term implications of decisions is essential in the field 
 
 For example, an engineer planning the upgrade of a company's services might not just focus on immediate capacity needs. By drawing inspiration from AOE4 players who plan their build orders with expansion in mind, the engineer might consider including **additional infrastructure capacity** to accommodate projected growth in the coming years. This proactive approach ensures thes service availability remains **functional and efficient** as the company's requirements evolve.
 
-AOE4 players often **scout the map and analyze their opponent's strategies** early in the game. This **intelligence gathering** allows them to adapt their own plans and anticipate potential challenges. Similarly, engineers in the real world engage in thorough **planning and risk assessment** before embarking on large-scale projects. This involves researching existing infrastructure, identifying potential roadblocks, and developing contingency plans to address any unforeseen issues. By proactively anticipating potential challenges, engineers can **minimize disruptions** and ensure the smooth execution of projects.
+AOE4 players often **scout the map and analyze their opponent's strategies** early in the game. This **intelligence gathering** allows them to adapt their own plans and anticipate potential challenges. Similarly, engineers in thorough **planning and risk assessment** before embarking on large-scale projects. This involves researching existing infrastructure, identifying potential roadblocks, and developing contingency plans to address any unforeseen issues. By proactively anticipating potential challenges, engineers can **minimize disruptions** and ensure the smooth execution of projects.
 
 **Resource Management: Optimizing Allocation**
 

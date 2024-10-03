@@ -18,7 +18,7 @@ However, upon closer examination, we discovered a critical flaw in our approache
 
 **Trusting trust, and so forth**
 
-The core limitation of blockchain technology emerged as a central theme. Blockchain is the most useful in environments with a complete lack of trust between participants. However, in most real-world scenarios, there's always a reasonable amount of trust between business counterparties. Legal contracts and government institutions exist to enforce rules and make the process of cross-organizational trust and coordination easier. In such cases, the use of a trusted intermediary could often achieve the same results without the complexities of blockchain. Our exploration revealed that technology alone cannot solve the fundamental issue of trust.
+The core limitation of blockchain technology emerged as a central theme. Blockchain is the most useful in environments with a complete lack of trust between participants. However, in most realistic scenarios, there's always a reasonable amount of trust between business counterparties. Legal contracts and government institutions exist to enforce rules and make the process of cross-organizational trust and coordination easier. In such cases, the use of a trusted intermediary could often achieve the same results without the complexities of blockchain. Our exploration revealed that technology alone cannot solve the fundamental issue of trust.
 
 **Beyond Legitimate Applications**
 

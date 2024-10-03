@@ -16,7 +16,7 @@ This "duct-tape and strings" approach -- which so many of us are right to be sus
 
 * **Focus on core functionality:** By clearly defining requirements, teams can prioritize essential features and avoid feature creep. This ensures the system delivers its core value.
 * **Meeting business needs:** Building to spec aligns the system with specific business objectives. It delivers tangible benefits from the outset.
-* **Validate ideas quickly:** Launching a "good enough" version allows for real-world user feedback and market validation. This saves time and resources on features that might not resonate with the target audience.
+* **Validate ideas quickly:** Launching a "good enough" version allows for timely user feedback and market validation. This saves time and resources on features that might not resonate with the target audience.
 * **Lower initial investment:** This approach allows for focusing on essential features first, reducing initial development costs. We avoid aiming for a comprehensive solution at the start.
 * **Respond to market needs:** Adapting and iterating quickly based on user feedback and market trends allows teams to stay ahead of the curve and remain competitive.
 * **Capture early adopters:** Companies that move fast can attract early adopters. They gain access to users who are willing to provide feedback and contribute to the product's growth.
@@ -25,7 +25,7 @@ Consequently, carefully-architected, slow-built systems have the following downs
 
 * **Lengthy development timelines:** Extensive planning and construction can significantly extend development timelines. Teams might potentially miss market windows or delay critical features.
 * **Potential missed market opportunities:** In fast-paced industries, waiting for a perfect system can mean losing ground to competitors. They could adopt agile approaches and adapt to changing market needs more quickly.
-* **Limited room for iteration:** Strict adherence to a pre-defined plan can leave little room for adapting to real-world feedback and user needs.
+* **Limited room for iteration:** Strict adherence to a pre-defined plan can leave little room for adapting to feedback and user needs.
 
 Of course, the iterative software development cycle has its downsides. The pragmatist strategy comes with these possible challenges:
 
@@ -66,4 +66,4 @@ Importantly, it's important to also consider that speed to market isn't a guaran
 ## Conclusion
 Leonardo's (of Vinci, the famous one) first flying machine was an ungainly contraption of wood and canvas. It coughed and jumped before crashing spectacularly. Was it a failure? Definitely. In terms of achieving sustained flight. But within that "duct-tape and strings" contraption lay the seeds of revolution. It may not have led to immediate invention of human flight, but it set us on the path. It inspired the right people. Which would not have helped Leonardo's patrons. But you can accelerate the process within your team.
 
-The imperfect "duct-tape and strings" system is not an architectural marvel. It will creak, groan, and occasionally require frantic troubleshooting. But it creates path for rapid response, agile adaptation, and quick market validation. Messy prototypes are rough drafts of the software world. They are imperfect first steps that pave way for better long-term products.
+The imperfect "duct-tape and strings" system is not an architectural marvel. It will creak, groan, and occasionally require frantic troubleshooting. But it creates path for rapid response, agile adaptation, and quick market validation. Messy prototypes are rough drafts of Software. They are imperfect first steps that pave way for better long-term products.

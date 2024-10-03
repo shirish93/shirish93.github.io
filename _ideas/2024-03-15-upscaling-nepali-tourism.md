@@ -15,13 +15,13 @@ Nepal has breathtaking landscapes, diverse cultures, and unique traditions. It's
 1. Promote Nepal as a high-end luxury travel destination. Increase visitor satisfaction ratings and average spending per tourist
 2. Train local community members to provide premium tourism services. Ensure authentic cultural experiences while generating income for their communities
 3. Develop eco-friendly and culturally sensitive tourism initiatives. Encourage environmental sustainability and preserve Nepal's rich heritage
-4. Foster collaborations with influential travel bloggers, influencers, and luxury travel expos. Raise awareness about the unique offerings in Nepalese tourism
+4. Foster collaborations with influential travel bloggers, influencers, and luxury travel expos. Raise awareness about the unique offerings in Nepali tourism
 5. Ensure the safety and security of tourists through well-defined protocols and measures. Maintain a positive image for Nepal as a travel destination
 
 #### Strategies:
 1. Luxury Experience Creation: Improve infrastructure, create unique experiences that cannot be found elsewhere, and showcase premium cultural performances and ethnic cuisine to attract high-end tourists.
 2. Community Involvement: Train local communities to become guides, staff, and providers of premium tourism services; engage them in community development programs, home stays, eco-tourism initiatives, and 'peace tourism' experiences.
-3. Marketing Campaigns: Leverage social media platforms and collaborate with influential travel bloggers and influencers to reach potential high-end customers. Participate in luxury travel expos and events to create a strong presence for Nepalese tourism.
+3. Marketing Campaigns: Leverage social media platforms and collaborate with influential travel bloggers and influencers to reach potential high-end customers. Participate in luxury travel expos and events to create a strong presence for Nepali tourism.
 4. Safety & Security Measures: Establish well-defined safety protocols, ensure local law enforcement agencies are trained and equipped to handle emergencies, and develop clear communication channels between the government and tourists to maintain a positive image of Nepal as a safe travel destination.
 
 <img src="../assets/images/stick-dancers1.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />

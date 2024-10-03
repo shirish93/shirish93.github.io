@@ -16,7 +16,7 @@ We are excited to announce a scholarship program offering financial support and 
 
 **About the Scholarship Program**
 
-Our goal is to provide scholarships to talented and ambitious female students, enabling them to access the world-class educational opportunities offered by Australian colleges and universities. The scholarship will cover a significant portion of the recipient's tuition fees (amount: $[X] USD) and will be awarded based on academic merit and financial need. 
+Our goal is to provide scholarships to talented and ambitious female students, enabling them to access the best educational opportunities offered by Australian colleges and universities. The scholarship will cover a significant portion of the recipient's tuition fees (amount: $[X] USD) and will be awarded based on academic merit and financial need. 
 
 **What We Offer**
 

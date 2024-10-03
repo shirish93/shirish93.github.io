@@ -6,7 +6,7 @@ categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/festival3.png
 ---
 
-This proposal presents a solution. **Ward-level festivals** are designed to strengthen local spirit, The idea is to cultivate a sense of community ownership, and encourage civic engagement. Kathmandu and Lalitpur are cities with vibrant diverse communities and rich cultural heritage. They face challenges in fostering a strong sense of local belonging. Many residents, particularly young adults, lack engagement with their neighborhoods. This leads to issues like littering, apathy towards community events, and low political participation. 
+This proposal presents a solution. **Ward-level festivals** are designed to strengthen local spirit. The idea is to cultivate a sense of community ownership, and encourage civic engagement. Kathmandu and Lalitpur are cities with vibrant diverse communities and rich cultural heritage. They face challenges in fostering a strong sense of local belonging. Many residents, particularly young adults, lack engagement with their neighborhoods. This leads to issues like littering, apathy towards community events, and low political participation. 
 
 **Understanding the Challenges:**
 
