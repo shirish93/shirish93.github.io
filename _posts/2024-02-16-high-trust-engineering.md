@@ -42,7 +42,7 @@ Building a high-trust engineering organization is a journey, not a destination. 
 * **Create psychological safety:** Create an environment where individuals feel comfortable taking risks and learning from mistakes.
 * **Align values and goals:** Ensure everyone understands the organization's vision and how their work contributes to it.
 
-Building trust takes time and effort, but the rewards are worth it. Invest in your engineering team's well-being, and nurture a culture of joint responsibility, and you'll create a symphony of success.
+Building trust takes time and effort, but the rewards are worth it. Invest in your engineering team's well-being, and create a culture of joint responsibility, and you'll create a symphony of success.
 
 
 __Photo by Dio Hasbi Saniskoro: [link](https://www.pexels.com/photo/people-doing-group-hand-cheer-3280130/).__

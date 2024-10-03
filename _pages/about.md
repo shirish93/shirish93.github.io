@@ -32,17 +32,6 @@ comments: true
 
 <a href="assets/images/bg-joinTeam.jpg"><p class="mb-5"><img class="shadow-lg" alt="Image of a group of employees collaborating. I'm the man in yellow T-shirt." src="assets/images/team-small.jpg"></p></a>
 
-<p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p> If you think this stuff is all rather silly, I disagree! Read <a href="https://www.shirish.me/diverse-hobbies">this post</a> I wrote for a retort.
-<ul>
-<li>My stand-up comedy skills are just as good as my skills at the driving range. Absolutely terrible. I love them anyway.</li>
-<li>I am an amateur novelist. My longest draft is a whopping 60,000 words (and yes, it's just. so. bad.)</li>
-<li>I'm a fermentation enthusiast. I've brewed countless batches of kombucha, kefir, and more. Check out shirish.me/fermentland (unpublished at the moment) to see what I've been up to and what's next.</li>
-<li>I'm an amateur food scientist. I've dabbled in non-fermentation food preservation. I've dehydrated and powdered enough fruits and veggies to feed a small army (though maybe not a very healthy one!). More lately, I'm using dried herbs, flowers, fruits and roots to flavor my ferments.</li>
-<li>I grow things. I have a hydroponics system for off-season veggies and houseplants. I'm also a proud indoor mushroom cultivator. I'm a dues-paying member of the Puget Sound Mycological Society (https://www.psms.org/) and the Puget Sound Beekeeper's Association (https://pugetsoundbees.org/).</li>
-<li>I'm a mythology buff. I love reading on South Asian myths, culinary traditions, and the historical arts of South Asia. My dream vocation would be a full-time researcher of culinary histories of Nepal and Tibet</li>
-<li>(Though currently on hold) I'm a biking enthusiast. My trusty folding bike was my partner-in-crime from 2015-2020, saving me from sticky situations (like walking next to a highway to commute!). Unfortunately, my current Seattle residence with its steep hill and four-flight climb isn't the most bike-friendly...</li>
-</ul>
-</div>
 
 <div class="col-md-4">
 

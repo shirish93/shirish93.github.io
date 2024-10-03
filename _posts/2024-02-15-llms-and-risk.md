@@ -62,7 +62,7 @@ We have discussed the potential risks and downsides of improperly-deployed LLM m
 Here are some ways we mimght nagivate these challenges?
 
 __Developing Detection Techniques__ : Advancements in AI and machine learning can be leveraged to create tools capable of identifying and flagging LLM-generated content.
-__Promoting Media Literacy__: Educating the public on the capabilities and limitations of LLMs is crucial to nurture critical thinking and discernment skills in navigating online information.
+__Promoting Media Literacy__: Educating the public on the capabilities and limitations of LLMs is important to encourage critical thinking and discernment skills in navigating online information.
 __Redefining Assessment Strategies__: Adapting evaluation methods in education and other fields to account for the presence of LLMs is essential to ensure accurate assessment of genuine human skills and understanding.
 
 ### Conclusion: Embracing the Future with Responsibility

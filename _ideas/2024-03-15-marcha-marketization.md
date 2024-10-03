@@ -5,6 +5,7 @@ author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/marcha.png
 ---
+
 Marcha, the yeast and mold colony at the heart of Nepal's beloved fermented rice drink chhyang, remains largely undocumented, its diverse recipes passed down through generations. We will meticulously collect and recreate marcha variations, bridging the gap between tradition and science to unlock the secrets of chhyang's unique properties, and make marcha a veritable cultural heritage that's living through commercial modern channels as well.
 
 ## Introduction
@@ -112,7 +113,7 @@ Our team comprises dedicated researchers with diverse expertise:
 
 **7. Conclusion:**
 
-This research project promises to unveil the intriguing link between marcha's composition and the final characteristics of chhyang, weaving together the threads of cultural significance and scientific understanding. By delving into the diverse practices and traditional knowledge surrounding marcha, we aim to contribute to cultural preservation, promote sustainable development, and position Nepal as a leader in the world of chhyang. We are confident that our research will have a lasting impact on Nepal's cultural heritage, scientific knowledge, and economic potential.
+This research project promises to unveil the intriguing link between marcha's composition and the final characteristics of chhyang, weaving together the threads of cultural significance and scientific understanding. By delving into the diverse practices and traditional knowledge surrounding marcha, we aim to contribute to cultural preservation, promote sustainable development, and position Nepal as a leader in the chhyang. We are confident that our research will have a lasting impact on Nepal's cultural heritage, scientific knowledge, and economic potential.
 
 ---------------------
 

@@ -11,7 +11,7 @@ rating: 4.5
 
 A review of Atul Gawande's seminal book ~ The Checklist Manifesto ~ and the lessons it holds for engineers and engineering leaders.
 
-For software engineers and leaders focused on building high-performing systems and teams and reducing errors, Atul Gawande's "The Checklist Manifesto" offers a simple but potent solution: checklists. While the book targets a broader audience, its message translates clearly to the world of software development. 
+For software engineers and leaders focused on building high-performing systems and teams and reducing errors, Atul Gawande's "The Checklist Manifesto" offers a simple but potent solution: checklists. While the book targets a broader audience, its message translates clearly to software engineering.
 
 **Why Checklists? Powerful Simplicity:**
 
@@ -35,7 +35,7 @@ To extend the book's logic, we can interpret that by embracing checklists, softw
 
 **The Checklist: A Tool, Not a Silver Bullet**
 
-While compelling, "The Checklist Manifesto" has limitations. Some might find the focus on checklists overly simplistic. Gawande acknowledges this, emphasizing that successful implementation requires team dynamics conducive to adopting new practices.  He doesn't expolre too deeply into potential downsides like overreliance or bureaucratization.
+While compelling, "The Checklist Manifesto" has limitations. Some might find the focus on checklists overly simplistic. Gawande acknowledges this, emphasizing that successful implementation requires team dynamics conducive to adopting new practices.  He doesn't explore too deeply into potential downsides like overreliance or bureaucratization.
 
 Despite these limitations, checklists offer significant benefits:
 

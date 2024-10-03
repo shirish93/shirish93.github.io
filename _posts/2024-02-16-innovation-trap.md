@@ -8,11 +8,11 @@ hidden: false
 image: "assets/images/inno-trap.jpg"
 ---
 
-It's easy to be seduced by the latest 'innovation' fads. But it's important to focusing on aligning innovation with core business goals and customer needs. This approach will help teams avoid the innovation trap and achieve long-term success.
+It's easy to be seduced by the latest 'innovation' fads. But it's important to focus on aligning innovation with core business goals and customer needs. Doing so will protect teams from the innovation trap and achieve long-term success.
 
 ## The Innovation Trap
 
-Forget mansions in the Metaverse and AI-powered self-driving cars. Or even a land where banks are replaced by blockchains running on customer hardware. Businesses grow and die not on the hottest trends, but at the 'bottom line'. The victors are those who successfully align innovation with core business outcomes. As companies chase next big thing, they get lost in a jumble of buzzwords and expensive fads. They forget to ask: Does this actually help our customers and make us money?
+Mansions in the Metaverse and AI-powered self-driving cars are faraway pipe dreams. And so is a land where banks are replaced by blockchains running on customer hardware. Businesses grow and die not on the hottest trends, but at the 'bottom line'. The victors are those who successfully align innovation with core business meeds. As companies chase the next big thing, they get lost in a jumble of buzzwords and expensive fads. They forget to ask: Does this actually help our customers and make us money?
 
 Take the example of Gamestop, the video game retailer that gambled $100 million on an NFT marketplace in 2021. A year later, the project was bleeding cash and eventually shut down two years later, with negative revenue to show overall. What went wrong? They mistook hype for need. They neglected their core business for a risky trend with no clear value proposition. They forgot to ask: what is the real need of our customers? How are we creating value for them through this project?
 
