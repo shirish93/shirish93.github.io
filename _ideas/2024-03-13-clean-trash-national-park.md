@@ -11,7 +11,7 @@ Image source: [wikipedia](https://en.wikipedia.org/wiki/Shivapuri_Nagarjun_Natio
 
 ## Introduction
 
-This project proposes a multi-pronged approach to reduce littering in Nepal's national parks, drawing on behavioral science, financial incentives, and community participation. Firstly, strategically placed "pre-filled" trash cans will act as a nudge, subtly suggesting responsible disposal through the power of social proof. With less subtlety, park rangers and security personnel will remind the entering visitors --pointing at the trash cans -- that other visitors like them have had the good manners to clean up after themselves, and they are expected to follow the trend. Second, visitors entering the park will receive reusable trash bags with a refundable deposit, creating a direct financial incentive to dispose of waste properly. Finally, we'll harness the energy and idealism of local youth by organizing regular clean-up activities in collaboration with schools and colleges, fostering a sense of shared responsibility and environmental stewardship. This multifaceted approach, combining behavioral intervention, financial incentives, and community involvement, offers a promising solution to tackle the issue of littering head-on, ensuring Nepal's national parks remain pristine havens for all to enjoy.
+This project proposes a multi-pronged approach to reduce littering in Nepal's national parks, drawing on behavioral science, financial incentives, and community participation. Firstly, strategically placed "pre-filled" trash cans will act as a nudge, subtly suggesting responsible disposal through the power of social proof. With less subtlety, park rangers and security personnel will remind the entering visitors --pointing at the trash cans -- that other visitors like them have had the good manners to clean up after themselves, and they are expected to follow the trend. Second, visitors entering the park will receive reusable trash bags with a refundable deposit, creating a direct financial incentive to dispose of waste properly. Finally, we'll harness the energy and idealism of local youth by organizing regular clean-up activities in collaboration with schools and colleges, supporting a sense of shared responsibility and environmental stewardship. This multifaceted approach, combining behavioral intervention, financial incentives, and community involvement, offers a promising solution to tackle the issue of littering head-on, ensuring Nepal's national parks remain pristine havens for all to enjoy.
 
 All three of the proposed solutions are tested and have worked in other civic and private fields, and we are just harnessing existing techniques to align interests to clean our National Parks clean.
 
@@ -19,11 +19,11 @@ All three of the proposed solutions are tested and have worked in other civic an
 
 This proposal outlines a project designed to significantly reduce littering in Nepal's national parks, such as Shivapuri and Nagarjuna, by:
 
--   **Pre-filled trash baskets at entry points:** Visually prompting visitors to dispose of waste responsibly through "social proof" and security personnel engagement.
+-   **Pre-filled trash baskets at entry points:** Visually prompting visitors to dispose of waste responsibly through "social proof" and clear conversation about benefits with security personnel.
 
 -   **Deposit-based trash container system:** incentivizing proper disposal through a refundable deposit on containers collected upon park exit.
 
--   **Local youth clean-up initiatives:** Fostering community ownership and environmental awareness through collaborative clean-up activities.
+-   **Local youth clean-up initiatives:** Supporting community ownership and environmental awareness through collaborative clean-up activities.
 
 **2. Problem:**
 
@@ -63,13 +63,13 @@ Despite existing measures, visitors often neglect proper waste disposal within n
 
 -   **Increased visitor feedback:** Surveys and feedback forms to gauge positive perception and project awareness.
 
--   **Security personnel feedback:** Monitor their observations and engagement with visitors regarding waste disposal.
+-   **Security personnel feedback:** Monitor their observations and interaction with visitors regarding waste disposal.
 
 -   **Decline in littering rates:** Data collected by forest rangers and park authorities.
 
 **5. Implementation Timeline:**
 
-**Month 1-2:** Secure project approval, budget allocation, and purchase initial materials (trash bags, containers).**Month 3-4:** Train security personnel on project objectives and visitor engagement strategies.**Month 5-6:** Pilot project implementation, data collection, and visitor feedback.**Month 7:** Project evaluation and decision on nationwide expansion based on success metrics.
+**Month 1-2:** Secure project approval, budget allocation, and purchase initial materials (trash bags, containers).**Month 3-4:** Train security personnel on project objectives and visitor communication strategies.**Month 5-6:** Pilot project implementation, data collection, and visitor feedback.**Month 7:** Project evaluation and decision on nationwide expansion based on success metrics.
 
 **6. Competitive Advantage:**
 
@@ -77,7 +77,7 @@ This proposal offers a unique combination of:
 
 -   **Behavioral nudges:** Pre-filled bins and deposits address unawareness and social norms.
 
--   **Community engagement:** Clean-up programs foster ownership and environmental consciousness.
+-   **Community Involvement:** Clean-up programs encourage ownership and environmental consciousness.
 
 -   **Minimal cost burden:** Initial investment low compared to ongoing cleanup costs.
 
@@ -108,7 +108,7 @@ This proposal offers a unique combination of:
 
 **10. Conclusion:**
 
-This project presents a cost-effective and sustainable solution to the littering problem in Nepal's national parks. By aligning visitor interests with environmental responsibility through behavioral nudges and community engagement, we can create cleaner parks, enhance visitor experience, and foster a culture of environmental stewardship. We invite the National Parks Department to partner with us on this initiative.
+This project presents a cost-effective and sustainable solution to the littering problem in Nepal's national parks. By aligning visitor interests with environmental responsibility through behavioral nudges and community involvement, we can create cleaner parks, enhance visitor experience, and frow a culture of environmental stewardship. We invite the National Parks Department to partner with us on this initiative.
 
 
 

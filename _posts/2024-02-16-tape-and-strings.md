@@ -59,7 +59,7 @@ Here are some companies that successfully used the "duct-tape and strings" appro
 * **Airbnb:** Began as a simple website connecting home-sharing individuals. They focused on functionality over design, and scaled based on user traction.
 * **Instagram:** Launched with a limited set of features, prioritized usability and user engagement over advanced editing tools. Eventually became a household appliance.
 
-Not all systems are ideal candidates for the "duct-tape and strings" approach. This philosophy would not be suitable for systems requiring high security, reliability, or scalability.
+Not all systems are ideal candidates for the "duct-tape and strings" approach. This philosophy would not be suitable for systems that need high security, reliability, or scalability.
 
 Importantly, it's important to also consider that speed to market isn't a guaranteed winner. Product finish and customer preferences play a huge part in the calculus. Apple wasn't the first to enter the mp3 player market with its iPod devices. Yet, inshort few years, it drove Microsoft's Zune -- the first mover -- out of business. Then it repeated the move with the iPhone, displacing 'serious' phone makers in short order. Tesla wasn't the first electric car in America either. Again, it quickly became the first successful American mass-market EV manufacturer.
 

@@ -66,7 +66,7 @@ The program's long-term sustainability will be ensured through:
 
 **Conclusion:**
 
-Consolidating Kathmandu's school bus system presents a unique opportunity to address traffic congestion, optimize resources, and enhance the educational experience for students and families. This proposal outlines a detailed plan for achieving this goal through a collaborative and sustainable approach. By working together, stakeholders can change Kathmandu's transportation ecosystem, creating a cleaner, more efficient, and student-centered learning environment.
+Consolidating Kathmandu's school bus system presents an opportunity to address traffic congestion, optimize resources, and enhance the educational experience for students and families. This proposal outlines a detailed plan for achieving this goal through a collaborative and sustainable approach. By working together, stakeholders can change Kathmandu's transportation ecosystem, creating a cleaner, more efficient, and student-centered learning environment.
 
 Implementing a successful school bus consolidation project in Kathmandu would likely require a combination of technical tools and software across different stages:
 

@@ -18,7 +18,7 @@ But collecting recipes is just the beginning.**Explore deeper** as we recreate e
 
 **Experience the flavors through a rounded sensorial trip**. In a double-blind taste test, guided by relevant adjectives, you'll become a translator of chhyang's language, offering objective descriptions that reveal its hidden depths.
 
-This is more than just research; it's a cultural revolution.**Share your findings through academic publications, workshops, and community events**, fostering knowledge dissemination and preserving Nepal's rich fermentation traditions.**Empower local communities** by promoting sustainable production practices and fair trade within the marcha and chhyang industry, contributing to economic development and uplifting those who hold the keys to this cultural treasure.
+This is more than just research; it's a cultural revolution.**Share your findings through academic publications, workshops, and community events**, growing knowledge dissemination and preserving Nepal's rich fermentation traditions.**Empower local communities** by promoting sustainable production practices and fair trade within the marcha and chhyang industry, contributing to economic development and uplifting those who hold the keys to this cultural treasure.
 
 <img src="../assets/images/marcha2.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 **Imagine positioning Nepal as the "capital of chhang culture,"** showcasing the diverse culture of chhyang flavors born from unique marcha variations. Like Sake for Japan and Makkoli for Korea,**see chhyang becoming a symbol of Nepal's rich heritage, attracting tourism and export opportunities.**
@@ -71,7 +71,7 @@ Existing research on Nepali fermented foods, including chhyang and marcha, lays 
 
 -   We will select marcha samples from communities known for their unique claims and diverse cultural practices, ensuring geographical and cultural representation.
 
--   To achieve this, we will collaborate with local ethnic cultural organizations and governmental bodies, fostering an ethical and inclusive research process.
+-   To achieve this, we will collaborate with local ethnic cultural organizations and governmental bodies, supporting an ethical and inclusive research process.
 
 **3.2 Sensory and Microbiological Analysis:**
 

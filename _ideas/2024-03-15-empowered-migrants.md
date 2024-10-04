@@ -41,7 +41,7 @@ The program will offer two key components:
 
 We understand that no single entity can address this complex challenge alone. Therefore, we see a collaborative angle to ensure the program's success. We will partner with the following stakeholders:
 
--   **Manpower companies:** As key players in the recruitment process, manpower companies have a vested interest in the success of their workers. We will collaborate with them to identify training needs, market relevant skills, and support worker engagement in the program.
+-   **Manpower companies:** As key players in the recruitment process, manpower companies have a vested interest in the success of their workers. We will collaborate with them to identify training needs, market relevant skills, and support workers in the program.
 
 -   **Non-governmental organizations (NGOs):** Many NGOs possess expertise in skills development and migrant worker issues. We will partner with them to leverage their knowledge, networks, and community outreach capabilities.
 
@@ -86,6 +86,6 @@ This program is not just about empowering individuals; it's about creating a rip
 
 The time for action is now. Let us join hands, stakeholders and citizens alike, to invest in this program. Let us empower our migrant workforce, not just for their sake, but for the sake of a stronger, more prosperous Nepal. This is not just an economic imperative; it's a moral responsibility, a chance to honor the sacrifices of those who leave their homes to build a better tomorrow, not just for their families, but for us all.
 
-However, we must acknowledge the challenges. Funding remains a crucial hurdle, requiring innovative partnerships and a shift in perspectives. Skepticism towards the long-term impact or concerns about worker exploitation after upskilling need to be addressed through monitoring and ethical frameworks. Moreover, ensuring program sustainability requires a commitment from all stakeholders, from government support to individual worker buy-in.
+However, we must acknowledge the challenges. Funding remains a nig hurdle, it needs innovative partnerships and a shift in perspectives. Skepticism towards the long-term impact or concerns about worker exploitation after upskilling need to be addressed through monitoring and ethical frameworks. Moreover, ensuring program sustainability requires a commitment from all stakeholders, from government support to individual worker buy-in.
 
 But these challenges are not insurmountable. They are merely stepping stones on a path towards a brighter future. The potential impact of this program is undeniable. Imagine the ripple effect - empowered workers sending back not just remittances, but valuable skills and knowledge, contributing to Nepal's development both financially and socially. Imagine a nation recognized for its skilled workforce, not just for the low-wage labor it exports. This is the future we can build, together.

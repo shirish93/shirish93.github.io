@@ -49,7 +49,7 @@ Our program involves:
 
 -   **Heritage Conservation:** Collaboration with experienced architects and engineers specializing in heritage construction ensures authenticity and compliance with preservation guidelines.
 
--   **Community Engagement:** Transparent communication, open public forums, and addressing individual concerns will be key to gaining community buy-in.
+-   **Community Involvement:** Transparent communication, open public forums, and addressing individual concerns will be key to gaining community buy-in.
 
 -   **Long-Term Sustainability:** Expanding the program to new houses, attracting tourism-related businesses as investors, and establishing a dedicated project management structure will ensure long-term viability.
 
@@ -123,7 +123,7 @@ This program extends its impact far beyond individual houses, revitalizing the c
 
 Naturally, concerns regarding heritage conservation and community buy-in exist. We address these through:
 
--   **Transparency and Engagement:** Open communication, public forums, and addressing individual concerns will be key to gaining community trust and support.
+-   **Transparency and Involvement:** Open communication, public forums, and addressing individual concerns will be key to gaining community trust and support.
 
 -   **Expert Collaboration:** Partnering with heritage preservation organizations and experienced professionals ensures adherence to conservation guidelines and maintains the authenticity of the reconstruction process.
 
@@ -139,7 +139,7 @@ Breathing new life into Kathmandu and Lalitpur's cultural heart requires collabo
 
 -   Launch a pilot project with 10-30 houses to showcase the effectiveness of the model.
 
--   Establish a dedicated project management team to oversee implementation and community engagement.
+-   Establish a dedicated project management team to oversee implementation and community involvement.
 
 -   Implement a marketing and outreach strategy to attract potential investors and homeowners.
 
@@ -173,7 +173,7 @@ But what if these whispers of the past could hold the key to a brighter future? 
 
 The numbers tell an interesting story. Consider a typical two-story house, its footprint echoing centuries of tradition. Reconstruction and a single added floor translate to an extra 200 square feet of modern living space for the homeowner. Assuming a monthly rental income of Rs. 30,000 for the added floor, the homeowner could see a significant increase in income, potentially changing their livelihood. But the benefits extend far beyond individual gains. Imagine Kathmandu's core revitalized, its traditional quarters bustling with restored houses showcasing their unique stories. Picture bustling streets teeming with local artisans and shops, drawing tourists and boosting the local economy.
 
-Concerns are natural. Heritage conservation is paramount, and community buy-in is crucial. Transparency and open forums will lead towards trust and collaboration. Partnering with renowned heritage experts ensures authenticity, while dedicated project management fosters community engagement. Expanding the program to new houses and attracting tourism-related businesses like bed and breakfasts and museums ensures long-term sustainability and economic benefits for a wider community.
+Concerns are natural. Heritage conservation is paramount, and community buy-in is crucial. Transparency and open forums will lead towards trust and collaboration. Partnering with renowned heritage experts ensures authenticity, while dedicated project management encourages community involvement. Expanding the program to new houses and attracting tourism-related businesses like bed and breakfasts and museums ensures long-term sustainability and economic benefits for a wider community.
 
 
  ---------------
@@ -213,7 +213,7 @@ Revitalizing Kathmandu's Heritage Houses: A Sustainable Solution
 
 8.  **Marketing and outreach to potential investors and homeowners.**
 
-10. **Transparent and inclusive community engagement throughout the process.**
+10. **Transparent and inclusive community involvement throughout the process.**
 
 12. ** reconstruction adhering to strict conservation guidelines.**
 
@@ -234,9 +234,9 @@ Imagine strolling through the bright heart of Kathmandu, not amidst crumbling fa
 
 **Beyond Individual Gains: Community Flourishing:** The benefits extend far beyond individual houses. Imagine colorful cultural quarters where restored houses display their unique stories, attracting tourists and boosting the local economy.
 
-**Building Trust, Addressing Concerns:** Naturally, concerns regarding heritage conservation and community buy-in exist. Transparency and open communication will lead to trust and collaboration. Partnering with renowned heritage experts ensures authenticity, while dedicated project management fosters community engagement. Expanding the program to new houses and attracting tourism businesses like bed and breakfasts and museums ensures long-term sustainability and economic benefits for a wider community.
+**Building Trust, Addressing Concerns:** Naturally, concerns regarding heritage conservation and community buy-in exist. Transparency and open communication will lead to trust and collaboration. Partnering with renowned heritage experts ensures authenticity, while dedicated project management creates community engagement. Expanding the program to new houses and attracting tourism businesses like bed and breakfasts and museums ensures long-term sustainability and economic benefits for a wider community.
 
-**More Than Bricks and Mortar: Preserving Identity:** This isn't just about bricks and mortar; it's about imagining a future where heritage and progress join together. It's about preserving the architectural knowledge and craftsmanship passed down for generations. It's about fostering a renewed appreciation for traditional materials and techniques, creating opportunities for local artisans and businesses. It's about showcasing Kathmandu's unique cultural identity to the world, not as a relic of the past, but as a thriving, living entity.
+**More Than Bricks and Mortar: Preserving Identity:** This isn't just about bricks and mortar; it's about imagining a future where heritage and progress join together. It's about preserving the architectural knowledge and craftsmanship passed down for generations. It's about growing a renewed appreciation for traditional materials and techniques, creating opportunities for local artisans and businesses. It's about showcasing Kathmandu's unique cultural identity to the world, not as a relic of the past, but as a thriving, living entity.
 
 **A Call to Action: Collaborating for a Brighter Future:** The time for action is now. Let us join hands -- government, communities, investors, and concerned citizens alike -- to breathe new life into Kathmandu's heritage houses. Let's not leave these architectural gems to crumble; let's empower them to become proofs not just to our past, but to our collective commitment to a sustainable future.
 
@@ -246,11 +246,11 @@ Imagine strolling through the bright heart of Kathmandu, not amidst crumbling fa
 
 4.  **Pilot project with 10-20 houses:** This shows the model's effectiveness and gains community buy-in.
 
-6.  **Dedicated project management team:** This ensures smooth implementation and ongoing community engagement.
+6.  **Dedicated project management team:** This ensures smooth implementation and ongoing community involvement.
 
 8.  **Targeted marketing and outreach:** This attracts potential investors and homeowners.
 
-10. **Transparent and inclusive community engagement:** This builds trust and addresses concerns throughout the process.
+10. **Transparent and inclusive community involvement:** This builds trust and addresses concerns throughout the process.
 
 12. ** reconstruction adhering to strict conservation guidelines:** This preserves heritage integrity.
 

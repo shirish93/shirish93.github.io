@@ -55,7 +55,7 @@ A technical leader bedazzles with their technical skills. They are quick-thinkin
 
 #### Personal Leadership
 
-Leaders with this style incubate your personal growth. They watch out for your potential career-wise. They guide you towards tools and techniques to improve yourself. They help you perform the best you can. They empower you to push yourself as hard as you can go. They clarify the worth of your work. They clear the blockers standing on your way. They help you see your personal mission more clearly. They touch you at a personal level, as a mentor.
+Leaders with this style incubate your personal growth. They watch out for your potential career-wise. They guide you towards tools and techniques to improve yourself. They help you perform the best you can. They support you to push yourself as hard as you can go. They clarify the worth of your work. They clear the blockers standing on your way. They help you see your personal mission more clearly. They touch you at a personal level, as a mentor.
 
 * **Key Attributes:** Strong interpersonal skills, mentoring and coaching, encouraging individual growth, building trust and rapport.
 * **Strengths:** Creates a positive and supportive work environment, helps individuals reach their full potential, promotes teamwork and knowledge sharing.
