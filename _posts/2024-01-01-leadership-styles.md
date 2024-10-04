@@ -11,9 +11,9 @@ Here's my approach to to help engineering leaders understand themselves. It will
 
 ### Introduction
 
-I have been helping a Nepali engineering non-profit shop with Product Management since 2022. When I started, I found it curious that the CEO was not a technical leader. My engineer instincts told me non-engineers leading technical folks would be disastrous. A few months in, the whole picture came into view. Technical individuals don't necessarily make for good leaders. And good leaders don't always have to be very technical. It's a tough pill to swallow for engineers. Allow me to explain.
+I have been helping a Nepali engineering non-profit shop with Product Management since 2022. When I started, I found it curious that the CEO was not a technical leader. My engineer instincts told me non-engineers leading technical folks would be disastrous. A few months in, the whole picture came into view. Technical individuals don't necessarily make for good leaders. And good leaders don't always have to betechnical. It's a tough pill to swallow for engineers. Allow me to explain.
 
-Engineering leaders need to be multidimensional, that's not a tall claim. They need technical proficiency, and people skills. They need to communicate their inspiring vision and collaborate across organization. And so forth. I took `Technical Leadership for Engineers` course offered by University of Washington-Seattle's [Engineering Leadership program](https://ise.washington.edu/students/cert/engineering-leadership) last year. I found the leadership frameworks offered in the course unsatisfying. They didn't align with how envisioned myself as a leader. I viewed engineering leaders in my company using a different lens. To get clarity on my thoughts, I wrote down how I saw my leaders. I wrote down what I wanted for them. That's how I came up with an alternative framework to understand skills and roles of engineering leaders.
+Engineering leaders need to be multidimensional, that's not a tall claim. They need technical proficiency, and people skills. They need to communicate their inspiring vision and collaborate across organization. And so forth. I took `Technical Leadership for Engineers` course offered by University of Washington-Seattle's [Engineering Leadership program](https://ise.washington.edu/students/cert/engineering-leadership) last year. I found the leadership frameworks offered in the course unsatisfying. They didn't align with how I saw myself as a leader. I viewed engineering leaders in my company using a different lens. To get clarity on my thoughts, I wrote down how I saw my leaders. I wrote down what I wanted for them. That's how I came up with an alternative framework to understand skills and roles of engineering leaders.
 
 I found traditional leadership theories lacking when capturing the demands of software engineering. This essay introduces a framework that focuses on the multi-dimensional nature of engineering leadership. My goal is to help leaders understand how they see themselves and improve.
 
@@ -23,12 +23,12 @@ This framework considers engineering leadership to be comprised of four distinct
 
 1. **Spiritual:** The ability to inspire vision, meaning, and purpose within the team and individual contributors.
 2. **Technical:** The 'hard-skills', expertise, and innovation driving projects forward.
-3. **Personal:** The guidance, mentorship, and interpersonal skills nurturing individual growth.
+3. **Personal:** The guidance, mentorship, and interpersonal skills supporting individual growth.
 4. **Inspirational/Celebrity:** The impact on a broader community through popular work and influence.
 
 Leaders can identify strengths and dimensions for development, and improve on growth accordingly. For followers, the framework allows a quick way to evaluate the diverse leadership styles they encounter. This lets them find leaders who they connect with the most. They can align their individual needs and aspirations.
 
-A leader can excel at any one of these skills, and make for an excellent example. They could do so while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. This framework allows for flexibility in interpreting what a good engineering leader can be.
+A leader can be good in any one of these skills, and make for an excellent example. They could do so while failing in all the others. Or they can focus on building multiple strengths, and provide well-rounded guidance to others. This framework allows for flexibility in interpreting what a good engineering leader can be.
 
 ___
 
@@ -36,7 +36,7 @@ We will now explore each dimension in depth. We explore key attributes, strength
 
 #### Spiritual Leadership
 
-A spiritual leader shows the path...and vision...for the long term. They may not guide you technically, or help you in your day-to-day work. They have a strong and clear vision and and well-defined mission of what is to be done. You can't but be allured by the possibilities. You are driven to your work to get towards their vision. They inspire you to work. This could overcome their potential deficiencies in technical or personal aspects by finding other means.
+A spiritual leader shows the path...and vision...for the long term. They may not guide you technically, or help you in your day-to-day work. They have a strong and clear vision and and well-defined mission of what is to be done. You can't but be allured by the possibilities. You are motivated to your work to get towards their vision. They inspire you to work. This could overcome their potential deficiencies in technical or personal aspects by finding other means.
 
 * **Key Attributes:** Vision setting, purpose definition, ethical leadership, creating a strong team culture.
 * **Strengths:** Motivates and inspires teams, creates a sense of community, drives innovation through shared values.
@@ -46,7 +46,7 @@ A spiritual leader shows the path...and vision...for the long term. They may not
 
 #### Technical Leadership
 
-A technical leader bedazzles with their technical skills. They are quick-thinking, and often provide immediate assistance. They are experts in rapidly identifying the issue at hand. They gain respect by their sharpened skills in their field of expertise. They inspire others because of their sheer intelligence, work ethic and competence. The followers aspire to become as competitive and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it's moot, because their technical expertise trumps all.
+A technical leader bedazzles with their technical skills. They are quick-thinking, and often provide immediate assistance. They are experts in rapidly identifying the issue at hand. They gain respect by their sharpened skills in their area of expertise. They inspire others because of their sheer intelligence, work ethic and competence. The followers aspire to become as competitive and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it's moot, because their technical expertise trumps all.
 
 * **Key Attributes:** Deep technical expertise, problem-solving skills, driving project execution.
 * **Strengths:** Builds trust through competence, delivers results efficiently, ensures technical solutions are sound.
@@ -70,7 +70,7 @@ This kind of leadership is not necessarily related to one's field, but can be. T
 * **Key Attributes:** Charisma, public influence, motivating large audiences
 * **Strengths:** Drives external interest and investment, attracts top talent, inspires broader social impact.
 * **Weaknesses:** Can be susceptible to ego and fame, may neglect internal team needs, focus more on external perception than internal reality.
-* **Example:** Steve Jobs (inspiring a generation with inspired products and captivating presentations), Julia Evans (for me!), Joel Sopolsky
+* **Example:** Steve Jobs (inspiring a generation with inspired products and hypnotic presentations), Julia Evans (for me!), Joel Sopolsky
 
 ### Tips for Leaders and Followers
 

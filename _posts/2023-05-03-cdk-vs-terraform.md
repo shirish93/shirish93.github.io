@@ -21,7 +21,7 @@ We have also started doubting Amazon's commitment to CDK. Some AWS teams have us
 
 ### Evaluating Alternatives to AWS CDK
 
-We have explored various options to replace CDK. Pulumi offers an interesting option. Unfortunately, its pricing structure doesn't align with our needs. Widespread adoption is a basic metric we use to judge infrastructure management tools. Tools with more users generally have better documentation, wider community support, and easier access to support engineers. Terraform has emerged as a most serious contender to CDK based on those factors. Most infrastructure teams seem to be either on CDK, or on Terraform.
+We have explored multiple options to replace CDK. Pulumi offers an interesting option. Unfortunately, its pricing structure doesn't align with our needs. Widespread adoption is a basic metric we use to judge infrastructure management tools. Tools with more users generally have better documentation, wider community support, and easier access to support engineers. Terraform has emerged as a most serious contender to CDK based on those factors. Most infrastructure teams seem to be either on CDK, or on Terraform.
 
 ### Making the Decision: CDK vs. Terraform
 
@@ -37,6 +37,6 @@ We have not committed to our move away from the CDK world. When the murmurs of d
 
 ### Lessons Learned: Beyond the Toolset
 
-This has reminded us that we need to be careful about choosing a vendor-specific tool for critical infrastructure management. Free tools from large vendors are tempting, but the lack of service-level agreements (SLAs) creates uncertainty around long-term support and viability. There is value in prioritizing technical merit and established community support over convenience when choosing essential software libraries.
+This has reminded us that we need to be careful about choosing a vendor-specific tool for critical infrastructure management. Free tools from large vendors are tempting, but the lack of service-level agreements (SLAs) creates uncertainty around long-term support and viability. There is value in prioritizing technical merit and established community support over convenience when choosing software libraries.
 
 __Royalty-free stock image above from [Pexels](https://www.pexels.com/).__

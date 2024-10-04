@@ -33,4 +33,4 @@ The same year (2011) I gave a 30-minute BarCamp presentation on Nepali film post
 
 **2020: The year that changed everything:** A trip to Nepal and Singapore just before everything changed. In the uncertainties and confusion of early-covid times, I decided to shift towards writing more professional essays, some of which you can find here.
 
-**2022 and Beyond: Perpetual Learning:** The pursuit of knowledge never ends! Currently enrolled in the Certificate in Engineering Leadership program at UW-Seattle.  Additionally, exploring creative pursuits with various art, dance, and crafts courses at Seattle Central College, making it my sixth university/college experience!
+**2022 and Beyond: Perpetual Learning:** The pursuit of knowledge never ends! Currently enrolled in the Certificate in Engineering Leadership program at UW-Seattle.  Additionally, exploring creative pursuits with  art, dance, and crafts courses at Seattle Central College, making it my sixth university/college experience!

@@ -30,7 +30,7 @@ comments: true
 <li>My stand-up comedy skills are just as good as my skills at the driving range. Absolutely terrible. Yet I enjoy both activities.</li>
 <li>I am an amateur novelist, and I write multiple novels at the same time. My longest draft is a whopping 60,000 words (and yes, it needs work!)</li>
 <li>I'm a fermentation enthusiast! I've brewed countless batches of kombucha, kefir, and more - I've lost count! Check out shirish.me: shirish.me to see what I've been up to and what's next.</li>
-<li>I'm an amateur food scientist who dabbles in non-fermentation food preservation as well. I've dehydrated and powdered enough fruits and veggies to feed a small army (though maybe not a very healthy one!).</li>
+<li>I'm an amateur food scientist who dabbles in non-fermentation food preservation as well. I've dehydrated and powdered enough fruits and veggies to feed a small army (though maybe not ahealthy one!).</li>
 <li>I grow things! I have a hydroponics system for off-season veggies and houseplants, and I'm a proud indoor mushroom cultivator. I'm also a member of the Puget Sound Mycological Society (https://www.psms.org/) and the Puget Sound Beekeeper's Association (https://pugetsoundbees.org/).</li>
 <li>I'm a history buff! I love researching South Asian myths, culinary traditions, and the historical arts of South Asia. My dream vocation would be a full-time researcher of culinary histories of Nepal and Tibet,</li>
 <li>(Though currently on hold) I'm a biking enthusiast! My trusty folding bike was my partner-in-crime from 2015-2020, saving me from sticky situations (like walking next to a highway to commute!). Unfortunately, my current Seattle residence with its steep hill and four-flight climb isn't the most bike-friendly...</li>

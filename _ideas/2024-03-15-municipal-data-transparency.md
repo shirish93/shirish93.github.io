@@ -28,7 +28,7 @@ Accountability Nepal will:
 
 -   **Establish data accountability metrics:** Metrics will assess data availability, timeliness, format standardization, and "Freedom of Information" responsiveness.
 
--   **Publish regular reports:** Accountability Nepal will publicly share comprehensive reports detailing each municipality's performance on data availability metrics.
+-   **Publish regular reports:** Accountability Nepal will publicly share detailed reports detailing each municipality's performance on data availability metrics.
 
 -   **Recognize and incentivize:** Best performing municipalities will be recognized and promoted, while others will receive targeted support and capacity-building resources.
 
@@ -36,7 +36,7 @@ Accountability Nepal will:
 
 -   **Phase 1 (Pilot):** Focus on a subset of municipalities and data categories for initial testing and refinement.
 
--   **Phase 2 (Expansion):** Scale up to encompass all municipalities and expand data categories based on success and feedback.
+-   **Phase 2 (Expansion):** Scale up to include all municipalities and expand data categories based on success and feedback.
 
 -   **Technology & Collaboration:** Leverage existing platforms and APIs wherever possible. Partner with relevant government agencies, civil society organizations, and media outlets for wider reach and expertise.
 
@@ -49,7 +49,7 @@ Accountability Nepal will:
 
 -   **Improved accountability:** Municipalities will be held accountable for data availability, promoting responsible governance and service delivery.
 
--   **Enhanced engagement:** Transparency will build trust and encourage citizen engagement in local government processes.
+-   **Improved engagement:** Transparency will build trust and encourage citizen engagement in local government processes.
 
 -   **Empowered citizens:** Citizens will be able to monitor local government performance and hold them accountable.
 
@@ -67,7 +67,7 @@ Accountability Nepal will seek funding through diverse sources, including:
 
 **Conclusion:**
 
-Accountability Nepal offers a sustainable and impactful solution to address the data accountability gap in Nepali local government. By empowering citizens, strengthening transparency, and fostering responsible governance, this initiative can contribute significantly to Nepal's democratic development.
+Accountability Nepal offers a sustainable and effective solution to address the data accountability gap in Nepali local government. By empowering citizens, strengthening transparency, and fostering responsible governance, this initiative can contribute significantly to Nepal's democratic development.
 
 
 
@@ -130,7 +130,7 @@ Accountability Nepal offers a sustainable and impactful solution to address the 
 
 -   **Publish regular reports:** Issue quarterly or bi-annual reports highlighting municipality performance and overall trends.
 
--   **Recognize high performers:** Publicly acknowledge and showcase best practices amongst top-performing municipalities.
+-   **Recognize high performers:** Publicly acknowledge and display best practices amongst top-performing municipalities.
 
 -   **Engage media & civil society:** Partner with media outlets and civil society organizations to amplify the project's impact.
 

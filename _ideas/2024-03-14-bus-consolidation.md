@@ -14,7 +14,7 @@ The current, fragmented school bus system in Kathmandu suffers from several key 
 
 -   **Traffic congestion:** The sheer number of individual buses operating on similar routes significantly contributes to Kathmandu's traffic woes, leading to longer commutes, increased air pollution, and unnecessary fuel consumption.
 
--   **Inefficiency:** Redundant routes and underutilized buses create inefficiencies, straining school resources and failing to optimize transportation logistics.
+-   **Inefficiency:** Redundant routes and under-used buses create inefficiencies, straining school resources and failing to optimize transportation logistics.
 
 -   **Time constraints:** Lengthy commutes due to inefficient routes eat into valuable learning and family time for students.
 
@@ -22,7 +22,7 @@ The current, fragmented school bus system in Kathmandu suffers from several key 
 
 This proposal advocates for the implementation of a consolidated school bus system in Kathmandu, achieved through the following measures:
 
--   **Route optimization:** Conduct a comprehensive analysis of existing school bus routes to identify overlaps and inefficiencies. Develop a unified network of optimized routes covering the entire city, ensuring all schools are serviced efficiently.
+-   **Route optimization:** Conduct a detailed analysis of existing school bus routes to identify overlaps and inefficiencies. Develop a unified network of optimized routes covering the entire city, ensuring all schools are serviced efficiently.
 
 -   **Shared bus program:** Implement a program where schools collaborate to share buses based on capacity and route requirements. This eliminates redundant vehicles and optimizes resource allocation.
 
@@ -66,9 +66,9 @@ The program's long-term sustainability will be ensured through:
 
 **Conclusion:**
 
-Consolidating Kathmandu's school bus system presents a unique opportunity to address traffic congestion, optimize resources, and enhance the educational experience for students and families. This proposal outlines a comprehensive plan for achieving this goal through a collaborative and sustainable approach. By working together, stakeholders can transform Kathmandu's transportation landscape, creating a cleaner, more efficient, and student-centered learning environment.
+Consolidating Kathmandu's school bus system presents a unique opportunity to address traffic congestion, optimize resources, and enhance the educational experience for students and families. This proposal outlines a detailed plan for achieving this goal through a collaborative and sustainable approach. By working together, stakeholders can change Kathmandu's transportation ecosystem, creating a cleaner, more efficient, and student-centered learning environment.
 
-Implementing a successful school bus consolidation project in Kathmandu would likely require a combination of technical tools and software across various stages:
+Implementing a successful school bus consolidation project in Kathmandu would likely require a combination of technical tools and software across different stages:
 
 **Data Collection and Analysis:**
 

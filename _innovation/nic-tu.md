@@ -222,7 +222,7 @@ NIC OPEN HOUSE PROPOSAL
 **Mid-term and Long-term Plans**
 - Consider regular or semi-regular events.
 - Enhance public outreach and PR.
-- Utilize events for idea generation.
+- Use events for idea generation.
 - Explore multi-day events with training and collaborative games.
 - Define KPIs for event success.
 - Engage corporate and funding partners.

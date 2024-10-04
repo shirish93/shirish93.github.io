@@ -1,6 +1,6 @@
 ---
 layout: summary
-title:  "What am I up to this very moment?"
+title:  "What am I up to thismoment?"
 author: shirish
 categories: [ now ]
 permalink: /now
@@ -25,7 +25,7 @@ permalink: /now
 
 With no social media presence, this is where I will post my professional and personal updates. Everything one puts on social media should be considered 'public' by default, and any semblance of privacy is an illusion we are misled buying into. If there's something I feel comfortable sharing in social media, that'll go here.
 
-I have lovingly hand-crafted css+html+jekyll templates for the post above so that each individual entries I post here appear as a 'social media post' stylistically. The goal is to make the experience of viewing this feel more 'authentic'. Ask me about the importance of placemaking, and why companies should focus on the concept of 'digital spaces with character' and how that relates to people's perception of physical spaces. My thesis is that blandness is beneficial, but it has rapidly dimishing returns.
+I have lovingly hand-crafted css+html+jekyll templates for the post above so that each individual entries I post here appear as a 'social media post' stylistically. The goal is to make the experience of viewing this feel more 'authentic'. Ask me about the importance of placemaking, and why companies should focus on 'digital spaces with character' and how that relates to people's perception of physical spaces. My thesis is that blandness is beneficial, but it has rapidly dimishing returns.
 
 In this space, I will talk about the following:
 What I am up to right now, over the course of the recent two weeks or so

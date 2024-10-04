@@ -13,13 +13,13 @@ Don't entomb your applications. Make them flexible, be ready to make gradual cha
 
 The new software engineer wanted to start our project from scratch. He had joined our squad two weeks previously. It's all so old and messed up, he said. It'd be quicker to do it from scratch. It sounded tempting, but the memories of past rewrites and projects lingered. They promised reset but delivered chaos.There was a better alternative. 
 
-The concept of a complete rewrite is an alluring siren song. Tempting and counter-productive. Legacy code is vilified, considered inefficient and outdated. It's seen as a burden begging to be replaced. But is tossing everything aside ever the answer? Almost never.
+The idea of a complete rewrite is an alluring siren song. Tempting but ultimately counter-productive. Legacy code is vilified, considered inefficient and outdated. It's seen as a burden begging to be replaced. But is tossing everything aside ever the answer? Almost never.
 
 **The Siren Song of the Rewrite**
 
 Let me propose a different approach: the eventual, or gradual, rewrite. Imagine your application to be the Ise Jingu shrine in Japan. It is carefully, cyclically rebuilt every twenty years. We too can gradually modernize our software, piece by piece. We don't have to give in to the disruptive temptation of starting from scratch. We will explore the "gradual rewrite" philosophy in this essay. We argue that it offers a sustainable and cost-effective solution for managing software lifecycle.
 
-Maintaining existing systems, specially old and creaky ones, is lame. Without understanding the business or engineering decisions behind technical choices, it's hard to appreciate an application's choices. It's easy to dismiss choices made by others at an unknown past as inefficient and incorrect. They made during the dark ages, one can argue. An era when efficiency, ease of development or testing were unaccounted for. Armed with an 'enlightened' perspective of hindsight, teams convince themselves that their solution is future-proof and perfect. Once such conversations begin, interest in maintaining and improving old code goes away. The legacy system is treated very much like a leper colony. A clean start is the only viable option considered, uninfected by the diseases of the yore.
+Maintaining existing systems, specially old and creaky ones, is lame. Without understanding the business or engineering decisions behind technical choices, it's hard to appreciate an application's choices. It's easy to dismiss choices made by others at an unknown past as inefficient and incorrect. They made during the dark ages, one can argue. An era when efficiency, ease of development or testing were unaccounted for. Armed with an 'enlightened' perspective of hindsight, teams convince themselves that their solution is future-proof and perfect. Once such conversations begin, interest in maintaining and improving old code goes away. The legacy system is treatedmuch like a leper colony. A clean start is the only viable option considered, uninfected by the diseases of the yore.
 
 But a clean rewrite takes precious development time and resources away. Revenue-generating features that could increase a products viability are pushed back. Fixing potential regressions in the end is as overwhelming as the rewrite itself. Does one match the initial app bug-for-bug? What if the downstream teams have the bug as a part of their workflow, as is standard in many b2b applications? The questions and problems keep on coming. Until one day, when the new rewrite is the legacy app.
 
@@ -47,7 +47,7 @@ To put it differently, software should never be considered 'complete' as long as
 
 **Exceptions to the Rule**
 
-There are exceptions to this. Simulation and linear optimization programs written in COBOL in the 1980's are feature-complete and still chugging along. They haven't needed bolted-ons by python-java-c-c++ appendages. Craigslist has stood the test of time for the past quarter century with very little changing. Power plants and military installations likely don't have changing needs, apart from the rare security update that might be needed. They might be okay mummifying their applications, yours probably needs to be living and organic.
+There are exceptions to this. Simulation and linear optimization programs written in COBOL in the 1980's are feature-complete and still chugging along. They haven't needed bolted-ons by python-java-c-c++ appendages. Craigslist has stood the test of time for the past quarter century withlittle changing. Power plants and military installations likely don't have changing needs, apart from the rare security update that might be needed. They might be okay mummifying their applications, yours probably needs to be living and organic.
 
 **A difference of workflows**
 
@@ -115,7 +115,7 @@ Building large, complicated pieces of software is like building a large building
 
 This comparison is not just the difference between Agile and waterfall methodologies of Software engineering either. A team can be perfectly Agile in creating a product, consider it 'complete', and fall into the rewrite trap as soon as a certain 'threshold' of team knowledge and original vision is lost. 
 
-The idea is to reject rewriting software replacement from scratch every X years. Evolve it gradually like the ship of Theseus. Software development stacks and philosophies can change, generally accepted wisdom in the industry can turn around. Change can come from anywhere, from changing demographics to change in taste, of customers and of customers. We must write our systems to integrate those changes without starting from scratch. Good planning involves strategizing ways to deal with such changes in advance.
+The idea is to reject rewriting software replacement from scratch every X years. Change it gradually like the ship of Theseus. Software development stacks and philosophies can change, generally accepted wisdom in the industry can turn around. Change can come from anywhere, from changing demographics to change in taste, of customers and of customers. We must write our systems to integrate those changes without starting from scratch. Good planning involves strategizing ways to deal with such changes in advance.
 
 **Conclusion**
 

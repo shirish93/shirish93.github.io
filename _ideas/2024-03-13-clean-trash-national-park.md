@@ -91,7 +91,7 @@ This proposal offers a unique combination of:
 
 **8. Supporting Evidence:**
 
--   **[Aldi cart deposit system](https://lakevoicenews.org/quarter-for-a-cart-the-real-reason-you-need-a-quarter-for-your-shopping-cart-at-aldi-80fbe9233809?gi=92f2865967f4):** Demonstrates the effectiveness of deposit-based incentives in promoting responsible behavior.
+-   **[Aldi cart deposit system](https://lakevoicenews.org/quarter-for-a-cart-the-real-reason-you-need-a-quarter-for-your-shopping-cart-at-aldi-80fbe9233809?gi=92f2865967f4):** Shows the effectiveness of deposit-based incentives in promoting responsible behavior.
 
 -   **[Rocky Mountain National Park WAG bag program](https://www.backpacker.com/trips/packing-out-waste-you-can-take-it-with-you/):** Similar program successfully reduced littering by making visitors accountable for their waste.
 
@@ -108,7 +108,7 @@ This proposal offers a unique combination of:
 
 **10. Conclusion:**
 
-This project presents a cost-effective and sustainable solution to the littering problem in Nepal's national parks. By aligning visitor interests with environmental responsibility through behavioral nudges and community engagement, we can create cleaner parks, enhance visitor experience, and foster a culture of environmental stewardship. We invite the National Parks Department to partner with us on this impactful initiative.
+This project presents a cost-effective and sustainable solution to the littering problem in Nepal's national parks. By aligning visitor interests with environmental responsibility through behavioral nudges and community engagement, we can create cleaner parks, enhance visitor experience, and foster a culture of environmental stewardship. We invite the National Parks Department to partner with us on this initiative.
 
 
 
