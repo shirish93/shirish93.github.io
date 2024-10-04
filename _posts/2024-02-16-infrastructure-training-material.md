@@ -88,7 +88,7 @@ Structure of the sessions:
   Topics:
       1. Introduction to different types of databases (relational, NoSQL, etc.) and their strengths and weaknesses.
       2. Writing basic SQL queries to interact with relational databases.
-      3. Understanding the concept of database migrations and how to manage them effectively.
+      3. Understanding database migrations and how to manage them effectively.
         a. Why are migrations needed?
         b. How does one go about undoing migrations?
       4. Strategies for overcoming common fears associated with working with databases.
@@ -163,8 +163,8 @@ Structure of the sessions:
 
   Topics:
       Introduction to Machine Learning (ML) and its potential impact on software engineering.
-      Exploring the concept of Low-code/No-code (LL/NC) platforms and their implications for the future of development.
-      Discussing the evolving skillset required for software engineers in the future.
+      Exploring Low-code/No-code (LL/NC) platforms and their implications for the future of development.
+      Discussing the changing skillset required for software engineers in the future.
       Encouraging continuous learning and staying up-to-date with the latest trends in the industry.
 
   Homework:

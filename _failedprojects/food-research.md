@@ -36,7 +36,7 @@ We learned the importance of market research – understanding the habits and pr
 
 Marketing proved to be a significant challenge in this industry. Established players have a significant advantage in terms of brand recognition and marketing budget. Even if we had managed to carve out a niche within the market, achieving substantial growth would have been extremely difficult. 
 
-A friend who started a health-focused juice company in Kathmandu a few years after us encountered similar challenges. Targeting the same market as ours, he offered products with minimal added sugar.  His ultimate goal, the best-case scenario, was to achieve "2% of what Coke does."  Even with this modest ambition, he faced significant obstacles. Existing conglomerates used their immense marketing power to undermine his company and product.  One competitor even threatened to create a direct competitor and force him out of the market if he didn't "cooperate." While reaching that level of success would have been a significant achievement, our company was nowhere near that level.
+A friend who started a health-focused juice company in Kathmandu a few years after us encountered similar challenges. Targeting the same market as ours, he offered products with minimal added sugar.  His ultimate goal, the best-case scenario, was to achieve "2% of what Coke does."  Even with this modest ambition, he faced significant obstacles. Existing conglomerates used their strong marketing power to undermine his company and product.  One competitor even threatened to create a direct competitor and force him out of the market if he didn't "cooperate." While reaching that level of success would have been a significant achievement, our company was nowhere near that level.
 
 **The Market Today**
 

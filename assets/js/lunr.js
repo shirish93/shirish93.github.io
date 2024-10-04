@@ -1658,7 +1658,7 @@
    * @returns {string}
    */
   lunr.TokenSet.prototype.toString = function () {
-    // NOTE: Using Object.keys here as this.edges is very likely
+    // NOTE: Using Object.keys here as this.edges islikely
     // to enter 'hash-mode' with many keys being added
     //
     // avoiding a for-in loop here as it leads to the function

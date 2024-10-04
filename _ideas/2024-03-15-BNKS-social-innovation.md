@@ -6,11 +6,11 @@ categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/bnks.png
 ---
 
-This proposal outlines an innovative roadmap for BNKS, leveraging its unique assets to empower students, create positive societal impact, and solidify its position as a leader in forward-thinking education. The proposal presents a phased approach, starting with impactful pilot programs and evolving towards ambitious initiatives that capitalize on BNKS's land size, diverse student body, successful alumni network, and prestigious reputation.
+This proposal outlines an innovative roadmap for BNKS, leveraging its unique assets to empower students, create positive societal impact, and solidify its position as a leader in forward-thinking education. The proposal presents a phased approach, starting with pilot programs and adapting towards ambitious initiatives that capitalize on BNKS's land size, diverse student body, successful alumni network, and prestigious reputation.
 
 **Vision:**
 
-To transform BNKS into a vibrant innovation ecosystem, fostering creativity, problem-solving, and social impact. Equip students with future-proof skills and a global mindset, preparing them to become leaders and changemakers.
+To change BNKS into a successful innovation ecosystem, fostering creativity, problem-solving, and social impact. Equip students with future-proof skills and a global mindset, preparing them to become leaders and changemakers.
 
 **Phase 1: Pilot Programs for Immediate Impact**
 
@@ -42,7 +42,7 @@ To transform BNKS into a vibrant innovation ecosystem, fostering creativity, pro
 
 2.  **Ample Land Size:**
 
-    -   **Living Lab:** Showcase sustainable practices like organic farming, renewable energy, and waste management. Partner with research institutions and NGOs.
+    -   **Living Lab:** Show sustainable practices like organic farming, renewable energy, and waste management. Partner with research institutions and NGOs.
 
     -   **Outdoor Learning Center:** Offer experiential learning programs in environmental science, agriculture, or outdoor adventure.
 
@@ -62,7 +62,7 @@ To transform BNKS into a vibrant innovation ecosystem, fostering creativity, pro
 
     -   **Alumni Venture Fund:** Create a fund backed by alumni investments to seed innovative student ventures, fostering entrepreneurship and alumni engagement.
 
-    -   **Global Alumni Network:** Utilize the network to create international internship and exchange opportunities, broadening student horizons and career prospects.
+    -   **Global Alumni Network:** Use the network to create international internship and exchange opportunities, broadening student horizons and career prospects.
 
 8.  **Prestige and Student Empowerment:**
 
@@ -78,13 +78,13 @@ To transform BNKS into a vibrant innovation ecosystem, fostering creativity, pro
 
 -   Secure funding through alumni partnerships, grants, and potential revenue-generating activities.
 
--   Establish strategic partnerships with research institutions, businesses, and NGOs to expand impact and access expertise.
+-   Establish partnerships with research institutions, businesses, and NGOs to expand impact and access expertise.
 
 -   Continuously measure and evaluate the impact of innovation initiatives, iterating and adapting as needed.
 
 **Conclusion:**
 
-By implementing this phased approach, BNKS can harness its unique assets to create a vibrant innovation ecosystem. This will empower students, address societal challenges, and solidify BNKS's position as a leader in innovative and impactful education.
+By implementing this phased approach, BNKS can harness its unique assets to create an innovation ecosystem. This will empower students, address societal challenges, and solidify BNKS's position as a leader in innovative education.
 
 **Further Recommendations:**
 

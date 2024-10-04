@@ -10,35 +10,35 @@ Well-run organizations can fall into the trap of 'hoarding' their star performer
 
 ### Introduction
 
-Imagine a dusty attic overflowing with heirlooms, gathering cobwebs. This parallels the irony of hoarding mentality in software engineering. Top performers – an organization's most important assets – are often underutilized, their potential locked away like precious antiques.
+Imagine a dusty attic overflowing with heirlooms, gathering cobwebs. This parallels the irony of hoarding mentality in software engineering. Top performers – an organization's most important assets – are often under-used, their potential locked away like precious antiques.
 
 I saw this firsthand in a Kathmandu engineering shop. A highly skilled engineer was kept on the sidelines for "big emergencies," while his colleagues struggled with their projects. This experience left me unsettled... the underutilization of talent, the missed opportunities and hampered efficiency was so easy to fix! It was hard to not intervene as an outsider.
 
-That made me wonder: how might organizations break free from such limiting approach and utilize power of their players? I'll discuss the "use-it-or-lose-it" reality of hoarding psychology in engineering, explore its negative consequences and advocate for a better alternative. 
+That made me wonder: how might organizations break free from such limiting approach and use their power-players? I'll discuss the "use-it-or-lose-it" reality of hoarding psychology in engineering, explore its negative consequences and advocate for a better alternative. 
 
 ### From Orchestras to Engineering Teams
 
-Imagine a magnificent orchestra where the most skilled musicians are rarely given solos. Their virtuosity reserved for special occasions, the big projects. While others struggle with challenging pieces, these talents remain underutilized. It might seem like a silly scenario, but it mirrors engineering teams where top performers are kept on the sidelines. This is done despite it limiting their contributions and stifling team potential.
+Imagine a magnificent orchestra where the most skilled musicians are rarely given solos. Their virtuosity reserved for special occasions, the big projects. While others struggle with challenging pieces, these talents remain unused. It might seem like a silly scenario, but it mirrors engineering teams where top performers are kept on the sidelines. This is done despite it limiting their contributions and stifling team potential.
 
-Imagine a talented gardener with an interest exotic plants. If they hoard rare seeds instead of planting them, their skills never develop. The potential beauty of their garden remains unrealized. This parallels individuals in organizations who see their skills stagnate due to underutilization, hindering both personal and organizational growth.
+Imagine a talented gardener with an interest exotic plants. If they hoard rare seeds instead of planting them, their skills never develop. The potential beauty of their garden remains unrealized. This parallels individuals in organizations who see their skills stagnate due to under-use, hindering both personal and organizational growth.
 
 We've all encountered hoarding in everyday life. Imagine a family with a "junk room" overflowing with unused items. While they hold onto these possessions for "just in case" scenarios, they miss opportunities to declutter, donate, and enjoy these items. This mirrors how organizations hoard data, tools, or even knowledge, limiting their accessibility and hindering innovation. The idea is to move from 'scarcity' mindset, to a more 'abundance' mindset.
 
-### The Ripple Effect: From Underutilized Individuals to Societal Impact:
+### The Ripple Effect: From Unused Individuals to Societal Impact:
 
-Consider a chain reaction: an underutilized top performer in an organization feels unmotivated and less productive. This impacts team morale and performance. That eventually impacts product quality and customer satisfaction. Imagine the cumulative effect of underutilized talent across countless organizations. Hoarding mentality -- and the scarcity mindset it originates from -- is universal, and has far-reaching consequences. A master gardener plants, a talented musician performs, and so organizations must let their top-performers work. This unlocks individual potential, builds stronger teams, and  drives innovation and success.
+Consider a chain reaction: an unused top performer in an organization feels unmotivated and less productive. This impacts team morale and performance. That eventually impacts product quality and customer satisfaction. Imagine the cumulative effect of unused talent across countless organizations. Hoarding mentality -- and the scarcity mindset it originates from -- is universal, and has far-reaching consequences. A master gardener plants, a talented musician performs, and so organizations must let their top-performers work. This unleashes individual potential, builds stronger teams, and  drives innovation and success.
 
-This hoarding manifests in various ways. Top performers might be stuck with mundane tasks. They will ask for more challenging work, to no avail. They might be excluded from critical decision-making. Or they might be kept in the dark about talented resources and collaboration opportunities. This breeds a culture of fear and information silos, where knowledge and expertise are tightly controlled. It's like having a library locked away, its knowledge inaccessible to those who need it most.
+This hoarding manifests in multiple ways. Top performers might be stuck with mundane tasks. They will ask for more challenging work, to no avail. They might be excluded from critical decision-making. Or they might be kept in the dark about talented resources and collaboration opportunities. This breeds a culture of fear and information silos, where knowledge and expertise are tightly controlled. It's like having a library locked away, its knowledge inaccessible to those who need it most.
 
-As a consequence, top performers feel underutilized, their skills plateaus, and their motivation wanes. Teams suffer from knowledge gaps and missed partnership opportunities. Inefficiencies increase, progress slows. The organization loses competitive edge, stifling innovation and getting slow development cycles.
+As a consequence, top performers feel unused, their skills plateaus, and their motivation wanes. Teams suffer from knowledge gaps and missed partnership opportunities. Inefficiencies increase, progress slows. The organization loses competitive edge, stifling innovation and getting slow development cycles.
 
-Consider an alternative scenario. Top performers are challenged, empowered, and seen as integral parts of the team. They actively share their knowledge, encouraging knowledge-sharing and learning across all levels. This unlocks a treasure trove of benefits: individuals experience growth and recognition. Teams gain increased synergy, and the organization thrives on innovation and agility.
+Consider an alternative scenario. Top performers are challenged, empowered, and seen as integral parts of the team. They actively share their knowledge, encouraging knowledge-sharing and learning across all levels. This reveals a trove of benefits: individuals experience growth and recognition. Teams gain increased synergy, and the organization thrives on innovation and agility.
 
-Engineering teams must abandon the hoarding mentality and embrace consistent utilization for their performers. It unlocks employees' full potential.
+Engineering teams must abandon the hoarding mentality and embrace consistent utilization for their performers.
 
 ### Emphasizing the Benefits of Consistent Utilization
 
-Consistent utilization of top performers unlocks a wealth of benefits. Companies like Alphabet and Netflix showcase the advantages firsthand. Apple's culture of "hackathons" encourages senior engineers to actively share knowledge and contribute to diverse projects. Apple uses its top researchers not just for research, but also for code reviews and mentorship. In both cases, consistent use has led to faster development cycles, improved product quality, and a more agile workforce.
+Consistent utilization of top performers generates numerous benefits. Companies like Alphabet and Netflix make the advantages visible firsthand. Apple's culture of "hackathons" encourages senior engineers to actively share knowledge and contribute to diverse projects. Apple uses its top researchers not just for research, but also for code reviews and mentorship. In both cases, consistent use has led to faster development cycles, improved product quality, and a more agile workforce.
 
 Shifting towards consistent utilization of top performers requires overcoming the inertia of established practices. Organizations fall into comfortable routines, afraid of disrupting the status quo even with a suboptimal approach. Understanding these underlying forces is important to lead change.
 
