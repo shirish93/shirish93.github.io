@@ -33,11 +33,11 @@ __Redefining intelligence beyond human norms__: The books challenge our assumpti
 __World-building mastery__: Tchaikovsky creates diverse and believable alien ecosystems, immersing readers in the wonders and intricacies of each world. This vivid imagery provides a rich backdrop for exploring complex themes.
 __Interesting characters__: Despite their fantastical nature, the characters feel genuine and relatable, grappling with ethical dilemmas, survival instincts, and the yearning for connection. This emotional depth draws readers into the narrative.
 __Thought-provoking themes__: The series masterfully raises philosophical questions into the adventure, prompting readers to ponder the nature of intelligence, consciousness, and our place in the universe. This  elevates the reading experience beyond entertainment.
-__Normalization of diverse sexual identities and representation__: The books feature non-heteronormative characters in a way that normalizes their existence and sexual identities. Their identities are not sensationalized or used as plot devices, instead being woven into the characters' lives authentically. This representation can contribute to a broader acceptance and understanding of diverse identities in everyday life.
+__Normalization of diverse sexual identities__: The books feature non-heteronormative characters in a way that normalizes their existence and sexual identities. Their identities are not sensationalized or used as plot devices, instead being woven into the characters' lives authentically. This representation can contribute to a broader acceptance and understanding of diverse identities in everyday life.
 
 However, it's important to acknowledge potential shortcomings:
 
-**Pacing and complexity:** The narrative's vast scope and world-building can feel overwhelming at times, requiring focused attention from readers.
+**Pacing and complexity:** The narrative's vast scope and world-building can feel overwhelming at times, it demands focused attention from readers.
 **Character depth:** While the main characters are well-developed, some supporting characters might feel less fleshed out, potentially leaving readers wanting more.
 **Speculative elements:** The fantastical nature of the story might not be preferable for readers who prefer science fiction solidly grounded in reality. The books happen to be more in the 'space opera' genre.
 

@@ -98,7 +98,7 @@ This is a fascinating and potentiallyeffective proposal, combining cultural pres
 
 -   **Open Access:** Consider exploring options for making a curated selection of 3D models and documentation publicly available online. This could promote cultural understanding and appreciation globally, while respecting intellectual property rights.
 
--   **Educational Resources:** Develop educational materials based on the scans, including virtual tours, interactive models, and 3D printing workshops. This could be integrated into school curriculums or museum exhibits, fostering cultural awareness among younger generations.
+-   **Educational Resources:** Develop educational materials based on the scans, including virtual tours, interactive models, and 3D printing workshops. This could be integrated into school curriculums or museum exhibits, encouraging cultural awareness among younger generations.
 
 **Additional Points:**
 

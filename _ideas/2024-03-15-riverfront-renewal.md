@@ -6,7 +6,7 @@ categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/riverfront.png
 ---
 
-By drawing inspiration from successful models, aligning diverse interests, and fostering a spirit of shared prosperity, riverfront rejuvenation in Kathmandu and Lalitpur can change neglected waterways into successful economic hubs, cultural destinations, and sources of community pride. This proposal provides the initial vision for such a change.
+By drawing inspiration from successful models, aligning diverse interests, and supporting a spirit of shared prosperity, riverfront rejuvenation in Kathmandu and Lalitpur can change neglected waterways into successful economic hubs, cultural destinations, and sources of community pride. This proposal provides the initial vision for such a change.
 
 **Contextualizing the Challenge:**
 
@@ -16,7 +16,7 @@ Kathmandu and Lalitpur's once-vibrant riverfronts face multifaceted challenges. 
 
 -   **Infrastructure Deficiencies:** Lack of sanitation facilities, inadequate drainage systems, and crumbling riverbanks exacerbate flooding and hygiene concerns.
 
--   **Community Disconnect:** Alienated residents lose access to a valuable recreational resource, fostering apathy and hindering engagement in restoration efforts.
+-   **Community Disconnect:** Alienated residents lose access to a valuable recreational resource, creating apathy and hindering restoration efforts.
 
 <img src="../assets/images/riverfront1.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />
 
@@ -69,7 +69,7 @@ We propose a five-year phased approach, starting with:
 
 **Conclusion:**
 
-By aligning interests, fostering responsible practices, and empowering communities, riverfront rejuvenation is not just an environmental project, but a catalyst for economic growth, social well-being, and cultural revitalization. We invite you to join us in creating a future where Kathmandu and Lalitpur's rivers become exciting areas stringing together a culture of ecological health, economic prosperity, and shared community pride.
+By aligning interests, supporting responsible practices, and empowering communities, riverfront rejuvenation is not just an environmental project, but a catalyst for economic growth, social well-being, and cultural revitalization. We invite you to join us in creating a future where Kathmandu and Lalitpur's rivers become exciting areas stringing together a culture of ecological health, economic prosperity, and shared community pride.
 
 ---
 
@@ -84,7 +84,7 @@ Beyond environmental restoration and economic revitalization, our approach recog
 
 -   **Economic Drivers:** Attracting locals and tourists, generating revenue, and creating jobs for chefs, servers, artisans, and vendors.
 
--   **Community Gathering Places:** Fostering social connections, cultural exchange, and a sense of shared identity around the riverfront.
+-   **Community Gathering Places:** Growing social connections, cultural exchange, and a sense of shared identity around the riverfront.
 
 -   **Displays of Local Culture:** Offering authentic cuisine, artisanal crafts, and artistic performances that celebrate the rich heritage of Kathmandu and Lalitpur.
 
@@ -96,7 +96,7 @@ The thriving waterfronts of Clarke Quay and San Antonio's River Walk offer valua
 
 -   **Diverse Culinary Experiences:** From casual cafes to fine dining restaurants, both locations cater to a variety of budgets and tastes. We can encourage similar diversity in Kathmandu and Lalitpur, highlighting local specialties alongside international cuisines.
 
--   **Vibrant Nightlife:** Clarke Quay and the River Walk come alive at night, attracting crowds with live music, bars, and entertainment. We can create a similar atmosphere in Kathmandu and Lalitpur, respecting local cultural norms while fostering a safe and enjoyable nocturnal experience.
+-   **Vibrant Nightlife:** Clarke Quay and the River Walk come alive at night, attracting crowds with live music, bars, and entertainment. We can create a similar atmosphere in Kathmandu and Lalitpur, respecting local cultural norms while supporting a safe and enjoyable nocturnal experience.
 
 -   **Pedestrian-Friendly Design:** Both waterfronts prioritize pedestrian access, encouraging strolling, exploration, and interaction. We can implement similar design principles in Kathmandu and Lalitpur, making the riverfront accessible and enjoyable for all.
 
@@ -112,4 +112,4 @@ The success of these waterfronts hinges on aligning the interests of different s
 
 **Conclusion:**
 
-By drawing inspiration from successful models, aligning diverse interests, and fostering a spirit of shared prosperity, riverfront rejuvenation in Kathmandu and Lalitpur can adapt neglected waterways into successful economic hubs, cultural destinations, and sources of community pride.
+By drawing inspiration from successful models, aligning diverse interests, and supporting a spirit of shared prosperity, riverfront rejuvenation in Kathmandu and Lalitpur can adapt neglected waterways into successful economic hubs, cultural destinations, and sources of community pride.

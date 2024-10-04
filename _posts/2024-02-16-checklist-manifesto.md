@@ -25,7 +25,7 @@ Gawande offers an eclectic perspective to systems thinking: he focuses on a prac
 
 Gawande allows us to draw an intriguing analogy between modern surgery and complex software projects.  He dismantles the "superstar surgeon" myth, showcasing the teamwork between surgeons, anesthesiologists, nurses, and technicians. This teamwork requires constant communication and information sharing – a far cry from the lone-wolf coding hero stereotype.
 
-This team-oriented thinking applies directly to software development. Today's projects are rarely linear trips undertaken by isolated individuals.  They resemble complex ecosystems requiring expertise from various specialists – frontend developers, backend engineers, security experts, and more. Effective communication, information management, and shared ownership are critical for success, mirroring the dynamics of a successful surgical team.
+This team-oriented thinking applies directly to software development. Today's projects are rarely linear trips taken by isolated individuals.  They resemble complex ecosystems that need expertise from various specialists – frontend developers, backend engineers, security experts, and more. Effective communication, information management, and shared ownership are critical for success, mirroring the dynamics of a successful surgical team.
 
 To extend the book's logic, we can interpret that by embracing checklists, software engineering leaders can create this thriving cooperative environment. We can thread out the following parallels between testing efficacy of medical practices, and software engineering after reading the book:
 

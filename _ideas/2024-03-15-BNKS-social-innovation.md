@@ -10,7 +10,7 @@ This proposal outlines an innovative roadmap for BNKS, leveraging its unique ass
 
 **Vision:**
 
-To change BNKS into a successful innovation ecosystem, fostering creativity, problem-solving, and social impact. Equip students with future-proof skills and a global mindset, preparing them to become leaders and changemakers.
+To change BNKS into a successful innovation ecosystem, supporting creativity, problem-solving, and social impact. Equip students with future-proof skills and a global mindset, preparing them to become leaders and changemakers.
 
 **Phase 1: Pilot Programs for Immediate Impact**
 
@@ -46,7 +46,7 @@ To change BNKS into a successful innovation ecosystem, fostering creativity, pro
 
     -   **Outdoor Learning Center:** Offer experiential learning programs in environmental science, agriculture, or outdoor adventure.
 
-    -   **Innovation Campus:** Partner with businesses or other institutions to create a co-located innovation hub, attracting talent and fostering cross-pollination of ideas.
+    -   **Innovation Campus:** Partner with businesses or other institutions to create a co-located innovation hub, attracting talent and encouraging cross-pollination of ideas.
 
 4.  **Diverse Student Population:**
 
@@ -60,7 +60,7 @@ To change BNKS into a successful innovation ecosystem, fostering creativity, pro
 
     -   **Mentorship Network:** Establish a formal alumni mentorship program, connecting current students with professionals for career guidance and project support.
 
-    -   **Alumni Venture Fund:** Create a fund backed by alumni investments to seed innovative student ventures, fostering entrepreneurship and alumni engagement.
+    -   **Alumni Venture Fund:** Create a fund backed by alumni investments to seed innovative student ventures, supporting entrepreneurship and alumni engagement.
 
     -   **Global Alumni Network:** Use the network to create international internship and exchange opportunities, broadening student horizons and career prospects.
 
@@ -68,7 +68,7 @@ To change BNKS into a successful innovation ecosystem, fostering creativity, pro
 
     -   **Student-Led Innovation Challenge:** Organize an annual challenge where students propose and implement solutions to real-world problems, attracting sponsorships and showcasing student talent and innovation.
 
-    -   **Democratic School Governance:** Empower students through representation in decision-making bodies, fostering ownership and responsibility for the learning environment.
+    -   **Democratic School Governance:** Empower students through representation in decision-making bodies, encouraging ownership and responsibility for the learning environment.
 
     -   **Interdisciplinary Project Labs:** Establish student-led project labs focused on emerging fields like AI, robotics, or design thinking, attracting high-achieving students seeking unique challenges.
 

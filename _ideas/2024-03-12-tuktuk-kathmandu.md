@@ -6,12 +6,8 @@ categories: [ innovation, tuktuk, ideas ]
 image: "assets/images/tuktuk.png"
 ---
 
-Kathmandu faces crucial challenges with air quality, noise pollution, and reliance on fossil fuels. Public transport systems often contribute significantly to these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. This proposal outlines a detailed plan to encourage and enable their widespread adoption in Kathmandu.
+Kathmandu faces serious challenges with air quality, noise pollution, and reliance on fossil fuels. Public transport systems often contribute significantly to these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. This proposal outlines a detailed plan to encourage and enable their widespread adoption in Kathmandu.
 
-
-**Introduction:**
-
-Kathmandu faces crucial challenges with air quality, noise pollution, and reliance on fossil fuels. Public transport systems often contribute significantly to these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. This proposal outlines a detailed plan to encourage and enable their widespread adoption in Kathmandu.
 
 **What are Tuk-Tuks?**
 
@@ -26,7 +22,7 @@ Tuk-tuks are iconic three-wheeled vehicles, widely used in South Asia for passen
 
 **Benefits of Electric Tuk-Tuks Compared to Motorbikes, Taxis and Private Cars:**
 
-* **Reduced Traffic Congestion:** Electric tuk-tuks have a smaller footprint than cars, requiring less parking space and potentially leading to more efficient traffic flow. Additionally, their maneuverability could allow for easier navigation in narrow streets, further reducing congestion compared to larger vehicles.
+* **Reduced Traffic Congestion:** Electric tuk-tuks have a smaller footprint than cars, they meed less parking space, potentially leading to more efficient traffic flow. Additionally, their maneuverability could allow for easier navigation in narrow streets, further reducing congestion compared to larger vehicles.
 * **Safer Driving Practices:** Tuk-tuks typically travel at slower speeds than motorbikes, potentially reducing the risk of accidents and creating a safer environment for all road users. Additionally, enclosed cabins for passengers can offer increased protection compared to open-air motorbike travel.
 * **Reduced Cost of Transportation:** Electric tuk-tuks have lower operating costs due to cheaper electricity compared to petrol. This translates to potentially lower fares for passengers, making public transport more affordable and accessible for a wider population.
 * **Lower Sound Pollution:** Electric motors are significantly quieter than gasoline engines, contributing to a more peaceful and enjoyable urban environment. This directly addresses the noise pollution concerns associated with motorbikes and private cars.

@@ -14,7 +14,7 @@ Kathmandu and Lalitpur are cities with vibrant communities and rich cultural her
 
 The lack of a strong local identity in Kathmandu and Lalitpur manifests in several ways:
 
--   **Low community engagement:** Residents often show limited interest in neighborhood events, leading to a fragmented social fabric.
+-   **Low community involvement:** Residents often show limited interest in neighborhood events, leading to a fragmented social fabric.
 -   **Increased littering:** Disengagement translates to a lack of ownership, reflected in widespread littering and disregard for public spaces.
 -   **Apathy towards local politics:** Young adults, crucial for shaping the city's future, exhibit low voter turnout and minimal involvement in civic affairs.
 
@@ -25,13 +25,13 @@ These challenges hinder the development of these communities and impede effectiv
 
 Ward-level festivals offer an opportunity to address these challenges. We propose fostering a sense of shared identity and encouraging active participation. By bringing together residents, businesses, and local organizations in a festive environment, these events can:
 
--   **Increase community interaction:**  Platform for residents to meet their neighbors, build relationships, and foster a sense of belonging.
+-   **Increase community interaction:**  Platform for residents to meet their neighbors, build relationships, and support a sense of belonging.
 
--   **Promote civic engagement:** Organize workshops, discussions, and performances highlighting local issues. Spark interest in civic affairs and encourage active participation.
+-   **Promote civic involvement:** Organize workshops, discussions, and performances highlighting local issues. Spark interest in civic affairs and encourage active participation.
 
 -   **Boost local businesses:** Provide a platform for local businesses to show their products and services, stimulating the local economy.
 
--   **Reduce littering:** Foster a sense of ownership and responsibility for shared spaces, encourage responsible waste management.
+-   **Reduce littering:** Create a sense of ownership and responsibility for shared spaces, encourage responsible waste management.
 
 -   **Encourage cultural pride:** Instill a sense of pride in the community and its heritage. Celebrate local traditions and present artistic talent. 
 
@@ -41,7 +41,7 @@ Ward-level festivals offer an opportunity to address these challenges. We propos
 
 These ward-level festivals will be celebrations held **four times a year**, coinciding with major holidays or seasonal events. Each festival will last for **one or two days**, offering a diverse range of activities:
 
--   **Competitions:** Dance, singing, art, and cooking competitions will foster healthy competition and show local talent.
+-   **Competitions:** Dance, singing, art, and cooking competitions will encourage healthy competition and show local talent.
 
 -   **Workshops:** Educational workshops on environmental awareness, civic engagement, and skill development will empower residents.
 
@@ -49,9 +49,9 @@ These ward-level festivals will be celebrations held **four times a year**, coin
 
 -   **Business booths:** Local businesses will have the opportunity to display their products and services, boosting the local economy.
 
--   **Community exhibits:** Local organizations and initiatives will share their work, fostering collaboration and community spirit.
+-   **Community exhibits:** Local organizations and initiatives will share their work, growing collaboration and community spirit.
 
--   **Food stalls:** Residents can enjoy a variety of local cuisine, further supporting local businesses and fostering social interaction.
+-   **Food stalls:** Residents can enjoy a variety of local cuisine, further supporting local businesses and encouraging social interaction.
 
 **Sustainability and Funding:**
 
@@ -59,7 +59,7 @@ The sustainability of these festivals relies on a **multi-pronged approach**:
 
 -   **Sponsorships:** Local businesses will be encouraged to sponsor the festivals, benefiting from increased visibility and goodwill.
 
--   **Community contributions:** Residents will be invited to contribute voluntarily, fostering a sense of ownership and shared responsibility.
+-   **Community contributions:** Residents will be invited to contribute voluntarily, supporting a sense of ownership and shared responsibility.
 
 -   **Municipal support:** The municipalities will provide initial funding for basic equipment and infrastructure, ensuring long-term viability.
 
@@ -71,7 +71,7 @@ The success of these festivals hinges on effective implementation and management
 
 -   **Ward Committees:** Each ward will establish a committee comprising residents, local businesses, and organizations to oversee planning, logistics, and execution.
 
--   **Volunteer participation:** Community members will be encouraged to volunteer their skills and time, fostering ownership and engagement.
+-   **Volunteer participation:** Community members will be encouraged to volunteer their skills and time, supporting ownership and involvement.
 
 -   **Transparency and accountability:** Regular communication and financial transparency will build trust and ensure responsible management.
 
@@ -118,7 +118,7 @@ The impact of these festivals will be measured through:
 
 -   **Challenge 7: Maintaining Volunteer Engagement and Motivation**
 
--   **Solution:** Create a positive and inclusive volunteer environment with clear roles, responsibilities, and opportunities for recognition. Offer training workshops and capacity-building opportunities. Organize social events and team-building activities to foster camaraderie.
+-   **Solution:** Create a positive and inclusive volunteer environment with clear roles, responsibilities, and opportunities for recognition. Offer training workshops and capacity-building opportunities. Organize social events and team-building activities to support camaraderie.
 
 **Additional Considerations:**
 
@@ -128,8 +128,8 @@ The impact of these festivals will be measured through:
 
 -   **Food Safety:** Ensure food vendors adhere to hygiene and safety standards through licensing and regular inspections.
 
-The ward-level festivals can overcome logistical hurdles. They can strengthen community spirit and foster civic engagement in Kathmandu and Lalitpur. Careful planning, collaboration, and clear communication are key.
+The ward-level festivals can overcome logistical hurdles. They can strengthen community spirit and encourage civic engagement in Kathmandu and Lalitpur. Careful planning, collaboration, and clear communication are key.
 
 **Conclusion:**
 
-Ward-level festivals offer a promising solution to revitalize the spirit of Kathmandu and Lalitpur. By fostering a sense of community, encouraging civic engagement, and celebrating local talent, these events can empower residents, strengthen neighborhoods, and contribute to a more sustainable future for the cities. By investing in this initiative, the municipalities, businesses, and communities can collectively celebrate Kathmandu and Lalitpur, making them thriving centers of culture, engagement
+Ward-level festivals offer a promising solution to revitalize the spirit of Kathmandu and Lalitpur. By growing a sense of community, encouraging civic involvement, and celebrating local talent, these events can empower residents, strengthen neighborhoods, and contribute to a more sustainable future for the cities. By investing in this initiative, the municipalities, businesses, and communities can collectively celebrate Kathmandu and Lalitpur, making them thriving centers of culture.

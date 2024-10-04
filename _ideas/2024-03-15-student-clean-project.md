@@ -6,7 +6,7 @@ categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/eco-nepal.png
 ---
 
-Kathmandu and Lalitpur, the colorful and loud heart of Nepal, face a critical challenge: inadequate public hygiene. Littering, improper waste disposal, and a lack of community ownership contribute to unsanitary conditions, impacting public health, environmental well-being, and the overall quality of life. This proposal outlines a unique and innovative program that tackles these issues by fostering a sense of community responsibility, leveraging the enthusiasm of students, and creating economic incentives for responsible waste management practices.
+Kathmandu and Lalitpur, the colorful and loud heart of Nepal, face a critical challenge: inadequate public hygiene. Littering, improper waste disposal, and a lack of community ownership contribute to unsanitary conditions, impacting public health, environmental well-being, and the overall quality of life. This proposal outlines a unique and innovative program that tackles these issues by supporting a sense of community responsibility, leveraging the enthusiasm of students, and creating economic incentives for responsible waste management practices.
 
 **The Problem**
 
@@ -26,7 +26,7 @@ This program proposes a two-pronged approach to address these challenges:
 
 -   Each school will be assigned a specific neighborhood sector to monitor daily. Students will document litter levels, identify areas needing improvement, and track their progress.
 
--   A scoring system based on cleanliness metrics, community engagement activities, and educational initiatives will determine the winning school.
+-   A scoring system based on cleanliness metrics, community involvement activities, and educational initiatives will determine the winning school.
 
 **2. Incentivized Waste Separation:**
 
@@ -54,7 +54,7 @@ The program's long-term sustainability is crucial. We plan to:
 
 -   Partner with NGOs and government agencies to secure funding and expand the program to include other neighborhoods and municipalities.
 
--   Track and report program outcomes transparently, showing its positive impact on public hygiene, waste management, and community engagement.
+-   Track and report program outcomes transparently, showing its positive impact on public hygiene, waste management, and community involvement.
 
 **Evaluation and Measurement**
 
@@ -70,4 +70,4 @@ The program's effectiveness will be measured through:
 
 **Conclusion**
 
-This program offers a unique and sustainable approach to improving public hygiene in Kathmandu and Lalitpur. By engaging students, incentivizing responsible behavior, and fostering a collaborative spirit, we can create cleaner, healthier communities. We urge local governments, businesses, and community members to join us in this initiative. By investing in this program, we invest in the future of our city and the well-being of its residents.
+This program offers a unique and sustainable approach to improving public hygiene in Kathmandu and Lalitpur. By engaging students, incentivizing responsible behavior, and creating a collaborative spirit, we can create cleaner, healthier communities. We urge local governments, businesses, and community members to join us in this initiative. By investing in this program, we invest in the future of our city and the well-being of its residents.

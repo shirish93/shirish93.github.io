@@ -45,7 +45,7 @@ Accountability Nepal will:
 
 **Impact:**
 
--   **Increased transparency:** Citizens will have easy access to timely, reliable data, fostering informed decision-making and participation.
+-   **Increased transparency:** Citizens will have easy access to timely, reliable data, leading to informed decision-making and participation.
 
 -   **Improved accountability:** Municipalities will be held accountable for data availability, promoting responsible governance and service delivery.
 
@@ -67,7 +67,7 @@ Accountability Nepal will seek funding through diverse sources, including:
 
 **Conclusion:**
 
-Accountability Nepal offers a sustainable and effective solution to address the data accountability gap in Nepali local government. By empowering citizens, strengthening transparency, and fostering responsible governance, this initiative can contribute significantly to Nepal's democratic development.
+Accountability Nepal offers a sustainable and effective solution to address the data accountability gap in Nepali local government. By empowering citizens, strengthening transparency, and supporting responsible governance, this initiative can contribute significantly to Nepal's democratic development.
 
 
 

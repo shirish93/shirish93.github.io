@@ -26,13 +26,13 @@ Design brewing kits that target both the curious novice and the seasoned enthusi
 
 Creating clear and user-friendly instruction manuals is crucial. Imagine a first-time brewer, hesitant yet excited. Your manual becomes their guiding hand. Use technology! Consider incorporating AI-generated illustrations to visually guide the brewing process, making it easy to understand and follow. Don't forget multilingual versions; aim for a wider audience and remember, a confident brewer is a loyal customer.
 
-**Step 4: Foster a Community of Chhang Enthusiasts:**
+**Step 4: Grow a Community of Chhang Enthusiasts:**
 
-Marketing goes beyond mere promotion. Think long-term community building. Partner with food and lifestyle bloggers who are popular with your target audience, individuals who cherish tradition and local flavors. Collaborate with cultural organizations and events like harvest festivals or regional fairs. Display chhyang brewing at workshops, demonstrations, and even competitions. Foster a sense of community where individuals can learn, share experiences, and celebrate their culture together. By growing this community, you not only market your business but also strengthen the cultural revival movement you represent.
+Marketing goes beyond mere promotion. Think long-term community building. Partner with food and lifestyle bloggers who are popular with your target audience, individuals who cherish tradition and local flavors. Collaborate with cultural organizations and events like harvest festivals or regional fairs. Display chhyang brewing at workshops, demonstrations, and even competitions. Encourage a sense of community where individuals can learn, share experiences, and celebrate their culture together. By growing this community, you not only market your business but also strengthen the cultural revival movement you are a part of.
 
 **Step 5: Expand Your Horizons, Target the Curious:**
 
-As your ChhangFriend venture blossoms, consider diversifying your offerings. Introduce traditional flavorings like ginger, herbs, or even spices -- a tantalizing adventure for the more adventurous brewers. Explore online tutorials and workshops, offering deeper dives into the art of chhyang brewing and creating a continuous learning platform for your community. Tap into the economic potential by partnering with local governments to promote cultural tourism and support regional development. Every step strengthens your business and the cultural movement you represent.
+As your ChhangFriend venture blossoms, consider diversifying your offerings. Introduce traditional flavorings like ginger, herbs, or even spices -- a tantalizing adventure for the more adventurous brewers. Explore online tutorials and workshops, offering deeper dives into the art of chhyang brewing and creating a continuous learning platform for your community. Tap into the economic potential by partnering with local governments to promote cultural tourism and support regional development. Every step strengthens your business and the cultural movement you are supporting.
 
 <img src="../assets/images/chhyang3.png" width="100%" Title="A vision of what it might look like" Align="RIGHT" />
 
@@ -60,7 +60,7 @@ Remember, the success of your ChhangFriend business lies in your passion, cultur
 
 -   **Technology Integration:** Consider using online platforms for sales, community building, and educational resources.
 
-Remember, this guide is just the beginning. Embrace the cultural richness, foster community spirit, and celebrate local flavors as you brew your business, one sip of chhyang at a time!
+Remember, this guide is just the beginning. Embrace the cultural richness, support community spirit, and celebrate local flavors as you brew your business, one sip of chhyang at a time!
 
 -----------
 
@@ -82,11 +82,11 @@ Creating clear and user-friendly instruction manuals is crucial. Imagine a first
 
 Building a Community of Chhang Enthusiasts:
 
-Marketing goes beyond mere promotion. Think community building. Partner with food and lifestyle bloggers who identify with your target audience, individuals who cherish tradition and local flavors. Collaborate with cultural organizations and events like harvest festivals or regional fairs. Showcase chhyang brewing at workshops, demonstrations, and even competitions. Foster a sense of community around this shared heritage, where individuals can learn, share experiences, and celebrate their culture together. By strengthening this community, you not only market your business but also strengthen the cultural revival movement you represent.
+Marketing goes beyond mere promotion. Think community building. Partner with food and lifestyle bloggers who identify with your target audience, individuals who cherish tradition and local flavors. Collaborate with cultural organizations and events like harvest festivals or regional fairs. Showcase chhyang brewing at workshops, demonstrations, and even competitions. Create a sense of community around this shared heritage, where individuals can learn, share experiences, and celebrate their culture together. By strengthening this community, you not only market your business but also strengthen the cultural revival movement you want to take to the world.
 
 Expand Your Horizons, Target the Curious:
 
-As your ChhangFriend venture blossoms, consider diversifying your offerings. Introduce traditional flavorings like ginger, herbs, or even spices -- a tantalizing adventure for the more adventurous brewers. Explore online tutorials and workshops, offering deeper dives into the art of chhyang brewing and creating a continuous learning platform for your community. Tap into the economic potential by partnering with local governments to promote cultural tourism and support regional development. Every step strengthens your business and the cultural movement you represent.
+As your ChhangFriend venture blossoms, consider diversifying your offerings. Introduce traditional flavorings like ginger, herbs, or even spices -- a tantalizing adventure for the more adventurous brewers. Explore online tutorials and workshops, offering deeper dives into the art of chhyang brewing and creating a continuous learning platform for your community. Tap into the economic potential by partnering with local governments to promote cultural tourism and support regional development. Every step strengthens your business and the cultural movement you are leading.
 
 Why ChhangFriend? More Than Just Profits:
 
@@ -94,7 +94,7 @@ This isn't just about selling kits; it's about cultural revival, community build
 
     Be a Cultural Custodian: Preserve a proud tradition by generating interest in chhyang brewing and passing down this cultural knowledge to future generations.
 
-    Foster Community Spirit: Create a space for shared experiences, cultural exploration, and connection, bringing people together through the shared love of chhyang.
+    Encourage Community Spirit: Create a space for shared experiences, cultural exploration, and connection, bringing people together through the shared love of chhyang.
 
     Celebrate Local Flavors: Display the unique taste and heritage of Nepal through homemade chhyang, empowering individuals to appreciate and support local ingredients and traditions.
 

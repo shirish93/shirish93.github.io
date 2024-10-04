@@ -35,7 +35,7 @@ This political savvy translates into actionable steps for businesses:
 
 * **Conduct thorough market research:** Don't rely on hype; understand where value is generated.
 * **Encourage interdepartmental Work:** Break down silos and share insights across teams.
-* **Empower employees to explore:** Encourage an innovation mindset to identify relevant technologies.
+* **Allow employees to explore:** Encourage an innovation mindset to identify relevant technologies.
 * **Develop a clear innovation pipeline:** Evaluate ideas, assess viability, and invest wisely.
 * **Continuously monitor and reassess:** Track progress, adjust strategies, and communicate openly.
 
