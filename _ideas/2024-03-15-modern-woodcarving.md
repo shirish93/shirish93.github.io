@@ -6,7 +6,7 @@ categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/old-modern.png
 ---
 
-Nepal boasts a rich cultural heritage evident in its intricate woodcarving artistry, adorning temples, houses, and public spaces for centuries. However, traditionally handcrafted woodcarvings are often expensive and time-consuming, limiting their accessibility to a wider audience. This proposal introduces a novel approach to preserve and promote these cultural treasures through digital fabrication technologies like 3D scanning, printing, and CNC machining.
+Nepal boasts a rich cultural heritage evident in its intricate woodcarving artistry, adorning temples, houses, and public spaces for centuries. However, traditionally handcrafted woodcarvings are  expensive and time-consuming, limiting their accessibility to a wider audience. This proposal introduces a novel approach to preserve and promote these cultural treasures through digital fabrication technologies like 3D scanning, printing, and CNC machining.
 
 **2. Problem Statement**
 

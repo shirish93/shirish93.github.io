@@ -14,7 +14,7 @@ Kathmandu and Lalitpur are cities with vibrant communities and rich cultural her
 
 The lack of a strong local identity in Kathmandu and Lalitpur manifests in several ways:
 
--   **Low community involvement:** Residents often show limited interest in neighborhood events, leading to a fragmented social fabric.
+-   **Low community involvement:** Residents  show limited interest in neighborhood events, leading to a fragmented social fabric.
 -   **Increased littering:** Disengagement translates to a lack of ownership, reflected in widespread littering and disregard for public spaces.
 -   **Apathy towards local politics:** Young adults, crucial for shaping the city's future, exhibit low voter turnout and minimal involvement in civic affairs.
 
@@ -128,7 +128,7 @@ The impact of these festivals will be measured through:
 
 -   **Food Safety:** Ensure food vendors adhere to hygiene and safety standards through licensing and regular inspections.
 
-The ward-level festivals can overcome logistical hurdles. They can strengthen community spirit and encourage civic engagement in Kathmandu and Lalitpur. Careful planning, collaboration, and clear communication are key.
+The ward-level festivals can overcome logistical hurdles. They can strengthen community spirit and encourage civic involvement in Kathmandu and Lalitpur. Careful planning, collaboration, and clear communication are key.
 
 **Conclusion:**
 

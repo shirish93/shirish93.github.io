@@ -27,7 +27,7 @@ This proposal outlines a project designed to significantly reduce littering in N
 
 **2. Problem:**
 
-Despite existing measures, visitors often neglect proper waste disposal within national parks, leaving behind plastic bags, food waste, and other debris. This harms the environment, detracts from visitor experience, and incurs significant cleanup costs for authorities. 
+Despite existing measures, visitors  neglect proper waste disposal within national parks, leaving behind plastic bags, food waste, and other debris. This harms the environment, detracts from visitor experience, and incurs significant cleanup costs for authorities. 
 
 **3. Proposed Solutions:**
 

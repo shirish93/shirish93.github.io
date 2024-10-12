@@ -10,7 +10,7 @@ This proposal outlines the establishment of a non-profit organization dedicated 
 
 **Problem:**
 
-Nepali law mandates local governments to publish information of public interest on their websites. However, data is often:
+Nepali law mandates local governments to publish information of public interest on their websites. However, data is :
 
 -   **Inaccessible:** Uploaded in non-standard formats (e.g., photos of excel sheets)
 

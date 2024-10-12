@@ -49,7 +49,7 @@ categories: [ ethnic-foods, nepali-foods ]
 
 ## A Culinary Journey to Nepal: Unveiling Flavors and Supporting Friendship through Gastrodiplomacy
 
-Sandwiched between the titans of Indian and Chinese cuisine, Nepal's culinary heritage often finds itself overshadowed. Yet, nestled within its  mountains and diverse valleys lies a treasure trove of unique, diverse set of flavors waiting to be explored. This essay proposes that Nepal leverage the power of gastrodiplomacy, changing its food culture into a tool for enhancing its national image and brand recognition on the global stage.
+Sandwiched between the titans of Indian and Chinese cuisine, Nepal's culinary heritage  finds itself overshadowed. Yet, nestled within its  mountains and diverse valleys lies a treasure trove of unique, diverse set of flavors waiting to be explored. This essay proposes that Nepal leverage the power of gastrodiplomacy, changing its food culture into a tool for enhancing its national image and brand recognition on the global stage.
 
 Thailand's pioneering gastrodiplomacy campaign serves as a blueprint for Nepal's culinary awakening. Similar to the "Thai Select" program, Nepal can establish a certification system, aptly named "Nepali Select." This initiative would identify and endorse restaurants abroad that meet specific criteria for quality and authenticity.  These "Nepali Select" restaurants would become trusted ambassadors, ensuring a consistent and positive dining experience for international audiences.  Imagine stepping into a cozy restaurant in Berlin, greeted by the warm aroma of Nepali spices like timur and ajwain, only to be presented with a menu featuring familiar momos alongside the intriguing "Sukuti" – a dish of spiced, air-dried meat – all prepared according to time-tested Nepali traditions. Such an experience wouldn't just tantalize taste buds; it will spark curiosity about the land where these flavors originate. 
 
@@ -57,7 +57,7 @@ However, building a global reputation requires more than just certification.  In
 
 Of course, simply transplanting Nepali cuisine onto foreign soil might not be the most successful approach.  International palates need to be enticed and accommodated. Here's where creative adaptation comes into play. Just as Thai curries have been embraced worldwide despite regional variations, Nepal's cuisine can be presented in a way that is both appealing and accessible.  While momos remain a must-try for any culinary adventurer, lesser-known dishes like "Selroti" (Nepali rice-flour crispy donuts) can be introduced alongside familiar options. Highlighting the use of fresh Himalayan herbs and spices, renowned for their health benefits and unique flavors, would further increase the perception of Nepali cuisine.
 
-But gastrodiplomacy extends beyond just the food itself.  It's about creating a multi-sensory experience that transports diners to the heart of Nepal.  The traditional "Robata" grill, with its open flames, adds a touch of drama to the cooking process.  Unique utensils like the "kukhuri" (curved knife) and the "daunt" (large spoon) become conversation starters, while the communal dining style encourages a sense of togetherness.  Even the way Nepalis eat, often seated on the floor, can be part of the storytelling, offering a glimpse into local customs and traditions.
+But gastrodiplomacy extends beyond just the food itself.  It's about creating a multi-sensory experience that transports diners to the heart of Nepal.  The traditional "Robata" grill, with its open flames, adds a touch of drama to the cooking process.  Unique utensils like the "kukhuri" (curved knife) and the "daunt" (large spoon) become conversation starters, while the communal dining style encourages a sense of togetherness.  Even the way Nepalis eat,  seated on the floor, can be part of the storytelling, offering a glimpse into local customs and traditions.
 
 Success in this culinary venture hinges on collaboration.  Nepali chefs, government agencies, food and beverage media, and food scientists must work hand-in-hand.  Chefs can experiment with new techniques while staying true to tradition.  Government agencies can provide support and funding for training programs and promotional campaigns. Food and beverage media can act as storytellers, writing narratives around Nepali cuisine and its cultural significance. Food scientists can play a vital role in ensuring food safety and traceability, building trust with international consumers. Additionally, seeking expertise from around the world – renowned chefs, food stylists, and marketing specialists – can further improve Nepal's culinary offerings and presentation.
 
@@ -135,7 +135,7 @@ Nepal boasts a rich tradition of ethnic cuisines, each reflecting the unique cul
 
 **The Problem**
 
-Despite the existence of ethnic restaurants, they are often:
+Despite the existence of ethnic restaurants, they are :
 
 * **Small-scale and regionally limited** with inadequate marketing.
 * **Expensive** to start due to the lack of a standardized approach.
@@ -239,7 +239,7 @@ By providing a one-stop-shop for launching an ethnic restaurant, this project wi
 
 **Why the Limited Presence of Ethnic Cuisines?**
 
-Despite the rich culture of Nepali ethnic cuisines, their presence in restaurants, particularly mid-range and high-end establishments, is often limited. This can be attributed to several factors:
+Despite the rich culture of Nepali ethnic cuisines, their presence in restaurants, particularly mid-range and high-end establishments, is  limited. This can be attributed to several factors:
 
 * **Limited Marketing:** Ethnic cuisines haven't received the marketing push they deserve, leading to a lack of awareness among potential customers.
 * **High Initial Investment:** Establishing a new restaurant, especially with a focus on a specific cuisine, requires significant upfront investment in research, menu development, and sourcing.
