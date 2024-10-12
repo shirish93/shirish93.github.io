@@ -46,7 +46,7 @@ A spiritual leader shows the path...and vision...for the long term. They may not
 
 #### Technical Leadership
 
-A technical leader bedazzles with their technical skills. They are quick-thinking, and often provide immediate assistance. They are experts in rapidly identifying the issue at hand. They gain respect by their sharpened skills in their area of expertise. They inspire others because of their sheer intelligence, work ethic and competence. The followers aspire to become as competitive and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it's moot, because their technical expertise trumps all.
+A technical leader bedazzles with their technical skills. They are quick-thinking, and  provide immediate assistance. They are experts in rapidly identifying the issue at hand. They gain respect by their sharpened skills in their area of expertise. They inspire others because of their sheer intelligence, work ethic and competence. The followers aspire to become as competitive and productive as they are. They might not be great at vision-setting or inspiring, or helping at a personal level, but it's moot, because their technical expertise trumps all.
 
 * **Key Attributes:** Deep technical expertise, problem-solving skills, driving project execution.
 * **Strengths:** Builds trust through competence, delivers results efficiently, ensures technical solutions are sound.

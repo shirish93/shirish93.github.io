@@ -12,7 +12,7 @@ This proposal presents a unique and sustainable approach to preserving and revit
 
 **2. The Challenge and Opportunity:**
 
-Many traditional houses in these iconic city centers face numerous challenges. Age, natural disasters, and lack of resources often lead to deterioration, threatening their cultural significance and posing safety risks. This proposal addresses this challenge by creating a win-win solution for homeowners, investors, and the community.
+Many traditional houses in these iconic city centers face numerous challenges. Age, natural disasters, and lack of resources  lead to deterioration, threatening their cultural significance and posing safety risks. This proposal addresses this challenge by creating a win-win solution for homeowners, investors, and the community.
 
 
 <img src="../assets/images/heritage1.png" width="100%" Title="A vision of what it might look like" Align="LEFT" />

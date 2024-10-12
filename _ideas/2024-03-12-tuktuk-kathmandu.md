@@ -6,7 +6,7 @@ categories: [ innovation, tuktuk, ideas ]
 image: "assets/images/tuktuk.png"
 ---
 
-Kathmandu faces serious challenges with air quality, noise pollution, and reliance on fossil fuels. Public transport systems often contribute significantly to these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. This proposal outlines a detailed plan to encourage and enable their widespread adoption in Kathmandu.
+Kathmandu faces serious challenges with air quality, noise pollution, and reliance on fossil fuels. Public transport systems  contribute significantly to these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. This proposal outlines a detailed plan to encourage and enable their widespread adoption in Kathmandu.
 
 
 **What are Tuk-Tuks?**

@@ -25,7 +25,7 @@ But a clean rewrite takes precious development time and resources away. Revenue-
 
 **Learning from the Ise Jingu Shrine**
 
-Let's look for a parallel in a different field: construction. Every 20 years, locals tear down the Ise Jingu grand shrine in Mie Prefecture in Japan, and rebuild it anew. This has been happening since around 8th century CE. The temple has been reconstructed about 65 times. The builders have maintained the cultural continuity in architecture. The reconstruction is a fundamental part of the temple's upkeep. The locals have achieved goals often in conflict with each other. The original architecture and intention behind the construction is preserved. However new construction uses modern construction materials and techniques. The reconstruction is budgeted as periodic upgrade, it's build into the Temple's finances.
+Let's look for a parallel in a different field: construction. Every 20 years, locals tear down the Ise Jingu grand shrine in Mie Prefecture in Japan, and rebuild it anew. This has been happening since around 8th century CE. The temple has been reconstructed about 65 times. The builders have maintained the cultural continuity in architecture. The reconstruction is a fundamental part of the temple's upkeep. The locals have achieved goals  in conflict with each other. The original architecture and intention behind the construction is preserved. However new construction uses modern construction materials and techniques. The reconstruction is budgeted as periodic upgrade, it's build into the Temple's finances.
 
 Is there anything we can learn from this tradition in in software? Can it help us deal with the legacy-code allergy?
 

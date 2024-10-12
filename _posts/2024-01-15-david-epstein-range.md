@@ -44,9 +44,9 @@ __Lifelong learning is Important__: Those who maintain a growth mindset and expl
 
 Epstein effectively achieves his goal of questioning existing understanding of creating high-performing leaders and artists.
 
-Some readers might find the arguments overly broad. The book covers diverse fields, potentially leading to concerns about generalizability of findings to specific professions like engineering. I also found there to be quite a lack of specific actionable steps. Epstein highlights the value of range, but he does not provide enough concrete guidance on how to cultivate it.
+Some readers might find the arguments overly broad. The book covers diverse fields, potentially leading to concerns about generalizability of findings to specific professions like engineering. I also found there to be  a lack of specific actionable steps. Epstein highlights the value of range, but he does not provide enough concrete guidance on how to cultivate it.
 
-Despite those foibles, "Range" stands out by focusing on the benefits of generalism. Other self-help pop-psych books, such as 'Grit' often emphasize specialization and mastery. Epstein offers an important alternative perspective on the advantages of a broader skillset. The book's other strength is in exploring diverse fields by drawing from different disciplines. It offers a wider lens than books focused on a single domain.
+Despite those foibles, "Range" stands out by focusing on the benefits of generalism. Other self-help pop-psych books, such as 'Grit'  emphasize specialization and mastery. Epstein offers an important alternative perspective on the advantages of a broader skillset. The book's other strength is in exploring diverse fields by drawing from different disciplines. It offers a wider lens than books focused on a single domain.
 
 I found the book most similar to Malcolm Gladwell's "Outliers": Both explore the paths to success. But "Range" goes deeper into the psychological and cognitive aspects, offering a more nuanced perspective. The book was unfairly maligned for the '10,000 hours' rule which it disavowed in the first few chapters.
 
