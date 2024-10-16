@@ -12,7 +12,7 @@ Nepal is rich in a diversity of cultures and traditions. Each is expressed throu
 
 **Problem/Opportunity:**
 
-**Concept:** "Caps of Nepal" will offer curated collections of high-quality traditional caps. It will targetluxury travelers and culturally-conscious individuals. These sets show diverse headwear from different ethnic communities, increasing the understanding of Nepal's cultural heritage.
+**Concept:** "Caps of Nepal" will offer curated collections of high-quality traditional caps. It will target luxury travelers and culturally-conscious individuals. These sets show diverse headwear from different ethnic communities, increasing the understanding of Nepal's cultural heritage.
 
 **Problem:** Tourists  struggle to find authentic, handcrafted souvenirs that reflect Nepal's diverse culture. Existing options are either generic or limited to individual crafts.
 
