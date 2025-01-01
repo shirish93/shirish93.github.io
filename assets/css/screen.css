@@ -95,6 +95,18 @@ section.recent-posts {
     margin-bottom: 0rem;
 }
 
+.pquote {
+	float: right;
+	width: 70%;
+	/* background: url(../images/openquote.gif) top left no-repeat; */
+	/* color: #030; */
+	font-size: 26px;
+	line-height: 1.2;
+	font-style: italic;
+	padding: 13px;
+}
+
+
 @media (min-width:576px) {
     .card-columns.listfeaturedtag {
         -webkit-column-count: 2;
