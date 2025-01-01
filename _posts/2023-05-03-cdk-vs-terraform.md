@@ -23,8 +23,6 @@ We have also started doubting Amazon's commitment to CDK. Some AWS teams have us
 
 We have explored multiple options to replace CDK. Pulumi is an interesting option. Unfortunately, its pricing structure doesn't align with our needs. Widespread adoption is a basic metric we use to judge infrastructure management tools. Tools with more users generally have better documentation, wider community support, and easier access to support engineers. Terraform has emerged as a most serious contender to CDK based on those factors. Most infrastructure teams seem to be either on CDK, or on Terraform.
 
-### Making the Decision: CDK vs. Terraform
-
 Before committing to a potential shift from CDK to Terraform, our team will evaluate several factors. Figuring out what Terraform's learning curve is like, is important. Onboarding developers new to Terraform will require training and familiarization. We're also figuring out how to do a gradual rollout with Terraform. The idea is to start new projects on Terraform, and migrate existing stacks incrementally. It will let us do a controlled transition with minimal disruptions.
 
 Terraform's pricing structure will play an important role in our final decision. While Terraform open-source and free to use, the associated cloud resources required for running it (e.g., S3 buckets for state storage) incur standard AWS charges. We need to assess the long-term sustainability of these costs within our budget.
@@ -34,8 +32,6 @@ Community support for Terraform is what will make or break it for terraform. Whi
 The decision to move from CDK needs weighing the potential trade-offs. Terraform offers state management, seamless import of existing resources, and a broader community. But there's a learning curve associated with new adoption. Then there's the potential loss of integration with the broader AWS ecosystem that CDK has.
 
 We have not committed to our move away from the CDK world. When the murmurs of dissent reach a crescendo in our ragtag infrastructure squad, we might eventually migrate.
-
-### Lessons Learned: Beyond the Toolset
 
 This has reminded us that we need to be careful about choosing a vendor-specific tool for critical infrastructure management. Free tools from large vendors are tempting, but the lack of service-level agreements (SLAs) creates uncertainty around long-term support and viability. There is value in prioritizing technical merit and established community support over convenience when choosing software libraries.
 

@@ -53,20 +53,14 @@ Learning from these past mistakes is important to avoid repeating unfortunate ou
 
 ### The threat post by responsibly-deployed genAI
 
-We have discussed the potential risks and downsides of improperly-deployed LLM models until this point. But what, if any, might be threats posed by deployment of LLM's in geenral from a technical perspective, and how might we be able to address those. We will discuss two points that are of some concern.
+We have discussed the potential risks and downsides of improperly-deployed LLM models until this point. But what, if any, might be threats posed by deployment of LLM's in geenral from a technical perspective, and how might we be able to address those? We will discuss two points that are of some concern.
 
 1. The Saturation of LLM-Generated Content: As LLM's advance, their ability to create realistic and persuasive content increases. This raises concerns about the potential saturation of online spaces with synthetically generated text, images, and audio. This phenomenon could pose challenges for discerning genuine information from fabricated content, and potentially impact critical areas like news media, creative industries, and even personal interactions. [Dead internet theory](https://en.wikipedia.org/wiki/Dead_Internet_theory) might become a reality!
 
 2. Measuring Human Abilities in the LLM Age: LLMs possess the ability to mimic human language and creative outputs, potentially impacting how we assess critical skills like thinking, writing, and critical analysis. In an education system increasingly incorporating LLMs, concerns arise about the ability to distinguish genuine understanding from machine-generated outputs, posing challenges for evaluating. The value of genuine human interactions might go down, and thus the perceived need of cooperating with other humans, as people get more addicted to spending time with and socializing with their idealized version of friends and partners that are LLM-generated.
 
-Here are some ways we mimght nagivate these challenges?
+Here are some ways we might navigate these challenges?
 
 __Developing Detection Techniques__ : Advancements in AI and machine learning can be leveraged to create tools capable of identifying and flagging LLM-generated content.
 __Promoting Media Literacy__: Educating the public on the capabilities and limitations of LLMs is important to encourage critical thinking and discernment skills in navigating online information.
 __Redefining Assessment Strategies__: Adapting evaluation methods in education and other fields to account for the presence of LLMs is crucial to ensure accurate assessment of genuine human skills and understanding.
-
-### Conclusion: Embracing the Future with Responsibility
-
-LLMs stand at the edge of revolutionizing multiple fields, offering potential for progress that's been unreachable until now. However, wielding this power requires acknowledging and addressing the limitations and potential risks. By prioritizing ethical considerations, encouraging human-centered development, and adapting to changing technology and laws, we can benefit from LLMs.
-
-__Image by <a href="https://www.freepik.com/free-vector/flat-robot-collection-with-different-poses_1576714.htm#query=stupid%20robot&position=3&from_view=keyword&track=ais&uuid=006c7d73-d299-4adf-9d6f-5e92697a3a9a">Freepik</a>__
