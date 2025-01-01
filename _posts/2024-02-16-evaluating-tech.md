@@ -22,7 +22,7 @@ The decision-making process should not solely focus on the "latest and greatest"
 
 **Security**: Security breaches can have devastating consequences. Always prioritize tools with a strong track record of security and frequent updates that address vulnerabilities. That does not mean however that projects that haven't been updated recently are not worth considering. Some projects are considered 'completed' and the maintainers pause further work on them. Understand where your priorities lie.
 
-**Maintainability**: Opt for tools with well-established coding conventions, clear documentation, and ease of modification. This makes long-term maintainability easier as your project grows. Apples-to-apples, open-source code is generally more maintainable than closed-source.
+**Maintainability**: Choose tools with well-established coding conventions, clear documentation, and ease of modification. This makes long-term maintainability easier as your project grows. Apples-to-apples, open-source code is generally more maintainable than closed-source.
 
 **Future Growth**: Consider the technology's potential for growth and adaptation. Emerging frameworks might offer exciting possibilities, but established technologies  benefit from sustained community support and a wider range of resources.
 
