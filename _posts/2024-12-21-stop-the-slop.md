@@ -32,7 +32,7 @@ It's clear now that posting such pieces only reflects poorly on the poster, and 
 
 <aside class="pquote">
     <blockquote>
-        <p>If we're going to outsource the thinking, and learning to computers, what does remain?
+        <p>If we're going to outsource the thinking, and learning to computers, what does remain?</p>
     </blockquote>
 </aside>
 
