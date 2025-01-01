@@ -4,7 +4,7 @@ title:  "Dude, you know I can tell you ChatGPT'd that Thinkfluencer piece, right
 author: shirish
 categories: [ writing, ai, llm]
 featured: true
-hidden: false
+hidden: true
 image: "assets/images/inno-trap.jpg"
 ---
 
