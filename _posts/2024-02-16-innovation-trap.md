@@ -61,5 +61,3 @@ So how do you adapt your organization to be more in alignment with business need
     * Develop a clear and enticing narrative that explains how innovation aligns with business goals.
     * Use PR to generate positive buzz and build trust with stakeholders.
     * Achieve *real* business needs by using innovation tooling as a PR tooling where necessary to sell the unphotogenic parts of change.
-
-By adopting a politically savvy approach, you can ensure that innovation works for you, not against you. While it may be tempting, don't be seduced by the latest fads. Focus on aligning innovation with your core business goals and customer needs. This approach will help you avoid the innovation trap and achieve long-term success.

@@ -10,8 +10,6 @@ image: "assets/images/stupid-robot.png"
 
 My views on how LLM's might impact our economies and personal lives have shifted a lot in recent years. This is an explanation of that shift. LLM's can be  good at some tasks, and awful at others. Being able to understand the distinction between the two modes helped make my understanding complete. In this essay I'll focus on opportunities of LLM's for personal use, and how they can help employees grow.
 
-## The Rise of Personal LLMs: A Shift in Human-Machine Collaboration
-
 I find myself at a sterile lecture hall inside UW-Seattle. The white LED's cast diffuse shadows as my classmates hunch over their laptops. The lesson is on engineering leadership. We're discussing on distinctions of different kinds of engineering leaders. I remain unsatisfied. I have my own little theory, that's been shaped by my professional experience. I don't know where to start formulating it. So many frameworks and competing ideas! How would I even begin structuring my thoughts!?
 
 I decide to use Gemini, Google's LLM, to help me. I need to evaluate what the whole genAI thing is about anyway. It's an unexpected partner in the trip. I am skeptical, but I feed it my jumbled collection of connections and  questions. What follows is  impressive. Gemini doesn't just offer facts or explain existing models. It counter-questions my thoughts, reflects my ideas back in a clearer, more structured form. It prods for points I haven't considered. It reveals blind spots in my 'framework', pushes me to explore nuances I'd considered unimportant. It has acted as a catalyst. It has forced me to put down my thoughts precisely, identify important points. It tells me I need 'a compelling narrative' to market it.
@@ -30,16 +28,11 @@ Fair enough, I thought. If nothing else, LLMs are excellent tools for knowledge 
 
 What else might they be good for? I kept playing around with Gemini for the following weeks and months.
 
-## Personal LLMs: Bridging the Knowledge Gap
-
 There are different ways to learn new things and automate tasks in one's computer. Programming skills allow people to automate tasks, but you need to understand the tools to be good at them. Searching the internet is much easier, but is not interactive. It's  challenging to communicate your intent. Online courses and textbooks come with high investment costs and limited accessibility.
 
 Personal LLMs are a bridge between these disparate learning and skill paradigms. LLMs let individuals with basic computer literacy to automate tedious tasks without programming knowledge. They are much simple web searches om understanding user context and intent, and provide interactive, responsive feedback. LLMs provide a cost-effective "try-before-you-buy" experience for online courses, allowing individuals to sample the benefits of guided learning before committing to larger investments. LLMs act as intelligent assistants. They simplify technical tasks and guide folks towards detailed learning resources.
 
-
-## Stepping Out of the Shadows: Comparing LLMs to Existing Solutions
-
-Let's now discuss the strengths and weaknesses of LLM's compared to existing methods in detail.
+I'll now consider the strengths and weaknesses of LLM's compared to existing methods in detail.
 
 **Automation of repetitive computational tasks**
  

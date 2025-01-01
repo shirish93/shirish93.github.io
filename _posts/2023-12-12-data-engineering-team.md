@@ -11,7 +11,7 @@ hidden: true
 Our team integrated data scientists and engineers into a single team. We learned important lessons as we tested different team structures and planning regimen. This essay takes us through our journey.
 
 ### Introduction
-Software teams struggle with maintaining a clear long-term product vision while resourcing the team appropriately. This becomes even trickier when data scientists are involved. Their needs and workflow don't align with that of software engineers. In our team at Solaria Labs, we have experimented with a few structures. We discovered there's no 'ideal' prescribable final form. The structure depends on the needs of a project. This essay will walk through our journey of experimenting with different 'hybrid' team structures.
+Software teams always struggle with having a clear long-term product vision while resourcing the team appropriately. This becomes even harder when data scientists are involved. Their needs and workflow don't align with that of software engineers. In our team at Solaria Labs, we have experimented with a few structures. We discovered there's no 'ideal' prescribable final form. The structure depends on the needs of a project. This essay will walk through our journey of experimenting with different 'hybrid' team structures.
 
 Data scientists and software engineers worked within the same squad in the first iteration. They shared a Jira board, backlog, and joined the same meetings. We unearthed some complexities in this initial approach.
 
