@@ -30,7 +30,7 @@
             $("a[href^='#fn']").each(function () {
                 const footnoteId = this.hash.replace("#fn", ""); // Extract ID number
                 if (isSideNoteMode) {
-                    $(this).attr("href", "#"); // Point to sidenote
+                    $(this).attr("href", "#sn" + footnoteId); // Point to sidenote
                 } else {
                     $(this).attr("href", "#fn" + footnoteId); // Point to endnote
                 }
@@ -87,9 +87,16 @@
         }
 
         function createSideNote(superscript, footnoteHtml, startPosition) {
-            console.log()
+            console.log(footnoteHtml)
+            let fnNum = superscript.attr("id").replace("fnref:", "");
+            
+            let tempDiv = document.createElement("div");
+            tempDiv.innerHTML = footnoteHtml;
+            tempDiv.querySelector("p a.reversefootnote")?.remove();
+            footnoteHtml = tempDiv.innerHTML;
+            
             let div = $("<div>")
-                .html(footnoteHtml)
+                .html(fnNum + "." +footnoteHtml)
                 .addClass("sidenote")
                 .attr("id", superscript.attr("id").replace("fnref", "sn")); 
 
