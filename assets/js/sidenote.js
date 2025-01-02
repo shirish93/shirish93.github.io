@@ -1,9 +1,9 @@
 (function ($) {
     $(document).ready(function () {
         const $footnotes = $(".footnotes"),
-        sideNoteStartMargin = 12,
+        sideNoteStartMargin = 10,
         sideNoteMaxWidth = 280,
-        sideNoteMinWidth = 135,
+        sideNoteMinWidth = 124,
         $mainContent = $(".main-content"),
         $postTitle = $(".posttitle");
 
@@ -23,7 +23,7 @@
         });
 
         function isSideNoteMode() {
-            const browserWidth = $mainContent.width();;
+            const browserWidth = $mainContent.width();
             const startPosition = $postTitle.offset()?.left + $postTitle.outerWidth() + sideNoteStartMargin;
         
             if (!$postTitle.length) {
