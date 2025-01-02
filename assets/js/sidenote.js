@@ -3,7 +3,7 @@
         const $footnotes = $(".footnotes"),
             sideNoteStartMargin = 12,
             sideNoteMaxWidth = 280,
-            sideNoteMinWidth = 140;
+            sideNoteMinWidth = 135;
 
         $(window).on("load", function () {
             if ($footnotes.length < 1) {
@@ -29,7 +29,7 @@
             }
 
             const availableSpaceForSideNote = browserWidth - startPosition;
-            if (availableSpaceForSideNote +110 < sideNoteMinWidth) {
+            if (availableSpaceForSideNote < sideNoteMinWidth) {
                 console.log("Not enough space for sidenotes.");
                 return;
             }
