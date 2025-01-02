@@ -14,7 +14,7 @@ It is mid-December of 2024 and I'm in Nepal. I've been spending the past few wee
 
 <aside class="pquote">
     <blockquote>
-        <p>Instead of copy-pasting chatGPT output, just post a link to the ai-generated webpage, with an "I agree!"</p>
+        <p> By copy-pasting chatGPT output as your own, you're not adding any more value than linking to the ai-generated webpage, with an "I agree!" comment.</p>
     </blockquote>
 </aside>
 
