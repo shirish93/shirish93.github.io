@@ -29,11 +29,11 @@
             }
 
             const availableSpaceForSideNote = browserWidth - startPosition;
-            if (availableSpaceForSideNote < sideNoteMinWidth) {
+            if (availableSpaceForSideNote +200 < sideNoteMinWidth) {
                 console.log("Not enough space for sidenotes.");
                 return;
             }
-
+            console.log("def enough space for sidenotes, but like, who even knows?");
             const $fnItems = $footnotes.find("ol li");
             $("sup").each(function (index) {
                 const $footnoteHtml = $fnItems.eq(index).html();
