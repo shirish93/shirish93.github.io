@@ -33,7 +33,7 @@
             $("a[href^='#fn']").each(function () {
                 const footnoteId = this.hash.replace("#fn", ""); // Extract ID number
                 if (isSideNoteMode) {
-                    $(this).attr("href", "#fn" + footnoteId); // Point to sidenote
+                    $(this).attr("href", "#sn" + footnoteId); // Point to sidenote
                 } else {
                     $(this).attr("href", "#fn" + footnoteId); // Point to endnote
                 }
@@ -50,7 +50,7 @@
             const availableSpaceForSideNote = browserWidth - startPosition;
             return availableSpaceForSideNote >= sideNoteMinWidth;
         }
-        
+
         function loadSideNotesFromFootnotes() {
             let isSideNoteMode = isSideNoteModeTrue();
             if (isSideNoteMode) {
