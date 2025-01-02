@@ -88,7 +88,7 @@
             let div = $("<div>")
                 .html(footnoteHtml)
                 .addClass("sidenote")
-                .attr("id", `sn${superscript.attr("id").replace("ref", "")}`); 
+                .attr("id", `sn${superscript.attr("id").replace("fn", "")}`); 
 
             const topPosition = superscript.offset();
 
