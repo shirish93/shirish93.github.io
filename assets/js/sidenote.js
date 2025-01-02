@@ -7,9 +7,6 @@
         $mainContent = $(".main-content"),
         $postTitle = $(".posttitle");
 
-
-        
-        
         
         $(window).on("load", function () {
             if ($footnotes.length < 1) {
@@ -33,7 +30,7 @@
             $("a[href^='#fn']").each(function () {
                 const footnoteId = this.hash.replace("#fn", ""); // Extract ID number
                 if (isSideNoteMode) {
-                    $(this).attr("href", "#sn" + footnoteId); // Point to sidenote
+                    $(this).attr("href", "#"); // Point to sidenote
                 } else {
                     $(this).attr("href", "#fn" + footnoteId); // Point to endnote
                 }
