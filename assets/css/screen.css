@@ -110,6 +110,10 @@ section.recent-posts {
 	margin: 4px 4px;
 }
 
+.sidenote {
+	color: gray;
+}
+
 @media (min-width:576px) {
     .card-columns.listfeaturedtag {
         -webkit-column-count: 2;
