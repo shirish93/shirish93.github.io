@@ -106,6 +106,9 @@ section.recent-posts {
 	padding: 13px;
 }
 
+.footnote {
+	margin: 4px 4px;
+}
 
 @media (min-width:576px) {
     .card-columns.listfeaturedtag {
