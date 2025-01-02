@@ -3,7 +3,7 @@
         const $footnotes = $(".footnotes"),
         sideNoteStartMargin = 10,
         sideNoteMaxWidth = 280,
-        sideNoteMinWidth = 124,
+        sideNoteMinWidth = 100,
         $mainContent = $(".main-content"),
         $postTitle = $(".posttitle");
 
