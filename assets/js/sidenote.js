@@ -7,6 +7,10 @@
         $mainContent = $(".main-content"),
         $postTitle = $(".posttitle");
 
+
+        
+        
+        
         $(window).on("load", function () {
             if ($footnotes.length < 1) {
                 console.log("No footnotes found.");
@@ -22,7 +26,20 @@
             window.addEventListener("hashchange", handleHashChange);
         });
 
-        function isSideNoteMode() {
+
+        function updateFootnoteLinks(isSideNoteMode) {
+            //const isSideNoteMode = $(window).width() > 768; // Example breakpoint
+
+            $("a[href^='#fn']").each(function () {
+                const footnoteId = this.hash.replace("#fn", ""); // Extract ID number
+                if (isSideNoteMode) {
+                    $(this).attr("href", "#fn" + footnoteId); // Point to sidenote
+                } else {
+                    $(this).attr("href", "#fn" + footnoteId); // Point to endnote
+                }
+            });
+        }
+        function isSideNoteModeTrue() {
             const browserWidth = $mainContent.width();
             const startPosition = $postTitle.offset()?.left + $postTitle.outerWidth() + sideNoteStartMargin;
         
@@ -34,21 +51,9 @@
             return availableSpaceForSideNote >= sideNoteMinWidth;
         }
         
-        function updateFootnoteLinks() {
-            //const isSideNoteMode = $(window).width() > 768; // Example breakpoint
-
-            $("a[href^='#fn']").each(function () {
-                const footnoteId = this.hash.replace("#fn", ""); // Extract ID number
-                if (isSideNoteMode()) {
-                    $(this).attr("href", "#sn" + footnoteId); // Point to sidenote
-                } else {
-                    $(this).attr("href", "#fn" + footnoteId); // Point to endnote
-                }
-            });
-        }
-
         function loadSideNotesFromFootnotes() {
-            if (isSideNoteMode()) {
+            let isSideNoteMode = isSideNoteModeTrue();
+            if (isSideNoteMode) {
                 console.log("Sidenote mode enabled.");
                 startPosition = $postTitle.offset()?.left + $postTitle.outerWidth() + sideNoteStartMargin;
                 $(".sidenote").remove(); // Clear existing sidenotes
@@ -58,12 +63,12 @@
                     createSideNote($(this), $footnoteHtml, startPosition);
                 });
                 $footnotes.hide(); // Hide endnotes
-                updateFootnoteLinks(); // Update links to point to sidenotes
+                updateFootnoteLinks(isSideNoteMode); // Update links to point to sidenotes
             } else {
                 console.log("Endnote mode enabled.");
                 $(".sidenote").remove(); // Remove sidenotes
                 $footnotes.show(); // Show endnotes
-                updateFootnoteLinks(); // Update links to point to endnotes
+                updateFootnoteLinks(isSideNoteMode); // Update links to point to endnotes
             }
         }
 
@@ -85,10 +90,11 @@
         }
 
         function createSideNote(superscript, footnoteHtml, startPosition) {
+            console.log()
             let div = $("<div>")
                 .html(footnoteHtml)
                 .addClass("sidenote")
-                .attr("id", `sn${superscript.attr("id").replace("fn", "")}`); 
+                .attr("id", superscript.attr("id").replace("fnref", "sn")); 
 
             const topPosition = superscript.offset();
 
