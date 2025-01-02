@@ -29,7 +29,7 @@
             }
 
             const availableSpaceForSideNote = browserWidth - startPosition;
-            if (availableSpaceForSideNote +200 < sideNoteMinWidth) {
+            if (availableSpaceForSideNote +110 < sideNoteMinWidth) {
                 console.log("Not enough space for sidenotes.");
                 return;
             }
