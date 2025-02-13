@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shirish Pokharel's Fermentland blog
+title: Shirish Pokharel's Adventures in Fermentland
 permalink: /fermentland
 comments: true
 ---
@@ -9,7 +9,7 @@ comments: true
 <div class="col-md-8 pr-5">
 
 <p>
-This page will go to my "Adventures in Fermentland" blog which has already been written, needs to be properly formatted and uploaded. The uploading process takes  a lot longer than I anticipated, and so the website upgrade process has been slower than I hoped. Please be patient.
+This is my "Adventures in Fermentland" blog. As you can see, I've drafted the outlines, but need to expand on the pieces, and properly format them etc. It's taken a lot longer than I anticipated, and so my original timeline has been messed up. Please be patient.
 </p>
 
 <p>
