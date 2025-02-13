@@ -59,7 +59,7 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock, pregenera
 
 collections:
   ideas:
-    output: true
+    output: false
     permalink: /:collection/:title
   failedprojects:
     output: true
