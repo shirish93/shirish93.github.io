@@ -5,8 +5,6 @@ author: shirish
 categories: [ fermentation, hobby ]
 ---
 
-## THIS IS A DRAFT. THE FERMENTATION BLOG IS A WORK IN PROGRESS! READ THIS ONLY IF YOU WISH TO BE DISAPPOINTED BY LACK OF FINNESSE
-
 
 * join homebrewers association, attend the convention
 * red rice yeast

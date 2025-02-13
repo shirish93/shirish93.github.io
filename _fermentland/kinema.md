@@ -5,8 +5,6 @@ author: shirish
 categories: [ fermentation, hobby ]
 ---
 
-## THIS IS A DRAFT. THE FERMENTATION BLOG IS A WORK IN PROGRESS! READ THIS ONLY IF YOU WISH TO BE DISAPPOINTED BY LACK OF FINNESSE
-
 * Fermented soy product of South Asia, Limbu and other tribal groups in Eastern Nepal and north-eastern India. 
 * Basic solid-state fermentation, cooked soybeans provided alkaline conditions and high humidity and left out in the air for several days. 
 * Takes a bit funky smell and flavor, sticky, slimy texturesimilar to that of natto in Japan,similar ferments.
