@@ -24,14 +24,14 @@ Feb 2025 Note: I created a mess a year ago by assuming genAI would be a useful a
 
 {% if page.url == "/ideas" %}
 
+<div>
 </div>
-</div>
-<section class="recent-posts">
-<!--div class="row listrecent">
+<!--section class="recent-posts">
+<div class="row listrecent">
     {% for post in site.ideas %}
             {% include postbox.html %}
     {% endfor %}
-</div-->
-</section>
+</div>
+</section-!>
 
 {% endif %}
