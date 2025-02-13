@@ -5,8 +5,7 @@ author: shirish
 categories: [ fermentation, hobby ]
 ---
 
-## THIS IS A DRAFT. THE FERMENTATION BLOG IS A WORK IN PROGRESS! READ THIS ONLY IF YOU WISH TO BE DISAPPOINTED BY LACK OF FINNESSE
-
+* Why do I do this? How's it help me?
 * why need a philosophy of fermentation?
 * how does a philosophy thus defined shape everyday tasks?
 * what exactly is my philosophy?
