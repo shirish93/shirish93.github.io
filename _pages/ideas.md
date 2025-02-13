@@ -17,6 +17,9 @@ I've put lots of time and effort into thinking through them. Feel free to steal 
 <p>
 Some of the following proposals are on the rougher side to read. I'm cleaning them up as you read this. The posts will also get a nicer look with header images. This is still a work in progress.
 </p>
+<p>
+Feb 2025 Note: I created a mess a year ago by assuming genAI would be a useful assistant in writing these essays and expanding my ideas. I was terribly wrong. Even the worst piece of my writing is better than the trite, boring, repetitive slop that LLM's generate. I'm not linking them here for the moment. This feature WILL be back soon.
+</p>
 
 
 {% if page.url == "/ideas" %}
@@ -24,11 +27,11 @@ Some of the following proposals are on the rougher side to read. I'm cleaning th
 </div>
 </div>
 <section class="recent-posts">
-<div class="row listrecent">
+<!--div class="row listrecent">
     {% for post in site.ideas %}
             {% include postbox.html %}
     {% endfor %}
-</div>
+</div-->
 </section>
 
 {% endif %}

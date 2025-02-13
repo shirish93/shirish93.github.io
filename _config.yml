@@ -67,3 +67,6 @@ collections:
   aboutme:
     output: true
     permalink: /:collection/:title
+  fermentland:
+    output: true
+    permalink: /:collection/:title
