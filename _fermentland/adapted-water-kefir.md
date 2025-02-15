@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My ferments: an adapted water kefir blend"
+title:  "My experiments with training milk kefir grains into acting as water kefir tibicos replacement"
 author: shirish
 categories: [ fermentation, hobby ]
 ---
@@ -9,6 +9,8 @@ In this post I want to share one of my smaller long-running experiments with mil
 #### What did I do? 
 
 I used milk kefir grains to ferment sugar water and fruit juices and tried to see if the result was worth drinking.
+
+I did that because when I started out, I had a lot of milk kefir grains and no water kefir ones. I didn't want to shell out $20 for the new culture. I figured it would be worth the attempt training my existing grains.
 
 **Instructions**: Take a spoonful of milk kefir grains. Dissolve all the grains in two cups of lukewarm water. Gradually dissolve mineral sugar (ideally, but any sugar will work), a spoonful of it. Dissolve additional sugar every couple of days. How much? It depends. Taste the ferment every time, and if it's gotten too sour, add additional sugar. Sourness means the ecosystem has run out of energy source, and has the capacity to process more. Adding too much sugar in one go can mess up the osmotic pressure of the cells and kill them. Alternatively, it can introduce pathogens that end up contaminating the drink. Therefore, a good balance is necessary.
 
