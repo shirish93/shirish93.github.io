@@ -6,17 +6,17 @@ categories: [ innovation, tuktuk, ideas ]
 image: "assets/images/tuktuk.png"
 ---
 
-Kathmandu faces serious challenges with air quality, noise pollution, and reliance on fossil fuels. Public transport systems  contribute significantly to these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. This proposal outlines a detailed plan to encourage and enable their widespread adoption in Kathmandu.
+Kathmandu faces a multitude of pollution-related problems such as poor air quality, noise pollution, and reliance on fossil fuels. Public transport plays a big role in creating these issues. Electric tuk-tuks, already present in limited numbers, offer a promising solution for clean, quiet, and efficient passenger transportation. I outline a plan to encourage and enable their widespread adoption in Kathmandu.
 
 
 **What are Tuk-Tuks?**
 
-Tuk-tuks are iconic three-wheeled vehicles, widely used in South Asia for passenger transportation. While traditionally powered by gasoline engines, electric versions are gaining traction due to their environmental and economic benefits.
+Tuk-tuks are iconic three-wheeled vehicles, they're widely used in South Asia for passenger transportation. While traditionally powered by gasoline engines, electric versions are gaining popularity. They're cheaper, and environmental laws have made them more viable than in the past.
 
-**Benefits of Electric Tuk-Tuks:**
+**Why Electric Tuk-Tuks?**
 
-* **Reduced Emissions:** Replacing fossil-fuel tuk-tuks with electric alternatives will significantly reduce air pollution and greenhouse gas emissions, directly addressing Kathmandu's air quality challenges.
-* **Improved Noise Levels:** Electric motors are quieter than gasoline engines, contributing to a quieter and more pleasant urban environment, mitigating noise pollution concerns.
+* **Reduced Emissions:** Replacing gas-powered public vehicles with electric alternatives will significantly reduce air pollution and greenhouse gas emissions, helping fix Kathmandu's air quality issue.
+* **Improved Noise Levels:** Electric motors are quieter than petrol engines, this will lead to a quieter and more pleasant Kathmandu.
 * **Better Public Transport:** Electric tuk-tuks offer a flexible, affordable, and accessible mode of public transport, satisfying diverse needs and reducing pressure on existing systems, improving overall transportation efficiency.
 * **Economic Benefits:** Increased adoption can create jobs in manufacturing, maintenance, and charging infrastructure, boosting the local economy.
 
