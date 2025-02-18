@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "People: What are they good for anyway?"
+title:  "People: what are they good for anyway?"
 author: shirish
 categories: [ software, people, assets]
 featured: true
@@ -8,14 +8,10 @@ hidden: true
 image: "assets/images/trust.jpg"
 ---
 Your technology is NOT your primary asset. Unless your company is in FAANG or your CEO's world president, other teams are bigger assets. Your people and your networks are your true assets. 
-An AI-driven world will make the 'other things' even more important. It's all about the people in the end.
+An AI-driven world will make the 'other teams' even more important. It's all about the people in the end.
 
 I'm in Kathmandu for the winter. I'm at the home of a friend who's several years younger...the last time I saw him a decade and half ago, he was a short, skinny child. Now he runs 'some company', his sister -- also my friend and former classmate -- tells me. I've waited for him for over two hours, he's been rushing all over town apparently. The sister tells me she barely sees him anymore despite living in the same house. I've overstayed my stay by three hours this point. I shuffle around, ready to leave. Dogs bark downstairs, he's here!
 
-
-He's not the young skinny dude I remember anymore. And apparently quite the businessman. He's the founding CEO of a software company that sells to industrial clients. He's taking calls throughout our conversation. He started the company right after college, turned his college research into a product, he tells me. Three years later, he has four dozen hardware and software engineers working for him. He has saturated the Nepali industrial base, and is making rapid inroads into the Indian market, I'm told. "I'm looking to get into South East Asia, that's where all the new industries are, and they're looking for innovative products to be more efficient," he says to me.
-
-Because he's so busy, our conversation is rapid-fire and intense.
 
 <aside class="pquote">
     <blockquote>
@@ -23,10 +19,19 @@ Because he's so busy, our conversation is rapid-fire and intense.
     </blockquote>
 </aside>
 
+
+He's not the young skinny dude I remember anymore. And apparently quite the businessman. He's the founding CEO of a software company that sells to industrial clients. He's taking calls throughout our conversation. He started the company right after college, turned his college research into a product, he tells me. Three years later, he has four dozen hardware and software engineers working for him. He has saturated the Nepali industrial base, and is making rapid inroads into the Indian market, I'm told. "I'm looking to get into South East Asia, that's where all the new industries are, and they're looking for innovative products to be more efficient," he says to me.
+
+Because he's so busy, our conversation is rapid-fire and intense.
+
 In his niche of industrial software, there's two major vendors, he says. One's a German company, and the other is based in Japan. Both are valued in hundreds of millions of US dollars. He explains what his exact niche is. I tell him he could probably reach a good proportion of his competitors' valuation in a decade. He nods. He gives me a number, a round, chunky annual recurring revenue (ARR) number. And a growth rate quite comfortably in three digits. I meant 'valuation in a decade' as an encouragement. I understand a decade is a conservative estimate, even allowing for slower growth.
 
 Kathmandu isn't a great place to run a small business. Even if you do well -- _specially_ if you do well -- you're in deep trouble. Like spring mushroom, competitors will shoot up within months of your success, with no regard or understanding of total addressable market size. Nine months later, your customers are demanding _you_ pay them. I joke, but competition gets cut-throat and wipes out any profits that might have been re-invested.
-
+<aside class="pquote">
+    <blockquote>
+        <p> The right lesson to take from the IBM fiasco is not about their engineering. It's about their marketing and business-development strategy. The whole business is people business!</p>
+    </blockquote>
+</aside>
 I know friends and family who opened internet cafes in the early-mid 2000's. They saw the prices drop 70% in 3 years. The same thing happened to cheap 99 Rupee stores in early 2010's, and cheap laptop vendors in mid 2010's. Burger restaurants that popped up in late 2010's suffered similar fate. It's bubble tea joints for the mid 2020's. I noted 9 bubble tea places on same 200-feet stretch in Durbar, earlier in December. I counted. If you don't have a moat, you better sell all you can ASAP. Because they're coming for you, and they're coming fast. Take your stash, and jump into the next trend before anyone figures out what's up. That's the lifecycle of retail businesses in Kathmandu.
 
 Software industry is different, but not as much as one might imagine. In 2017, a friend told me there were a handful of software consulting companies who could do decent contract work. She tells me it's now a few dozen. And they can each rustle up a couple dozen senior software engineers should the need arise. They're all competing with each other, gunning for the same customers. They don't have expansive customer networks or business development teams like larger Indian consulting companies do. Either they must spend big bucks to buy leads from American companies and take big swings on making large sales. Or they can take the smaller, less risky local-ish contracts. They don't have the capital or stamina for the former. Thus, the feeding frenzy of small sharks going after small fish.
@@ -35,7 +40,7 @@ With that in mind, I ask my friend how he's protecting his business. He is calm.
 
 <aside class="pquote">
     <blockquote>
-        <p> The right lesson to take from the IBM fiasco is not about their engineering. It's about their marketing and business-development strategy. The whole business is people business!</p>
+        <p> You don't want to have operated dollar stores in Kathmandu in the 2010's. You don't want to be owning exclusive bubble tea place in 2024. And you don't want to be a engineering company that doesn't understand how valuable customer relations, marketing, and business development are in 2025!</p>
     </blockquote>
 </aside>
 
@@ -56,12 +61,6 @@ And that's why people matter so much. Your product team understands your custome
 _But NO,_ an engineer will object, _that's unfair! I've worked so hard on perfecting this masterpiece! People want it! And with genAI and LLM's, software development will be so much quicker. The customers will get even better software! The 'technical' part of the stack will eventually win! Everything else will be updated!_
 
 Uh oh. Not so fast!
-
-<aside class="pquote">
-    <blockquote>
-        <p> You don't want to have operated dollar stores in Kathmandu in the 2010's. You don't want to be owning exclusive bubble tea place in 2024. And you don't want to be a engineering company that doesn't understand how valuable customer relations, marketing, and business development are in 2025!</p>
-    </blockquote>
-</aside>
 
 Yes. Software development is going to get faster. It'll probably get easier. Customer expectations will increase. Software will look more like a commodity. More people will be able to get further, quicker. You sell a subscription service for 4000% profit, three months later there's a dozen ai-assisted competitors targeting only 50% margin for themselves.
 
