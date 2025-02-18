@@ -7,7 +7,8 @@ featured: true
 hidden: true
 image: "assets/images/trust.jpg"
 ---
-Your technology is NOT your primary asset. Unless your company is in popular acronym (or your CEO's world president), everything else is more important. Your people and your networks. And an AI-driven world will make the 'other things' even more important. It's all about the people in the end.
+Your technology is NOT your primary asset. Unless your company is in FAANG or your CEO's world president, other teams are bigger assets. Your people and your networks are your true assets. 
+An AI-driven world will make the 'other things' even more important. It's all about the people in the end.
 
 I'm in Kathmandu for the winter. I'm at the home of a friend who's several years younger...the last time I saw him a decade and half ago, he was a short, skinny child. Now he runs 'some company', his sister -- also my friend and former classmate -- tells me. I've waited for him for over two hours, he's been rushing all over town apparently. The sister tells me she barely sees him anymore despite living in the same house. I've overstayed my stay by three hours this point. I shuffle around, ready to leave. Dogs bark downstairs, he's here!
 
