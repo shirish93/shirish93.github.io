@@ -15,3 +15,13 @@ categories: [ fermentation, hobby ]
 * Is an excellent drink for colder weathers, cloudy dark times, but year around!
 * Some experiments with spices possible too, but need to make sure the base recipe is perfected before moving into more complex situations.
 * Made 5 different batches in Jan - Mar 2025, excited for the results.
+
+
+Chunky Millet Wine, or Tongba. Tongba is made by the Limbu people of Eastern Nepal. It is fermented by mold and amylase enzymes and yeast from the air. First, boil the millet grains. Add the mold starter after cooling the cooked grains and put the mixture in a container that will not have air circulation with the outside and keep it warm for a couple of months. You can start as early as three weeks from fermentation in the summer, and it can last in outside temperatures for up to six months. The longer you let it ferment, the sourer it will get; the shorter it ferments, the sweeter it will be.
+
+What I find quite interesting about tongba, and this culture versus millet wine, is the drinking process. Tongba grains are put in aluminum or wooden mugs. Hot water is added on top, and the drink is drunk with a metal straw with one end kinked in so the grains don't get sucked through the straw. It is drunk throughout the course of the night by adding more hot water to the mug, so you gradually extract alcohol from the grains. As the night goes on, the alcohol content in the grains starts going down. Usually, people will use the same grains for two to three, and sometimes more, refreshes if they don't want to drink too much with the second or third batches of grains.
+
+Tongba, or millet grains, prefers to ferment in warmer temperatures, and it's easier to consume than... You need to make sure the grains are well protected, as bugs and ants are likely to be attracted to the sugar that is converted by the mold from the millet grains. It's an excellent drink for cold weather, cloudy, dark times, and Seattle weather basically, but is enjoyed year-round in Nepal. There are some experiments with spices possible, too, that is, adding additional spices to the tongba drink and letting the spices steep in the hot water. But before I get that advanced, I need to make sure that my base recipe is perfected, um, before moving there. I have made five different batches of tongba between January and March 2025. None of them have completely, properly completed yet, and I'm really excited for the outcome.
+
+
+Link: https://time.com/archive/6646448/mountain-high/#:~:text=Many%20cultures%20make%20singular%20contributions,the%20drink%20known%20as%20tongba.
