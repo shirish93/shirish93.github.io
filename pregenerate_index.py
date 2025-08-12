@@ -1,4 +1,14 @@
 
+# /// script
+# requires-python = ">=3.13.6"
+# dependencies = [
+#   "markdownify>=1.2.0",
+#   "python-frontmatter>=1.1.0",
+#   "requests>=2.32.4",
+#   "lunr>=0.8.0",
+# ]
+# ///
+
 import markdownify, frontmatter, re, html, json, os
 from lunr import lunr
 import requests
@@ -11,7 +21,6 @@ for i, doc in enumerate(page_json):
    url = doc.get("url")
    title = doc.get('title')
    body = doc.get('body')[:150]
-   #print ({"id": id, "url": url, "title": title,"body": body})
    
    with open(f'assets/js/blurbs/{id}.json', 'w') as fd:
       json.dump({"id": id, "url": url, "title": title,"body": body},fd)
@@ -74,62 +83,3 @@ print (len(json.dumps(serialized_idx)))
 
 with open('assets/js/idx.json', 'w') as fd:
    json.dump(serialized_idx,fd)
-# TODO: Write down the index to file here!
-'''
-   
-$.getJSON( "assets/blah/index.json", function( compacted ) {
-   serializedIndex = expand(compacted);
-   let idx = lunr.Index.load(serializedIndex)
-})
-function expand(compact) {
-   const fields = compact["fields"];
-   const fieldVectors = compact["fieldVectors"].map((item) => {
-       const id = item[0];
-       const vectors = item[1];
-       let prev = null;
-       const expanded = vectors.map((v, ii) => {
-           if (ii % 2 === 0) {
-               if (v === null) {
-                   v = prev + 1;
-               }
-               prev = v;
-           }
-           return v;
-       });
-       return [id, expanded];
-   });
-   const invertedIndex = compact["invertedIndex"].map((item, itemIdx) => {
-       const token = item[0];
-       const fieldMap = {"_index": itemIdx};
-       fields.forEach((field, fieldIdx) => {
-           const matches = {};
-           let docRef = null;
-           item[fieldIdx + 1].forEach((v, ii) => {
-               if (ii % 2 === 0) {
-                   docRef = fieldVectors[v][0].slice(`${field}/`.length);
-               } else {
-                   matches[docRef] = v;
-               }
-           });
-           fieldMap[field] = matches;
-       })
-       return [token, fieldMap];
-   });
-   invertedIndex.sort((a, b) => {
-       if (a[0] < b[0]) {
-           return -1;
-       }
-       if (a[0] > b[0]) {
-           return 1;
-       }
-       return 0;
-   });
-   return {
-       "version": compact["version"],
-       "fields": fields,
-       "fieldVectors": fieldVectors,
-       "invertedIndex": invertedIndex,
-       "pipeline": compact["pipeline"],
-   };
-}
-'''
