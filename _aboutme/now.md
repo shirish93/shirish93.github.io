@@ -1,6 +1,6 @@
 ---
 layout: summary
-title:  "What am I up to thismoment?"
+title:  "What am I up to this moment?"
 author: shirish
 categories: [ now ]
 permalink: /now
