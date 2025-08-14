@@ -11,6 +11,7 @@
 
 - content: >
     My first Mac computer is here! With 64 gigs of (video) RAM, I'll be able to run advanced genAI models locally. I've setup Obsidian editor to help me write, and Ollama local application to run the models. Silly thing about Obsidian is, it won't show the file needed to update this page for some reason...
+    Actually, nevermind. Just realized Obsidian can only 'see' markdown files. Still need VSCodium for site editing then. I wish they would change their logo/icon. It gives me 'mold gone wrong' vibe for some reason. And I say that as somebody who loves mold cultures and solid-state fermentation...
   date: July 27, 2025
   location: Seattle, WA
 
