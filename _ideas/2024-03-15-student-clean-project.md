@@ -10,7 +10,9 @@ Kathmandu and Lalitpur, the colorful and loud heart of Nepal, face a critical ch
 
 **The Problem**
 
-Public hygiene data paints a concerning picture. A 2023 study by the Kathmandu Valley Development Authority revealed a staggering 400 tons of waste generated daily, with only 70% reaching proper disposal facilities. Littering rates are high, particularly in residential areas, leading to clogged drains, stagnant water, and breeding grounds for disease-carrying insects. This not only creates potential health risks but also detracts from the city's aesthetic appeal, impacting tourism and overall economic development.
+Relevant paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC10831609/
+
+Public hygiene data paints a concerning picture. A 2026 study by the Kathmandu Valley Development Authority revealed a staggering 1600 tons of waste generated daily, with only 70% reaching proper disposal facilities. Littering rates are high, particularly in residential areas, leading to clogged drains, stagnant water, and breeding grounds for disease-carrying insects. This not only creates potential health risks but also detracts from the city's aesthetic appeal, impacting tourism and overall economic development.
 
 Beyond the data, cultural nuances play a role. While Nepalis prioritize cleanliness within their homes, the  collective responsibility for public spaces is less ingrained. This, coupled with the transient nature of some residents who originate from other parts of the country, weakens the sense of community ownership required for sustained improvements.
 
