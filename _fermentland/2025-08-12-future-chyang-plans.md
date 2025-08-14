@@ -19,6 +19,8 @@ To summarize my plan:
 * **Toasted rice vs regular**: If I toast the rice before steaming, it'll probably make it smokier?
 * **Brewing Stages**: I can extract the brew at the first stage, called *Nee-Gaar* in Nepali, or the second stage, called *chhyang*.
 * **Flavoring Stage**: I can vary the color, texture, and flavor.
+* **Level of backsweetening**: How sweet do I want to get it 'naturally', or by adding additional sugar?
+* **Level of carbonation**: How fizzy do I want it to make? It depends on the level of backsweetening mostly, but I can also pasteurize the drink to disrupt the sugar & ferment relationship...
 
 With these variables, I have at least 16 possibilities before even considering all the potential colors and other factors. I need to explore a lot more of that.
 
