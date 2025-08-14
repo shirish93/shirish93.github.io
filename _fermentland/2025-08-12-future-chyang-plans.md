@@ -17,7 +17,7 @@ So I have three variables that I can play around with in my rice brewing. In the
 To summarize my plan:
 * **Starter Cultures**: Red rice yeast and regular rice yeast.
 * **Toasted rice vs regular**: If I toast the rice before steaming, it'll probably make it smokier?
-* **Brewing Stages**: I can extract the brew at the first stage, called *Nigar* in Nepali, or the second stage, called *chhyang*.
+* **Brewing Stages**: I can extract the brew at the first stage, called *Nee-Gaar* in Nepali, or the second stage, called *chhyang*.
 * **Flavoring Stage**: I can vary the color, texture, and flavor.
 
 With these variables, I have at least 16 possibilities before even considering all the potential colors and other factors. I need to explore a lot more of that.
