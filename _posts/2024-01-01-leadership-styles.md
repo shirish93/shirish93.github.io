@@ -4,7 +4,7 @@ title:  "Understanding what kind of leader you are: a new lens to look at Engine
 author: shirish
 categories: [ engineering, leadership, styles ]
 image: "assets/images/leaderships.png"
-featured: true
+featured: false
 hidden: false
 ---
 Here's my approach to to help engineering leaders understand themselves. It will allow them leverage their skillsets the best.
