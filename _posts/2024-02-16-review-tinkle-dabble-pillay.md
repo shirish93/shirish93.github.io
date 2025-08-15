@@ -11,8 +11,6 @@ rating: 4
 
 Planned "unfocused" activities can enhance your cognitive toolkit. So says Dr Srini Pillay In "Tinker Dabble Doodle Try: The Power of an Unfocused Mind". In the book Dr. Pillay challenges the idea that laser-sharp focus is the key to success.
 
-## Introduction
-
 Dr. Srini Pillay's "Tinker Dabble Doodle Try: The Power of an Unfocused Mind" offers a surprising suggestion how to inculcate problem-solving and innovative thinking skills. Dr. Pillay, a Harvard neuropsychiatrist, challenges the long-held belief that laser-focused concentration is the key to success. Instead, he advocates for deliberately incorporating "unfocused" mental states. By improving at tinkering, dabbling, and doodling, creativity, and problem-solving abilities are improved. So claims the book.
 
 Delivered as an audiobook (the version that I 'read'), the book translates scientific concepts into digestible morsels of knowledge. This comes at the cost of specific points being less accessible compared to printed format. The book targets individuals experiencing "diffuse focus," but it's message aligns with engineers in all situations. That includes those who excel with "narrow focus" and want to expand their cognitive flexibility and 'breakthrough thinking'. Dr. Pillay differentiates between two types of focus: the concentrated "beam" for execution and the expansive "diffuse" focus for generating outside-the-box ideas.
@@ -37,7 +35,7 @@ The book focuses on five core areas that I want to explain just a bit more on.
 
 3. Boosting Problem-Solving: The book explains how "unfocused" activities can improve problem-solving skills. Techniques like "mind-mapping," "brainstorming in unusual settings," and "using metaphors" can help readers break down complex problems. They can identify hidden patterns, and arrive at more elegant solutions.
 
-4. Encouraging Teamwork: The book emphasizes the importance of enabling a culture of "unfocused exploration". Joint brainstorming sessions, hackathons, and even encouraging team members to pursue personal hobbies unrelated to work can lead to cross-pollination of ideas. I've written on the final point [here]]({% post_url 2024-02-17-diverse-hobbies %}) 
+4. Encouraging Teamwork: The book emphasizes the importance of enabling a culture of "unfocused exploration". Joint brainstorming sessions, hackathons, and even encouraging team members to pursue personal hobbies unrelated to work can lead to cross-pollination of ideas. I've written on the final point [here]({% post_url 2024-02-17-diverse-hobbies %}) 
 
 5. Promoting Adaptability: The book's message of embracing "unfocused" activities encourages flexible thinking, openness to new ideas, and the ability to adapt to changing circumstances. They are all useful skills for engineers.
 

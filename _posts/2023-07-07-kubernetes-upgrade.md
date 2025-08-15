@@ -8,7 +8,7 @@ image: "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0upfXtjqscQ5NQf
 
 This is a tale of unmitigated blast radius in networking. I broke two of our developer environments the second day of joining the infrastructure squad. We discovered several potential issues with our workflow and engineering practices. Let me explain how that happened, and what we did to fix it. We'll also discuss what our squad did to avoid repeating the situation. 
 
-### The Impetus for Modernization
+### Why we needed to upgrade
 
 We were upgrading our kubernetes clusters for multiple reasons. Keeping software dependencies up-to-date is important for security mitigation and performance gains.  The Kubernetes cluster, hosted on Amazon Elastic Kubernetes Service (EKS), was  on a version nearing its end-of-life (EOL). This posed considerable security and support concerns, and the associated increased support costs. Our infrastructure was vulnerable and we'd stopped getting critical security patches. Upgrading to newer kubernetes versions would also get us new features we wanted to test out.
 

@@ -14,7 +14,7 @@ The printing press didn't eliminate scribes; it made their roles more important.
 
 Of course, generative models (GAI's) have their follies. They become specially important when deployed for use like customer interaction, for example. These large models are susceptible to the training data biases. They are capable of generating discriminatory or offensive response. Additionally, they are not deterministic, and their internal logic is not explainable. Which is to say, the 'bad situations' can be quite disastrous. And it would be mightily challenging to debug them after the fact.
 
-Such "black box" nature of LLMs makes their decision-making opaque.  This lack of transparency is problematic. It's salient when an LLM generates harmful content or inaccurate predictions.  Advancements in Explainable AI (XAI) are needed to ensure transparency and build trust in these systems. As I write this, it's unclear how far we are, or if we'll even get there.
+Such "black box" nature of LLMs makes their decision-making opaque.  This lack of transparency is problematic. It sucks when an LLM generates harmful content or inaccurate predictions.  Advancements in Explainable AI (XAI) are needed to ensure transparency and build trust in these systems. As I write this, it's unclear how far we are, or if we'll even get there.
 
 Focusing only on the risks leaves us with an incomplete picture though. There are some potential big wins with human-AI collaboration. Research teams have been working towards transparent, accountable, and responsible LLMs. It's unclear if future models will be 'unbiased' and in compliance of existing laws. Some researchers have suggested that to shape the output of LLM's in such a manner is fundamentally impossible.
 

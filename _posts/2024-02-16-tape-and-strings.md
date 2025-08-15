@@ -5,9 +5,8 @@ author: shirish
 categories: [ engineering, architecture, leadership]
 image: "assets/images/jenga.png"
 ---
-The "duct-tape and strings" approach to building software prioritizes functionality and rapid iteration. That comes at the cost of design perfection and technical debt. It raises eyebrows among proponents of careful planning. However, it's a valid approach to real-world pressures and can lead to successful results.
+The "duct-tape and strings" approach to building software prioritizes functionality and rapid iteration. That comes at the cost of design perfection and technical debt. It stresses the heck out of proponents of careful planning. But it's a valid approach to real-world pressures and can lead to successful results.
 
-## The Pragmatism of Imperfection
 Imagine spending days and nights over months, working on the perfect software app. You architected every component and anticipated every future need. Meanwhile, the deadlines pass by and a competitor releases a technically inferior product. It happens to meet the general market needs. Your app's not even released, and you're already playing catch-up. The pursuit of perfect software is admirable, but the reality is different. Software engineers are limited by urgent business needs, limited resources, and a rapidly changing market. A perfectly written application is an intractable ideal these days, and much less of a North Star.
 
 I realized 'just ok' is a viable option a few years ago during a software pilot project I worked on. My squad created the pilot to show the potential of a new technology. It wasn't meant to be a permanent 'real' app. It quickly captured the attention of management. Deliver urgently, came the instruction. The team chose to launch the system in its proof-of-concept form. We knew it wasn't perfect, but it had created immediate value. It was an unusual decision for our generally orthodox company. The project was successfully delivered. After immediately delivering the business-critical functionality, we eventually improved the underlying infrastructure.
@@ -65,7 +64,6 @@ Not all systems are ideal candidates for the "duct-tape and strings" approach. T
 
 Importantly, we should also consider that speed to market isn't a guaranteed winner. Product finish and customer preferences play a huge part in the calculus. Apple wasn't the first to enter the mp3 player market with its iPod devices. Yet, in a short few years, it drove Microsoft's Zune -- the first mover -- out of business. Then it repeated the move with the iPhone, displacing 'serious' phone makers in short order. Tesla wasn't the first electric car in America either. Again, it quickly became the first successful American mass-market EV manufacturer.
 
-## Conclusion
 Leonardo's (of Vinci, the famous one) first flying machine was an ungainly contraption of wood and canvas. It boinged and jumped before crashing spectacularly. Was it a failure? Definitely. In terms of achieving sustained flight. But within that "duct-tape and strings" contraption lay the seeds of revolution. It may not have led to immediate invention of human flight, but it set us on the path. It inspired the right people. Which would not have helped Leonardo's patrons. But you can accelerate the process within your team.
 
 The imperfect "duct-tape and strings" system is not an architectural marvel. It will creak, groan, and occasionally require over-night troubleshooting. But it creates path for rapid response, quick adaptation, and immediate market validation. Messy prototypes the rough drafts for software. They are imperfect first steps that set the path for better long-term products.

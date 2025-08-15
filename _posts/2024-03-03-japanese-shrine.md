@@ -11,13 +11,13 @@ Don't entomb your applications. Make them flexible, be ready to make gradual cha
 
 **Introduction**
 
-The new software engineer wanted to start our project from scratch. He had joined our squad two weeks previously. It's all so old and messed up, he said. It'd be quicker to do it from scratch. It sounded tempting, but the memories of past rewrites and projects lingered. They promised reset but delivered chaos.There was a better alternative. 
+The new software engineer wanted to start our project from scratch. He had joined our squad two weeks previously. It's all so old and messed up, he said. It'd be quicker to do it from scratch. It sounded tempting, but the memories of past rewrites and projects lingered. They promised reset but delivered chaos. There was a better alternative. 
 
 The idea of a complete rewrite is an alluring siren song. Tempting but ultimately counter-productive. Legacy code is vilified, considered inefficient and outdated. It's seen as a burden begging to be replaced. But is tossing everything aside ever the answer? Almost never.
 
 **The Siren Song of the Rewrite**
 
-Let me propose a different approach: the eventual, or gradual, rewrite. Imagine your application to be the Ise Jingu shrine in Japan. It is carefully, cyclically rebuilt every twenty years. We too can gradually modernize our software, piece by piece. We don't have to give in to the disruptive temptation of starting from scratch. We will explore the "gradual rewrite" philosophy in this essay. We argue that it offers a sustainable and cost-effective solution for managing software lifecycle.
+Let me propose a different approach: the eventual, or gradual, rewrite. Imagine your application to be the Ise Jingu shrine in Japan. It is carefully, cyclically rebuilt every twenty years. We too can gradually modernize our software, piece by piece. We don't have to give in to the disruptive temptation of starting from scratch. We will explore the "gradual rewrite" philosophy in this essay. I argue that it offers a sustainable and cost-effective solution for managing software lifecycle.
 
 Maintaining existing systems, specially old and creaky ones, is lame. Without understanding the business or engineering decisions behind technical choices, it's hard to appreciate an application's choices. It's easy to dismiss choices made by others at an unknown past as inefficient and incorrect. They made during the dark ages, one can argue. An era when efficiency, ease of development or testing were unaccounted for. Armed with an 'enlightened' perspective of hindsight, teams convince themselves that their solution is future-proof and perfect. Once such conversations begin, interest in maintaining and improving old code goes away. The legacy system is treatedmuch like a leper colony. A clean start is the only viable option considered, uninfected by the diseases of the yore.
 
