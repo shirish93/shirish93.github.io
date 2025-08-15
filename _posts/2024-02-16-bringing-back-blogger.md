@@ -15,7 +15,7 @@ I love Blogger. I have used it since 2007, writing over 7000 posts and 2.4+ Mill
 
 Here I present high-level ideas to revamp the product. I will go into specifics in future posts. I have expanded this post to about 25 pages in an Amazon Kindle Scribe document that I might potentially digitize. Until then, here you go:
 
-## The potential of a Premium Blogger
+## Make premium customers pay money for it!
 
 Blogger should look into a subscription-based premium version.
 
@@ -30,9 +30,9 @@ __Better editing tools__: It's surprising that basic features like word count, a
 __Writing tutor based on past writing__: Gemini (Alphabet's AI product) can act as personalized writing tutor for users. By analyzing a user's writing history, the AI can identify recurring errors, overused phrases, and suggest alternative wordings or sentences. Such feedback would help creators improve their writing and refine their craft. The AI tutor could also link to relevant past blog posts within a user's content (on demand). That would improve internal linking and help readers discover more relevant material in the website.
 
 
-## What would be the strategic gains for Google from the New Blogger?
+## Why the hell would Google care for Blogger?
 
-The benefits of a revitalized Blogger extend beyond generating additional revenue for Google. By adding  prioritizing user needs, Google can achieve several objectives:
+The benefits of a revitalized Blogger extend beyond generating additional revenue for Google. By  prioritizing user needs, Google can achieve several objectives:
 
 __Distinguishing "clean data" from "AI-assisted data"__: As users interact with the AI editing tools, Google can gain understanding of the editing process. By observing how the AI suggestions are accepted, modified, or rejected, the company can develop a clearer understanding of how humans and AI interact with language. This knowledge can be important for differentiating between human-generated and AI-assisted content, a growing concern.
 
@@ -40,7 +40,7 @@ __Building user trust__: Investing in the development and improvement of Blogger
 
 ## Why the hell is Google Blogger in a big funky rut?
 
-Several key factors have hindered Blogger's growth and contributed to its current state:
+Several factors have hindered Blogger's growth and contributed to its current state:
 
 __Over-reliance on ad revenue__: Google's primary focus on ad-based income has overshadowed  alternative monetization models. This over-reliance has limited investment in product development and innovation specifically for Blogger. It has hindered its ability to compete with blogging tools that offer premium features and subscription options. See: Substack!
 

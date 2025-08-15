@@ -19,8 +19,6 @@ CDK's statelessness brings another class of challenges. Unlike tools like Terraf
 
 We have also started doubting Amazon's commitment to CDK. Some AWS teams have used Terraform in code examples in their own repos. If the AWS teams can't be bothered to put out examples in their group's infrastructure language, should we trust it? We fear CDK doesn't have internal support and satisfaction anymore. We want to avoid a future where its development and support diminishes or even ceases altogether.
 
-### Evaluating Alternatives to AWS CDK
-
 We have explored multiple options to replace CDK. Pulumi is an interesting option. Unfortunately, its pricing structure doesn't align with our needs. Widespread adoption is a basic metric we use to judge infrastructure management tools. Tools with more users generally have better documentation, wider community support, and easier access to support engineers. Terraform has emerged as a most serious contender to CDK based on those factors. Most infrastructure teams seem to be either on CDK, or on Terraform.
 
 Before committing to a potential shift from CDK to Terraform, our team will evaluate several factors. Figuring out what Terraform's learning curve is like, is important. Onboarding developers new to Terraform will require training and familiarization. We're also figuring out how to do a gradual rollout with Terraform. The idea is to start new projects on Terraform, and migrate existing stacks incrementally. It will let us do a controlled transition with minimal disruptions.

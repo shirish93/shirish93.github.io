@@ -9,8 +9,6 @@ hidden: false
 ---
 Explainable AI, optical AI, analog AI, and meta-learning. I predict the culmination of optimizing massive generative models will result generative AI being turned into a commodity, and these four areas will be the next frontiers of innovation in machine learning.
 
-## Introduction
-
 Machine learning and Artificial Intelligence (AI)  --  used interchangeably[^1] -- have undeniably changed the world. From revolutionizing healthcare diagnostics to powering supervised-driving cars, AI is a part of our lives. But even as such applications proliferate, an even more advanced future awaits us. I believe it will be driven by advancements in these areas: Optical AI, Analog Computing, Meta-Learning, and Explainable AI. Each of these fields holds great potential in pushing the boundaries of what's possible and redefining the impact -- and meaning -- of what artificial intelligence even means.
 
 [^1]: There is a long and contentious argument among academics about the meaning, and the differences between the meanings of the words. We'll skip all of that for the purpose of this essay.

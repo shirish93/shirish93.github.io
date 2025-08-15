@@ -4,7 +4,7 @@ title:  "Understanding what kind of leader you are: a new lens to look at Engine
 author: shirish
 categories: [ engineering, leadership, styles ]
 image: "assets/images/leaderships.png"
-featured: false
+featured: true
 hidden: false
 ---
 Here's my approach to to help engineering leaders understand themselves. It will allow them leverage their skillsets the best.
@@ -98,12 +98,12 @@ If you're not a leader, you can still benefit from my framework. The idea is to 
     * Building rapport with personal leaders: Openly discuss your individual needs and career aspirations for better guidance and support.
 
 * **Better career growth:** Recognizing different leadership styles allows you to choose mentors and role models who align with your own career goals:
-    * Seeking technical mentorship: If you aspire towards technical expertise, find leaders who excel in that dimension.
+    * Seeking technical mentorship: If you aspire towards technical expertise, find leaders who excel technically.
     * Finding inspirational guidance: Choose role models who motivate and inspire you to achieve your personal best.
     * Learning from diverse leaders: Expose yourself to different leadership styles to understand and broaden your own skillset.
 
 * **Personal growth:** Understanding leadership styles helps you become a more self-aware and proactive team member:
-    * Identifying your own leadership potential: Reflect on your strengths and explore how you can contribute to the team in diverse ways.
+    * Identifying your own leadership potential: Understand your strengths and explore how you can contribute to the team in different ways.
     * Taking initiative and ownership: Proactively solve problems and contribute positively based on your understanding of the leadership needs.
     * Building stronger teams: Recognizing different styles helps you bridge communication gaps and encourage joint effort within the team.
 

@@ -10,8 +10,6 @@ rating: 4.5
 ---
 Author David Epstein argues that individuals who embrace diverse experiences and develop a broader range of skills outperform specialists in complex and unpredictable environments. The conclusion flies in the face of the conventional wisdom that values early specialization and deliberate practice in a single domain. Epstein's central thesis in his book "Range" is bold and potentially disruptive to our ingrained beliefs about success. 
 
-## Introduction
-
 David Epstein's "Range" caught my attention because it tackles a belief long-held in sports, arts and high-performance industries. Challenging the conventional wisdom of early specialization, Epstein argues that generalists, not specialists, are primed to excel in complex and unpredictable fields. I identified with the message, building and working in successful teams requires more than just deep technical expertise. We need leaders who can think broadly, draw from diverse experiences, and deal with uncertainty with agility. The book solidified my understanding that the problem of data coordination and clear communication is a human problem that'll get bigger in the future.
 
 In this review, I'll explore how "Range" has impacted my understanding of leadership. We'll thread through Epstein's arguments, and his supporting evidence. We'll assess whether his thesis holds water for Software Engineers.
