@@ -5,7 +5,7 @@ author: shirish
 categories: [ engineering, leadership, styles ]
 image: "assets/images/leaderships.png"
 featured: true
-hidden: true
+hidden: false
 ---
 Here's my approach to to help engineering leaders understand themselves. It will allow them leverage their skillsets the best.
 
