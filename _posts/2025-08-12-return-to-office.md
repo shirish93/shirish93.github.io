@@ -14,7 +14,7 @@ This is a hot take. As much as grumpy engineers are loathe to admit it, physical
 
  My friend -- let's call him Ben -- and I are getting Ginger Beer at a nearby Capitol Hill bar[^1]. It's his employer, you've heard of them, that's making him unhappy. He is a senior engineer at  the BigTechCo here in Seattle. They recently implemented a stricter RTO (Return to Office) policy. All our competitors are doing it, they told him, our way or the highway. It's not even the commute, he admits. The commuter buses are fine, they have wifi and he can focus. "Not everybody can!" he says. It's the people.
 
-[^1:]: Listening to conversations in cafes and bars in Seattle and San Francisco is a great way to gauge the vibe in the tech industry. Apparently Facebook's told their employees to stop wearing company merch in public, so that company information doesn't leak willy-nilly.
+[^1]: Listening to conversations in cafes and bars in Seattle and San Francisco is a great way to gauge the vibe in the tech industry. Apparently Facebook's told their employees to stop wearing company merch in public, so that company information doesn't leak willy-nilly.
 
 More than half of Ben's team works out of the area. He's going to be seeing them a lot more often. They're busy with chitchat and small talk all the time, he grumbles. "I just want a quiet place to focus on heads-down work! Why do you want to put me in a place where I'm more distracted than a cafe!?" he asks. I nod. I take a long breath as if to say something. I stop on my tracks. I know better than to get my hot take out when my friend just wants to unload.
 
