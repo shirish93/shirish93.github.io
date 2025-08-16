@@ -45,7 +45,7 @@ When you have a good point and are making it succinctly, your listeners won't tr
 <aside class="pquote">
     <blockquote>
         <p> The real problem is the tussle between the editor self and the writer self. </p>
-	    <p> A sharp editor self won't let the message get out. But an over-empowered writer-self will undermine himself. There's a balance, and the editor self must have his say in the end.</p
+	    <p> A sharp editor self won't let the message get out. But an over-empowered writer-self will undermine himself. There's a balance, and the editor self must have his say in the end.</p>
     </blockquote>
 </aside>
 
