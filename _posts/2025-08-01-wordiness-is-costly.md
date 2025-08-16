@@ -32,6 +32,13 @@ Wordiness has many downsides. The first one is, your readers / listeners will st
 
 This is the big one for me: long rambles can make people suspicious. My understanding used to be, it was important to give 'additional information'. Surely they want to understand all the subtleties and complexities? No! A ramble about subtleties, complexities, exceptions and unwarranted explanations makes people suspicious. The reader / listener assumes  that you've distilled your message, that everything is relevant.
 
+
+<aside class="pquote">
+    <blockquote>
+        <p>It's all for nought. Keeping messages pithy is an art. Summarizing the complexities and nuances is the point of communication.</p>
+         <p>If your audience wanted to know all the details, they'd do the work. Your work as a communicator is to summarize. You distill the essence as a good writer-editor.</p>
+    </blockquote>
+</aside>
 Imagine, the listener. You've brought up your sixth point / sub-point. It's otherwise unwarranted, but you want to 'add color'.  They heard these points the latest. They imagine it just as important as your earlier points. You have successfully distracted them from you original point with something irrelevant. Their mind start to whirr. You keep mentioning "only 0.025% change of failure". But you wouldn't bring it up if it wasn't important! Surely you're hiding something! They ask questions and raise concerns, triggered by the extraneous points. They might otherwise have bought in. Now you're closer to losing them. You've divided their attention against yourself.
 
 <img src="../assets/images/thumbnails/talk1.webp" width="100%" Title="A hand-drawn image of a talktative dude." Align="RIGHT" />
