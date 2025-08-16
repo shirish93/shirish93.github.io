@@ -20,6 +20,14 @@ My mentor recently gave me the tip. Slow down. Give people time to chew on your 
 
 Making messages long and repeating yourself does you no good. It works only if you're writing a business book, and need to stretch out 7 pages into 300. It’s taken me 30 years of my life to understand it. 
 
+<aside class="pquote">
+    <blockquote>
+        <p> It's hard work to not go off-the-rails. </p>
+        <p>People should understand the nuances of the matter! There's so much additional context that'll help explain this better! Maybe if I try to explain the same concept in three different ways, it'll convince more people!</p>
+        <p>It's all for nought. Keeping messages pithy is an art. Summarizing the complexities and nuances is the point of communication. If your audience wanted to know all the details, they'd do the work. Your work as a communicator is to summarize. You distill the essence as a good writer-editor.</p>
+    </blockquote>
+</aside>
+
 Wordiness has many downsides. The first one is, your readers / listeners will stop following you. They will zone you out. Their senses will feel assaulted by the barrage of words. Being miserly with words is beneficial, it helps get the point across better.
 
 This is the big one for me: long rambles can make people suspicious. My understanding used to be, it was important to give 'additional information'. Surely they want to understand all the subtleties and complexities? No! A ramble about subtleties, complexities, exceptions and unwarranted explanations makes people suspicious. The reader / listener assumes  that you've distilled your message, that everything is relevant.
@@ -33,6 +41,13 @@ Wordiness undermines and distracts from the main point of your message. That's t
 The third drawback of 'comprehensive messaging' (wordiness!) is that it undermines your credibility. It presents you as a known wanderer. People tend to tune out those who go on and on. There's only so much mental attention to go around! They gotta preserve it for when you get to your point..
 
 When you have a good point and are making it succinctly, your listeners won't trust a known rambler. They will wait for the incoming wave of additional blather. The value of your argument  will be 'averaged out' in anticipation of the incoming nonsense. You'll have your sharpened points automatically dulled out, because your audience expects so little of you. Not good!
+
+<aside class="pquote">
+    <blockquote>
+        <p> The real problem is the tussle between the editor self and the writer self. </p>
+	    <p> A sharp editor self won't let the message get out. But an over-empowered writer-self will undermine himself. There's a balance, and the editor self must have his say in the end.</p
+    </blockquote>
+</aside>
 
 Ugh. Why did it take so long for me to figure this out! Why did nobody tell me this!?
 
