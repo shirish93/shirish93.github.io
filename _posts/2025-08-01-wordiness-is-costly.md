@@ -7,7 +7,7 @@ categories:
   - writing
 featured: false
 hidden: false
-image: assets/images/talk_to_me.jpeg
+image: assets/images/talk_to_me.jpg
 ---
 
 Wordiness is costly. It's important to keep it short and to the point. Ask me how I know. I'm a rambler in recovery.
