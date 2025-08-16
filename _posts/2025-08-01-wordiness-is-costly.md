@@ -24,7 +24,6 @@ Making messages long and repeating yourself does you no good. It works only if y
     <blockquote>
         <p> It's hard work to not go off-the-rails. </p>
         <p>People should understand the nuances of the matter! There's so much additional context that'll help explain this better! Maybe if I try to explain the same concept in three different ways, it'll convince more people!</p>
-        <p>It's all for nought. Keeping messages pithy is an art. Summarizing the complexities and nuances is the point of communication. If your audience wanted to know all the details, they'd do the work. Your work as a communicator is to summarize. You distill the essence as a good writer-editor.</p>
     </blockquote>
 </aside>
 
