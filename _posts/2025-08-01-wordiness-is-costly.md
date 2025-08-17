@@ -40,8 +40,7 @@ This is the big one for me: long rambles can make people suspicious. My understa
 </aside>
 Imagine, the listener. You've brought up your sixth point / sub-point. It's otherwise unwarranted, but you want to 'add color'.  They heard these points the latest. They imagine it just as important as your earlier points. You have successfully distracted them from you original point with something irrelevant. Their mind start to whirr. You keep mentioning "only 0.025% change of failure". But you wouldn't bring it up if it wasn't important! Surely you're hiding something! They ask questions and raise concerns, triggered by the extraneous points. They might otherwise have bought in. Now you're closer to losing them. You've divided their attention against yourself.
 
-<img src="../assets/images/thumbnails/talk1.webp" width="40%" Title="A hand-drawn image of a talktative dude." style="max-width: 40%"
-```Align="RIGHT" />
+<img src="../assets/images/thumbnails/talk1.webp" width="40%" Title="A hand-drawn image of a talktative dude." style="max-width: 40%" Align="RIGHT" />
 
 Wordiness undermines and distracts from the main point of your message. That's the second downside. Why bother firing a barrage of semi-relevant, possibly unimportant information at your readers? It will only confuse, and undermine the persuasiveness of your point.
 
