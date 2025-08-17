@@ -5,7 +5,7 @@ author: shirish
 categories: [ software, people, assets]
 featured: true
 hidden: true
-image: "assets/images/trust.jpg"
+image: "assets/images/people_market.jpg"
 ---
 Your technology is NOT your primary asset. Unless your company is in FAANG or your CEO's world president, other teams are bigger assets. Your people and your networks are your true assets. 
 An AI-driven world will make the 'other teams' even more important. It's all about the people in the end.
