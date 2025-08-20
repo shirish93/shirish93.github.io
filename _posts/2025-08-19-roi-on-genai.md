@@ -9,7 +9,10 @@ categories:
 featured: true
 hidden: true
 image: assets/images/genai-roi.jpg
+image_description: You must be watchful of your GenAI expenses. Image lovingly illustrated by me on Kindle Scribe.
 ---
+What's the payback time for your fancy GenAI project? Will the rate of return outdo the stock market? As GenAI becomes less magical fairydust, and more hands-on work, it's time you looked at the ROI on your GenAI initiatives.
+
 A friend in Seattle started working on a b2b application two years ago. The idea was decent, and he had done fair bit of market research. They released the beta version last year. Sales was slow, but it was picking up. They went out soliciting for feedback, to expand their market reach. Somebody said they should add AI.
 
 My friend spent a year adding a genAI-powered chatbot. It was fine, a small veneer of custom prompt over chatGPT chat. Turns out nobody actually wanted it. It was meant as a suggestion in anticipation of customer requests. The small cadre of customers wished for a way to remove the chatbox entirely. He doesn't have much to show for the year of time and money he invested in the feature. 
@@ -45,7 +48,7 @@ I haven't met a single person here in Seattle whose non-Ai company has had a pos
          style="max-width: 100%; display: block; border: 1px solid #ddd;">
     <figcaption style="text-align: center; font-size: 0.9em; margin-top: 5px; 
                       border: 1px solid #ddd; padding: 8px;">
-        AI claims and infrastructure are like this house. Held on stilts and ready to collapse at a moment's notice.
+        AI claims and infrastructure are like this house. Held on stilts and ready to collapse at a moment's notice. Image lovingly illustrated by me on Kindle Scribe.
     </figcaption>
 </figure>
 {% endraw %}
