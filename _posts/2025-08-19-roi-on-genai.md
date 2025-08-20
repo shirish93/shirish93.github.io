@@ -37,6 +37,7 @@ After wading through hundreds of such articles I have identified two classes of 
 
 I haven't met a single person here in Seattle whose non-Ai company has had a positive RoI (return on Investment) with GenAI product integration[^4]. I have asked around. I genuinely, really want to know where the gains will come from. I'm open -- no, I'm eager -- to find a single counter-example. I find it likely that besides in very few industries with low-hanging fruits that can leverage genAI/LLM's to improve their products, the juice is not there. No positive RoI, no significant expense reduction, no serious revenue increase.
 
+{% raw %}
 <figure style="float: left; width: 50%; margin-right: 20px; margin-bottom: 20px;">
     <img src="../assets/images/thumbnails/falling-house.webp" 
          width="100%" 
@@ -47,6 +48,8 @@ I haven't met a single person here in Seattle whose non-Ai company has had a pos
         AI claims and infrastructure are like this house. Held on stilts and ready to collapse at a moment's notice.
     </figcaption>
 </figure>
+{% endraw %}
+
 
 We've mistaken the forest for the trees. Executives have tricked themselves by misunderstanding the jagged frontier of generative AI. Ethan Mollick writes about it [here](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged) . Generative AI's capabilities are very 'jagged' -- the models are _quite_ good at certain tasks, and very poor at others. The distinction is difficult to understand clearly. However, the genAi salespeople and the media hype-sters have sold us on the furthest edge of the frontier. They've conveniently 'forgotten' to let on that the jagged frontier goes allll the way back too. They don't tell their customers that most of their tasks lie in the less-exciting backwaters. For those, generative Ai models are no good. When I say 'no good', I don't mean they'll never be able to accomplish a given task. What I mean is, they're not at all worth the investment. It doesn't make sense to have each internal documentation search call cost $10 per API call. I'm not making the number up, that is the order of what a system like that can cost with initial development expenses and TCO. And that's one of the simpler, more successful use cases of LLM's and genAI.
 
