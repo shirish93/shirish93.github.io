@@ -65,7 +65,7 @@ If you're looking to go on a Gen AI journey integrating random LLM-based solutio
 
 AI Mass delusion Event: https://www.theatlantic.com/technology/archive/2025/08/ai-mass-delusion-event/683909/
 
-[^2]: I disagree with Anil's opinion on Return to Office policy, something he compares AI mania to, though. See this [piece]({% post_url 2025-08-12-return-to-office.html %}) on why I think RTO policies actually make sense.
+[^2]: I disagree with Anil's opinion on Return to Office policy, something he compares AI mania to, though. See this [piece]({% post_url 2025-08-12-return-to-office %}) on why I think RTO policies actually make sense.
 
 [^3]: I have a slightly different interpretation. I believe large language models and generative models are optimized (unintentionally) for demoing purposes, and selling to executives. It's a side-effect that they happen to work as well as they do for other tasks. The current AI interest is driven by hundreds of billions spent in optimizing for 'executive agreeableness'.
 
