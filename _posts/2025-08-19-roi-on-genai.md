@@ -35,7 +35,7 @@ After wading through hundreds of such articles I have identified two classes of 
     </blockquote>
 </aside>
 
-I haven't met a single person here in Seattle whose non-Ai company has had a positive RoI (return on Investment) with GenAI product integration[^4]. I have asked around. I genuinely, really want to know where the gains will come from. I'm open -- no, I'm eager -- to find a single counter-example. I find it likely that besides in very few industries with low-hanging fruits that can leverage genAI/LLM's to improve their products, the juice is not there. No positive RoI, no significant expense reduction, no serious revenue increase.
+I haven't met a single person here in Seattle whose non-Ai company has had a positive RoI (return on Investment) with GenAI product integration[^1]. I have asked around. I genuinely, really want to know where the gains will come from. I'm open -- no, I'm eager -- to find a single counter-example. I find it likely that besides in very few industries with low-hanging fruits that can leverage genAI/LLM's to improve their products, the juice is not there. No positive RoI, no significant expense reduction, no serious revenue increase.
 
 {% raw %}
 <figure style="float: left; width: 50%; margin-right: 20px; margin-bottom: 20px;">
@@ -72,4 +72,4 @@ Also READ: [AI Mass Delusion Event](https://www.theatlantic.com/technology/archi
 
 [^3]: I have a slightly different interpretation from Anil's on why has captured such a large mindshare. I believe large language models and generative models are optimized (incidentally) for demoing purposes, and selling to executives. It's a side-effect that they happen to work as well as they do for other tasks. The current AI interest is driven by hundreds of billions spent in optimizing for 'executive agreeableness'.
 
-[^4]: I have talked to senior folks at MSFT and AMZN. I have talked to their customers. I have talked to hot startups. Those AI features aren't the big money-makers the AI vendors want you to believe they are. If you disagree, please let me know, I'll add an exception here!
+[^1]: I have talked to senior folks at MSFT and AMZN. I have talked to their customers. I have talked to hot startups. Those AI features aren't the big money-makers the AI vendors want you to believe they are. If you disagree, please let me know, I'll add an exception here!
