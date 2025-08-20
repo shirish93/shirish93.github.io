@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Title goes here"
+title: Title goes here
 author: shirish
-categories: [ engineering, mentorship ]
-featured: true
+categories:
+  - engineering
+featured: false
 hidden: true
-image: assets/images/example.jpg
+image: assets/images/cfn.jpg
 ---
 
 <aside class="pquote">
