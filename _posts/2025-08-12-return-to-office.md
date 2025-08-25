@@ -10,6 +10,7 @@ hidden: true
 image: assets/images/daily-commute-grey.png
 image_description: Surely, if the commute involves paragliding, they'll make alternative arrangements. Illustration is mine, done on Kindle scribe.
 ---
+
 This is a hot take. As much as grumpy engineers are loathe to admit it, physical proximity matters. Companies haven't fully thought through their RTO implementations, and that's hurting both sides of the argument.
 
  My friend -- let's call him Ben -- and I are getting Ginger Beer at a nearby Capitol Hill bar[^1]. It's his employer, you've heard of them, that's making him unhappy. He is a senior engineer at  the BigTechCo here in Seattle. They recently implemented a stricter RTO (Return to Office) policy. All our competitors are doing it, they told him, our way or the highway. It's not even the commute, he admits. The commuter buses are fine, they have wifi and he can focus. "Not everybody can!" he says. It's the people.

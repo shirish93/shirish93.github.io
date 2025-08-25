@@ -39,7 +39,7 @@ The book focuses on five core areas that I want to explain just a bit more on.
 
 3. Boosting Problem-Solving: The book explains how "unfocused" activities can improve problem-solving skills. Techniques like "mind-mapping," "brainstorming in unusual settings," and "using metaphors" can help readers break down complex problems. They can identify hidden patterns, and arrive at more elegant solutions.
 
-4. Encouraging Teamwork: The book emphasizes the importance of enabling a culture of "unfocused exploration". Joint brainstorming sessions, hackathons, and even encouraging team members to pursue personal hobbies unrelated to work can lead to cross-pollination of ideas. I've written on the final point [here]({% post_url 2024-02-17-diverse-hobbies %}) 
+4. Encouraging Teamwork: The book emphasizes the importance of enabling a culture of "unfocused exploration". Joint brainstorming sessions, hackathons, and even encouraging team members to pursue personal hobbies unrelated to work can lead to cross-pollination of ideas. I've written on the final point [here]({% post_url 2024-03-04-diverse-hobbies %}) 
 
 5. Promoting Adaptability: The book's message of embracing "unfocused" activities encourages flexible thinking, openness to new ideas, and the ability to adapt to changing circumstances. They are all useful skills for engineers.
 
