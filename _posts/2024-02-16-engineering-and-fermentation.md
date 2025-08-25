@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "How my Fermentation Hobby Helps Me as a Software Engineer"
+title: How my Fermentation Hobby Helps Me as a Software Engineer
 author: shirish
-categories: [ engineering, fermentation, hobbies]
+categories:
+  - engineering
+  - fermentation
+  - hobbies
 featured: false
 hidden: false
-image: "assets/images/kimchi.jpg"
+image: assets/images/kimchi.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 
 For a software engineer, technical expertise is of course of the greatest importance. However, how they approach solving problems can significantly shape how they get their everyday tasks accomplished too. Through a hobby of mine I've discovered an unexpected wellspring of professional growth. Fermentation. This seemingly random hobby has become a secret weapon, helping me hone skills relevant to my engineering career.

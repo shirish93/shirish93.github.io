@@ -1,12 +1,16 @@
 ---
 layout: post
-title:  "Srini Pillay's Tinker Dabble Try: The Power of an Unfocused Mind, a book review"
+title: "Srini Pillay's Tinker Dabble Try: The Power of an Unfocused Mind, a book review"
 author: shirish
-categories: [ creativity, book-review, leadership]
+categories:
+  - creativity
+  - book-review
+  - leadership
 featured: false
 hidden: false
-image: "assets/images/tinker-pillay.jpg"
+image: assets/images/tinker-pillay.jpg
 rating: 4
+image_description: Image from the publisher page. Human-created.
 ---
 
 Planned "unfocused" activities can enhance your cognitive toolkit. So says Dr Srini Pillay In "Tinker Dabble Doodle Try: The Power of an Unfocused Mind". In the book Dr. Pillay challenges the idea that laser-sharp focus is the key to success.

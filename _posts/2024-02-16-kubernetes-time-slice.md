@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "The story of what it took to setup NVIDIA GPU drivers and time-slicing in our GPU EKS cluster"
+title: The story of what it took to setup NVIDIA GPU drivers and time-slicing in our GPU EKS cluster
 author: shirish
-categories: [ infrastructure, data-science, kubernetes]
+categories:
+  - infrastructure
+  - data-science
+  - kubernetes
 featured: false
 hidden: false
-image: "assets/images/gpu.jpg"
+image: assets/images/gpu.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 
 I spent six months working on a work project that I thought would take two weeks. This essay narrates the adventure in implementing GPU time slicing on our EKS kubernetes cluster. It began as a seemingly straightforward task – installing the gpu-operator. The work morphed into a long-lasting exploration that uncovered bugs, helped us improve internal processes, and eventually led to infrastructure upgrade.

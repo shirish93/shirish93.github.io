@@ -1,12 +1,15 @@
 ---
 layout: post
-title:  "Book review of David Epstein’s Range: Why Generalists Triumph in a Specialized World"
+title: "Book review of David Epstein’s Range: Why Generalists Triumph in a Specialized World"
 author: shirish
-categories: [ book-review, leadership]
+categories:
+  - book-review
+  - leadership
 featured: false
-image: "assets/images/range.jpg"
+image: assets/images/range.jpg
 hidden: false
 rating: 4.5
+image_description: Image from the PR of the book. Human created.
 ---
 Author David Epstein argues that individuals who embrace diverse experiences and develop a broader range of skills outperform specialists in complex and unpredictable environments. The conclusion flies in the face of the conventional wisdom that values early specialization and deliberate practice in a single domain. Epstein's central thesis in his book "Range" is bold and potentially disruptive to our ingrained beliefs about success. 
 

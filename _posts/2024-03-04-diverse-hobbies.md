@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Diverse interests help us understand the world better"
+title: Diverse interests help us understand the world better
 author: shirish
-categories: [ engineering, software, hobbies ]
-image: "assets/images/kombucha-hand.png"
+categories:
+  - engineering
+  - software
+  - hobbies
+image: assets/images/kombucha-hand.png
+image_description: The art of Kombucha brewing. Image lovingly handcrafted by me on my Kindle Scribe.
 ---
 
 Having a diverse set of interests allows you to look at the world in different ways. Pick up a weird hobby, or a new craft. If nothing else, it'll help you do your job better.

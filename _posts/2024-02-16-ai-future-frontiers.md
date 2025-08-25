@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "What's next for AI? My predictions for the next 10 years"
+title: What's next for AI? My predictions for the next 10 years
 author: shirish
-categories: [ ai, llm, engineering]
+categories:
+  - ai
+  - llm
+  - engineering
 featured: false
-image: "assets/images/llm.jpg"
+image: assets/images/llm.jpg
 hidden: false
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 Explainable AI, optical AI, analog AI, and meta-learning. I predict the culmination of optimizing massive generative models will result generative AI being turned into a commodity, and these four areas will be the next frontiers of innovation in machine learning.
 

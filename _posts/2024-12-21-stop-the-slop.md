@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Posting llm-generated content as your own is hurting you"
+title: Posting llm-generated content as your own is hurting you
 author: shirish
-categories: [ writing, ai, llm]
+categories:
+  - writing
+  - ai
+  - llm
 featured: true
 hidden: true
-image: "assets/images/inno-trap.jpg"
+image: assets/images/inno-trap.jpg
+image_description: Image generated using Gemini AI. Will be replaced soon.
 ---
 
 Seriously, don't publish that raw ChatGPT'd thinkfluencer piece as your own. Nobody's falling for it, everybody's doing it, and you're cheating yourself.

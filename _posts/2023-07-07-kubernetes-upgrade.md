@@ -1,9 +1,15 @@
 ---
 layout: post
-title:  "A tale of the treacherous task of Kubernetes upgrade"
+title: A tale of the treacherous task of Kubernetes upgrade
 author: shirish
-categories: [ engineering, software, cloudformation, infrastructure, kubernetes ]
-image: "https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0upfXtjqscQ5NQfN.png"
+categories:
+  - engineering
+  - software
+  - cloudformation
+  - infrastructure
+  - kubernetes
+image: https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0upfXtjqscQ5NQfN.png
+image_description: Open source image above from [kubernetes.io](https://kubernetes.io/).
 ---
 
 This is a tale of unmitigated blast radius in networking. I broke two of our developer environments the second day of joining the infrastructure squad. We discovered several potential issues with our workflow and engineering practices. Let me explain how that happened, and what we did to fix it. We'll also discuss what our squad did to avoid repeating the situation. 
@@ -53,5 +59,3 @@ We took the following steps to address the situation:
 * **Better Communication and Future-Proofing Measures:** Some of the issues had been caused by lack of clear communication within the squad. We implemented stricter practices, focusing on documenting key decisions. We created dozens of JIRA tickets to track and address the issues discovered during the upgrade process. To avoid future dependencies on external resources, we began a project to migrate container image downloads entirely to our internal proxy.
 
 * **Improved unit tests for all code including lambda functions:** The discovery that we were 'eating' our lambda failures led to serious discussions within the team. We needed more rigorous testing! Our engineers stood up test harnesses and wrote unit tests that tested functionality across all parts of the deployment code, including lambda functions. We can now locally test our lambda functions (thanks to mocked aws objects), before deploying. This gives us confidence that any failure will be promptly bubbled up as an error.
-
-__Open source image above from [kubernetes.io](https://kubernetes.io/).__

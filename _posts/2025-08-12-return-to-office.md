@@ -7,7 +7,7 @@ categories:
   - RTO
 featured: true
 hidden: true
-image: assets/images/daily-commute-gray.png
+image: assets/images/daily-commute-grey.png
 image_description: Surely, if the commute involves paragliding, they'll make alternative arrangements. Illustration is mine, done on Kindle scribe.
 ---
 
