@@ -9,7 +9,7 @@ categories:
 featured: true
 hidden: true
 image: assets/images/innotrap.png
-image_description: Image generated using Gemini AI. Will be replaced soon.
+image_description: The lightbulb (portrayed) can be a tricky monster. Watch out for their evil ways! Lovingly illustrated on my Kindle scribe.
 ---
 
 Seriously, don't publish that raw ChatGPT'd thinkfluencer piece as your own. Nobody's falling for it, everybody's doing it, and you're cheating yourself.
