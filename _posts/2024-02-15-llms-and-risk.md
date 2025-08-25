@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "The risk of production, customer-facing LLM's let lose"
+title: The risk of production, customer-facing LLM's let lose
 author: shirish
-categories: [ ai, llm, collaboration]
+categories:
+  - ai
+  - llm
+  - collaboration
 featured: false
 hidden: false
-image: "assets/images/stupid-robot.png"
+image: assets/images/stupid-robot.png
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 
 Readers of technology-adjacent news might remember the recent case where a Canadian passenger, Jake Moffatt, sued Air Canada after its online chatbot misinformed him about bereavement fares, costing him hundreds of dollars? [Air Canada ended up losing the case](https://www.washingtonpost.com/travel/2024/02/18/air-canada-airline-chatbot-ruling/), and now must stand by the commitment made by its AI agents. This incident, a real example of the potential dangers of relying on untested and poorly implemented technology in critical situations, serves as a cautionary tale in the rapidly changing tale of generative AI and Large Language Models (LLMs). These powerful language models, capable of generating almost human-quality text and engaging in complex reasoning, hold great potential. However, the Air Canada example forces us to ask the critical question: can we trust LLMs in situations where accuracy, safety, and ethical considerations are of fundamental importance?

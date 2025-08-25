@@ -8,6 +8,7 @@ categories:
 featured: false
 hidden: false
 image: assets/images/talk_to_me.jpg
+image_description: You shouldn't have to use a megaphone to get heard. Illustration lovingly handcrafted in Amazon kindle.
 ---
 
 Wordiness is costly. It's important to keep it short and to the point. Ask me how I know. I'm a rambler in recovery.

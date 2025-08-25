@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Understanding what kind of leader you are: a new lens to look at Engineering leadership"
+title: "Understanding what kind of leader you are: a new lens to look at Engineering leadership"
 author: shirish
-categories: [ engineering, leadership, styles ]
-image: "assets/images/leaderships.png"
+categories:
+  - engineering
+  - leadership
+  - styles
+image: assets/images/leaderships.png
 featured: true
 hidden: false
+image_description: Image generated using Gemini AI. Will be replaced soon.
 ---
 Here's my approach to to help engineering leaders understand themselves. It will allow them leverage their skillsets the best.
 

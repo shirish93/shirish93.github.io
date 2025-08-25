@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "Bringing lessons from Japanese temple constructions to software maintenance"
+title: Bringing lessons from Japanese temple constructions to software maintenance
 author: shirish
-categories: [ engineering, software, rewrite ]
-image: "assets/images/temple.png"
-beforetoc: "Don't entomb your applications. Make them flexible, be ready to make gradual changes. That way, they won't need an overhaul from scratch when the time comes."
+categories:
+  - engineering
+  - software
+  - rewrite
+image: assets/images/temple.png
+beforetoc: Don't entomb your applications. Make them flexible, be ready to make gradual changes. That way, they won't need an overhaul from scratch when the time comes.
+image_description: Image generated using Gemini AI. Will be replaced soon.
 ---
 
 Don't entomb your applications. Make them flexible, be ready to make gradual changes. That way, they won't need an overhaul from scratch when the time comes.

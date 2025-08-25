@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "LLM's will be the next spellcheck assistant, not the next robotic overlords!"
+title: LLM's will be the next spellcheck assistant, not the next robotic overlords!
 author: shirish
-categories: [ ai, llm, collaboration]
+categories:
+  - ai
+  - llm
+  - collaboration
 featured: false
 hidden: false
-image: "assets/images/llm.jpg"
+image: assets/images/llm.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 
 I've changed my opinion on genAI and LLM's a few times now. As technology, politics, and economics around these technologies change, my beliefs have evolved. In this essay I propose that generative AI will be mostly a collaborative revolution. Generative models can magnify human abilities and make collaboration easier. We have little to fear from them, despite what some Economic Consultants might want us to believe.

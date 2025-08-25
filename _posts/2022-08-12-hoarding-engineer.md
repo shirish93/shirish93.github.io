@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Don't hoard your engineering players, let them out in the field"
+title: Don't hoard your engineering players, let them out in the field
 author: shirish
-categories: [ engineering, software, leadership]
-image: "assets/images/teamwork.jpg"
+categories:
+  - engineering
+  - software
+  - leadership
+image: assets/images/teamwork.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 
 Well-run organizations can fall into the trap of 'hoarding' their star engineers. They keep them 'on the bench', they don't deploy them for risky, challenging projects. That's an unnecessary inefficiency. As in sports, allowing your strongest players to go play in the field gives them practice. It also improves general team performance and boosts team morale. So send your players out to play!

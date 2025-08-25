@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Software infrastructure and databases workshop for interns and new engineers"
+title: Software infrastructure and databases workshop for interns and new engineers
 author: shirish
-categories: [ infrastructure, llm, collaboration, workshop]
+categories:
+  - infrastructure
+  - llm
+  - collaboration
+  - workshop
 featured: false
 hidden: false
-image: "assets/images/training.jpg"
+image: assets/images/training.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 
 This is the syllabus I originally designed to train Hack.diversity fellows for a 8-week workship (1 hour weekly classes, 2 hours of expected assignment load) to help them perform well on their internship/co-op interviews. I've worked on this with the engineer I mentor with the organization, and will be proposing this workshop for entry-level software engineers to the Liberty Mutual IT organization.

@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "People: what are they good for anyway?"
+title: "People: what are they good for anyway?"
 author: shirish
-categories: [ software, people, assets]
+categories:
+  - software
+  - people
+  - assets
 featured: true
 hidden: true
-image: "assets/images/people_market.jpg"
+image: assets/images/people_market.jpg
+image_description: It takes a village...The bigger AI gets, the more you gotta count on your people. Image lovingly handcrafted in my Kindle Scribe.
 ---
 Your technology is NOT your primary asset. Unless your company is in FAANG or your CEO's world president, other teams are bigger assets. Your people and your networks are your true assets. 
 An AI-driven world will make the 'other teams' even more important. It's all about the people in the end.

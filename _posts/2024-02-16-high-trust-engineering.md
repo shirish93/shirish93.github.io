@@ -1,11 +1,16 @@
 ---
 layout: post
-title:  "Creating and leading high-trust engineering teams for success"
+title: Creating and leading high-trust engineering teams for success
 author: shirish
-categories: [ engineering, architecture, leadership, trust]
+categories:
+  - engineering
+  - architecture
+  - leadership
+  - trust
 featured: false
 hidden: false
-image: "assets/images/trust1.jpg"
+image: assets/images/trust1.jpg
+image_description: Lovingly hand-crafted on my Kindle Scribe.
 ---
 
 If you're starting a  team, you want it to be a strong, cohesive group. One that trust all its members. I call such teams 'high-trust' teams. In this piece, I expand on what such a team might behave, and how you could go about creating one. A strong team with high trust, and good relations with external leadership, is a powerful and effective force.

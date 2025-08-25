@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "How to evaluate the right choice of technology for your team"
+title: How to evaluate the right choice of technology for your team
 author: shirish
-categories: [ engineering, tooling, collaboration]
+categories:
+  - engineering
+  - tooling
+  - collaboration
 featured: false
 hidden: false
-image: "assets/images/choices.jpg"
+image: assets/images/choices.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 
 Choosing the right tool or library for software projects can feel like navigating a minefield. This essay will offer a practical framework for evaluating competing technologies. You'll be able to make better and informed choices that align with your project's needs. There is no 'perfect option', so one must understand the potential pitfalls and trade-offs to decide what the best approach for them is.

@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "A blogger's plea (and a proposal) to Google: bring back Blogger!"
+title: "A blogger's plea (and a proposal) to Google: bring back Blogger!"
 author: shirish
-categories: [ blogger, product, leadership]
+categories:
+  - blogger
+  - product
+  - leadership
 featured: false
 hidden: false
-image: "assets/images/blogger.jpg"
+image: assets/images/blogger.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
 ---
 This essay proposes a plan for revitalization of Google Blogger. I argue for a premium subscription model, trendy features powered by Gemini AI , and a focus on actual user needs, not perceived ones. This is a high-level summary of a much detailed documentation I'm working on.
 

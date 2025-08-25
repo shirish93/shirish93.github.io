@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "The duct-tape and strings approach to software is unfairly maligned"
+title: The duct-tape and strings approach to software is unfairly maligned
 author: shirish
-categories: [ engineering, architecture, leadership]
-image: "assets/images/jenga.png"
+categories:
+  - engineering
+  - architecture
+  - leadership
+image: assets/images/jenga.png
+image_description: Image generated using Gemini AI. Will be replaced soon.
 ---
 The "duct-tape and strings" approach to building software prioritizes functionality and rapid iteration. That comes at the cost of design perfection and technical debt. It stresses the heck out of proponents of careful planning. But it's a valid approach to real-world pressures and can lead to successful results.
 
