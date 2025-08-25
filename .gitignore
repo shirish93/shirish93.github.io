@@ -4,4 +4,5 @@ _site
 .sass-cache
 *~
 .obsidian
-.base
+*.base
+templates/
