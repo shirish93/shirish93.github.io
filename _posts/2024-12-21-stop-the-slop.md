@@ -8,7 +8,7 @@ categories:
   - llm
 featured: true
 hidden: true
-image: assets/images/inno-trap.jpg
+image: assets/images/innotrap.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
 ---
 
