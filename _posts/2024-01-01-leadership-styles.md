@@ -7,7 +7,7 @@ categories:
   - leadership
   - styles
 image: assets/images/leaderships.png
-featured: true
+featured: false
 hidden: false
 image_description: Image generated using Gemini AI. Will be replaced soon.
 ---
