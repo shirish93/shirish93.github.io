@@ -3,7 +3,9 @@ layout: post
 title: The joy I found in donating my physical labor
 author: shirish
 categories:
-  - joy, volunteer, service
+  - joy, 
+  - volunteer
+  - service
 featured: true
 hidden: true
 image: assets/images/roboperson.jpg
