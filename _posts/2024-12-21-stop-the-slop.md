@@ -6,8 +6,8 @@ categories:
   - writing
   - ai
   - llm
-featured: true
-hidden: true
+featured: false
+hidden: false
 image: assets/images/innotrap.png
 image_description: The lightbulb (portrayed) can be a tricky monster. Watch out for their evil ways! Lovingly illustrated on my Kindle scribe.
 ---

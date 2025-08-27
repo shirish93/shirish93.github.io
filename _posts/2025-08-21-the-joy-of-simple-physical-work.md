@@ -3,11 +3,11 @@ layout: post
 title: The joy I found in donating my physical labor
 author: shirish
 categories:
-  - joy, 
+  - joy,
   - volunteer
   - service
-featured: true
-hidden: true
+featured: false
+hidden: false
 image: assets/images/roboperson.jpg
 image_description: People seek meaning in their work. People are not robots. Illustration done on Kindle Scribe.
 ---
