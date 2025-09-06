@@ -1,14 +1,10 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
+# Use the 'github-pages' gem to mimic the GitHub Pages build environment.
+# This gem will install the correct versions of Jekyll and all supported plugins,
+# including 'kramdown-parser-gfm', ensuring a consistent build.
+gem 'github-pages', group: :jekyll_plugins
 
-# If you have any plugins, put them here!
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
     gem 'jekyll-feed'
     gem 'jekyll-sitemap'
@@ -18,3 +14,7 @@ group :jekyll_plugins do
     gem "kramdown", ">= 2.3.1"
     gem 'rouge'
 end
+
+# Add webrick for 'jekyll serve' command compatibility with Ruby 3.0+
+# This was likely in your old Gemfile, judging by Gemfile.lock
+gem 'webrick'

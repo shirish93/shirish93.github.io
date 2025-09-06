@@ -1,89 +1,21 @@
-jQuery(document).ready(function($){
+// Vanilla JS for theme-specific interactions
+// Vanilla JS for theme-specific interactions
 
+// Handles the navigation bar hiding/showing on scroll
+(function() {
+    const navbar = document.querySelector('.mediumnavigation');
+    if (!navbar) return;
 
-  let current_url = document.location;
-    document.querySelectorAll(".nav-link").forEach(function(e){
-    if(e.href == current_url.href.replace("www.", "")){
-            e.classList += " current";
-         }
-      });
-  
-      if (current_url.href.endsWith("/about") ){
-        $("#homepage-image")[0].src = `assets/images/profile/${Math.floor(Math.random() * 5) + 1}.jpg`;
-      }
-
-    //fix for stupid ie object cover
-    if (document.documentMode || /Edge/.test(navigator.userAgent)) {
-      jQuery('.featured-box-img-cover').each(function(){
-          var t = jQuery(this),
-              s = 'url(' + t.attr('src') + ')',
-              p = t.parent(),
-              d = jQuery('<div></div>');
-  
-          p.append(d);
-          d.css({
-              'height'                : '290',
-              'background-size'       : 'cover',
-              'background-repeat'     : 'no-repeat',
-              'background-position'   : '50% 20%',
-              'background-image'      : s
-          });
-          t.hide();
-      });
-    }
-
-    // alertbar later
-    $(document).scroll(function () {
-        var y = $(this).scrollTop();
-        if (y > 280) {
-            $('.alertbar').fadeIn();
-        } else {
-            $('.alertbar').fadeOut();
-        }
-    });
-
-
-    // Smooth on external page
-    $(function() {
-      setTimeout(function() {
-        if (location.hash) {
-          /* we need to scroll to the top of the window first, because the browser will always jump to the anchor first before JavaScript is ready, thanks Stack Overflow: http://stackoverflow.com/a/3659116 */
-          window.scrollTo(0, 0);
-          target = location.hash.split('#');
-          smoothScrollTo($('#'+target[1]));
-        }
-      }, 1);
-
-      // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
-      $('a[href*=\\#]:not([href=\\#])').click(function() {
-        if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-          smoothScrollTo($(this.hash));
-          return false;
-        }
-      });
-
-      function smoothScrollTo(target) {
-        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-
-        if (target.length) {
-          $('html,body').animate({
-            scrollTop: target.offset().top
-          }, 1000);
-        }
-      }
-    });
-    
-    
-    // Hide Header on on scroll down
-    var didScroll;
     var lastScrollTop = 0;
-    var delta = 5;
-    var navbarHeight = $('nav').outerHeight();
+    const delta = 5;
+    const navbarHeight = navbar.offsetHeight;
+    let didScroll;
 
-    $(window).scroll(function(event){
+    window.addEventListener('scroll', function() {
         didScroll = true;
     });
 
+    // Throttle scroll event checking
     setInterval(function() {
         if (didScroll) {
             hasScrolled();
@@ -92,50 +24,164 @@ jQuery(document).ready(function($){
     }, 250);
 
     function hasScrolled() {
-        var st = $(this).scrollTop();
-        
-        // Make sure they scroll more than delta
-        if(Math.abs(lastScrollTop - st) <= delta)
-            return;
+        const st = window.pageYOffset || document.documentElement.scrollTop;
 
-        // If they scrolled down and are past the navbar, add class .nav-up.
-        // This is necessary so you never see what is "behind" the navbar.
-        if (st > lastScrollTop && st > navbarHeight){
-            // Scroll Down            
-            $('nav').removeClass('nav-down').addClass('nav-up'); 
-            $('.nav-up').css('top', - $('nav').outerHeight() + 'px');
-           
-        } else {
-            // Scroll Up
-            if(st + $(window).height() < $(document).height()) {               
-                $('nav').removeClass('nav-up').addClass('nav-down');
-                $('.nav-up, .nav-down').css('top', '0px');             
-            }
+        // Make sure they scroll more than delta
+        if (Math.abs(lastScrollTop - st) <= delta) {
+            return;
         }
 
-        lastScrollTop = st;
+        // If they scrolled down and are past the navbar, add class .nav-up.
+        if (st > lastScrollTop && st > navbarHeight) {
+            // Scroll Down
+            navbar.classList.remove('nav-down');
+            navbar.classList.add('nav-up');
+            navbar.style.top = -navbarHeight + 'px';
+        } else {
+            // Scroll Up
+            // If did not scroll past the document height
+            if (st + window.innerHeight < document.documentElement.scrollHeight) {
+                navbar.classList.remove('nav-up');
+                navbar.classList.add('nav-down');
+                navbar.style.top = '0px';
+            }
+        }
+        lastScrollTop = st <= 0 ? 0 : st;
     }
-        
-    $('.site-content').css('margin-top', $('header').outerHeight() + 'px');  
-    
-    // spoilers
-     $(document).on('click', '.spoiler', function() {
-        $(this).removeClass('spoiler');
-     });
-    
- });   
+})();
 
-// deferred style loading
-var loadDeferredStyles = function () {
-	var addStylesNode = document.getElementById("deferred-styles");
-	var replacement = document.createElement("div");
-	replacement.innerHTML = addStylesNode.textContent;
-	document.body.appendChild(replacement);
-	addStylesNode.parentElement.removeChild(addStylesNode);
-};
-var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
-	window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
-if (raf) raf(function () {
-	window.setTimeout(loadDeferredStyles, 0);
+// All other interactions
+document.addEventListener('DOMContentLoaded', function() {
+
+    // Highlight current nav link
+    const currentUrl = window.location.href.replace(/\/$/, '').replace(/www\./, ''); // Normalize
+
+    let bestMatch = null;
+    let longestMatch = 0;
+
+    document.querySelectorAll(".nav-link").forEach(function(link) {
+        const linkHref = link.href.replace(/\/$/, ''); // Normalize
+
+        if (currentUrl.startsWith(linkHref)) {
+            // The root link should only match if it's an exact match for the homepage,
+            // not as a prefix for all other pages.
+            const isRootLink = link.pathname === '/' || link.pathname.endsWith('/index.html');
+            if (isRootLink && linkHref !== currentUrl) {
+                return; // Skip if it's the root link but not an exact match
+            }
+
+            if (linkHref.length > longestMatch) {
+                longestMatch = linkHref.length;
+                bestMatch = link;
+            }
+        }
+    });
+
+    if (bestMatch) {
+        bestMatch.classList.add("current");
+    } else {
+        // If no other section matched, assume it's a blog post and highlight "Blog".
+        const blogLink = document.querySelector('a.nav-link[href$="/index.html"]');
+        if (blogLink) {
+            blogLink.classList.add("current");
+        }
+    }
+
+    // Alertbar visibility on scroll
+    const alertbar = document.querySelector('.navbar');
+    if (alertbar) {
+        // For a fade effect, you'll need CSS transitions. E.g.:
+        // .alertbar { opacity: 0; visibility: hidden; transition: opacity .3s, visibility .3s; }
+        // .alertbar.is-visible { opacity: 1; visibility: visible; }
+        window.addEventListener('scroll', function() {
+            if (window.pageYOffset > 280) {
+                alertbar.classList.add('is-visible');
+            } else {
+                alertbar.classList.remove('is-visible');
+            }
+        });
+    }
+
+    // Smooth scroll for on-page anchors
+    function smoothScrollTo(target) {
+        if (target) {
+            target.scrollIntoView({ behavior: 'smooth' });
+        }
+    }
+
+    document.querySelectorAll('a[href*="#"]:not([href="#"])').forEach(link => {
+        link.addEventListener('click', function(e) {
+            if (
+                location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') &&
+                location.hostname === this.hostname
+            ) {
+                let target = null;
+                try {
+                    target = document.querySelector(this.hash);
+                } catch (error) {
+                    console.error("Invalid selector for hash:", this.hash);
+                }
+                
+                if (!target) {
+                    target = document.querySelector(`[name="${this.hash.slice(1)}"]`);
+                }
+                
+                if (target) {
+                    e.preventDefault();
+                    smoothScrollTo(target);
+               }
+            }
+        });
+    });
+
+    // Smooth scroll on page load if hash exists
+    setTimeout(function() {
+        if (location.hash) {
+            window.scrollTo(0, 0); // First, scroll to top
+            let target = null;
+            try {
+                target = document.querySelector(location.hash);
+            } catch (error) {
+                console.error("Invalid selector for hash:", location.hash);
+            }
+            if (!target) {
+                target = document.querySelector(`[name="${location.hash.slice(1)}"]`);
+            }
+            if (target) {
+                smoothScrollTo(target);
+            }
+        }
+    }, 1);
+
+    // Adjust site-content margin-top to account for fixed header
+    const navHeader = document.querySelector('nav.mediumnavigation');
+    const siteContent = document.querySelector('.site-content');
+    if (navHeader && siteContent) {
+        siteContent.style.marginTop = navHeader.offsetHeight + 'px';
+    }
+    // Spoilers
+    document.addEventListener('click', function(event) {
+        if (event.target.matches('.spoiler')) {
+            event.target.classList.remove('spoiler');
+        }
+    });
 });
-else window.addEventListener('load', loadDeferredStyles);
+
+
+// Defers loading of fonts and icons
+(function() {
+    var loadDeferredStyles = function() {
+      var addStylesNode = document.getElementById("deferred-styles");
+      if (!addStylesNode) return;
+      var replacement = document.createElement("div");
+      replacement.innerHTML = addStylesNode.textContent;
+      document.body.appendChild(replacement);
+      if (addStylesNode.parentElement) {
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      }
+    };
+    var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+        window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+    if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+    else window.addEventListener('load', loadDeferredStyles);
+})();
