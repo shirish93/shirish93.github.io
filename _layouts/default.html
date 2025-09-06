@@ -6,17 +6,26 @@
 
 <!--meta name="description" content="This is the text preview shown on social media websites when the link to this page is shared. You can customize it to provide a brief summary of the page content."--->
 
-<title>{{ page.title }} | {{site.name}}</title>
-
 {% seo %}
 
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+<!-- Bootstrap 5 CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     
 <link href="{{ site.url }}/assets/css/screen.css" rel="stylesheet">
 
+<link href="{{ site.url }}/assets/css/tooltip.css" rel="stylesheet">
+
 <link href="{{ site.url }}/assets/css/main.css" rel="stylesheet">
 
-<script src="{{ site.url }}/assets/js/jquery.min.js"></script>
+<style>
+    a, a:hover, a:focus {
+        text-decoration: none !important;
+    }
+    .navbar-nav .nav-link.current {
+        color: #d9230f !important;
+        border-bottom: 2px solid #d9230f;
+    }
+</style>
 
 </head>
 
@@ -43,7 +52,7 @@
     </a>
     <!-- End Logo -->
 
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
 
@@ -51,18 +60,14 @@
 
         <!-- Begin Menu -->
 
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ms-auto">
 
-                {% if page.url == "/" %}
-                <li class="nav-item active">
-                {% else %}
                 <li class="nav-item">
-                {% endif %}
-                <a class="nav-link" href="{{ site.url }}/index.html">Blog</a>
+                    <a class="nav-link" href="{{ site.url }}/index.html">Blog</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link" href="{{ site.url }}/about">About</a>
+                    <a class="nav-link" href="{{ site.url }}/about">About</a>
                 </li>
 
                 <li class="nav-item">
@@ -186,9 +191,8 @@
 <!-- Scripts
 ================================================== -->
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+<!-- Bootstrap 5 JS Bundle (includes Popper) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
 <script src="{{ site.url }}/assets/js/mediumish.js"></script>
 
@@ -196,8 +200,172 @@
 <script src="{{ site.url }}/assets/js/lazyload.js"></script>
 {% endif %}
 
-<script src="{{ site.url }}/assets/js/ie10-viewport-bug-workaround.js"></script> 
 
+<script src="{{ site.url }}/assets/js/random-image.js"></script>
+
+<!-- Search Modal -->
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="searchModalLabel">Search this site</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form class="bd-search" onsubmit="return lunr_search(document.getElementById('lunrsearch-modal').value);">
+                    <input type="text" class="form-control text-small" id="lunrsearch-modal" name="q" maxlength="255" value="" placeholder="Type and enter..." />
+                </form>
+                <div id="lunrsearchresults" class="mt-4">
+                    <ul></ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Vanilla JS version of the search loader
+    let scriptsLoaded = false;
+    var idx, documents; // Make these global for lunrsearchengine.js
+
+    // Helper to load a script and return a promise
+    function loadScript(src) {
+        return new Promise(function (resolve, reject) {
+            const script = document.createElement('script');
+            script.src = src;
+            script.onload = resolve;
+            script.onerror = reject;
+            document.head.appendChild(script);
+        });
+    }
+
+    // This function expands a custom compact Lunr index format.
+    function expand(compact) {
+        const fields = compact["fields"];
+        const fieldVectors = compact["fieldVectors"].map((item) => {
+            const id = item[0];
+            const vectors = item[1];
+            let prev = null;
+            const expanded = vectors.map((v, ii) => {
+                if (ii % 2 === 0) {
+                    if (v === null) { v = prev + 1; }
+                    prev = v;
+                }
+                return v;
+            });
+            return [id, expanded];
+        });
+        const invertedIndex = compact["invertedIndex"].map((item, itemIdx) => {
+            const token = item[0];
+            const fieldMap = {"_index": itemIdx};
+            fields.forEach((field, fieldIdx) => {
+                const matches = {};
+                let docRef = null;
+                item[fieldIdx + 1].forEach((v, ii) => {
+                    if (ii % 2 === 0) {
+                        docRef = fieldVectors[v][0].slice(`${field}/`.length);
+                    } else {
+                        matches[docRef] = v;
+                    }
+                });
+                fieldMap[field] = matches;
+            });
+            return [token, fieldMap];
+        });
+        invertedIndex.sort((a, b) => {
+            if (a[0] < b[0]) return -1;
+            if (a[0] > b[0]) return 1;
+            return 0;
+        });
+        return {
+            "version": compact["version"], "fields": fields, "fieldVectors": fieldVectors,
+            "invertedIndex": invertedIndex, "pipeline": compact["pipeline"],
+        };
+    }
+
+    const searchModal = document.getElementById('searchModal');
+    const searchInput = document.getElementById('lunrsearch-modal');
+
+    // Load scripts when the modal is shown for the first time
+    searchModal.addEventListener('shown.bs.modal', function loadLunrOnce() {
+        searchInput.focus(); // Focus on the input inside the modal
+        if (scriptsLoaded) return;
+        scriptsLoaded = true; // Prevent re-loading
+
+        console.log("Loading search scripts...");
+
+        Promise.all([
+            loadScript("{{site.url}}/assets/js/lunr.js"),
+            fetch("{{site.url}}/assets/js/documents.json").then(res => res.json()),
+            fetch("{{site.url}}/assets/js/idx.json").then(res => res.json())
+        ]).then(([lunrScript, searchData, compactedIndex]) => {
+            // Create a simple lookup table for documents by their ID
+            documents = {};
+            searchData.forEach(function(doc) {
+                documents[doc.id] = doc;
+            });
+
+            const serializedIndex = expand(compactedIndex);
+            idx = lunr.Index.load(serializedIndex);
+        }).then(() => {
+            console.log("Search is ready.");
+        }).catch(error => {
+            console.error("Error loading search functionality:", error);
+        });
+    }, { once: true });
+
+    function lunr_search(query) {
+        const result_list = document.querySelector('#lunrsearchresults ul');
+        if (!idx) {
+            result_list.innerHTML = '<li>Search index not loaded yet. Please try again in a moment.</li>';
+            return false;
+        }
+        
+        result_list.innerHTML = '<li>Searching...</li>';
+        const results = idx.search(query);
+
+        if (results.length === 0) {
+            result_list.innerHTML = '<li>No results found.</li>';
+            return false;
+        }
+
+        result_list.innerHTML = ''; // Clear "Searching..." message
+
+        results.slice(0, 10).forEach(result => {
+            const docId = result.ref;
+            const doc = documents[docId];
+            if (doc) {
+                const listItem = document.createElement('li');
+                listItem.classList.add('lunrsearchresult');
+                listItem.innerHTML = `<a href="${doc.url}"><span class="title">${doc.title}</span><br><span class="blurb">${doc.body}</span></a>`;
+                result_list.appendChild(listItem);
+            }
+        });
+
+        return false; // Prevent form submission
+    }
+
+    function triggerSearch(event) {
+        event.preventDefault();
+        const query = document.getElementById('navbar-search').value;
+        
+        const searchModalEl = document.getElementById('searchModal');
+        const searchModal = bootstrap.Modal.getOrCreateInstance(searchModalEl);
+        
+        const modalSearchInput = document.getElementById('lunrsearch-modal');
+        modalSearchInput.value = query;
+        
+        searchModal.show();
+
+        if (query) {
+            // if scripts are already loaded, search immediately.
+            // otherwise, the 'shown.bs.modal' event will load them,
+            // and we attach a one-time listener to search after that.
+            if (scriptsLoaded) { lunr_search(query); } 
+            else { searchModalEl.addEventListener('shown.bs.modal', () => lunr_search(query), { once: true }); }
+        }
+    }
+</script>
 
 </body>
 </html>

@@ -21,17 +21,24 @@ Some of the following proposals are on the rougher side to read. I'm cleaning th
 Feb 2025 Note: I created a mess a year ago by assuming genAI would be a useful assistant in writing these essays and expanding my ideas. I was terribly wrong. Even the worst piece of my writing is better than the trite, boring, repetitive slop that LLM's generate. I'm not linking them here for the moment. This feature WILL be back soon.
 </p>
 
-
-{% if page.url == "/ideas" %}
-
-<div>
 </div>
-<!--section class="recent-posts">
-<div class="row listrecent">
-    {% for post in site.ideas %}
-            {% include postbox.html %}
-    {% endfor %}
 </div>
-</section-!>
 
-{% endif %}
+<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-4">
+{% for post in site.ideas %}
+  <div class="col">
+    <div class="card h-100 shadow-sm">
+      {% if post.image %}
+      <a href="{{ post.url | absolute_url }}">
+        <img src="{{ post.image | absolute_url }}" class="card-img-top" alt="{{ post.title }}">
+      </a>
+      {% endif %}
+      <div class="card-body d-flex flex-column">
+        <h5 class="card-title">{{ post.title }}</h5>
+        <p class="card-text">{{ post.content | strip_html | truncatewords: 25 }}</p>
+        <a href="{{ post.url | absolute_url }}" class="btn btn-outline-primary mt-auto">Read More &raquo;</a>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>

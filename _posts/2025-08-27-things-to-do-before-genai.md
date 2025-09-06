@@ -86,6 +86,15 @@ Have you secured your application vis-a-vis the genAI system? Have you got the p
     </blockquote>
 </aside>
 Make sure your users can't access data they couldn't get without AI. Make sure the 'agent' that works on their behalf cannot access privileged resources either. You can't expose a higher-privilege search index either. You want to get this right. The upside of your project is probably not Earth-shattering. The downsides of customer data compromise can be massive. You don't want to end up as a case study in security fail. Every user / agent on their behalf needs access strictly only to resources they need, and nothing more. No 'cheating', no trusting your 'genAI employee' to not reveal their secrets. Attackers will 100% [figure out the technique](https://www.schneier.com/blog/archives/2025/08/subverting-aiops-systems-through-poisoned-input-data.html) to exfiltrate that data. You can bet on that!
+
+<aside class="pquote">
+    <blockquote>
+		<b>On debugging and maintaining non-deterministic systems long-term</b>
+        <p> Maintenance and debugging will be hell. Be prepared to question the wisdom of your original implementation 3 months into the project. In six months, you're going to be quite mad you're expected to re-embed your data and re-spend 10's of k's every few months.</p>
+        <p>There are no standard patterns of implementation. It's a guarantee you'll make a suboptimal architecture decision. Things are moving so fast, be prepared to redo the system in nine months.</p>
+    </blockquote>
+</aside>
+
 #### Make sure you're not throwing out structured data
 
 Don't throw the 'structured' nature of your data out, only to end up letting genAI treat it as unstructured data, and then figure it out. You already know how it's organized, and the relationship between different elements! Use it to your advantage! Use classical NLP algorithms where possible! Don't throw out the only comparative advantage you have, which is the understanding of your own data, to surrender to somebody who knows nothing about your domain!
@@ -97,11 +106,3 @@ Brainstorm with your data scientists on how you might leverage the structure of 
 Imagine as if we were talking about a new database algorithm, or a very specific technique to make gradual gains in efficiency/speed. Would you be as excited? Would the cost-benefit analysis be the same?
 
 Two years down the line, when you have to maintain this system, you don't want to find yourself in a morass of frustration and confusion. The excitement is going to fade away, but the business value remains.
-
-<aside class="pquote">
-    <blockquote>
-		<b>On debugging and maintaining non-deterministic systems long-term</b>
-        <p> Maintenance and debugging will be hell. Be prepared to question the wisdom of your original implementation 3 months into the project. In six months, you're going to be quite mad you're expected to re-embed your data and re-spend 10's of k's every few months.</p>
-        <p>There are no standard patterns of implementation. It's a guarantee you'll make a suboptimal architecture decision. Things are moving so fast, be prepared to redo the system in nine months.</p>
-    </blockquote>
-</aside>

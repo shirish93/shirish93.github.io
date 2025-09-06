@@ -82,29 +82,33 @@ post_class: post-template
             </p>
 
             <!-- Post Categories -->
+            {% if page.categories %}
             <div class="after-post-cats">
                 <ul class="tags mb-4">
                     {% assign sortedCategories = page.categories | sort %}
                     {% for category in sortedCategories %}
                     <li>
-                        <a class="smoothscroll" href="{{site.url}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/categories#{{ category | replace: " ","-" }}">{{ category }}</a>
                     </li>
                     {% endfor %}
                 </ul>
             </div>
+            {% endif %}
             <!-- End Categories -->
 
             <!-- Post Tags -->
+            {% if page.tags %}
             <div class="after-post-tags">
                 <ul class="tags">
                     {% assign sortedTags = page.tags | sort %}
                     {% for tag in sortedTags %}
                     <li>
-                        <a class="smoothscroll" href="{{site.url}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
                     </li>
                     {% endfor %}
                 </ul>
             </div>
+            {% endif %}
             <!-- End Tags -->
 
             <!-- Prev/Next -->
@@ -131,7 +135,7 @@ post_class: post-template
                 </div>
                 <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left" style="border: #d4430a 1px dotted; border-radius:18px;padding-top: 1rem;">
                     <a target="_blank" class="link-dark" href="{{ author.web }}"> Shirish Pokharel, Innovation Engineer, Mentor</a>
-                    <p><span class="author-description">{{ author.description }}</span></div> </p>
+                    <p><span class="author-description">{{ author.description }}</span></p>
                 </div>
             </div>
             {% endif %}
