@@ -1,5 +1,4 @@
 // Vanilla JS for theme-specific interactions
-// Vanilla JS for theme-specific interactions
 
 // Handles the navigation bar hiding/showing on scroll
 (function() {
