@@ -297,7 +297,7 @@
         Promise.all([
             loadScript("{{site.url}}/assets/js/lunr.js"),
             fetch("{{site.url}}/assets/js/documents.json").then(res => res.json()),
-            fetch("{{site.url}}/assets/js/idx.json").then(res => res.json())
+            fetch("/assets/js/idx.json").then(res => res.json())
         ]).then(([lunrScript, searchData, compactedIndex]) => {
             // Create a simple lookup table for documents by their ID
             documents = {};
