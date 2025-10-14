@@ -1,1 +1,1 @@
-{"id": 12, "url": "https://shirish.me/page4/", "title": "Home", "body": "{% if page.url == \"/\" %} Featured {% for post in site.posts %} {% if post.featured == true %} {% include featuredbox.html %} {% endif %} {% endfor %} "}
+{"id": 12, "url": "https://www.shirish.me/page4/", "title": "Home", "body": "{% if page.url == \"/\" %} Featured {% for post in site.posts %} {% if post.featured == true %} {% include featuredbox.html %} {% endif %} {% endfor %} "}
