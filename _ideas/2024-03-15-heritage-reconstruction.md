@@ -5,11 +5,9 @@ author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/heritage.png
 ---
-**Overview**
+Overview
 
 A proposal to preserve traditional houses in Kathmandu and Lalitpur by rebuilding them, adding new floors, and leasing the added space to investors. Rental income is shared with homeowners, creating financial benefits for residents while safeguarding heritage.
-
----
 
 ### 1. Challenge
 
@@ -18,15 +16,15 @@ A proposal to preserve traditional houses in Kathmandu and Lalitpur by rebuildin
 
 ### 2. Proposed Solution
 
-- **Reconstruction** of each house following strict heritage‑conservation standards.
-- **Vertical expansion**: add one or more floors to increase usable area by 50–100 %.
-- **Leasing** the added floors to investors seeking attractive returns in a prime cultural location.
-- **Revenue sharing**: rental income split between homeowners and investors.
+- Reconstruction of each house following strict heritage‑conservation standards.
+- Vertical expansion: add one or more floors to increase usable area by 50–100 %.
+- Leasing the added floors to investors seeking attractive returns in a prime cultural location.
+- Revenue sharing: rental income split between homeowners and investors.
 
 ### 3. Target Audience
 
-- **Primary**: Kathmandu and Lalitpur municipal governments (urban development departments).
-- **Secondary**: construction firms, real‑estate investors, heritage‑preservation NGOs, cultural‑tourism businesses.
+- Primary: Kathmandu and Lalitpur municipal governments (urban development departments).
+- Secondary: construction firms, real‑estate investors, heritage‑preservation NGOs, cultural‑tourism businesses.
 
 ### 4. Benefits
 
@@ -39,9 +37,9 @@ A proposal to preserve traditional houses in Kathmandu and Lalitpur by rebuildin
 
 ### 5. Addressing Concerns
 
-- **Conservation integrity**: Work with architects and engineers experienced in heritage projects.
-- **Community buy‑in**: Open public forums, transparent communication, responsive to individual concerns.
-- **Long‑term sustainability**: Pilot program, scaling to additional houses, attracting tourism‑related investors, dedicated project‑management team.
+- Conservation integrity: Work with architects and engineers experienced in heritage projects.
+- Community buy‑in: Open public forums, transparent communication, responsive to individual concerns.
+- Long‑term sustainability: Pilot program, scaling to additional houses, attracting tourism‑related investors, dedicated project‑management team.
 
 ### 6. What to do next
 

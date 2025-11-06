@@ -46,4 +46,4 @@ image: assets/images/eco-nepal.png
 - Analysis of health indicators such as respiratory and water‑borne illnesses.
 
 
-Local governments, businesses, and community members cano join the initiative to improve public hygiene, protect health, and enhance the city’s quality of life.
+Local governments, businesses, and community members cano join the initiative to improve public hygiene, protect health, and improve the city’s quality of life.

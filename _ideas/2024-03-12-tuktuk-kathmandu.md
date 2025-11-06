@@ -5,7 +5,7 @@ author: shirish
 categories: [ innovation, tuktuk, ideas ]
 image: "assets/images/tuktuk.png"
 ---
-**Problem**
+Problem
 
 Kathmandu’s air quality, noise level and traffic are worsened by fossil‑fuel public transport.  
 Electric three‑wheelers (tuk‑tuks) are a small but growing option that could reduce pollution and improve mobility.
