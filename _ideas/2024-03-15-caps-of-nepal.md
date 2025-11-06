@@ -5,28 +5,26 @@ author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 image: assets/images/caps.png
 ---
-**Caps of Nepal – Business Summary**
-
-- **Idea**  
-    Offer curated collections of high‑quality, handcrafted traditional caps from across Nepal. Each set showcases multiple ethnic styles and comes with explanatory packaging that explains history, cultural significance, and origin.
+- Idea  
+    Offer curated collections of high‑quality, handcrafted traditional caps from across Nepal. Each set shows multiple ethnic styles and comes with explanatory packaging that explains history, cultural significance, and origin.
     
-- **Opportunity**  
+- Opportunity  
     Tourists and culturally‑aware buyers often cannot find authentic, varied Nepali souvenirs; existing options are generic or limited to single items.
     
-- **Target customers**
+- Target customers
     
     1. Luxury travelers who want unique, premium keepsakes.
     2. People interested in Nepali culture, looking for meaningful gifts or personal items.
-- **Value proposition**  
+- Value proposition  
     • Diverse, representative selection of caps in one set.  
     • Premium, ethically sourced materials and fair‑trade production.  
     • Informative packaging that turns a souvenir into a learning experience.  
     • Tiered pricing: premium 12‑cap set (~~$120) and affordable 5‑cap set (~~$40).
     
-- **Competitive gap**  
+- Competitive gap  
     Nepal sells many individual caps, but none offer a ready‑made, curated luxury collection with contextual information.
     
-- **Implementation plan**
+- Implementation plan
     
     _Phase 1 – Product Development (3 months)_
     
@@ -42,7 +40,7 @@ image: assets/images/caps.png
     
     - Add new cultural products or apparel.
     - Explore international markets, especially areas with Nepali diaspora or cultural tourism interest.
-- **Expected impact**  
+- Expected impact  
     • Generates sustainable income for cap artisans and their communities.  
     • Raises awareness of Nepal’s cultural diversity.  
     • Enhances the tourist experience with a unique, educational souvenir.

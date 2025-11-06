@@ -5,7 +5,7 @@ author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 image: "assets/images/bus-gen.png"
 ---
-**Problem**
+Problem
 
 Kathmandu’s private schools operate independent bus fleets that cause:
 
@@ -13,8 +13,7 @@ Kathmandu’s private schools operate independent bus fleets that cause:
 - Redundant routes and under‑used vehicles
 - Long commutes that waste time for students and families
 
-**Solution**
-
+Solution:
 Create a single, city‑wide school bus system:
 
 1. **Map current routes** with GIS to spot overlaps.
@@ -24,32 +23,32 @@ Create a single, city‑wide school bus system:
 5. **Place convenient stops** close to students’ homes.
 6. **Keep stakeholders informed** through clear communication channels.
 
-**Benefits**
+Benefits
 
 - Fewer buses = smoother traffic, shorter rides, lower emissions.
 - Shared use cuts operating costs and boosts efficiency.
 - More free time for learning and family.
 
-**Implementation Phases**
+Implementation Phases
 
 1. **Pilot** – start with a few schools, test the model, gather feedback.
 2. **Expand** – add more schools progressively.
 3. **Full roll‑out** – bring all private schools into the system.
 
-**Sustainability**
+Sustainability
 
 - Secure funding via public‑private partnerships or modest user fees.
 - Set up a dedicated management team to run operations and resolve disputes.
 - Monitor performance regularly and adjust as needed.
 
-**Key Tools**
+Key Tools
 
 - GIS (ArcGIS, QGIS) for mapping.
 - Route‑planning software (e.g., BusBoss, Systrans) for optimization.
 - GPS trackers on buses for real‑time tracking.
 - Communication platforms (SchoolMessenger, Remind) for alerts.
 
-**Next Steps**
+Next Steps
 
 - Conduct a feasibility study.
 - Build support among schools, parents, and officials.
@@ -57,4 +56,4 @@ Create a single, city‑wide school bus system:
 - Run the pilot, collect data, refine the model.
 - Secure ongoing funding and launch the full system.
 
-This plan aims to reduce congestion, cut costs, and give students more time to study by consolidating Kathmandu’s fragmented school bus network.
+The goal is to reduce congestion, cut costs, and give students more time to study by consolidating Kathmandu’s fragmented school bus network.

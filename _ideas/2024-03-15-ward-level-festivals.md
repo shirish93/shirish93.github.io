@@ -1,14 +1,18 @@
 ---
 layout: post
-title:  "Organizing ward-level festivals in Kathmandu and Lalitpur to strengthen the Spirit of the historic cities"
+title: Ward-level festivals in Kathmandu can help the local economy
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+  - innovation
+  - research
+  - ideas
+  - Kathmandu
 image: assets/images/festival3.png
 ---
-Idea is inspired by Hadigaun festival, bhaktapur/thimi festivals.
+Idea is inspired by Hadigaun festival, bhaktapur/thimi festivals, they're really successful!
 
-- Festivals can be held at the ward level in Kathmandu and Lalitpur four times a year, each lasting one or two days.
-- The main issues are low community engagement, frequent littering, and apathy among young adults toward local politics.
+- Festivals can be held at the ward level in Kathmandu and Lalitpur twice/thrice a year, each lasting one or two days.
+- The main issues that we're targeting to fix are are low community engagement, frequent littering, and apathy among young adults toward local politics.
 - Each festival will feature:
     - Competitions (dance, singing, art, cooking)
     - Educational workshops on the environment, civic engagement, and skills
@@ -38,12 +42,12 @@ Idea is inspired by Hadigaun festival, bhaktapur/thimi festivals.
     - Voter registration and turnout statistics
     - Surveys of resident and business satisfaction
 - Anticipated challenges and solutions:
-    - **Funding** – use diversified revenue streams and seek grants
-    - **Venue** – use parks, schools, community centers, rotating locations
-    - **Safety** – collaborate with police, plan crowd control, and emergency protocols
-    - **Waste management** – partner with waste companies and set clear disposal signage
-    - **Community engagement** – outreach through media, leaders, and social platforms
-    - **Volunteer motivation** – provide clear roles, training, recognition, and team events
-    - **Weather and other contingencies** – have backup venues or postponement plans
+    - Funding – use diversified revenue streams and seek grants
+    - Venue – use parks, schools, community centers, rotating locations
+    - Safety – collaborate with police, plan crowd control, and emergency protocols
+    - Waste management – partner with waste companies and set clear disposal signage
+    - Community engagement – outreach through media, leaders, and social platforms
+    - Volunteer motivation – provide clear roles, training, recognition, and team events
+    - Weather and other contingencies – have backup venues or postponement plans
 
-These festivals will hopefully revitalize neighborhood spirit, encourage civic involvement, and support local culture and economy.
+These festivals can revitalize neighborhood spirit, encourage civic involvement, and support local culture and economy.
