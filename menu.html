@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Private Culinary Experience</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap" rel="stylesheet">
+    
+    <style>
+        /* --- Base Setup --- */
+        body {
+            /* Using a warm, organic "lokta paper" cream background */
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.7;
+            background-color: #FFFBF5;
+            /* A softer, warm dark brown for text instead of harsh black */
+            color: #4C3B34;
+            margin: 0;
+            padding: 40px 0;
+        }
+
+        /* --- Typography --- */
+        h1, h2 {
+            /* Using the elegant, premium serif font */
+            font-family: "EB Garamond", "Georgia", "Times New Roman", Times, serif;
+            font-weight: 600;
+        }
+
+        /* --- Header --- */
+        .header {
+            text-align: center;
+            padding: 20px 20px 40px 20px;
+            /* A more ornamental, subtle double border */
+            border-bottom: 4px double #EAE0D5;
+            margin-bottom: 50px;
+        }
+        .header h1 {
+            font-size: 2.8em;
+            font-weight: 700;
+            /* A deep, rich crimson, a classic Nepali accent color */
+            color: #8C1B1B;
+            margin: 0 0 10px 0;
+        }
+        .header p {
+            font-family: "EB Garamond", "Georgia", "Times New Roman", Times, serif;
+            font-size: 1.3em;
+            font-style: italic;
+            color: #6B5B53;
+            margin: 0;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* --- Menu Container --- */
+        .menu-container {
+            max-width: 750px;
+            margin: 40px auto;
+            padding: 30px 50px 50px 50px;
+            background-color: #ffffff;
+            /* A soft shadow to "lift" the menu card off the page */
+            box-shadow: 0 8px 30px rgba(76, 59, 52, 0.07);
+            border-radius: 8px;
+            border: 1px solid #EAE0D5;
+        }
+
+        /* --- Individual Menu Item --- */
+        .menu-item {
+            margin-bottom: 45px;
+            padding-bottom: 40px;
+            /* A subtle, warmer border */
+            border-bottom: 1px solid #EAE0D5;
+        }
+        .menu-item:last-child {
+            border-bottom: none;
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+        .menu-item h2 {
+            font-size: 1.8em;
+            /* Using the crimson accent for all dish titles */
+            color: #8C1B1B;
+            margin: 0 0 5px 0;
+        }
+        .menu-item .subtitle {
+            font-size: 1.2em;
+            color: #6B5B53;
+            margin: 0 0 15px 0;
+            font-family: "EB Garamond", "Georgia", "Times New Roman", Times, serif;
+            font-style: italic;
+            font-weight: 500;
+        }
+
+        /* --- The Story Placeholder --- */
+        .menu-item .story {
+            font-style: italic;
+            color: #4C3B34;
+            /* A slightly darker cream to offset it from the white */
+            background-color: #FCF8F3;
+            /* Using the crimson accent to highlight your personal notes */
+            border-left: 4px solid #8C1B1B;
+            padding: 15px 20px;
+            font-size: 1em;
+            margin: 0;
+            border-radius: 0 4px 4px 0;
+        }
+        
+        /* Handling line breaks inside the story */
+        .menu-item .story br {
+            display: block;
+            margin-bottom: 10px;
+            content: "";
+        }
+        
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <h1>Shirish's Nov 8 Lunch Menu</h1>
+        <p>A bunch of Nepali or Nepali-inspired dishes and things I know how to make</p>
+    </header>
+
+    <main class="menu-container">
+
+        <div class="menu-item">
+            <h2>Jimbu le jhaneko Kodo ko Kholey (Millet Pottage)</h2>
+            <p class="subtitle">With hummus, served with an omlet and raw onion.</p>
+            <p class="story">
+                Until recently, Kholey meant "warm animal feed" to me. A friend whose family is from Manang, makes rice flour / saatu porridge, and serves it with omlet for breakfast. It really warms me up and I sometimes miss it. I decided to try to replicate that with kodo ko flour.
+                <br><br>
+                I noticed adding hummus significantly improves the texture, and makes it tastier. To add a little more complexity, I suggested folks eat it with chopped raw onion. 
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Mushroom Mapo Tofu</h2>
+            <p class="subtitle">My favourite szechuan-restaurant dish, with mushrooms instead of ground meat to make it vegetarian..</p>
+            <p class="story">
+                Mapo tofu has been my favourite dish in Chinese restaurants forever. My friends in Virginia have tried making it from scratch, without much success. I used the 'hot' packet from the Asian store, and fried mushrooms for 20 minutes before putting the mix (and tofu) in. I usually add other spices, but was far too busy to do it this time around.
+
+           </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Mixed Chinese Choys</h2>
+            <p class="subtitle">Two types of seasonal greens (Bok choy and Baby Bok Choy), flash-wilted and tempered with mustard seed.</p>
+            <p class="story">
+                Added a small amount of MSG, and cooked the white parts for quite a while. I've noticed Nepali people tend to enjoy their greens very well-cooked, compared to folks from East Asia.
+                <br><br>
+                I've struggled with making good-tasting greens that people will actively appreciate. With this recipe I think I've found my pace!
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Mustang Ko Simi ko Dal</h2>
+            <p class="subtitle">A creamy, lentil soup from Mustang beans, with a Mustang Jimbu and dried chillies temper.</p>
+            <p class="story">
+                These beans were a bit old, so I had to pressure cook them for almost an hour. Because I added so many chillies, the 'body' of the dal was hidden. Mustang ko simi ko dal tastes great, but it's definitely not an everyday kind of dal for me.
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Circular slices of Radish, Cucumber & Carrot</h2>
+            <p class="subtitle">Like they do it in Kathmandu.</p>
+            <p class="story">
+                Because I rarely (read: never) serve actual rice, rice, I wanted folks to get a feeling of comfort. This is the 'salad' they service in all get-together's in Nepal. This was a 'tribute' to that.
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Spiced fake Kellewelle</h2>
+            <p class="subtitle">Sweet fried plantains from Trader Joe's, air-fried and mixed with Taijin spice powder.</p>
+            <p class="story">
+                Because I got robbed -- multiple times -- in Ghana (long story, some other day), I ate what the fellow Ghanian students were eating, because I couldn't afford foreign food. My favourite Ghanian dish was Kellewelle, spicy fried plantain. This was my attempt to replicate that in the most basic way.
+                <br><br>
+                Since I discovered Trader Joe's frozen fried plantains, I've (re) introduced it to multiple friends, and they've all appreciated it greatly.
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Chinese Titey Karela Sadheko</h2>
+            <p class="subtitle">Nepali-style pickle of Chinese titey karela, sour and spicy, spiced with raw greens (untempered spices).</p>
+            <p class="story">
+                A recipe that's become one of my classics by this point. I experimented with it about 2 years ago, and was encouraged by how everybody always loved it. I blanced this batch, but also used cheap black tea in the water for the tannins to preserve the crispyness. At the cost of the color (green to brown) it was crispier. An interesting tradeoff to turn toggles on.
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Dhaniya & Garlic Chutney</h2>
+            <p class="subtitle">With oven-charred tomatoes, and flax and chia seeds for better texture.</p>
+            <p class="story">
+                The lauro-silauto-crushed tomato achar in Kathmandu is so great because it's not blitzed by the mixer. I didn't have the energy or equipment to get that texture. So I thought, what if I drop chia seeds and flax seeds, and see if we got something interesting? The texture is definitely thicker, and folks were very enthusiastic about this one! This is such a comfort food for everyone.
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Walnut & Roasted Tomato Achaar</h2>
+            <p class="subtitle">A dip to go along with chips, with spring onion and roasted cumin.</p>
+            <p class="story">
+                This might be the most boojie thing I've ever made. Used coconut water instead of tap water. Just so much good-quality olive oil too. Just the cost of raw ingredients I dumped into this for no good reason boggles the mind. Roasted cumin was a good decision. I might have to revisit the spring onion, it's to fibery.
+           </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Air-Fried Red Yeast Tofu</h2>
+            <p class="subtitle">Tofu marinated for 24 hours in red rice yeast, served crisp.</p>
+            <p class="story">
+                In deep pangs of hunger, I discovered in the recent past that air-fried tofu actually tastes pretty fantastic!
+                <br>
+                I had red rice yeast to play around with my fermentation projects. In Chinese cuisine, they use it as a rub for meats and vegetable before roasting. I figured it'd make for a worthy experiment, and ran a few experiments a few weeks ago. I quite enjoyed this batch!
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Everest Silver Needle Tea</h2>
+            <p class="subtitle">2024 batch, first pick of the season from Everest tea house, supposedly the best tea Nepal has to offer.</p>
+            <p class="story">
+                In 2024 I went to Everest tea house, and asked what they best teas they had to offer were like. I bought 100g of the Silver Needle Tip Tea, because that was the top-of-the-top, and I felt it'd be worth Rs 1,000 cost just to see what the big deal was.
+                <br><br>
+                A friend who never drinks tea apparently said after trying it, that she didn't mind it at all and would like to drink more of it. It was noticeably less dry and astingent than the White tea I'd also brought last year. It was supposed to be decent tea too. We also tried that.
+            </p>
+        </div>
+
+        <div class="menu-item">
+            <h2>Quinoa ra fapar ko bhat</h2>
+            <p class="subtitle">Quinoa and buckwheat grains cooked together in the rice cooker.</p>
+            <p class="story">
+                This is what I eat everyday, so not specially exciting for me. Folks were surprised by how I was able to get such intact consistency for quinoa.
+            </p>
+        </div>
+
+
+    </main>
+
+</body>
+</html>
