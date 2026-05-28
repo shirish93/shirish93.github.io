@@ -6,6 +6,7 @@ categories:
   - ethnic-foods
   - nepali-foods
 ---
+This is the best idea I've ever had. I'm willing to spend the rest of my life working towards it. I don't know how to put it at the top of this page, but if you encounter this, please read this!
 
 **Initially compiled on Nov 5, 2025**
 

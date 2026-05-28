@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leadership, community-building, vision and my aspirations 
+title: My leadership and community-building aspirations
 author: shirish
 categories:
   - innovation
@@ -8,6 +8,8 @@ categories:
   - ideas
   - Kathmandu
 ---
+
+How do you start with leadership when you don't have an organization to lead? How do you build a community when all you have is friend groups. I'm trying to figure out the way ahead.
 
 NOTE NOTE NOTE: THIS NEEDS TO GO INTO MY WHY NEPAL BLOG, BUT STAYS HERE UNTIL THAT BLOG COMES OUT!
 

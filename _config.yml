@@ -63,7 +63,7 @@ collections:
     permalink: /:collection/:title
   failedprojects:
     output: true
-    permalink: /:collection/:title
+    permalink: /failed-projects/:title
   aboutme:
     output: true
     permalink: /:collection/:title

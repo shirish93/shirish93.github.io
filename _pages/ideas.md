@@ -26,21 +26,15 @@ May 2026 Note: I removed all the slop images from this section. It hurt because 
 </div>
 </div>
 
-<div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 mt-4">
-{% for post in site.ideas %}
-  <div class="col">
-    <div class="card h-100 shadow-sm">
-      {% if post.image %}
-      <a href="{{ post.url | absolute_url }}">
-        <img src="{{ post.image | absolute_url }}" class="card-img-top" alt="{{ post.title }}">
-      </a>
-      {% endif %}
-      <div class="card-body d-flex flex-column">
-        <h5 class="card-title">{{ post.title }}</h5>
-        <p class="card-text">{{ post.content | strip_html | truncatewords: 25 }}</p>
-        <a href="{{ post.url | absolute_url }}" class="btn btn-outline-primary mt-auto">Read More &raquo;</a>
-      </div>
-    </div>
-  </div>
-{% endfor %}
+
+{% if page.url == "/ideas" %}
+<section class="recent-posts">
+<div class="row listrecent">
+    {% for post in site.ideas %}
+            {% include postbox.html %}
+    {% endfor %}
 </div>
+</section>
+{% endif %}
+
+

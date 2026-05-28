@@ -8,6 +8,9 @@ categories:
   - ideas
   - Kathmandu
 ---
+Can we restore abandoned village houses, equip them with basic services (water, electricity, simple furnishings) and let long‑term tourists stay in them. The guests would stay weeks to months, paying a modest rent, and hire available local manpower.
+
+
 - Problem – Many remote villages have empty homes because residents leave for jobs elsewhere. The villages lose income, culture, and a sense of community.
     
 - Idea – Restore the abandoned houses, equip them with basic services (water, electricity, simple furnishings) and let long‑term tourists stay in them. The guests will stay weeks to months, paying a modest rent.

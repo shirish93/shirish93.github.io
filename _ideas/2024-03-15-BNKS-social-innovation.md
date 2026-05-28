@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Leveraging Budhanilkantha School's Unique Assets for an Innovation Edge"
+title:  "Boarding school can lead in innovative practices"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
-BNKS Innovation Roadmap
+Budhanilkantha school could do more to invest in innovation, and deploying existing innovation orgs it in real-world usecases.
+
 
 Vision
 Transform BNKS into a hub of creativity and social impact, giving students future‑ready skills and a global outlook.

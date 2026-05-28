@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Using student driven awareness and cleanliness campaigns to improving public hygeine and sanitation in Kathmandu valley"
+title:  "Can we get students to lead awareness programs for urban canitation?"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
+Littering and a lack of ownership of shared hygeine are big problems with urban sanitation in Kathmandu. Might a city-wide competition among schools and students to keep their communities clean and well-informed change the dynamic?
+
 **Main Issue**
 
 - 1600 tons of waste are generated each day in Kathmandu and Lalitpur, but only about 70 % reach proper disposal facilities.

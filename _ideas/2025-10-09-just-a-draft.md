@@ -1,13 +1,12 @@
 ---
 layout: post
-title: Draft on different journals for this blog
+title: All the blogs I want on this site
 author: shirish
 categories:
-  - innovation
-  - research
   - ideas
-  - Kathmandu
 ---
+This is me ideating on all the cool sections I'd want on this site, and if it's just a wild fantasy that'll never be realized.
+
 
 ** THIS IS MEANT TO GO IN A SEPARATE SECTION OF ITSELF. IT STAYS HERE BECAUSE I NEED TO SHIFT THINGS QUICK! **
   

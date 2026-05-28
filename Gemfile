@@ -18,3 +18,6 @@ end
 # Add webrick for 'jekyll serve' command compatibility with Ruby 3.0+
 # This was likely in your old Gemfile, judging by Gemfile.lock
 gem 'webrick'
+
+# Silences the Faraday v2.0+ warning
+gem 'faraday-retry'

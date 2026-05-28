@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digital fabrication of traditional products in Kathmandu
+title: 3D printing and CNC-ing traditional Nepali craft, and training manpower
 author: shirish
 categories:
   - innovation
@@ -8,6 +8,9 @@ categories:
   - ideas
   - Kathmandu
 ---
+There's a potential for Nepali craftsmen and technologists to gain a foot ahead in fabrication of wood and plastic with traditional design. Somebody's gotta start the ball rolling. I can volunteer with seed fund.
+
+
 Digital Fabrication of Nepali Woodcarving, Pottery and other traditional products
 
 

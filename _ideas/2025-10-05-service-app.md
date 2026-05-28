@@ -9,6 +9,8 @@ categories:
   - Kathmandu
 ---
 
+Can we connect service providers in Nepal with potential Nepali customers abroad and create a thriving marketplace without competing with other major platforms? Or if such a place already exists, can somebody tell me wher eit exists please?
+
 The idea is based on a couple of observations. 
 * I have hired an editor in Nepal and worked with him for a couple of months. He helped me write better. The way I found him was through friends, but not necessarily everybody in Nepal or Nepalis abroad has access to good quality English editors. 
 * Friend's sister, who recently came to the U.S., uses her gym instructor from Nepal for bi-weekly gym sessions. He looks at her posture and provides feedback and guidance. I've actually heard it from quite a few people that they were using gym instructors from Nepal and India.

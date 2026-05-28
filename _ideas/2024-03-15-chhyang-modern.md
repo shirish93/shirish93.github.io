@@ -8,7 +8,7 @@ categories:
   - ideas
   - Kathmandu
 ---
-Starting a chhyang brewkit business in Kathmandu
+What might it take to start a chhyang brewkit business in Kathmandu, and would it be legal?
 
 1. Gotta learn the Tradition  
     • Spend time with local brewers and communities to understand chhyang’s history, cultural role, and brewing process.  

@@ -19,8 +19,9 @@ echo "--- Press CTRL+C to stop the server. ---"
 # -v mounts: Mount your local project directory for live-reloading.
 # The command `bundle exec jekyll serve --host 0.0.0.0` starts the server, watches
 # for file changes, and makes it accessible from outside the container.
-docker run --rm \
+docker run --rm -it \
     -p 4000:4000 \
+    -p 35729:35729 \
     -v "$(pwd)":/usr/src/app \
     -v /usr/src/app/node_modules \
-    jekyll-builder bundle exec jekyll serve --host 0.0.0.0
+    jekyll-builder sh -c "bundle install && bundle exec jekyll serve --host 0.0.0.0 --livereload"

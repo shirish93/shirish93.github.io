@@ -9,6 +9,9 @@ categories:
   - Kathmandu
 ---
 
+A challenge with innovating in mass‑produced pottery is creating new concrete molds and turning them into mass product. The cost of a new mold is high enough that you need to sell hundreds or thousands of your final product to justify the initial mold investment. 3D printing the molds to create concrete casts could solve the issue.
+
+My idea is for somebody (my friend AKS?) to learn slip casting pottery and use 3D printed support to create concrete molds. After he creates a couple of concrete molds, my goal is for him to go to other pottery makers. Industrial-scale cheap sellers or small‑volume pricey ones, go to them all, and understand the market for quick-turnaround pottery molds.
 
 ** Update on Dec 11, 2025: **
 

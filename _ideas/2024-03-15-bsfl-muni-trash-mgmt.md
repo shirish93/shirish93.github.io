@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Black Soldierfly for a novel municipal household waste management mechanism in Kathmandu Valley"
+title:  "Kathmandu can turn trash into protein-rich feed"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
+Kathmandu valley could use Black Soldier Fly Larvae to convert organic waste to high-protein insects that can be used as bird or fish feed.
+
 Proposal: Using Black Soldier Fly Larvae (BSFL) for Kathmandu’s Organic Waste
 
 Problem

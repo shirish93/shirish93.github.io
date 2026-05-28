@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Exploring the Wonders of Nepali Marcha through collection of samples from across Nepal"
+title:  "Somebody needs to collect and save marcha from all over Nepal"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
+Marcha, or rice starter yeast, is a coloby of mold, yeast and bacteria. Each geographical origin has a unique bio-signature. It's not a valued commodity in Nepal, but what if we preserved it and commercialized it?
+
 Why I care:  
 Study Nepal’s traditional fermented rice drink _chhyang_ by documenting and recreating the microbial starter culture known as _marcha_, then analyse its scientific and cultural significance.
 

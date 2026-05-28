@@ -3,59 +3,66 @@ layout: default
 title: Home
 ---
 
-{% if page.url == "/" %}
-
-<!-- Featured
-================================================== -->
+{% if paginator.page == 1 %}
+<!-- Featured Posts -->
 <section class="featured-posts">
-    <div class="section">
+    <div class="section-title">
         <h2><span>Featured</span></h2>
     </div>
     <div class="row">
-
-    {% for post in site.posts %}
-
-        {% if post.featured == true %}
-
-            {% include featuredbox.html %}
-
-        {% endif %}
-
-    {% endfor %}
-
+        {% assign featured_posts = site.posts | where: "featured", true %}
+        {% for post in featured_posts limit:4 %}
+        <div class="col-md-12 mb-4">
+            <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">
+                        <a class="text-dark" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    </h2>
+                    <p class="card-text text-muted">
+                        {{ post.excerpt | strip_html | truncate: 220 }}
+                    </p>
+                    <a href="{{ post.url | relative_url }}" class="read-more">Read full post →</a>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
     </div>
 </section>
-
 {% endif %}
 
-<!-- Posts Index
-================================================== -->
+<!-- All Stories -->
 <section class="recent-posts">
-
-    <div class="section">
-
+    <div class="section-title">
         <h2><span>All Stories</span></h2>
-
     </div>
-
     <div class="row listrecent">
-
         {% for post in paginator.posts %}
-
-        {% include postbox.html %}
-
+        <div class="col-md-6 mb-4">
+            <div class="card h-100 border-0 shadow-sm">
+                <div class="card-body">
+                    <h2 class="card-title">
+                        <a class="text-dark" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    </h2>
+                    <p class="card-text text-muted">
+                        {{ post.excerpt | strip_html | truncate: 220 }}
+                    </p>
+                    <a href="{{ post.url | relative_url }}" class="read-more">Read full post →</a>
+                </div>
+            </div>
+        </div>
         {% endfor %}
-
     </div>
 
+    <!-- Pagination -->
+    <div class="bottompagination">
+        <nav class="pagination justify-content-center" role="navigation" aria-label="pagination">
+            {% if paginator.previous_page %}
+            <a class="btn btn-outline-danger me-2" href="{{ paginator.previous_page_path | relative_url }}">&laquo; Prev</a>
+            {% endif %}
+            <span class="align-self-center mx-2 text-muted">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+            {% if paginator.next_page %}
+            <a class="btn btn-outline-danger ms-2" href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+            {% endif %}
+        </nav>
+    </div>
 </section>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
-

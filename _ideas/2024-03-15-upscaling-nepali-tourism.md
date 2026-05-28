@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upscaling Nepali tourism
+title: Can we upscale Nepali tourism without a massive infrastructure spend?
 author: shirish
 categories:
   - innovation
@@ -8,6 +8,8 @@ categories:
   - ideas
   - Kathmandu
 ---
+Are there low-lying fruits with tourism upscaling that don't involve massive and expensive infrastructure programs or marketing campaigns? What might be the cheapest way to get more boogie tourists to come, and spend more?
+
 Upscaling Nepali tourism – core ideas
 
 Thought: How can we raise tourism revenue, improve infrastructure and living standards by turning Nepal into a premium destination.

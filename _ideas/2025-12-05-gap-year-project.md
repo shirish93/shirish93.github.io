@@ -8,6 +8,7 @@ categories:
   - ideas
   - Kathmandu
 ---
+Can we organize lightly structured classes around individual discovery, expansion, personal intellectual horizons, adventure, art, craft, history, etc., that high-schoolers don't usually explore? We would help them apply to foreign universities and also train them to thrive after they go to foreign colleges, so they can lead and guide others in college.
 
 Question I answer about the Gap Year Project
 

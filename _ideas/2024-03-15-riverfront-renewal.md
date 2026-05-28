@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Riverfront Renewal in Kathmandu and Lalitpur
+title: Can we turn riverfronts in Kathmandu to be a positive experience?
 author: shirish
 categories:
   - innovation
@@ -8,6 +8,9 @@ categories:
   - ideas
   - Kathmandu
 ---
+Kathmandu's rivers stink, and there's no direct incentive for locals to not dump sewage into the rivers. What if we changed incentive structures so that cleaner rivers led to higher income and better property valuations for those living around them? How much effort would it take to rejuvenate Kathmandu's rivers?
+
+
 - Current Problems  
     • Rivers are polluted with untreated sewage, industrial waste and plastic.  
     • Infrastructure is weak – no sanitation, poor drainage, eroding banks.  

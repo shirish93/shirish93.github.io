@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Caps of Nepal: A business idea to celebrate Nepal's cultural diversity"
+title:  "Idea to sell collections of caps from all Nepali ethnicities "
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
+What if we offered curated collections of high‑quality traditional caps from across Nepal. Each set would show different ethnic styles and come with explanatory packaging that explains history, cultural significance, and origin...Would be a cool tourist souveneer or a gift for Nepalis going abroad?
+
+
+
 - Idea  
     Offer curated collections of high‑quality, handcrafted traditional caps from across Nepal. Each set shows multiple ethnic styles and comes with explanatory packaging that explains history, cultural significance, and origin.
     
