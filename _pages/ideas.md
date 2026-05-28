@@ -20,6 +20,8 @@ Feb 2025 Note: I created a mess a year ago by assuming genAI would be a useful a
 <p>
 Oct 2025 Note: I undid all the AI slop, summarized them all, and changed the title of this section from "Steal this Ideas / Ideas Blog" to Ideas Journal. It'll be a living document, where I'll keep moving things around, keep adding the ideas as them come in!
 </p>
+<p>
+May 2026 Note: I removed all the slop images from this section. It hurt because I had spent significant portion of my time three years ago generating them. But it's okay. I'll survive. There was very limited intentionality in those from me. They looked great and I spent a long time learning the prompts, but I learned nothing. The lesson is to not be a chump and run off with the hottest fad ever. I'll eventually get around to putting hand-drawn illustrations here. I've been taking art classes recently.</p>
 
 </div>
 </div>
