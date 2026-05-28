@@ -8,6 +8,9 @@ categories:
   - ideas
   - Kathmandu
 ---
+Nepali culture is cool and well-liked. We have talented singers, performers etc. Can we create an industry to sell our performance abroad, without massive investment in marketing and infrastructure like Japanese and Korean governments? Or is it too big an ask?
+
+
 **In this piece, written on Nov 5, 2025 originally, I pretend to be the CEO of a global-scale talent-management company that competes with the Koreans.**
 
 Nepal is an ethnically diverse country. We have many dozens of languages, hundreds of different ethnicities and sub-ethnicities. We have many, many dozens of distinct food traditions, dance traditions, and music traditions. We have traditionally not been able to take advantage of that, and often, particularly those of us living in the cities, have seen that as a cultural baggage rather than an asset that can be shared and used to make ourselves wealthier and be proud of it in the world. When we have used our culture and traditions, etc., as a point of pride, it has been a tokenism thing, as in, "Oh, I am a different person than you. I wear a colorful thing. Isn't that wonderful? Give me all the cool stuff." It hasn't been for the inherent value of it. When you hear a song, particularly in a commercial context, you don't consider it to be good automatically because it's in a language that you don't speak or understand. If you see a dance, you don't automatically like a dance because somebody else is dancing it or the colors are very colorful. So that tokenist celebration of our different traditions isn't helpful in a long-term commercial way. Rather, it's hindering us because we are pretending our cultures and traditions, living as they are, already exist in a museum and that makes the concept that what our culture and tradition is is worthy only of living in a museum, in a dusty old room, and not as a part of our everyday life, not as a living culture.

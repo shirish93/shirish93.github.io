@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Using Nepal's municipal websites as a proxy for transparency: strengthening local government accountability data-driven efforts"
+title:  "Make Nepali municipalities compete on digital transparency"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
+What if there was a very public 'competition' across Nepal's municipalities on data transparecy based on their websites and other easy-to-measure metrics. The municipalities could be awarded with positive media attentioin and a small amount of money. The competition, combined with volunteer-based offer to help improve their numbers could improve digital transparency.
+
+
 
 1. Goal  
 

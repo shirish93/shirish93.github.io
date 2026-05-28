@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kombucha flavors and fermenting in the winter: Plans for collaboration with my friend and his juicer
+title: "Kombucha flavors and fermenting in the winter: Plans for collaboration with my friend and his juicer"
 author: shirish
 categories:
   - fermentation

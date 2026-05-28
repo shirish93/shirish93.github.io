@@ -18,6 +18,7 @@ echo "--- Running build process inside Docker container ---"
 # for node_modules. This prevents the first mount from hiding the node_modules
 # directory that was installed when the image was built, making `postcss` available.
 docker run --rm -v "$(pwd)":/usr/src/app -v /usr/src/app/node_modules jekyll-builder sh -c '
+    bundle install
     set -e
     echo "--- Building Jekyll site ---"
     bundle exec jekyll build

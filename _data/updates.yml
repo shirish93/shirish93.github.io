@@ -126,7 +126,7 @@
     TEST. This is also a test message, where I'm definining date, image and location. It validates that myrudimentary implementation of 'social updates' feature done through yaml files has been a success. 
     Also, this shows that I can post long multi-line, multiparagraph messages...
   date: April 17, 2024
-  image: https://www.shirish.me/assets/images/profile/4.jpg
+  image: /assets/images/profile/4.jpg
   location: Seattle, WA
 
 - content: >

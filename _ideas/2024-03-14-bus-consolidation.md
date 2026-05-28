@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Consolidating Kathmandu's school bus system to save fuel, student commute, and fix traffic"
+title:  "Combining school bus systems to save costs"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
+If all the private schools in Kathmandu collaborated on a joint school bus system, they'd all save money, and the city will see reduced traffic.
+
+
 Problem
 
 Kathmandu’s private schools operate independent bus fleets that cause:

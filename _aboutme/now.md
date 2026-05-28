@@ -177,11 +177,11 @@ permalink: /now
   {% for update in site.data.updates %}
   <div id="update-{{ forloop.rindex }}" class="message tooltip-{% cycle 'left', 'right' %}">
     <div class='cont'>
-    {{update.content}}
+    {{ update.content }}
     </div>
     {% if update.image %}
     <div class="img">
-      <img src="{{update.image}}">
+      <img src="{{ update.image | relative_url }}">
     </div>
     {% endif %}
     <div class="date-box">

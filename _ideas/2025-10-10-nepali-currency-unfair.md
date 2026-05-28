@@ -8,7 +8,10 @@ categories:
   - ideas
   - Kathmandu
 ---
+
+Nepali currency is massively overvalued for it's relative usage in the global economy. It's value against the dollar (and by general proxy most other currencies) going down will be good for the local market, and for the entire economy in the long term.
   
+
 **NOTE: THIS WILL GO TO THE WHY NEPAL? JOURNAL. Until Then, It stays here, because who knows when I'll get around to creating it?**
 
 

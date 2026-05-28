@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "A radical proposal: market-funded reconstruction of old/dying heritage houses for shared profits, shared culture"
+title:  "Can we rebuild old houses in traditional style, and have it be self-funding?"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
-Overview
-
-A proposal to preserve traditional houses in Kathmandu and Lalitpur by rebuilding them, adding new floors, and leasing the added space to investors. Rental income is shared with homeowners, creating financial benefits for residents while safeguarding heritage.
+The idea is to preserve traditional houses in Kathmandu and Lalitpur by rebuilding them, adding new floors, and leasing the added space to investors. Rental income is shared with homeowners, creating financial benefits for residents while safeguarding heritage.
 
 ### 1. Challenge
 

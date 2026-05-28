@@ -8,6 +8,9 @@ categories:
   - ideas
   - Kathmandu
 ---
+Can we convince the retired and the elderly to gather together into 'day schools'? Would it be viable, or are there too many competing social/cultural blockers in either direction? My main goal is to get my grandparents going out, working out, and making and taking to (new) friends!
+
+
 * Just like people are spending much for children's education, they should prioritize their parents' and grandparents' well-being and education as well.
 
 * A large % of over-55 population in the Kathmandu valley is very lonely

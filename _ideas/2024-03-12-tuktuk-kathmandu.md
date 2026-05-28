@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Encouraging and Enabling Electric Tuk-Tuks in Kathmandu as smart public transport means"
+title:  "Small electric vehicles as public transport in Kathmandu"
 author: shirish
 categories: [ innovation, tuktuk, ideas ]
 ---
+
+Wouldn't it be cool if gas powered cars were replaced by tiny electric vehicles for public transport in Kathmandu? Kathmandu could even get a replacement for the infamously polluting Bikram Tempos, but in EV form!
+
+
 Problem
 
 Kathmandu’s air quality, noise level and traffic are worsened by fossil‑fuel public transport.  

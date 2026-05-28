@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Upskilling Nepali migrant workers for increased wages and improved workplace leverage"
+title:  "Trying to increase wages for Nepali emigrants"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
 ---
+If we could train and unpskill Nepali labor traveling abroad, could we significantly increase the earned income? Could such a potential increase fund the training itself?
+
 Summary of the Low‑Skilled Nepali Migrant Upskilling Program
 
 1. Problem Statement  

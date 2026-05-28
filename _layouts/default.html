@@ -11,11 +11,11 @@
 <!-- Bootstrap 5 CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     
-<link href="{{ site.url }}/assets/css/screen.css" rel="stylesheet">
+<link href="{{ '/assets/css/screen.css' | relative_url }}" rel="stylesheet">
 
-<link href="{{ site.url }}/assets/css/tooltip.css" rel="stylesheet">
+<link href="{{ '/assets/css/tooltip.css' | relative_url }}" rel="stylesheet">
 
-<link href="{{ site.url }}/assets/css/main.css" rel="stylesheet">
+<link href="{{ '/assets/css/main.css' | relative_url }}" rel="stylesheet">
 
 <style>
     a, a:hover, a:focus {
@@ -24,6 +24,33 @@
     .navbar-nav .nav-link.current {
         color: #d9230f !important;
         border-bottom: 2px solid #d9230f;
+    }
+    .mainheading .sitetitle {
+        font-family: 'Merriweather', serif;
+        font-size: 1.5rem; 
+        font-weight: 700;
+    }
+    .mainheading .lead {
+        font-family: 'Merriweather', serif;
+        font-size: 1rem;
+        color: #6c757d;
+    }
+    .card-title, .card-text, .posttitle, .article-post {
+        font-family: 'Merriweather', serif;
+    }
+    .card-title {
+        font-size: 1.2rem;
+        font-weight: 700;
+        line-height: 1.3;
+        margin-bottom: 0.5rem;
+    }
+    .posttitle {
+        font-size: 1.8rem;
+        font-weight: 700;
+    }
+    .card-text {
+        font-size: 0.92rem;
+        color: #6c757d;
     }
 </style>
 
@@ -45,7 +72,7 @@
     <div class="container pr-0">
 
     <!-- Begin Logo -->
-    <a class="navbar-brand" href="{{ site.url }}/">
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">
         <h6 class="sitetitle" style="font-family: Righteous;">
         SHIRISH POKHAREL
         </h6>
@@ -63,31 +90,31 @@
             <ul class="navbar-nav ms-auto">
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/index.html">Blog</a>
+                    <a class="nav-link" href="{{ '/index.html' | relative_url }}">Blog</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/about">About</a>
+                    <a class="nav-link" href="{{ '/about' | relative_url }}">About</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/now">Now</a>
+                    <a class="nav-link" href="{{ '/now' | relative_url }}">Now</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/ideas">Steal this Idea!</a>
+                    <a class="nav-link" href="{{ '/ideas' | relative_url }}">Steal this Idea!</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/failed-projects">Post Mortems</a>
+                    <a class="nav-link" href="{{ '/failed-projects' | relative_url }}">Post Mortems</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/fermentland">Ferment Blog</a>
+                    <a class="nav-link" href="{{ '/fermentland' | relative_url }}">Ferment Blog</a>
                 </li>
 
                 <li class="nav-item">
-                    <a class="nav-link" href="{{ site.url }}/socials">Social Media</a>
+                    <a class="nav-link" href="{{ '/socials' | relative_url }}">Social Media</a>
                 </li>
 
                 <!--li class="nav-item">
@@ -131,7 +158,7 @@
 ================================================== -->
 <div class="alertbar">
 	<div class="container text-center">
-		<span><img src="{{ site.url }}/{{ site.logo }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
+		<span><img src="{{ site.logo | relative_url }}" alt="{{site.title}}"> &nbsp; Never miss a <b>story</b> from us, subscribe to our newsletter</span>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
             <div class="mc-field-group">
             <input type="email" placeholder="Email" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
@@ -157,11 +184,11 @@
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.url}}/categories#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
+                    <a class="mt-1 mb-1" href="{{ '/categories' | relative_url }}#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} ({{ site.tags[category].size }})</a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}
-                    <a class="mt-1 mb-1" href="{{site.url}}/categories#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
+                    <a class="mt-1 mb-1" href="{{ '/categories' | relative_url }}#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} ({{ category[1].size }})</a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}
@@ -194,14 +221,14 @@
 <!-- Bootstrap 5 JS Bundle (includes Popper) -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
-<script src="{{ site.url }}/assets/js/mediumish.js"></script>
+<script src="{{ '/assets/js/mediumish.js' | relative_url }}"></script>
 
 {% if site.lazyimages == "enabled" %}
-<script src="{{ site.url }}/assets/js/lazyload.js"></script>
+<script src="{{ '/assets/js/lazyload.js' | relative_url }}"></script>
 {% endif %}
 
 
-<script src="{{ site.url }}/assets/js/random-image.js"></script>
+<script src="{{ '/assets/js/random-image.js' | relative_url }}"></script>
 
 <!-- Search Modal -->
 <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
@@ -295,9 +322,9 @@
         console.log("Loading search scripts...");
 
         Promise.all([
-            loadScript("{{site.url}}/assets/js/lunr.js"),
-            fetch("{{site.url}}/assets/js/documents.json").then(res => res.json()),
-            fetch("/assets/js/idx.json").then(res => res.json())
+            loadScript("{{ '/assets/js/lunr.js' | relative_url }}"),
+            fetch("{{ '/assets/js/documents.json' | relative_url }}").then(res => res.json()),
+            fetch("{{ '/assets/js/idx.json' | relative_url }}").then(res => res.json())
         ]).then(([lunrScript, searchData, compactedIndex]) => {
             // Create a simple lookup table for documents by their ID
             documents = {};
@@ -335,9 +362,22 @@
             const docId = result.ref;
             const doc = documents[docId];
             if (doc) {
+                let targetUrl = doc.url;
+                // Handle links pointing to 0.0.0.0 or local hosts by making them relative.
+                // This ensures search links work regardless of how the local server is accessed.
+                try {
+                    const u = new URL(doc.url);
+                    const localHosts = ['0.0.0.0', '127.0.0.1', 'localhost'];
+                    if (localHosts.includes(u.hostname)) {
+                        targetUrl = u.pathname + u.search + u.hash;
+                    }
+                } catch (e) {
+                    // doc.url is likely already relative
+                }
+
                 const listItem = document.createElement('li');
                 listItem.classList.add('lunrsearchresult');
-                listItem.innerHTML = `<a href="${doc.url}"><span class="title">${doc.title}</span><br><span class="blurb">${doc.body}</span></a>`;
+                listItem.innerHTML = `<a href="${targetUrl}"><span class="title">${doc.title}</span><br><span class="blurb">${doc.body}</span></a>`;
                 result_list.appendChild(listItem);
             }
         });

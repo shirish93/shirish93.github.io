@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "Reducing Littering in Nepal's National Parks Through Behavioral Incentives and Community Engagement"
+title:  "Getting students to clean national parks"
 author: shirish
 categories: [ innovation, sanitation, ideas, Kathmandu, Shivapuri ]
 ---
+
+Let's teach young students leadership, 3d printing, and organizing skills, by having them organize a program to clean National Parks of litter.
+
+
 Project to Reduce Littering in Nepal’s National Parks
 (Shivapuri, Nagarjun, and other parks)
 

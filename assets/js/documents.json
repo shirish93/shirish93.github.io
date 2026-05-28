@@ -3,34 +3,26 @@ layout: null
 sitemap: false
 ---
 {% assign counter = 0 %}
-[{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains 'category' or page.url contains 'tag' %}{% else %}{
+{% assign all_docs = site.pages | concat: site.posts %}
+{% if site.ideas %}{% assign all_docs = all_docs | concat: site.ideas %}{% endif %}
+{% if site.fermentland %}{% assign all_docs = all_docs | concat: site.fermentland %}{% endif %}
+{% if site.aboutme %}{% assign all_docs = all_docs | concat: site.aboutme %}{% endif %}
+{% if site.failedprojects %}{% assign all_docs = all_docs | concat: site.failedprojects %}{% endif %}
+
+[
+{% assign first_doc = true %}
+{% for doc in all_docs %}
+    {% if doc.url contains '.xml' or doc.url contains '.txt' or doc.url contains 'assets' or doc.url contains 'category' or doc.url contains 'tag' or doc.url == '/ideas' or doc.url == '/fermentland' or doc.url == '/failed-projects' %}
+        {% continue %}
+    {% endif %}
+    {% unless first_doc %},{% endunless %}
+    {
     "id": {{ counter }},
-    "url": "{{site.url}}{{ page.url }}",
-    "title": "{{ page.title }}",
-    "body": {{ page.content | strip_html | strip_newlines | truncatewords: 35, "" | jsonify }}{% assign counter = counter | plus: 1 %}
-    }, {% endif %}{% endfor %}{% for page in site.without-plugin %}{
-    "id": {{ counter }},
-    "url": "{{site.url}}{{ page.url }}",
-    "title": "{{ page.title }}",
-    "body": {{ page.content | strip_html | strip_newlines | truncatewords: 35, "" | jsonify }}{% assign counter = counter | plus: 1 %}
-    }, {% endfor %}{% for page in site.aboutme %}{
-        "id": {{ counter }},
-        "url": "{{site.url}}{{ page.url }}",
-        "title": "{{ page.title }}",
-        "body": {{ page.content | strip_html | strip_newlines | truncatewords: 35, "" | jsonify }}{% assign counter = counter | plus: 1 %}
-    },{% endfor %}{% for page in site.ideas %}{
-        "id": {{ counter }},
-        "url": "{{site.url}}{{ page.url }}",
-        "title": "{{ page.title }}",
-        "body": {{ page.content | strip_html | strip_newlines | truncatewords: 35, "" | jsonify }}{% assign counter = counter | plus: 1 %}
-    },{% endfor %}{% for page in site.posts %}{
-    "id": {{ counter }},
-    "url": "{{site.url}}{{ page.url }}",
-    "title": "{{ page.title }}",
-    "body": {{ page.content | strip_html | strip_newlines | truncatewords: 35, "" | jsonify }}{% assign counter = counter | plus: 1 %}
-    }, {% endfor %}{% for page in site.failedprojects %}{
-        "id": {{ counter }},
-        "url": "{{site.url}}{{ page.url }}",
-        "title": "{{ page.title }}",
-        "body": {{ page.content | strip_html | strip_newlines | truncatewords: 35, "" | jsonify }}{% assign counter = counter | plus: 1 %}
-    }{% if forloop.last %}{% else %}, {% endif %}{% endfor %}]
+    "url": "{{ doc.url | relative_url }}",
+    "title": {{ doc.title | jsonify }},
+    "body": {{ doc.content | strip_html | strip_newlines | truncatewords: 35, "" | jsonify }}
+    }
+    {% assign counter = counter | plus: 1 %}
+    {% assign first_doc = false %}
+{% endfor %}
+]
