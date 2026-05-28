@@ -6,9 +6,9 @@ categories:
   - engineering
   - ai
   - genai
-featured: false
+featured: true
 hidden: true
-image: assets/images/jenga.png
+image: assets/images/robotired.png
 image_description: GenAI can be a tricky monster. Watch out for their evil ways! The image was probably slop-genereated, and I don't want to talk about it.
 ---
 
