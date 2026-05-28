@@ -7,7 +7,6 @@ categories:
   - research
   - ideas
   - Kathmandu
-image: assets/images/old-modern.png
 ---
 Digital Fabrication of Nepali Woodcarving, Pottery and other traditional products
 

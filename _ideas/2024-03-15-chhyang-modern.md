@@ -7,7 +7,6 @@ categories:
   - research
   - ideas
   - Kathmandu
-image: assets/images/chhyang.png
 ---
 Starting a chhyang brewkit business in Kathmandu
 

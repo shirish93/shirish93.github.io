@@ -3,7 +3,6 @@ layout: post
 title:  "Reducing Littering in Nepal's National Parks Through Behavioral Incentives and Community Engagement"
 author: shirish
 categories: [ innovation, sanitation, ideas, Kathmandu, Shivapuri ]
-image: "https://upload.wikimedia.org/wikipedia/commons/4/4a/A_view_of_Shivapuri_national_park_from_Sundarijal.jpg"
 ---
 Project to Reduce Littering in Nepal’s National Parks
 (Shivapuri, Nagarjun, and other parks)

@@ -3,7 +3,6 @@ layout: post
 title:  "Encouraging and Enabling Electric Tuk-Tuks in Kathmandu as smart public transport means"
 author: shirish
 categories: [ innovation, tuktuk, ideas ]
-image: "assets/images/tuktuk.png"
 ---
 Problem
 
