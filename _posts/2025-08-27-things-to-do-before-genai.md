@@ -16,7 +16,7 @@ You've heard the warnings. You've read up on the importance of [figuring out you
 Things you need to consider before you start working on that genAI project in your company
 ### Understand what the problem you're trying to solve actually is
 
-Does your genAI solution really, really solve the actual problem? Or are you trying to solve the problem because you really really want to deploy genAI tool? Has management told you. it's an 'ai-first' company now, and you just need an excuse? If it's the latter, make sure you don't dig yourself too deep. You do want to show exciting results. Be ready to show positive business value even after the ai eagerness has faded away. Start with manageable, low-cost implementations.
+Does your genAI solution really, really solve the actual problem? Or are you trying to solve the problem because you really really want to deploy genAI tool? Has management told you that it's an 'ai-first' company now, and you just need an excuse? If it's the latter, make sure you don't dig yourself too deep. You do want to show exciting results. Be ready to show positive business value even after the ai eagerness has faded away. Start with manageable, low-cost implementations.
 
 If it's the former, make sure you've evaluated all existing 'classic' machine learning techniques. They're often a magnitude faster in speed, several times cheaper, and easier to understand. You don't lose that much out in performance either. There are some very limited use cases where genAI might be the better, value-positive solution. Make sure you are confident your use case is one of them!
 <aside class="pquote">
