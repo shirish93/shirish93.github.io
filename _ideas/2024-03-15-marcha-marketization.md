@@ -3,7 +3,6 @@ layout: post
 title:  "Exploring the Wonders of Nepali Marcha through collection of samples from across Nepal"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: assets/images/marcha.png
 ---
 Why I care:  
 Study Nepal’s traditional fermented rice drink _chhyang_ by documenting and recreating the microbial starter culture known as _marcha_, then analyse its scientific and cultural significance.

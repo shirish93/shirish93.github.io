@@ -7,7 +7,6 @@ categories:
   - research
   - ideas
   - Kathmandu
-image: assets/images/tourism.png
 ---
 Upscaling Nepali tourism – core ideas
 

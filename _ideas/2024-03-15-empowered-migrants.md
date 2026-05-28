@@ -3,7 +3,6 @@ layout: post
 title:  "Upskilling Nepali migrant workers for increased wages and improved workplace leverage"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: assets/images/migrant2.png
 ---
 Summary of the Low‑Skilled Nepali Migrant Upskilling Program
 

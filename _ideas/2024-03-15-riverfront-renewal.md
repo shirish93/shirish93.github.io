@@ -7,7 +7,6 @@ categories:
   - research
   - ideas
   - Kathmandu
-image: assets/images/riverfront.png
 ---
 - Current Problems  
     • Rivers are polluted with untreated sewage, industrial waste and plastic.  

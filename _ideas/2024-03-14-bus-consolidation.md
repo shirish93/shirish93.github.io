@@ -3,7 +3,6 @@ layout: post
 title:  "Consolidating Kathmandu's school bus system to save fuel, student commute, and fix traffic"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: "assets/images/bus-gen.png"
 ---
 Problem
 

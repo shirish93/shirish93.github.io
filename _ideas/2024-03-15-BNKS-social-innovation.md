@@ -3,7 +3,6 @@ layout: post
 title:  "Leveraging Budhanilkantha School's Unique Assets for an Innovation Edge"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: assets/images/bnks.png
 ---
 BNKS Innovation Roadmap
 

@@ -3,7 +3,6 @@ layout: post
 title:  "Black Soldierfly for a novel municipal household waste management mechanism in Kathmandu Valley"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: assets/images/bsfl.png
 ---
 Proposal: Using Black Soldier Fly Larvae (BSFL) for Kathmandu’s Organic Waste
 

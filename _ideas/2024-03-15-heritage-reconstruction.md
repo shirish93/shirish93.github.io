@@ -3,7 +3,6 @@ layout: post
 title:  "A radical proposal: market-funded reconstruction of old/dying heritage houses for shared profits, shared culture"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: assets/images/heritage.png
 ---
 Overview
 

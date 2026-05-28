@@ -7,7 +7,6 @@ categories:
   - research
   - ideas
   - Kathmandu
-image: assets/images/festival3.png
 ---
 Idea is inspired by Hadigaun festival, bhaktapur/thimi festivals, they're really successful!
 

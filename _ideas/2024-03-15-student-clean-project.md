@@ -3,7 +3,6 @@ layout: post
 title:  "Using student driven awareness and cleanliness campaigns to improving public hygeine and sanitation in Kathmandu valley"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: assets/images/eco-nepal.png
 ---
 **Main Issue**
 

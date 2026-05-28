@@ -7,7 +7,6 @@ categories:
   - research
   - ideas
   - Kathmandu
-image: assets/images/homestay.png
 ---
 - Problem – Many remote villages have empty homes because residents leave for jobs elsewhere. The villages lose income, culture, and a sense of community.
     

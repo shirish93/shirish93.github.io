@@ -3,7 +3,6 @@ layout: post
 title:  "Using Nepal's municipal websites as a proxy for transparency: strengthening local government accountability data-driven efforts"
 author: shirish
 categories: [ innovation, research, ideas, Kathmandu ]
-image: assets/images/accountability.png
 ---
 
 1. Goal  
