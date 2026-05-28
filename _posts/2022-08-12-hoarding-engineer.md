@@ -14,7 +14,7 @@ Well-run organizations can fall into the trap of 'hoarding' their star engineers
 
 Imagine a dusty attic overflowing with heirlooms, gathering cobwebs. The dusty attic is today's software engineering organizations, and the heirlooms are their engineers. Top performers – an organization's most important assets – are under-used and 'benched', their potential is locked away as if they were antiques.
 
-I saw this myself at a Kathmandu engineering consultancy. A team lead who I had been quite impressed by, was often kept on the sidelines for "big emergencies". This happened as his colleagues struggled with their project timelines. I was confused and frustrated by the experience... the under-utilization of talent, the missed opportunities and hampered efficiency were so easy to fix! It was tough to try not intervening as an outsider.
+I saw this at a Kathmandu engineering consultancy. A team lead who I had been quite impressed by, was often kept on the sidelines for "big emergencies". This happened as his colleagues struggled with their project timelines. I was confused and frustrated by the experience... the under-utilization of talent, the missed opportunities and hampered efficiency were so easy to fix! It was tough to try not intervening as an outsider.
 
 That experience got me thinking. Why would companies find themselves in such a situation, and how might they break free from such self-limiting approach to people management? So here I'll expand a bit on my "use-it-or-lose-it" understanding and the hoarding psychology in organizations. I'll discuss the negative consequences of such hoarding and argue for the alternative. 
 
