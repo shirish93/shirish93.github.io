@@ -12,9 +12,36 @@ categories:
 
 *Aug 4, 2026 Update:*
 
-Some additional thoughts on this after 
+Some additional thoughts on this after reading up a bunch and consulting friends and experts.
 
-- There's already a municipality doing this in Nepal. Let's reach out to them and see where they're at. TODO: Find the municipality, and their contact address.
+- There's already a municipality doing this in Nepal. Let's reach out to them and see where they're at. Turns out there's quite a few!
+
+- Tarkeshwar Municipality is the one that's done it at the biggest level. Here's the [news article on it](https://www.onlinekhabar.com/2025/07/1729485/senior-citizens-will-now-be-able-to-ride-a-car-to-school-in-tarakeswar). 
+  
+  - Article from when the project [began](https://sagarmathapost.com/2024/11/28/108278.html). They want to use the project as a Model School for the elderly. Makes sense.
+
+- [Here's an old article from 2019, that mentions Khalanga. It mentions daycare, but the idea is similar](https://kathmandupost.com/karnali-province/2019/11/17/a-day-care-centre-in-khalanga-is-a-blessing-for-senior-citizen)
+
+- [This one is from Rampur-5, Ramghat](https://ekantipur.com/news/2025/12/10/en/senior-citizens-school-opens-in-rampur-for-the-older-generation-33-34.html)
+
+  - Yet another article, about the same school in [Ramghat, in Palpa](https://english.khabarhub.com/2025/26/480494/)
+
+  - Here's the link to the official document [that defines the goals of the project](https://rampurmun.gov.np/sites/rampurmun.gov.np/files/documents/%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0%20%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A4%BF%E0%A4%95%20%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%BE%20%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%20%E0%A4%B0%20%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%20%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5.%20%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%80%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%2C%20%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AD.pdf), right from the municipal website. It's a couple of years old, so it must have taken them ~5 years to execute. Gives a general sense of the timelines involved.
+
+- TODO: Find contacts for all of the municipalities, reach out to them, and see if they'd be willing to talk.
+
+- Here's a list of what the organizations have been doing. I used gemini to collate this list, I think that's an acceptable AI usage.
+
+
+
+| Municipality | Transportation | Key Daily Activities & Services |
+| :--- | :--- | :--- |
+| **Tarakeshwar (Kathmandu)** | Dedicated municipal vans/buses pick up elders in the morning and drop them home in the evening. | • Bhajan Kirtan (devotional singing with instruments)<br />• Yoga and Dhyan (Meditation)<br />• Katha Bachan (religious storytelling/reading)<br />• Daily tea and snacks<br />• Day-long socializing and recreational learning |
+| **Rampur (Palpa)** | Dedicated school buses pick up seniors (like 82-year-old Radha Devi Acharya, who rides the bus every Wednesday and Thursday). | • Intergenerational Skill Transfer: Elders teach traditional, dying skills to the younger generation<br />• Regular health check-ups and psychosocial counseling (मनोपरामर्श)<br />• Yoga and physical wellness<br />• Free midday meals |
+| **Chandannath (Jumla)** | The ward actively budgeted to purchase a dedicated pick-up/drop-off bus for members. | • Playing traditional local musical instruments<br />• Group reading sessions<br />• Socializing to combat cold-weather isolation |
+
+- I'm thinking we'd have to adapt these to more upper/middle-class activities, or more urban-oriented activities, but that's not unapproachable. Additionally, if we can get funding/collab from other municipalities, even implementing it in Kathmandu in a similar way is viable. My aunts wouldn't mind going to one of those with yoga and meditation and singing!
+
 - A parallel structure from the US is 'activities/leisure centers', and Community College classes. Are those activities centers and leisure centers profitable? What about the college classes? Can I reach out to some of the organizers in the US, and are there lessons to be learned? TODO: See if anybody from this industry would be willing to give me pointers
 - What are the costs of NOT doing it. The cost of failure, and the actual cost cost of doing it are not so high. The failure of doing it...could be high. Can that be a motivation to drive me?
 
