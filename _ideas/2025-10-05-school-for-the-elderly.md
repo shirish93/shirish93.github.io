@@ -10,6 +10,28 @@ categories:
 ---
 
 
+
+**Aug 4, 2026 update**
+
+I wrote some of this as a memo to a Nepal Government ministry. Nothing is likely to come from it, but here's the relevant part.
+
+The great thing about this initiative is, there can be small-scale, grassroots, municipal-level experiments that don't need a grand national-scale plan. As you mention earlier, the Innovation Ministry’s role can be networking, coordination, and high-level guidance setting, and consolidating the learnings.
+
+I do believe the outcomes of this initiative would have very positive PR in a global context too.
+
+Potential stakeholders who could be engaged:
+1. Students at BSW/MSW programs, but volunteers aged 16 and above in general
+2. Anybody over the age of 55/60, and capable of independent physical functioning
+3. Schools, physiotherapists, education entrepreneurs, teachers, creatives, artists
+4. Investment clubs, social clubs, etc
+5. Municipalities and other local bodies who could take the lead here
+
+See this for what initially inspired me: https://www.kbc.co.ke/dancing-with-the-aunties-how-china-keeps-its-seniors-active-and-joyful/
+
+
+
+***
+
 **Aug 4, 2026 Update**
 
 Some additional thoughts on this after reading up a bunch and consulting friends and experts.
