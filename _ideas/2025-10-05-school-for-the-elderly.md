@@ -8,6 +8,19 @@ categories:
   - ideas
   - Kathmandu
 ---
+
+
+Update: Aug 4, 2026:
+
+Some additional thoughts on this after 
+
+- There's already a municipality doing this in Nepal. Let's reach out to them and see where they're at. TODO: Find the municipality, and their contact address.
+- A parallel structure from the US is 'activities/leisure centers', and Community College classes. Are those activities centers and leisure centers profitable? What about the college classes? Can I reach out to some of the organizers in the US, and are there lessons to be learned? TODO: See if anybody from this industry would be willing to give me pointers
+- What are the costs of NOT doing it. The cost of failure, and the actual cost cost of doing it are not so high. The failure of doing it...could be high. Can that be a motivation to drive me?
+
+
+*** 
+
 Can we convince the retired and the elderly to gather together into 'day schools'? Would it be viable, or are there too many competing social/cultural blockers in either direction? My main goal is to get my grandparents going out, working out, and making and taking to (new) friends!
 
 
