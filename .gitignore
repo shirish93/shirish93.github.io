@@ -5,4 +5,4 @@ _site
 *~
 .obsidian
 *.base
-templates/
+templates/Gemfile.lock
