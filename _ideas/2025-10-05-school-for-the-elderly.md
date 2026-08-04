@@ -10,7 +10,7 @@ categories:
 ---
 
 
-Update: Aug 4, 2026:
+*Aug 4, 2026 Update:*
 
 Some additional thoughts on this after 
 
