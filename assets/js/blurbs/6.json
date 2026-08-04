@@ -1,1 +1,1 @@
-{"id": 6, "url": "https://www.shirish.me/fermentland", "title": "Shirish Pokharel's Adventures in Fermentland", "body": "This is my \"Adventures in Fermentland\" journal. My observations, thoughts and ongoing experiments with fermentation are documented here, mostly for my"}
+{"id": 6, "url": "/page2/", "title": "Home", "body": "{% if paginator.page == 1 %} Featured {% assign featured_posts = site.posts | where: \"featured\", true %} {% for post in featured_posts limit:4 %} {{ p"}

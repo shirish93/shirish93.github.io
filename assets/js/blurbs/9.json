@@ -1,1 +1,1 @@
-{"id": 9, "url": "https://www.shirish.me/robots.txt", "title": "", "body": "User-agent: *Disallow: Sitemap: {{ site.url }}/sitemap.xml "}
+{"id": 9, "url": "/page5/", "title": "Home", "body": "{% if paginator.page == 1 %} Featured {% assign featured_posts = site.posts | where: \"featured\", true %} {% for post in featured_posts limit:4 %} {{ p"}

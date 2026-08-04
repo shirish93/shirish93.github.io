@@ -1,1 +1,1 @@
-{"id": 8, "url": "https://www.shirish.me/", "title": "Home", "body": "{% if page.url == \"/\" %} Featured {% for post in site.posts %} {% if post.featured == true %} {% include featuredbox.html %} {% endif %} {% endfor %} "}
+{"id": 8, "url": "/page4/", "title": "Home", "body": "{% if paginator.page == 1 %} Featured {% assign featured_posts = site.posts | where: \"featured\", true %} {% for post in featured_posts limit:4 %} {{ p"}
