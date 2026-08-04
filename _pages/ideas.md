@@ -30,7 +30,8 @@ May 2026 Note: I removed all the slop images from this section. It hurt because 
 {% if page.url == "/ideas" %}
 <section class="recent-posts">
 <div class="row listrecent">
-    {% for post in site.ideas %}
+    {% assign sorted_ideas = site.ideas | sort: "last_modified_at" | reverse %}
+    {% for post in sorted_ideas %}
             {% include postbox.html %}
     {% endfor %}
 </div>

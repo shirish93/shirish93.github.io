@@ -13,6 +13,7 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     gem "kramdown", ">= 2.3.1"
     gem 'rouge'
+    gem 'jekyll-last-modified-at'
 end
 
 # Add webrick for 'jekyll serve' command compatibility with Ruby 3.0+
