@@ -1,1 +1,1 @@
-{"id": 10, "url": "https://www.shirish.me/page2/", "title": "Home", "body": "{% if page.url == \"/\" %} Featured {% for post in site.posts %} {% if post.featured == true %} {% include featuredbox.html %} {% endif %} {% endfor %} "}
+{"id": 10, "url": "/an-admission", "title": "A real boring admission", "body": "This will be short. I want to explain why I haven\u2019t been writing recently. It\u2019s about AI and it\u2019s a shameful admission.I started writing (for this sit"}

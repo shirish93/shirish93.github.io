@@ -1,1 +1,1 @@
-{"id": 7, "url": "https://www.shirish.me/ideas", "title": "Ideas Journal", "body": "This is my ideas journal!I've put lots of time and effort into thinking through them. Feel free to steal them if you wish. I'd like it if you gave me "}
+{"id": 7, "url": "/page3/", "title": "Home", "body": "{% if paginator.page == 1 %} Featured {% assign featured_posts = site.posts | where: \"featured\", true %} {% for post in featured_posts limit:4 %} {{ p"}

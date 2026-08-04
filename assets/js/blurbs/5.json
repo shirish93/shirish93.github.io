@@ -1,1 +1,1 @@
-{"id": 5, "url": "https://www.shirish.me/favorite", "title": "best posts", "body": "If you don't know where to start, this is where you should be!These are posts I like myself, and have enjoyed writing."}
+{"id": 5, "url": "/", "title": "Home", "body": "{% if paginator.page == 1 %} Featured {% assign featured_posts = site.posts | where: \"featured\", true %} {% for post in featured_posts limit:4 %} {{ p"}
