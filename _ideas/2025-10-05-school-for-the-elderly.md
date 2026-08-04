@@ -10,7 +10,7 @@ categories:
 ---
 
 
-*Aug 4, 2026 Update:*
+**Aug 4, 2026 Update**
 
 Some additional thoughts on this after reading up a bunch and consulting friends and experts.
 
@@ -29,6 +29,8 @@ Some additional thoughts on this after reading up a bunch and consulting friends
   - Here's the link to the official document [that defines the goals of the project](https://rampurmun.gov.np/sites/rampurmun.gov.np/files/documents/%E0%A4%9C%E0%A5%8D%E0%A4%AF%E0%A5%87%E0%A4%B7%E0%A5%8D%E0%A4%A0%20%E0%A4%A8%E0%A4%BE%E0%A4%97%E0%A4%B0%E0%A4%BF%E0%A4%95%20%E0%A4%A6%E0%A4%BF%E0%A4%B5%E0%A4%BE%20%E0%A4%B8%E0%A5%87%E0%A4%B5%E0%A4%BE%20%E0%A4%B0%20%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A8%20%E0%A4%95%E0%A5%87%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%8D%E0%A4%B0%20%E0%A4%B8%E0%A4%82%E0%A4%9A%E0%A4%BE%E0%A4%B2%E0%A4%A8%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%B5.%20%E0%A4%B8%E0%A4%AE%E0%A5%8D%E0%A4%AC%E0%A4%A8%E0%A5%8D%E0%A4%A7%E0%A5%80%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BF%E0%A4%A7%E0%A4%BF%2C%20%E0%A5%A8%E0%A5%A6%E0%A5%AD%E0%A5%AD.pdf), right from the municipal website. It's a couple of years old, so it must have taken them ~5 years to execute. Gives a general sense of the timelines involved.
 
 - TODO: Find contacts for all of the municipalities, reach out to them, and see if they'd be willing to talk.
+
+- What really concerns me: Can this be a viable private-only business, does it need public-private partnership with voucher system or some subsidy system, or is it only sustainable as a government-run thing? My hope/desire/aspiration is for this to be completely private venture at least to cater to upper/middle classes.
 
 - Here's a list of what the organizations have been doing. I used gemini to collate this list, I think that's an acceptable AI usage.
 
