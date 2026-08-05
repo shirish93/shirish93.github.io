@@ -9,7 +9,7 @@ hidden: false
 image: assets/images/llm.jpg
 image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/).
   Human-created, AFAIK.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-23 17:41:51'
 layout: post
 title: LLM's will be the next spellcheck assistant, not the next robotic overlords!
 ---

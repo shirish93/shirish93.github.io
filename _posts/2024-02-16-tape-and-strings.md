@@ -6,7 +6,7 @@ categories:
 - leadership
 image: assets/images/jenga.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-23 17:41:51'
 layout: post
 title: The duct-tape and strings approach to software is unfairly maligned
 ---

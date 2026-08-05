@@ -8,7 +8,7 @@ featured: false
 hidden: false
 image: assets/images/tinker-pillay.jpg
 image_description: Image from the publisher page. Human-created.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-23 17:41:51'
 layout: post
 rating: 4
 title: 'Srini Pillay''s Tinker Dabble Try: The Power of an Unfocused Mind, a book

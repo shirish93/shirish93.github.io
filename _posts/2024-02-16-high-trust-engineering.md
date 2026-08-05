@@ -9,7 +9,7 @@ featured: false
 hidden: false
 image: assets/images/trust1.jpg
 image_description: Lovingly hand-crafted on my Kindle Scribe.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-23 17:41:51'
 layout: post
 title: Creating and leading high-trust engineering teams for success
 ---

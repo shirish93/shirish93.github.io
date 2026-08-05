@@ -6,7 +6,7 @@ categories:
 - ideas
 - Kathmandu
 - Shivapuri
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-24 21:46:36'
 layout: post
 title: Getting students to clean national parks
 ---

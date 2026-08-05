@@ -3,7 +3,7 @@ author: shirish
 categories:
 - fermentation
 - chhyang
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-13 19:30:29'
 layout: post
 title: Exciting future plans for my rice wine projects
 ---

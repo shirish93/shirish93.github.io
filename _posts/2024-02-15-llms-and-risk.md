@@ -9,7 +9,7 @@ hidden: false
 image: assets/images/stupid-robot.png
 image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/).
   Human-created, AFAIK.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-24 19:19:11'
 layout: post
 title: The risk of production, customer-facing LLM's let lose
 ---

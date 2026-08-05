@@ -6,7 +6,7 @@ categories:
 - art
 featured: false
 hidden: false
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-16 10:04:12'
 layout: post
 title: All art here will be handmade going forward
 ---

@@ -8,7 +8,7 @@ featured: false
 hidden: false
 image: assets/images/leaderships.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-11 21:42:00'
 layout: post
 title: 'Understanding what kind of leader you are: a new lens to look at Engineering
   leadership'

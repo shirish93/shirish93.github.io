@@ -7,7 +7,7 @@ categories:
 image: assets/images/teamwork.jpg
 image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/).
   Human-created, AFAIK.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-16 17:50:35'
 layout: post
 title: Don't hoard your engineering players, let them out in the field
 ---

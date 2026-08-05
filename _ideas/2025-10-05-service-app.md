@@ -5,7 +5,7 @@ categories:
 - research
 - ideas
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-11-05 18:28:28'
 layout: post
 title: An online service marketplace / platform for domestic Nepali professionals
 ---

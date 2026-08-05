@@ -9,7 +9,7 @@ hidden: true
 image: assets/images/robotired.jpg
 image_description: GenAI can be a tricky monster. Watch out for their evil ways! The
   image was probably slop-genereated, and I don't want to talk about it.
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-05-27 19:41:11'
 layout: post
 title: A real boring admission
 ---

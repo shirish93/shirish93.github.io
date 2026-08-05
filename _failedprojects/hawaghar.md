@@ -5,7 +5,7 @@ categories:
 - postmortem
 - ideas
 image: assets/images/hawaghar.png
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-30 15:30:33'
 layout: post
 title: 'Hawaghar: a failure in community-building'
 ---

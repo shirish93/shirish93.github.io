@@ -5,7 +5,7 @@ categories:
 - mentorship
 featured: true
 hidden: true
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-09-07 19:33:48'
 layout: post
 title: How to be a good mentor
 ---

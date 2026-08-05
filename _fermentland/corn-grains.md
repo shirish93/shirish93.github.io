@@ -3,7 +3,7 @@ author: shirish
 categories:
 - fermentation
 - hobby
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-02-12 21:26:20'
 layout: post
 title: Future fermentation plans, and an amazing new way to drink grain wines!
 ---

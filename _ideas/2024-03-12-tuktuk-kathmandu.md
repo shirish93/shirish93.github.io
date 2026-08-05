@@ -4,7 +4,7 @@ categories:
 - innovation
 - tuktuk
 - ideas
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-24 22:18:11'
 layout: post
 title: Small electric vehicles as public transport in Kathmandu
 ---

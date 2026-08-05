@@ -4,7 +4,7 @@ categories:
 - fermentation
 - kombucha
 - plans
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-05-27 19:22:33'
 layout: post
 title: 'Kombucha flavors and fermenting in the winter: Plans for collaboration with
   my friend and his juicer'

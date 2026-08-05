@@ -5,7 +5,7 @@ categories:
 - education
 - ideas
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-05-27 19:22:33'
 layout: post
 title: My leadership and community-building aspirations
 ---

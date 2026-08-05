@@ -8,7 +8,7 @@ categories:
 - kubernetes
 image: https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0upfXtjqscQ5NQfN.png
 image_description: Open source image above from [kubernetes.io](https://kubernetes.io/).
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-12 16:50:15'
 layout: post
 title: A tale of the treacherous task of Kubernetes upgrade
 ---

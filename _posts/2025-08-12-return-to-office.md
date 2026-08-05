@@ -8,7 +8,7 @@ hidden: true
 image: assets/images/daily-commute-grey.png
 image_description: Surely, if the commute involves paragliding, they'll make alternative
   arrangements. Illustration is mine, done on Kindle scribe.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-14 18:43:12'
 layout: post
 title: Chitchat and small talk is actually how business gets done
 ---

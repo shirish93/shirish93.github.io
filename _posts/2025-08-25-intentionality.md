@@ -9,7 +9,7 @@ hidden: true
 image: assets/images/llmbot.png
 image_description: A fully hand-drawn image of a crying LLM-bot. Intentionality in
   art matters. Without it, it's a nonsensical, cheap equivalent of shiny lights.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-26 17:55:04'
 layout: post
 permalink: /intentionality
 title: Effort is for Winners, or why I'm removing ai-generated content
