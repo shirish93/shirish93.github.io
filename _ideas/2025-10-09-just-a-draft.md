@@ -2,7 +2,7 @@
 author: shirish
 categories:
 - ideas
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-11-05 18:28:28'
 layout: post
 title: All the blogs I want on this site
 ---

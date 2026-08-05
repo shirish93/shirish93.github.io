@@ -8,7 +8,7 @@ featured: false
 hidden: false
 image: assets/images/checklist.jpg
 image_description: Image from the publisher page. Human-created.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-23 17:41:51'
 layout: post
 rating: 4.5
 title: 'The Checklist Manifesto: A Guide to Better Software Engineering'

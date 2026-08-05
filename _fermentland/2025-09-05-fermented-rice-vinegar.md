@@ -3,7 +3,7 @@ author: shirish
 categories:
 - fermentation
 - vinegar
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-11-05 18:51:17'
 layout: post
 title: First Batch of Rice Vinegar Ever!
 ---

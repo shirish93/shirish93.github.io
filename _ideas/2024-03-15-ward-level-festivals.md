@@ -5,7 +5,7 @@ categories:
 - research
 - ideas
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-24 21:36:36'
 layout: post
 title: Local festivals in Kathmandu to increase local consumption and preserve culture
 ---

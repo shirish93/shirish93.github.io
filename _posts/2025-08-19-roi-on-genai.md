@@ -9,7 +9,7 @@ hidden: true
 image: assets/images/genai-roi.jpg
 image_description: You must be watchful of your GenAI expenses. Image lovingly illustrated
   by me on Kindle Scribe.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-19 19:00:15'
 layout: post
 title: What's the ROI on your genAI deployments?
 ---

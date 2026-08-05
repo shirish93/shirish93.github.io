@@ -8,7 +8,7 @@ categories:
 - rewrite
 image: assets/images/temple.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-10 13:18:13'
 layout: post
 title: Bringing lessons from Japanese temple constructions to software maintenance
 ---

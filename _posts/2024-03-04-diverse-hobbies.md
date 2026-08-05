@@ -7,7 +7,7 @@ categories:
 image: assets/images/kombucha-hand.png
 image_description: The art of Kombucha brewing. Image lovingly handcrafted by me on
   my Kindle Scribe.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-25 15:40:17'
 layout: post
 title: Diverse interests help us understand the world better
 ---

@@ -7,7 +7,7 @@ categories:
 - laptops
 - ecosystem
 image: assets/images/blockchain.png
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-30 15:30:33'
 layout: post
 title: 'The great dream, and the betrayal, of Blockchain: lessons from Grad School'
 ---

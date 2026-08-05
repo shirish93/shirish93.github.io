@@ -9,7 +9,7 @@ featured: false
 hidden: false
 image: assets/images/inno-trap.jpg
 image_description: Image generated using Gemini AI. Will be replaced soon.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-23 17:41:51'
 layout: post
 title: How to prioritize profit while supporting innovation
 ---

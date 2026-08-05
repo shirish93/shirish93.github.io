@@ -9,7 +9,7 @@ hidden: true
 image: assets/images/people_market.jpg
 image_description: It takes a village...The bigger AI gets, the more you gotta count
   on your people. Image lovingly handcrafted in my Kindle Scribe.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-02-17 20:21:41'
 layout: post
 title: 'People: what are they good for anyway?'
 ---

@@ -7,7 +7,7 @@ categories:
 - laptops
 - ecosystem
 image: assets/images/laptop.png
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-30 15:30:33'
 layout: post
 title: 'Shuttling laptops in carts: foiled by lack of clear and united team vision'
 ---

@@ -5,7 +5,7 @@ categories:
 - research
 - ideas
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-24 22:18:11'
 layout: post
 title: Combining school bus systems to save costs
 ---

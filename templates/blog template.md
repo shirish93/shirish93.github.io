@@ -8,7 +8,7 @@ featured: true
 hidden: true
 image: assets/images/genai-roi.jpg
 image_description: This is an image description. It will soon be automated.
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-08-04 16:44:21'
 layout: post
 title: THIS IS A POST TITLE
 ---

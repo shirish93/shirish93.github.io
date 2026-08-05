@@ -9,7 +9,7 @@ hidden: false
 image: assets/images/roboperson.jpg
 image_description: People seek meaning in their work. People are not robots. Illustration
   done on Kindle Scribe.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-25 15:12:58'
 layout: post
 title: The joy I found in donating my physical labor
 ---

@@ -3,7 +3,7 @@ author: shirish
 categories:
 - ethnic-foods
 - nepali-foods
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-11-05 18:28:28'
 layout: post
 title: Nepal's Ethnic food idea
 ---

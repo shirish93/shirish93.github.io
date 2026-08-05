@@ -8,7 +8,7 @@ hidden: false
 image: assets/images/talk_to_me.jpg
 image_description: You shouldn't have to use a megaphone to get heard. Illustration
   lovingly handcrafted in Amazon kindle.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-08-16 10:04:12'
 layout: post
 title: Lessons from a rambler in recovery
 ---

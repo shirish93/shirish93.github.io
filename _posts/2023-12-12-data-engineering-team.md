@@ -8,7 +8,7 @@ featured: false
 hidden: false
 image: assets/images/teamwork2.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-17 19:00:24'
 layout: post
 title: How our squad integrated data scientists and software engineers
 ---

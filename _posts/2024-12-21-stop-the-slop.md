@@ -9,7 +9,7 @@ hidden: false
 image: assets/images/innotrap.png
 image_description: The lightbulb (portrayed) can be a tricky monster. Watch out for
   their evil ways! Lovingly illustrated on my Kindle scribe.
-last_modified_at: '2026-08-04'
+last_modified_at: '2025-01-01 13:33:05'
 layout: post
 title: Posting llm-generated content as your own is hurting you
 ---

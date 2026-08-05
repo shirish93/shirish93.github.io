@@ -6,7 +6,7 @@ categories:
 - ideas
 - olpc
 image: assets/images/olpc.png
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-30 15:30:33'
 layout: post
 title: 'OLPC project: a failure to understand the limits of technology'
 ---

@@ -7,7 +7,7 @@ featured: false
 hidden: false
 image: assets/images/range.jpg
 image_description: Image from the PR of the book. Human created.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-24 19:19:11'
 layout: post
 rating: 4.5
 title: 'Book review of David Epstein’s Range: Why Generalists Triumph in a Specialized

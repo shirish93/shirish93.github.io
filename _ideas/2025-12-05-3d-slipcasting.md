@@ -5,7 +5,7 @@ categories:
 - 3d-printing
 - ideas
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-05-27 19:22:33'
 layout: post
 title: 3D printing for slip casting, Nepali decorations, and parts business idea
 ---

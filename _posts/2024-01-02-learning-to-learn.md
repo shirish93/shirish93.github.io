@@ -8,7 +8,7 @@ categories:
 - book-review
 image: assets/images/learn.jpg
 image_description: Image from the publishers page. Human-created AFAIK.
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-13 19:21:24'
 layout: post
 rating: 4
 title: 'Book Review: Learning to Learn and the Navigation of Moods by Gloria P. Flores'

@@ -6,7 +6,7 @@ categories:
 - ideas
 - food-research
 image: assets/images/food-research.png
-last_modified_at: '2026-08-04'
+last_modified_at: '2024-03-30 15:30:33'
 layout: post
 title: 'A food research and development company: foiled by factors far beyond our
   control'
