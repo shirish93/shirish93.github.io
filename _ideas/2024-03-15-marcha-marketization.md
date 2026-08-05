@@ -5,7 +5,7 @@ categories:
 - research
 - ideas
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-08-04 17:27:05'
 layout: post
 title: Somebody needs to collect and save marcha from all over Nepal
 ---
@@ -13,7 +13,9 @@ title: Somebody needs to collect and save marcha from all over Nepal
 Marcha, or rice starter yeast, is a colony of mold, yeast and bacteria. Each geographical origin has a unique bio-signature. It's not a valued commodity in Nepal, but what if we preserved it and commercialized it?
 
 ---
+
 **August 4, 2026 update:**
+
 Turns out marcha is sold pretty actively in regional markets, at least in the eastern plains. They are sold by the multi-kilo every day. While the total value of the market is yet undetermined, there's definitely thriving commerce at a smaller scale.
 
 Relevant video at [proper time code](https://youtu.be/AU7UouKDvgg?t=1173)
