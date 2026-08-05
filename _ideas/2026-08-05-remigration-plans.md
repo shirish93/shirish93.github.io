@@ -6,9 +6,13 @@ categories:
 - ideas
 - remigration
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-08-04 17:14:34'
 layout: post
 title: A minor proposal for starting the returnee economy in Nepal
+---
+
+There's a potential for remigration in Nepal. We can create a thriving "returnee economy" through repatriating first-generation Nepali immigrants back to the country. The hope is they bring their passion, energy, wealth, skills vision, etc back. But how to accomplish that?
+
 ---
 
 **The idea:**

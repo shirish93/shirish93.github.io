@@ -5,9 +5,13 @@ categories:
 - research
 - ideas
 - Kathmandu
-last_modified_at: '2026-08-04'
+last_modified_at: '2026-08-04 17:14:34'
 layout: post
 title: Day schools for the mobile over-55 in Kathmandu, against loneliness
+---
+
+Can we convince the retired and the elderly to gather together into 'day schools'? Would it be viable, or are there too many competing social/cultural blockers in either direction? My main goal is to get my grandparents going out, working out, and making and taking to (new) friends!
+
 ---
 
 **Aug 4, 2026 update**
