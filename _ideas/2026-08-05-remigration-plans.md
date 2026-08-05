@@ -6,7 +6,7 @@ categories:
 - ideas
 - remigration
 - Kathmandu
-last_modified_at: '2026-08-04 20:46:34'
+last_modified_at: '2026-08-04 23:25:39'
 layout: post
 title: A minor proposal for starting the returnee economy in Nepal
 ---
@@ -48,7 +48,10 @@ At its most basic form, the initiative will do the following:
 
 6. Speaking of which, maintain an accessible list of semi-anonymous networking file, so folks can reach out to each other.
 
-In its essence, it looks like a sales (the lead generation step) and marketing (the second step) initiative. It could all be outsourced to private parties for what imagines wouildn't be very expensive sum. (80k x 10 folks x 12 months = ~1c crore/pa, without all the overhead. Overhead would probably double it)
+In its essence, it looks like a sales (the lead generation step) and marketing (the second step) initiative. It could all be outsourced to private parties for what imagines wouildn't be very expensive sum. (80k x ( 5 folks per shift x 3 + 5 folks in media production & community engagementetc ) x 12 months = ~2 crore/pa)
+
+Lets add additional incentives, assume we want to raffle away 1lakh/week to arriving immigrants who sign up for the contact sheets, and reward the prize based on arrival stamp verification.  It looks exactly like a sales/marketing organization, with customer acquisition expenses, with all-in expense of ~3crore per annum. It comes to ~$200K/year.
+
 
 Finally, what would the explicit deliverables be, what would the ROI look like, and how might we measure it/evaluate the initiative?
 
@@ -58,11 +61,40 @@ Deliverables:
 * Ideally a contact list of 20-50k people (is it too ambitious, or not ambitious enough?) collected over the first year, who can be reached out to.
 * The above contact list, split clearly across interest lines, and across geographical boundaries, in terms of foreign residence, and local residence.
 
-What would the ROI on this look like, and how would we evaluate it?
+What would the KPI's and ROI on this look like, and how would we evaluate it?
+
+KPIs:
+ * The raw number of custmers signed up for this initiative, validated ideally against the immigration department internal metrics.
  * Number of self-reported businesses/job opportunities/collaborations created
  * A survey sent out to a certain % of the mailing list, measure the intake rate, and measure satisfaction with the initiative.
  * Cross-check/Measure public awareness of the iniative amongst folks going out of the country/coming back, to make sure folks are _at least_ aware there's something happening at the airport.
- * Number of events organized across the country, a measure of attendance in those networking/training events, and participant satisfaction during those meetings.
+ * Number of events organized across the country, a measure of attendance in those networking/training events, and participant satisfaction during those events.
+ * Acquisition cost per customer, customer data verified against immigration data.
+ * Social media channel engagement, including number of views, likes, comments, quality of engagement, and responsiveness of the social media team. Use existing KPI metrics for social media team evaluation here. Heavily encouraged to engage social media here.
+
+ ROI:
+ * In pure numerical terms, generally, the higher most of the KPI's, the better for us, initially (besides acquisition cost). Incentive should be aligned to reward higher metrics.
+ * However, we should not measure the outcomes based solely on the numbers below.
+ * Longer-term, a stronger community is more rewarding. Is the network more valuable for orgnizations beyond our initial group? Possible/ethical to generate revenue by connecting groups to vendors (eg. seed sellers etc to farmers, banks to businessmen, small cooperatives to the investors etc?)?
+ * Total income from all the social media streams, through ads, and other endorsements where applicable.
+ * Acquisition cost can be an input metric. Eg. 3 Crore / 3 Lakh (for ex) leads collected annually. Rs. 100 per 'customer'.
+ * Total 'deal' value generated per customer, and calculate net generated value. Eg. Created 1 crore of business deals. 1 lakh customers. 1 crore/1lakh = Rs 100 gross deal value. Assume acquisition cost is Rs 50 pp. 100-50 = Rs 50 per person of net genereated deal value created.
+ * Gross / Net Referral fee/commision. Can eventually start collecting referral fee/comission, or use (unrealized) commission as basis for measuring RoI. Assume a flat commission rate of 6% for all contracts created/generated. Eg. 10 crore worth contracts created in a year. = 60Lakh potential commission value. Assuming 1 lakh customers, gross referral commission = 60lakh, gross net referral per customer = 60 Rs pp, 
+
+ An expanded example:
+  We spent Rs. 3 Crore on the inititiave annually. Collected 3Lakh details. Generated contracts worth 10 Crore. Currently not taking commision. The total income from all the ad, sponsorship, and other partnerships revenue is 0. If it were more than that, would need to include here.
+
+  Total Deal value generated = 10 Crore
+  Total Referral Commision = 60 lakh
+  User Acquisition cost = Rs 100 per person (pp)
+  Gross Deal value per customer = Rs. 333.33 pp
+  Net Deal value per customer = 333-100 = Rs 233.33 pp
+  Gross Referral Commission per customer = Rs 20pp
+  Net referral gross = Rs -80pp
+  
+
+
+
 
 ***
 
