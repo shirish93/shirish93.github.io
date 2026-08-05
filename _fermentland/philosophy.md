@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My philosophy of fermentation"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: My philosophy of fermentation
 ---
 
 * Why do I do this? How's it help me?

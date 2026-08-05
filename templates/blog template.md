@@ -1,16 +1,18 @@
 ---
-layout: post
-title: THIS IS A POST TITLE
 author: shirish
 categories:
-  - engineering
-  - ai
-  - genai
+- engineering
+- ai
+- genai
 featured: true
 hidden: true
 image: assets/images/genai-roi.jpg
 image_description: This is an image description. It will soon be automated.
+last_modified_at: '2026-08-04'
+layout: post
+title: THIS IS A POST TITLE
 ---
+
 VLAH BLAH BLAH
 
 <aside class="pquote">

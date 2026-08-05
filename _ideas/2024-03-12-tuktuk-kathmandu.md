@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  "Small electric vehicles as public transport in Kathmandu"
 author: shirish
-categories: [ innovation, tuktuk, ideas ]
+categories:
+- innovation
+- tuktuk
+- ideas
+last_modified_at: '2026-08-04'
+layout: post
+title: Small electric vehicles as public transport in Kathmandu
 ---
 
 Wouldn't it be cool if gas powered cars were replaced by tiny electric vehicles for public transport in Kathmandu? Kathmandu could even get a replacement for the infamously polluting Bikram Tempos, but in EV form!

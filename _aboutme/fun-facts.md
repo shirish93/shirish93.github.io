@@ -1,8 +1,11 @@
 ---
-layout: summary
-title:  "Fun facts about me"
 author: shirish
-categories: [ fun-facts, about ]
+categories:
+- fun-facts
+- about
+last_modified_at: '2026-08-04'
+layout: summary
+title: Fun facts about me
 ---
 
 <p> Here are some fun facts about me. I'm building out this website to be of higher professional standards over the coming weeks and months, so enjoy this bit of trivia! </p> If you think this stuff is all rather silly, I disagree! Read <a href="https://www.shirish.me/diverse-hobbies">this post</a> I wrote for a retort.

@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Idea to sell collections of caps from all Nepali ethnicities "
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: 'Idea to sell collections of caps from all Nepali ethnicities '
 ---
+
 What if we offered curated collections of high‑quality traditional caps from across Nepal. Each set would show different ethnic styles and come with explanatory packaging that explains history, cultural significance, and origin...Would be a cool tourist souveneer or a gift for Nepalis going abroad?
 
 
@@ -47,4 +53,3 @@ What if we offered curated collections of high‑quality traditional caps from a
     • Generates sustainable income for cap artisans and their communities.  
     • Raises awareness of Nepal’s cultural diversity.  
     • Enhances the tourist experience with a unique, educational souvenir.
-    

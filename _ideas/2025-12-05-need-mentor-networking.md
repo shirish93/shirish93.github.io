@@ -1,10 +1,10 @@
-
 ---
-layout: post
-title: I need better networking and I need a mentor
 author: shirish
 categories:
-  - mentorship
+- mentorship
+last_modified_at: '2026-08-04'
+layout: post
+title: I need better networking and I need a mentor
 ---
 
 I realized I need a mentor for life, and a mentor for my career. I have a career coach and a therapist, but it turns out they're not the same thing as a mentor. But I've never had one! Where do I find a mentor, how do I know I run that relationship? I'm stuck, and this is ramblings about that.

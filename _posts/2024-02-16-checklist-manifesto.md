@@ -1,16 +1,17 @@
 ---
-layout: post
-title: "The Checklist Manifesto: A Guide to Better Software Engineering"
 author: shirish
 categories:
-  - review
-  - book-review
-  - leadership
+- review
+- book-review
+- leadership
 featured: false
 hidden: false
 image: assets/images/checklist.jpg
-rating: 4.5
 image_description: Image from the publisher page. Human-created.
+last_modified_at: '2026-08-04'
+layout: post
+rating: 4.5
+title: 'The Checklist Manifesto: A Guide to Better Software Engineering'
 ---
 
 A review of Atul Gawande's seminal book ~ The Checklist Manifesto ~ and the lessons it holds for engineers.

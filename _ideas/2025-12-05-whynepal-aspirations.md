@@ -1,12 +1,13 @@
 ---
-layout: post
-title: My leadership and community-building aspirations
 author: shirish
 categories:
-  - innovation
-  - education
-  - ideas
-  - Kathmandu
+- innovation
+- education
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: My leadership and community-building aspirations
 ---
 
 How do you start with leadership when you don't have an organization to lead? How do you build a community when all you have is friend groups. I'm trying to figure out the way ahead.

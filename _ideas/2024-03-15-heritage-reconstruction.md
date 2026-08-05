@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Can we rebuild old houses in traditional style, and have it be self-funding?"
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Can we rebuild old houses in traditional style, and have it be self-funding?
 ---
+
 The idea is to preserve traditional houses in Kathmandu and Lalitpur by rebuilding them, adding new floors, and leasing the added space to investors. Rental income is shared with homeowners, creating financial benefits for residents while safeguarding heritage.
 
 ### 1. Challenge

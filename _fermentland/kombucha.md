@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "My ferments: Kombucha"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: Kombucha'
 ---
-
 
 * What is kombucha anyway?. 
 * Mention SCOBY and pellicle. 

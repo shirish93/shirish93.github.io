@@ -1,13 +1,15 @@
 ---
-layout: post
-title: Turning abandoned houses in rural Nepal into bed‑and‑breakfasts
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Turning abandoned houses in rural Nepal into bed‑and‑breakfasts
 ---
+
 Can we restore abandoned village houses, equip them with basic services (water, electricity, simple furnishings) and let long‑term tourists stay in them. The guests would stay weeks to months, paying a modest rent, and hire available local manpower.
 
 

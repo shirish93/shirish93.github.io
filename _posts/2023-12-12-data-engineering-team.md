@@ -1,15 +1,16 @@
 ---
-layout: post
-title: How our squad integrated data scientists and software engineers
 author: shirish
 categories:
-  - engineering
-  - leadership
-  - teamwork
-image: assets/images/teamwork2.png
+- engineering
+- leadership
+- teamwork
 featured: false
 hidden: false
+image: assets/images/teamwork2.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
+last_modified_at: '2026-08-04'
+layout: post
+title: How our squad integrated data scientists and software engineers
 ---
 
 Our team integrated data scientists and engineers into a single team. We learned important lessons as we tested different team structures and planning regimen. This essay takes us through our journey.

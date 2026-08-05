@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "Grand plans for the future: Where I intend to take my fermentation hobby"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'Grand plans for the future: Where I intend to take my fermentation hobby'
 ---
-
 
 * join homebrewers association, attend the convention
 * red rice yeast

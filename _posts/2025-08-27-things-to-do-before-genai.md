@@ -1,16 +1,19 @@
 ---
-layout: post
-title: Things to do before starting your big GenAI project
 author: shirish
 categories:
-  - engineering
-  - ai
-  - genai
+- engineering
+- ai
+- genai
 featured: true
 hidden: true
 image: assets/images/innotrap_br.png
-image_description: GenAI can be a tricky monster. Watch out for their evil ways! Lovingly illustrated on my Kindle scribe.
+image_description: GenAI can be a tricky monster. Watch out for their evil ways! Lovingly
+  illustrated on my Kindle scribe.
+last_modified_at: '2026-08-04'
+layout: post
+title: Things to do before starting your big GenAI project
 ---
+
 You've heard the warnings. You've read up on the importance of [figuring out your ROI]({% post_url 2025-08-19-roi-on-genai %}) before starting on your journey. The calculations show a positive return on investment for your project. Now what? Where lie the monsters? Here! Look here!
 
 Things you need to consider before you start working on that genAI project in your company

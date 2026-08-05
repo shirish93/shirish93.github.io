@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My ferments: Kinema"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: Kinema'
 ---
 
 * Fermented soy product of South Asia, Limbu and other tribal groups in Eastern Nepal and north-eastern India. 

@@ -1,11 +1,13 @@
 ---
-layout: post
-title: First Batch of Rice Vinegar Ever!
 author: shirish
 categories:
-  - fermentation
-  - vinegar
+- fermentation
+- vinegar
+last_modified_at: '2026-08-04'
+layout: post
+title: First Batch of Rice Vinegar Ever!
 ---
+
 I accidentally created rice wine vinegar a couple of weeks ago, and it was the first time it happened. How the hell did that happen, and what am I going to do from now? I have made other vinegars in the past, how does this fit in with that?
 
 I have two 12-ounce bottles of rice wine vinegar with me. I didn't intend for it to be this way. 
@@ -27,4 +29,3 @@ I'm thinking of putting the two bottles into one larger bottle and adding a bit 
 Even though vinegar making has been accidental mostly, I have grown kind of interested in it because this is also a field that has been mostly automated at an industrial scale, but there's a lot of craftsmanship and handmade vinegars around as well. Often, you can turn any wine into vinegar, and I already have an old wine that's now vinegar that I use sometimes. You can also use fruit juices, add yeast to them, and turn them to vinegar. There are so many opportunities to experiment in this additional field, that I want to do more of this. The fun thing with vinegar making is you can be quite lazy about it. You can let your other booze go bad, and the worst thing that will happen is it'll turn into vinegar, which you can still use to cook your food. That's exciting for me. Now, it's a different matter that I don't cook anywhere near enough to warrant the vinegar usage, but that's beside the point.
 
 I'm also thinking if I can smoke the vinegar or add additional flavoring to the vinegar at the end, after it's been finalized and pasteurized, so that way the fermentation has stopped and the flavor won't be fermented away. But the acidity of vinegar will still preserve the flavor, so flavored vinegar with additional flavors could still be an interesting thing to explore.
-

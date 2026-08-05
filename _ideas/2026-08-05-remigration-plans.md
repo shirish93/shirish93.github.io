@@ -1,13 +1,14 @@
 ---
-layout: post
-title: A minor proposal for starting the returnee economy in Nepal
 author: shirish
 categories:
-  - innovation
-  - migration
-  - ideas
-  - remigration
-  - Kathmandu
+- innovation
+- migration
+- ideas
+- remigration
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: A minor proposal for starting the returnee economy in Nepal
 ---
 
 **The idea:**
@@ -114,4 +115,3 @@ If properly planned and executed, even a small-scale program could have outsized
 8. Banks and other financial institutions who’d be willing to provide subsidized interest rates
 9. Municipalities and other local bodies who might be interested in engaging the newly-returned population
 10. Different governmental bodies that provide skills-based training. Can we create a unified database of all available training and empowerment programs for the returnees to lookup and attend?
-

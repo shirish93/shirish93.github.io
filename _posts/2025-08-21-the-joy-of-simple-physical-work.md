@@ -1,16 +1,19 @@
 ---
-layout: post
-title: The joy I found in donating my physical labor
 author: shirish
 categories:
-  - joy,
-  - volunteer
-  - service
+- joy,
+- volunteer
+- service
 featured: false
 hidden: false
 image: assets/images/roboperson.jpg
-image_description: People seek meaning in their work. People are not robots. Illustration done on Kindle Scribe.
+image_description: People seek meaning in their work. People are not robots. Illustration
+  done on Kindle Scribe.
+last_modified_at: '2026-08-04'
+layout: post
+title: The joy I found in donating my physical labor
 ---
+
 I found great joy in doing simple physical labor and assembly line tasks last month. Mental labor is more draining than you would otherwise think. In donating my physical labor, I connected more strongly to my local community. 
 
 I volunteered at the WTBBL (Washington Talking Books and Brail Library) last month for a day. The four of us in my volunteer group were all from Liberty Mutual.

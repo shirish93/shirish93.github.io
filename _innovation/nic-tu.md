@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  ""
 author: shirish
-categories: [ national-innovation-center, mahabir-pun ]
+categories:
+- national-innovation-center
+- mahabir-pun
+last_modified_at: '2026-08-04'
+layout: post
+title: ''
 ---
 
 ## REMEMBER TO CREATE A ROOT INNOVATION PAGE SUMMARIZING THESE, AND ALSO BRINGING UP OTHER THINGS HAVE DONE!
@@ -231,4 +234,3 @@ NIC OPEN HOUSE PROPOSAL
 This document serves as a blueprint for organizing a successful open house event at NIC, promoting collaboration and innovation across disciplines.
 
 ---
-

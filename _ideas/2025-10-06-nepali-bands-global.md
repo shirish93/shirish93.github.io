@@ -1,13 +1,15 @@
 ---
-layout: post
-title: Can Nepali bands go global like Korean bands?
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Can Nepali bands go global like Korean bands?
 ---
+
 Nepali culture is cool and well-liked. We have talented singers, performers etc. Can we create an industry to sell our performance abroad, without massive investment in marketing and infrastructure like Japanese and Korean governments? Or is it too big an ask?
 
 

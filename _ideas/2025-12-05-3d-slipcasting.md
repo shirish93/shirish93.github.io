@@ -1,12 +1,13 @@
 ---
-layout: post
-title: 3D printing for slip casting, Nepali decorations, and parts business idea
 author: shirish
 categories:
-  - innovation
-  - 3d-printing
-  - ideas
-  - Kathmandu
+- innovation
+- 3d-printing
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: 3D printing for slip casting, Nepali decorations, and parts business idea
 ---
 
 A challenge with innovating in mass‑produced pottery is creating new concrete molds and turning them into mass product. The cost of a new mold is high enough that you need to sell hundreds or thousands of your final product to justify the initial mold investment. 3D printing the molds to create concrete casts could solve the issue.

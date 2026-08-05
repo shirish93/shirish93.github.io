@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Shirish Pokharel Failed Ideas blog
-permalink: /failed-projects
 comments: true
+last_modified_at: '2026-08-04'
+layout: page
+permalink: /failed-projects
+title: Shirish Pokharel Failed Ideas blog
 ---
 
 <div class="row justify-content-between">

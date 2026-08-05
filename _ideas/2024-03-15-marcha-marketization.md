@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Somebody needs to collect and save marcha from all over Nepal"
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Somebody needs to collect and save marcha from all over Nepal
 ---
+
 Marcha, or rice starter yeast, is a coloby of mold, yeast and bacteria. Each geographical origin has a unique bio-signature. It's not a valued commodity in Nepal, but what if we preserved it and commercialized it?
 
 Why I care:  

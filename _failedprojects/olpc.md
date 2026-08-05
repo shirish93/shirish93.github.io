@@ -1,9 +1,14 @@
 ---
-layout: post
-title:  "OLPC project: a failure to understand the limits of technology"
 author: shirish
-categories: [ innovation, postmortem, ideas, olpc ]
+categories:
+- innovation
+- postmortem
+- ideas
+- olpc
 image: assets/images/olpc.png
+last_modified_at: '2026-08-04'
+layout: post
+title: 'OLPC project: a failure to understand the limits of technology'
 ---
 
 You can't just hand a hundred laptops out without significantly adapting the syllabus and the pedagogy, they told us. We refused to believe our energy and drive wouldn't be enough. We were wrong.
@@ -36,4 +41,4 @@ What happened: Eventually, the problem they had foreseen lasted longer than anyo
 
 **The Future of Educational Equity**
 
-But that's not the end of the story. Educational inequalities and inequities exist all across the globe. Even within rich industrialized countries, under-resourced areas don't have enough digital (or otherwise) resources to properly educate young children. The promise of distraction-free teaching-learning using laptops was one borne of more optimistic times that has yet to play out fully. Privacy concerns around school laptops abound, with accusations of the laptop cameras impinging on student privacy at their homes. With generative AI models and LLM's, the promise of effective education using digital channels seems even more in doubt. Eventually, the concerns of our high-school teachers proved to be well-placed. It wasn't the technology medium that was important, the pedagogy and content mattered more. But there are causes for optimism. Khan Academy pioneered, and now leads free accessible digital education for everyone with a stable internet connection. The COVID pandemic accelerated the movement of courses into online mediums, and online-offline hybrid courses are the norm now. Physical distance will not be a hindrance for education for children in the future, if governments and communities invest in basic internet and computing resources. Education is at a point where it can be scaled. 
+But that's not the end of the story. Educational inequalities and inequities exist all across the globe. Even within rich industrialized countries, under-resourced areas don't have enough digital (or otherwise) resources to properly educate young children. The promise of distraction-free teaching-learning using laptops was one borne of more optimistic times that has yet to play out fully. Privacy concerns around school laptops abound, with accusations of the laptop cameras impinging on student privacy at their homes. With generative AI models and LLM's, the promise of effective education using digital channels seems even more in doubt. Eventually, the concerns of our high-school teachers proved to be well-placed. It wasn't the technology medium that was important, the pedagogy and content mattered more. But there are causes for optimism. Khan Academy pioneered, and now leads free accessible digital education for everyone with a stable internet connection. The COVID pandemic accelerated the movement of courses into online mediums, and online-offline hybrid courses are the norm now. Physical distance will not be a hindrance for education for children in the future, if governments and communities invest in basic internet and computing resources. Education is at a point where it can be scaled.

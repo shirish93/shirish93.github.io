@@ -1,15 +1,17 @@
 ---
-layout: post
-title: Posting llm-generated content as your own is hurting you
 author: shirish
 categories:
-  - writing
-  - ai
-  - llm
+- writing
+- ai
+- llm
 featured: false
 hidden: false
 image: assets/images/innotrap.png
-image_description: The lightbulb (portrayed) can be a tricky monster. Watch out for their evil ways! Lovingly illustrated on my Kindle scribe.
+image_description: The lightbulb (portrayed) can be a tricky monster. Watch out for
+  their evil ways! Lovingly illustrated on my Kindle scribe.
+last_modified_at: '2026-08-04'
+layout: post
+title: Posting llm-generated content as your own is hurting you
 ---
 
 Seriously, don't publish that raw ChatGPT'd thinkfluencer piece as your own. Nobody's falling for it, everybody's doing it, and you're cheating yourself.

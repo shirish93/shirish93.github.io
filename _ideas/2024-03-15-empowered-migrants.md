@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Trying to increase wages for Nepali emigrants"
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Trying to increase wages for Nepali emigrants
 ---
+
 If we could train and unpskill Nepali labor traveling abroad, could we significantly increase the earned income? Could such a potential increase fund the training itself?
 
 Summary of the Low‑Skilled Nepali Migrant Upskilling Program

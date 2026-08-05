@@ -1,8 +1,10 @@
 ---
-layout: post
-title:  ""
 author: shirish
-categories: [ funding ]
+categories:
+- funding
+last_modified_at: '2026-08-04'
+layout: post
+title: ''
 ---
 
 culture - I will provide seed funding to somebody who is working on documenting cultural identity of ethnic groups iin Nepal. Hmmm maybe this isn't as important for the time being...

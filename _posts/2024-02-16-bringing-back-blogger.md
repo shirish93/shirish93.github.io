@@ -1,16 +1,19 @@
 ---
-layout: post
-title: "A blogger's plea (and a proposal) to Google: bring back Blogger!"
 author: shirish
 categories:
-  - blogger
-  - product
-  - leadership
+- blogger
+- product
+- leadership
 featured: false
 hidden: false
 image: assets/images/blogger.jpg
-image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/).
+  Human-created, AFAIK.
+last_modified_at: '2026-08-04'
+layout: post
+title: 'A blogger''s plea (and a proposal) to Google: bring back Blogger!'
 ---
+
 This essay proposes a plan for revitalization of Google Blogger. I argue for a premium subscription model, trendy features powered by Gemini AI , and a focus on actual user needs, not perceived ones. This is a high-level summary of a much detailed documentation I'm working on.
 
 Blogger, once the dominant force in the 'Blogosphere', has stagnated in recent years. It's not like the whole blog/newsletter market is less viable these days either. Competitors like Medium, Substack, and Ghost have thrived in the 'writing and publishing' space. Other companies in adjacent and very similar field, like Squarespace and Wix have done great and received multi-billion valuations. Blogger has remained mostly unchanged, its ability to attract and retain users is limited. 

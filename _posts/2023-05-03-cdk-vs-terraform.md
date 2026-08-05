@@ -1,15 +1,18 @@
 ---
-layout: post
-title: "Infrastructure management: from chaos to Cloudformation CDK to confusion"
 author: shirish
 categories:
-  - engineering
-  - software
-  - cloudformation
-  - terraform
+- engineering
+- software
+- cloudformation
+- terraform
 image: assets/images/cfn.jpg
-image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/).
+  Human-created, AFAIK.
+last_modified_at: '2026-08-04'
+layout: post
+title: 'Infrastructure management: from chaos to Cloudformation CDK to confusion'
 ---
+
 Our team decided to use Amazon's infrastructure-management tooling versus other available tooling a while back. We are now reconsidering the decision.
 
 ### Introduction

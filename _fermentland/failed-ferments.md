@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "Failures and challenging brews from my 8-year journey"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: Failures and challenging brews from my 8-year journey
 ---
 
 * proper fruit wines haven't turned out the best.

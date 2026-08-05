@@ -1,17 +1,19 @@
 ---
-layout: post
-title: "Book Review: Learning to Learn and the Navigation of Moods by Gloria P. Flores"
 author: shirish
 categories:
-  - engineering
-  - leadership
-  - learning
-  - skill
-  - book-review
+- engineering
+- leadership
+- learning
+- skill
+- book-review
 image: assets/images/learn.jpg
-rating: 4
 image_description: Image from the publishers page. Human-created AFAIK.
+last_modified_at: '2026-08-04'
+layout: post
+rating: 4
+title: 'Book Review: Learning to Learn and the Navigation of Moods by Gloria P. Flores'
 ---
+
 One can create a mindset highly open and receptive to learning quickly by managing one's moods. That's what learning researcher and psychologist Gloria Flores argues in her book *Learning to Learn*. She argues that only by modifying the less-productive (for learning) moods towards more productive ones, does learning get easier.
 
 We don't stop learning after formal education ends. We keep learning to keep pace with the changing world: learn how to use a new app, learn to search on the internet, learn a new job skill, learn to use generative AI, and so forth. Mastering new skills can be emotionally challenging, making the process of learning a hard one. Gloria P. Flores, a corporate trainer and psychologist, proposes a curious approach in her book, *"Learning to Learn and the Navigation of Moods"*. 

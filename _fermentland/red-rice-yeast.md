@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My (future) ferments: Making chinese yeast balls, red rice yeast"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My (future) ferments: Making chinese yeast balls, red rice yeast'
 ---
 
 What are the species of these two. 

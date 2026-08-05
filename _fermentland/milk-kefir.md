@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My ferments: Milk Kefir"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: Milk Kefir'
 ---
 
 * Milk kefir. What is it?

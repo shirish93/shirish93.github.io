@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My ferments: different kinds of sauerkrauts"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: different kinds of sauerkrauts'
 ---
 
 * Soured veggies, fermented in their own juices.

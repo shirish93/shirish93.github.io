@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My ferments: Water kefir"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: Water kefir'
 ---
 
 * What is water kefir? is it kefir at all? Tibicos. Took me long time to figure out. 

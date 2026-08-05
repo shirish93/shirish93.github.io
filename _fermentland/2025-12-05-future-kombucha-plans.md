@@ -1,11 +1,13 @@
 ---
-layout: post
-title: "Kombucha flavors and fermenting in the winter: Plans for collaboration with my friend and his juicer"
 author: shirish
 categories:
-  - fermentation
-  - kombucha
-  - plans
+- fermentation
+- kombucha
+- plans
+last_modified_at: '2026-08-04'
+layout: post
+title: 'Kombucha flavors and fermenting in the winter: Plans for collaboration with
+  my friend and his juicer'
 ---
 
 The idea is this: I want to get back into fermenting kombucha. It's a pretty good drink. I haven't made it in a long while. And I remember in Boston, it was a pretty good winter drink as well because it tended to warm the body with a certain concoction.

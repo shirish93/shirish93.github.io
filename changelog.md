@@ -1,3 +1,7 @@
+---
+last_modified_at: '2026-08-04'
+---
+
 # Mediumish Jekyll Theme - Change Log
 
 ## 2019-05-16, v1.0.36

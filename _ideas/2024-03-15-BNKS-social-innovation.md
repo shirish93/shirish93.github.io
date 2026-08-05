@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Boarding school can lead in innovative practices"
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Boarding school can lead in innovative practices
 ---
+
 Budhanilkantha school could do more to invest in innovation, and deploying existing innovation orgs it in real-world usecases.
 
 

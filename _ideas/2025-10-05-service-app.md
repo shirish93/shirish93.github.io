@@ -1,12 +1,13 @@
 ---
-layout: post
-title: An online service marketplace / platform for domestic Nepali professionals
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: An online service marketplace / platform for domestic Nepali professionals
 ---
 
 Can we connect service providers in Nepal with potential Nepali customers abroad and create a thriving marketplace without competing with other major platforms? Or if such a place already exists, can somebody tell me wher eit exists please?

@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Ideas Journal
-permalink: /ideas
 comments: true
+last_modified_at: '2026-08-04'
+layout: page
+permalink: /ideas
+title: Ideas Journal
 ---
 
 <div class="row justify-content-between">
@@ -37,5 +38,3 @@ May 2026 Note: I removed all the slop images from this section. It hurt because 
 </div>
 </section>
 {% endif %}
-
-

@@ -1,14 +1,16 @@
 ---
-layout: post
-title: The duct-tape and strings approach to software is unfairly maligned
 author: shirish
 categories:
-  - engineering
-  - architecture
-  - leadership
+- engineering
+- architecture
+- leadership
 image: assets/images/jenga.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
+last_modified_at: '2026-08-04'
+layout: post
+title: The duct-tape and strings approach to software is unfairly maligned
 ---
+
 The "duct-tape and strings" approach to building software prioritizes functionality and rapid iteration. That comes at the cost of design perfection and technical debt. It stresses the heck out of proponents of careful planning. But it's a valid approach to real-world pressures and can lead to successful results.
 
 Imagine spending days and nights over months, working on the perfect software app. You architected every component and anticipated every future need. Meanwhile, the deadlines pass by and a competitor releases a technically inferior product. It happens to meet the general market needs. Your app's not even released, and you're already playing catch-up. The pursuit of perfect software is admirable, but the reality is different. Software engineers are limited by urgent business needs, limited resources, and a rapidly changing market. A perfectly written application is an intractable ideal these days, and much less of a North Star.

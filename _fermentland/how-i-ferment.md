@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "How I got into fermentation OR The beginning of this grand journey"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: How I got into fermentation OR The beginning of this grand journey
 ---
 
 * long term investment

@@ -1,15 +1,17 @@
 ---
-layout: post
-title: A real boring admission
 author: shirish
 categories:
-  - engineering
-  - ai
-  - genai
+- engineering
+- ai
+- genai
 featured: true
 hidden: true
 image: assets/images/robotired.jpg
-image_description: GenAI can be a tricky monster. Watch out for their evil ways! The image was probably slop-genereated, and I don't want to talk about it.
+image_description: GenAI can be a tricky monster. Watch out for their evil ways! The
+  image was probably slop-genereated, and I don't want to talk about it.
+last_modified_at: '2026-08-04'
+layout: post
+title: A real boring admission
 ---
 
 This will be short. I want to explain why I haven't been writing recently. It's about AI and it's a shameful admission.

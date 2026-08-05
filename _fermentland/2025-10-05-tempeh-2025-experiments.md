@@ -1,11 +1,13 @@
 ---
-layout: post
-title: I have finally made some progress on the Tempeh front!
 author: shirish
 categories:
-  - fermentation
-  - tempeh
+- fermentation
+- tempeh
+last_modified_at: '2026-08-04'
+layout: post
+title: I have finally made some progress on the Tempeh front!
 ---
+
 A discussion of my experiments with tempeh, my successes and failures, and future plans. 
 
 I bought the tempeh starter two or three years ago. It's possible I bought it before I moved to Seattle, and I moved here four years ago. So, it's been a while. I made a bar of tempeh about two years ago, but it wasn't great. I froze it for the longest time and I wasn't really impressed. I think I tried it one more time, and for some reason, it didn't really work as I expected. So, the whole thing remained untested.

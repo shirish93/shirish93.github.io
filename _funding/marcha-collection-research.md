@@ -1,8 +1,10 @@
 ---
-layout: post
-title:  ""
 author: shirish
-categories: [ funding ]
+categories:
+- funding
+last_modified_at: '2026-08-04'
+layout: post
+title: ''
 ---
 
 LLink to the other document, and say I'm willing to fund so-and-so amount if people are going to do so-and-so work.

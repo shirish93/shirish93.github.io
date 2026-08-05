@@ -1,9 +1,14 @@
 ---
-layout: post
-title:  "My experiments with training milk kefir grains into acting as water kefir tibicos replacement"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: My experiments with training milk kefir grains into acting as water kefir tibicos
+  replacement
 ---
+
 In this post I want to share one of my smaller long-running experiments with milk kefir grains. This is about my experiments to turn milk kefir grains into consuming only sugar-water. It's been going for almost four years now. It's not yielded super exciting or revolutionary results. I'm sharing it anyway to explain what the process of messing around with new cultures is like.
 
 #### What did I do? 

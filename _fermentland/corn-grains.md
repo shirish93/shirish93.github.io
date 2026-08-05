@@ -1,9 +1,13 @@
 ---
-layout: post
-title:  "Future fermentation plans, and an amazing new way to drink grain wines!"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: Future fermentation plans, and an amazing new way to drink grain wines!
 ---
+
 I want to record and share my plans for making wines from novel (to me) grains in the next few months. To recap, I've fermented fruits and sweet glutinous rice for a few years now, and done several batches of kodo millet fermentation. 
 
 I want to start fermenting corn meal -- bought myself a 2lb cornmeal bag at target --, oats, sorghum, and rye. Corn is a common ingredient in local grain wines in Nepal, it's called 'makai ko jaar'. I've found a few recipes for that on Youtube, so I'm not experimenting  with anything unusual there. I expect it to be quite similar to rice wine, but with more corn-like flavor.

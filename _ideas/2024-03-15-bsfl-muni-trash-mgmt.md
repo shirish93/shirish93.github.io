@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Kathmandu can turn trash into protein-rich feed"
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Kathmandu can turn trash into protein-rich feed
 ---
+
 Kathmandu valley could use Black Soldier Fly Larvae to convert organic waste to high-protein insects that can be used as bird or fish feed.
 
 Proposal: Using Black Soldier Fly Larvae (BSFL) for Kathmandu’s Organic Waste

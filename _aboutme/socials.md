@@ -1,9 +1,12 @@
 ---
-layout: summary
-title:  "Social media and me"
 author: shirish
-categories: [ social-media, online ]
+categories:
+- social-media
+- online
+last_modified_at: '2026-08-04'
+layout: summary
 permalink: /socials
+title: Social media and me
 ---
 
 I am currently writing an essay explaining why I'm not on social media, and how this website is my social media. There I discuss my understanding of social media and connectivity, and the direction it should take. I also share my experience with social media and the dopamine rush with social validation when I used Facebook (2009-2012!) and the implications of that. Until then, there's' this.

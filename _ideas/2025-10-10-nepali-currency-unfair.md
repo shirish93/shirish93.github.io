@@ -1,12 +1,13 @@
 ---
-layout: post
-title: The unfairness of Nepali currency pegging
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: The unfairness of Nepali currency pegging
 ---
 
 Nepali currency is massively overvalued for it's relative usage in the global economy. It's value against the dollar (and by general proxy most other currencies) going down will be good for the local market, and for the entire economy in the long term.
@@ -43,4 +44,3 @@ The poor don't just export goods. They also export services. There are millions 
 
 
 Let me be clear: we as the privileged and the wealthy in Nepal are literally sucking the blood and bone dry of those working in the Middle East and Southeast Asia. We're undermining their incomes and the worth of their money so that foreign education is cheaper for us, so that our creams and our Netflix memberships and our internet games are cheaper for us. When we complain about the growth of a country and the community and development, this is often not brought up, but this is a crucial factor to be considered. It is such a fundamental part of an upper middle class identity, the pegged currency, that even bringing up the possibility of devaluing the currency is looked upon as an insane solution. We are taught from early childhood that it would throw the economy into chaos and nobody would be able to afford anything, and so forth. And that in a way is correct. We wouldn't be able to afford foreign imports for as cheap as we do right now. But that's for the better. We will be forced to buy Nepali products. Nepali products will be finally on a level playing field as foreign products. And if our currency is truly that weak, then it is further better that we are not able to afford. We are currently artificially subsidizing the wealthy and the super wealthy for their ability to import foreign goods and services, while creating a political dependence and a system of corruption associated with the tariff implementation system and the smuggling associated with it. This has empowered corrupt governments and corrupt politicians to extract value of the system. By removing the nonsensical currency peg and readjusting it to be a more market-reflecting value, we would solve a lot of our existing economic problems. This is not me who's saying it. The Rameshwar Khanal report that was published about half a year ago, also brought it out as a major point of contention in Nepali economic growth, etc.
-

@@ -1,11 +1,13 @@
 ---
-layout: post
-title: Exciting future plans for my rice wine projects
 author: shirish
 categories:
-  - fermentation
-  - chhyang
+- fermentation
+- chhyang
+last_modified_at: '2026-08-04'
+layout: post
+title: Exciting future plans for my rice wine projects
 ---
+
 I want to create an inventory of the fermentation and planting projects for the rest of the summer. I have finally been successful with the tempeh-based starter culture, and that's been a massive encouragement to me. I'm thinking of cultivating rice wine starter culture and red rice yeast culture as well. If I can do those, it would be incredibly exciting.
 
 Beyond that, the most immediate project is growing mushrooms at my apartment. I also have smaller project ideas, like growing tomato plants in my hydroponic system. Of course, there are the regular fermentation projects I need to continue, but they're more process-based and not especially exciting. I haven't been able to do the actual tempeh fermentation yet, only the starter fermentation, so that would be one important project to do now that I have a ton of starter. My next few projects are making proper tempeh, the rice yeast starter, the red rice yeast starter, and other ferments I have been targeting, such as sorghum and rye. An experimental batch of rye ferment succeeded, but I want to explore that further to see how much better it can get.
@@ -23,4 +25,3 @@ To summarize my plan:
 * **Level of carbonation**: How fizzy do I want it to make? It depends on the level of backsweetening mostly, but I can also pasteurize the drink to disrupt the sugar & ferment relationship...
 
 With these variables, I have at least 16 possibilities before even considering all the potential colors and other factors. I need to explore a lot more of that.
-

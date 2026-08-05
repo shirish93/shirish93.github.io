@@ -1,13 +1,15 @@
 ---
-layout: post
-title: Local festivals in Kathmandu to increase local consumption and preserve culture
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Local festivals in Kathmandu to increase local consumption and preserve culture
 ---
+
 Can we replicate Hadigaun festival, and the similar ones in Bhaktapur/thimi across all the towns of Kathmandu valley? Can we make it so that there's always some big festival or other going somewhere near the valley? The goal would be to increase business sales, trigger better consumption, and get tourists spending more money!
 
 - Festivals can be held at the ward level in Kathmandu and Lalitpur twice/thrice a year, each lasting one or two days.
