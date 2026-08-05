@@ -1,7 +1,9 @@
 ---
-title: "Making this blog"
-categories: ["projects"]
+categories:
+- projects
+last_modified_at: '2026-08-04'
 layout: post
+title: Making this blog
 ---
 
 ### This is an old post from a now-deprecated website. I'm keeping it around only for historical preservation reasons. Not much of it is relevant to the website you're currently reading on.

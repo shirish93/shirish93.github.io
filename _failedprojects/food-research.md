@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "A food research and development company: foiled by factors far beyond our control"
 author: shirish
-categories: [ innovation, postmortem, ideas, food-research ]
+categories:
+- innovation
+- postmortem
+- ideas
+- food-research
 image: assets/images/food-research.png
+last_modified_at: '2026-08-04'
+layout: post
+title: 'A food research and development company: foiled by factors far beyond our
+  control'
 ---
 
 The idea was to research, develop, market, and sell new and novel health food products into the Nepali market. Our target audience was the health-conscious upper-middle class and foreign "returnees" familiar with Western health-food culture. The idea failed because we didn't realize the non-food aspects of business growth, the the factors influencing customer trends.
@@ -42,4 +48,4 @@ A friend who started a health-focused juice company in Kathmandu a few years aft
 
 Several businesses have opened in recent years, offering products similar to what we were developing.  A small cottage industry now exists, with companies offering kombucha, sugar-free soda, kimchi, and other healthy alternatives with global branding.  Similar to our experience, these businesses are operating at a small, hand-made batch level and have limited prospects for expansion.  They are all competing for the same limited market, which doesn't appear to be growing significantly.  
 
-A few of our former employees opened chocolate re-processing and branding facilities in the following years, but most of these ventures were ultimately unsuccessful. 
+A few of our former employees opened chocolate re-processing and branding facilities in the following years, but most of these ventures were ultimately unsuccessful.

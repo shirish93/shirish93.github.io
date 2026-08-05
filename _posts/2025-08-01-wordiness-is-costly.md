@@ -1,14 +1,16 @@
 ---
-layout: post
-title: Lessons from a rambler in recovery
 author: shirish
 categories:
-  - communication
-  - writing
+- communication
+- writing
 featured: false
 hidden: false
 image: assets/images/talk_to_me.jpg
-image_description: You shouldn't have to use a megaphone to get heard. Illustration lovingly handcrafted in Amazon kindle.
+image_description: You shouldn't have to use a megaphone to get heard. Illustration
+  lovingly handcrafted in Amazon kindle.
+last_modified_at: '2026-08-04'
+layout: post
+title: Lessons from a rambler in recovery
 ---
 
 Wordiness is costly. It's important to keep it short and to the point. Ask me how I know. I'm a rambler in recovery.

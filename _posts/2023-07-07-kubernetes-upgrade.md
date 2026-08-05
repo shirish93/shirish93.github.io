@@ -1,15 +1,16 @@
 ---
-layout: post
-title: A tale of the treacherous task of Kubernetes upgrade
 author: shirish
 categories:
-  - engineering
-  - software
-  - cloudformation
-  - infrastructure
-  - kubernetes
+- engineering
+- software
+- cloudformation
+- infrastructure
+- kubernetes
 image: https://miro.medium.com/v2/resize:fit:4800/format:webp/0*0upfXtjqscQ5NQfN.png
 image_description: Open source image above from [kubernetes.io](https://kubernetes.io/).
+last_modified_at: '2026-08-04'
+layout: post
+title: A tale of the treacherous task of Kubernetes upgrade
 ---
 
 This is a tale of unmitigated blast radius in networking. I broke two of our developer environments the second day of joining the infrastructure squad. We discovered several potential issues with our workflow and engineering practices. Let me explain how that happened, and what we did to fix it. We'll also discuss what our squad did to avoid repeating the situation. 

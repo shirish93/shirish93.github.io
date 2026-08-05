@@ -1,15 +1,14 @@
 ---
-layout: post
-title: Day schools for the mobile over-55 in Kathmandu, against loneliness
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Day schools for the mobile over-55 in Kathmandu, against loneliness
 ---
-
-
 
 **Aug 4, 2026 update**
 

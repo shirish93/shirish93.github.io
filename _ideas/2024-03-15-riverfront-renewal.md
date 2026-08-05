@@ -1,13 +1,15 @@
 ---
-layout: post
-title: Can we turn riverfronts in Kathmandu to be a positive experience?
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Can we turn riverfronts in Kathmandu to be a positive experience?
 ---
+
 Kathmandu's rivers stink, and there's no direct incentive for locals to not dump sewage into the rivers. What if we changed incentive structures so that cleaner rivers led to higher income and better property valuations for those living around them? How much effort would it take to rejuvenate Kathmandu's rivers?
 
 

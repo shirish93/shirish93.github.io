@@ -1,15 +1,16 @@
 ---
-layout: post
-title: Running large language models (LLM) locally on your Mac using OLLAMA
 author: shirish
 categories:
-  - ai
-  - llm
-  - tutorial
+- ai
+- llm
+- tutorial
 featured: false
 hidden: false
 image: assets/images/llama.png
 image_description: Image generated using Gemini AI. Will be replaced soon.
+last_modified_at: '2026-08-04'
+layout: post
+title: Running large language models (LLM) locally on your Mac using OLLAMA
 ---
 
 This is an introduction to Large Language Models (LLMs) and an instruction to running them locally on a Mac using OLLAMA.

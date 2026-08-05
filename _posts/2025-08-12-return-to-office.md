@@ -1,14 +1,16 @@
 ---
-layout: post
-title: Chitchat and small talk is actually how business gets done
 author: shirish
 categories:
-  - engineering
-  - RTO
+- engineering
+- RTO
 featured: true
 hidden: true
 image: assets/images/daily-commute-grey.png
-image_description: Surely, if the commute involves paragliding, they'll make alternative arrangements. Illustration is mine, done on Kindle scribe.
+image_description: Surely, if the commute involves paragliding, they'll make alternative
+  arrangements. Illustration is mine, done on Kindle scribe.
+last_modified_at: '2026-08-04'
+layout: post
+title: Chitchat and small talk is actually how business gets done
 ---
 
 This is a hot take. As much as grumpy engineers are loathe to admit it, physical proximity matters. Companies haven't fully thought through their RTO implementations, and that's hurting both sides of the argument.

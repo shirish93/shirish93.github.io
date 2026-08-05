@@ -1,11 +1,12 @@
 ---
-layout: post
-title:  ""
 author: shirish
-categories: [ funding, language ]
+categories:
+- funding
+- language
+last_modified_at: '2026-08-04'
+layout: post
+title: ''
 ---
-
-
 
 What's the order? How would the evaluation work? Youtube and tiktok primary? How to make the language popular?
 Language - Save our languages! Offer language courses, digitize dictionaries, youtube videos in those languages with Nepali/English subtitles. What are the possibilities here!

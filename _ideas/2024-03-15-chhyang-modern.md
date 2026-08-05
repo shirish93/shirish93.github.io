@@ -1,13 +1,15 @@
 ---
-layout: post
-title: Chhyang making business & brewkit
 author: shirish
 categories:
-  - innovation
-  - research
-  - ideas
-  - Kathmandu
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Chhyang making business & brewkit
 ---
+
 What might it take to start a chhyang brewkit business in Kathmandu, and would it be legal?
 
 1. Gotta learn the Tradition  
@@ -43,4 +45,3 @@ What might it take to start a chhyang brewkit business in Kathmandu, and would i
     • Draft a detailed financial plan: start‑up costs, pricing, marketing budget.  
     • Secure necessary permits and comply with food‑safety regulations.  
     • Leverage online sales platforms and community‑building tools.
-    

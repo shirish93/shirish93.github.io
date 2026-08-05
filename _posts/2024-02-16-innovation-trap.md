@@ -1,16 +1,17 @@
 ---
-layout: post
-title: How to prioritize profit while supporting innovation
 author: shirish
 categories:
-  - engineering
-  - architecture
-  - leadership
-  - innovation
+- engineering
+- architecture
+- leadership
+- innovation
 featured: false
 hidden: false
 image: assets/images/inno-trap.jpg
 image_description: Image generated using Gemini AI. Will be replaced soon.
+last_modified_at: '2026-08-04'
+layout: post
+title: How to prioritize profit while supporting innovation
 ---
 
 It's easy to be seduced by the latest 'innovation' fads. But it's important to focus on aligning innovation with core business goals and customer needs. Doing so will protect teams from the innovation trap and achieve long-term success. A lot of this essay is inspired by Christen's book 'The Innovation Trap'.

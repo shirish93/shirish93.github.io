@@ -1,9 +1,11 @@
 ---
-layout: summary
-title:  "What am I up to this moment?"
 author: shirish
-categories: [ now ]
+categories:
+- now
+last_modified_at: '2026-08-04'
+layout: summary
 permalink: /now
+title: What am I up to this moment?
 ---
 
 <style>

@@ -1,8 +1,14 @@
 ---
-layout: post
-title:  "Getting students to clean national parks"
 author: shirish
-categories: [ innovation, sanitation, ideas, Kathmandu, Shivapuri ]
+categories:
+- innovation
+- sanitation
+- ideas
+- Kathmandu
+- Shivapuri
+last_modified_at: '2026-08-04'
+layout: post
+title: Getting students to clean national parks
 ---
 
 Let's teach young students leadership, 3d printing, and organizing skills, by having them organize a program to clean National Parks of litter.

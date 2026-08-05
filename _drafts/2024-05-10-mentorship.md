@@ -1,10 +1,13 @@
 ---
-layout: post
-title:  "How to be a good mentor"
 author: shirish
-categories: [ engineering, mentorship ]
+categories:
+- engineering
+- mentorship
 featured: true
 hidden: true
+last_modified_at: '2026-08-04'
+layout: post
+title: How to be a good mentor
 ---
 
 I have been a Hack.Diversity mentor for the past five years. I have mentored multiple engineering teams of Tufts grad students on their summer projects as a professional alumni. I have also been mentoring engineering leads at a non-profit, and an engineering consultancy that is based in Nepal. Additionally, I have helped out my friends' careers by helping them make lateral career moves and ask for promotions and raises. In that sense, I would say I have some experience mentoring people. In this essay, I will talk about how to become a good mentor and how to make the most of the mentor-mentee relationship for yourself and the person you are mentoring.

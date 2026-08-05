@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My ferment: banana / ginger / carrot wines (fruit wines)"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferment: banana / ginger / carrot wines (fruit wines)'
 ---
 
 * Alcoholic fermentation first began here. 

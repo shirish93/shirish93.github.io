@@ -1,16 +1,19 @@
 ---
-layout: post
-title: What's the ROI on your genAI deployments?
 author: shirish
 categories:
-  - engineering
-  - ai
-  - genai
+- engineering
+- ai
+- genai
 featured: true
 hidden: true
 image: assets/images/genai-roi.jpg
-image_description: You must be watchful of your GenAI expenses. Image lovingly illustrated by me on Kindle Scribe.
+image_description: You must be watchful of your GenAI expenses. Image lovingly illustrated
+  by me on Kindle Scribe.
+last_modified_at: '2026-08-04'
+layout: post
+title: What's the ROI on your genAI deployments?
 ---
+
 What's the payback time for your fancy GenAI project? Will the rate of return outdo the stock market? As GenAI becomes less magical fairydust, and more hands-on work, it's time you looked at the ROI on your GenAI initiatives.
 
 A friend in Seattle started working on a b2b application two years ago. The idea was decent, and he had done fair bit of market research. They released the beta version last year. Sales was slow, but it was picking up. They went out soliciting for feedback, to expand their market reach. Somebody said they should add AI.

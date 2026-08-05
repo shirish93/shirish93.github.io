@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "The equipment I use for my fermentation projects"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: The equipment I use for my fermentation projects
 ---
-
 
 #### What they are, how they are used, when they need to be used, alternatives etc.
 * ~10 wide-top food-safe gallon jars

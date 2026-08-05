@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  ""
 author: shirish
-categories: [ mentorship, hack-diversity ]
+categories:
+- mentorship
+- hack-diversity
+last_modified_at: '2026-08-04'
+layout: post
+title: ''
 ---
 
 Mentorship [1hr]

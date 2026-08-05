@@ -1,12 +1,13 @@
 ---
-layout: post
-title: Cooking classes for dads, by dads, in Kathmandu
 author: shirish
 categories:
-  - innovation
-  - cooking
-  - ideas
-  - Kathmandu
+- innovation
+- cooking
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Cooking classes for dads, by dads, in Kathmandu
 ---
 
 It's one of my small, sillier ideas. I'm excited about it because it's easy to implement, and I love food! It also relates to my other idea, which is the school/club for the retired folks idea. 

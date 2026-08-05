@@ -1,11 +1,13 @@
 ---
-layout: post
-title: Nepal's Ethnic food idea
 author: shirish
 categories:
-  - ethnic-foods
-  - nepali-foods
+- ethnic-foods
+- nepali-foods
+last_modified_at: '2026-08-04'
+layout: post
+title: Nepal's Ethnic food idea
 ---
+
 This is the best idea I've ever had. I'm willing to spend the rest of my life working towards it. I don't know how to put it at the top of this page, but if you encounter this, please read this!
 
 **Initially compiled on Nov 5, 2025**
@@ -120,4 +122,3 @@ The initial money is a marketing investment that will pay dividends soon enough
 - We need reach! Digital advertising is easy way reach thousands of people and start a trend. Maybe more effective than traditional marketing.
     
 - We want results! The prizes give people a reason to spend time creating and submitting the high-quality recipes, designs, and sourcing ideas that will form the backbone of the final Thakali Restaurant Template.
-    

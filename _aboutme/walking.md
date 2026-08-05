@@ -1,8 +1,11 @@
 ---
-layout: summary
-title:  ""
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: summary
+title: ''
 ---
 
 HOBBIES: Walking

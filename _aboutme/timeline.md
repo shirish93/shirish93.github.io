@@ -1,8 +1,10 @@
 ---
-layout: summary
-title:  "A personal timeline of errors and achievements"
 author: shirish
-categories: [ timeline ]
+categories:
+- timeline
+last_modified_at: '2026-08-04'
+layout: summary
+title: A personal timeline of errors and achievements
 ---
 
 Hi I'm Shirish and this timeline charts the experiences, both grand and tiny, that have shaped who I am today.

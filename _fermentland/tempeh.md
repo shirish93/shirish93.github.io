@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "My ferments: Tempeh"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: Tempeh'
 ---
-
 
 * Ferment from Indonesia, soy-based, uses R ryzope (look it up online), makes solid structure out of soy grains.
 * White mold-like structure, traditionally made inside banana leaves. Consumed in curry form, stew, fried, in sandwiches, and numerous other ways in Indonesia.

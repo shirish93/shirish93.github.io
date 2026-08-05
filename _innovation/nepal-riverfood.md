@@ -1,8 +1,12 @@
 ---
-layout: post
-title:  ""
 author: shirish
-categories: [ innovation, food, nepal ]
+categories:
+- innovation
+- food
+- nepal
+last_modified_at: '2026-08-04'
+layout: post
+title: ''
 ---
 
 ## THIS IS A DRAFT. THE ideas BLOG IS A WORK IN PROGRESS, it's not even a draft yet! READ THIS ONLY IF YOU WISH TO BE DISAPPOINTED BY LACK OF FINNESSE

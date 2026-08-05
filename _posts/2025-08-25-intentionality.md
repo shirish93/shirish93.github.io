@@ -1,17 +1,20 @@
 ---
-layout: post
-title: Effort is for Winners, or why I'm removing ai-generated content
 author: shirish
 categories:
-  - ai
-  - genai
-  - art
+- ai
+- genai
+- art
 featured: true
 hidden: true
 image: assets/images/llmbot.png
-image_description: A fully hand-drawn image of a crying LLM-bot. Intentionality in art matters. Without it, it's a nonsensical, cheap equivalent of shiny lights.
+image_description: A fully hand-drawn image of a crying LLM-bot. Intentionality in
+  art matters. Without it, it's a nonsensical, cheap equivalent of shiny lights.
+last_modified_at: '2026-08-04'
+layout: post
 permalink: /intentionality
+title: Effort is for Winners, or why I'm removing ai-generated content
 ---
+
 I'm removing AI-generated slop-illustrations from the blog. In this brave new world of genAI, intentionality and process matter more than ever. When everybody can cheat, the exam answers are worthless. What you test for is the process. This feels familiar.
 
 I'm writing to explain my thought process behind removing AI-generated photos and illustrations from this blog. In the process, I want to ponder upon the value of human creation. By the way, I'm removing AI-generated images on this website with my hand-drawn illustrations. Original post was [here]({% post_url 2025-07-10-handmade-art %}) Soon I'll include photos and illustrations by my friends or people I know. I'm prioritizing intentionally-created works instead of those barfed out by generative AI networks[^1].
@@ -81,4 +84,3 @@ Posting meaningless art, by definition, implies that you don't value intent. You
 The whole point of creating one's online presence is to showcase ability, intent, effort, and one's understanding of the world. It is to display that you have a clear, specific vision and framing of looking at the world. It's a promise that the understanding can be generalized and can be used to your future employer's benefit. I don't really care if anybody knows I'm capable of using a free tool in a lazy manner. Anybody can produce lukewarm, average, pointless work, what exactly is the value of that lukewarm, pointless creation? 
 
 Intent and the journey matter a lot in a world where people understand AI can do a lot. That's why I prioritize hand-drawn illustrations over genAI-generated illustrations.
-

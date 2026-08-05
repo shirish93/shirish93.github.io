@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My ferments: kaanji drink"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: kaanji drink'
 ---
 
 Indian / South Asian drink, fermented carrots and mustard seeds with optional added sugar, traditionally a bit fizzy and done in the summer, need warm temperature, the sort of Indian Spring / Summer. 

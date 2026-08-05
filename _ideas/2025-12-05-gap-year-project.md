@@ -1,13 +1,15 @@
 ---
-layout: post
-title: The Gap Year Project for Kathmandu
 author: shirish
 categories:
-  - innovation
-  - education
-  - ideas
-  - Kathmandu
+- innovation
+- education
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: The Gap Year Project for Kathmandu
 ---
+
 Can we organize lightly structured classes around individual discovery, expansion, personal intellectual horizons, adventure, art, craft, history, etc., that high-schoolers don't usually explore? We would help them apply to foreign universities and also train them to thrive after they go to foreign colleges, so they can lead and guide others in college.
 
 Question I answer about the Gap Year Project

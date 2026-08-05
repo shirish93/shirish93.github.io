@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Can we get students to lead awareness programs for urban canitation?"
 author: shirish
-categories: [ innovation, research, ideas, Kathmandu ]
+categories:
+- innovation
+- research
+- ideas
+- Kathmandu
+last_modified_at: '2026-08-04'
+layout: post
+title: Can we get students to lead awareness programs for urban canitation?
 ---
+
 Littering and a lack of ownership of shared hygeine are big problems with urban sanitation in Kathmandu. Might a city-wide competition among schools and students to keep their communities clean and well-informed change the dynamic?
 
 **Main Issue**

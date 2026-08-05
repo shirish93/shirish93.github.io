@@ -1,9 +1,15 @@
 ---
-layout: post
-title:  "Shuttling laptops in carts: foiled by lack of clear and united team vision"
 author: shirish
-categories: [ innovation, postmortem, ideas, laptops, ecosystem ]
+categories:
+- innovation
+- postmortem
+- ideas
+- laptops
+- ecosystem
 image: assets/images/laptop.png
+last_modified_at: '2026-08-04'
+layout: post
+title: 'Shuttling laptops in carts: foiled by lack of clear and united team vision'
 ---
 
 My idea was for a local business to purchase dozens of laptops and shuttle them across different community schools within a neighborhood. At the time, laptops were not as affordable or as common as they are today, and community schools had a limited supply of desktop computers for computer science classes. 
@@ -32,4 +38,4 @@ The project ultimately fell apart due to a lack of complete agreement on funding
 
 **The Potential for a Sustainable Model**
 
-I still believe there's a great opportunity to create a self-sustaining model by shuttling around relatively expensive equipment among schools (and potentially other institutions?) in Kathmandu. As the cost of the equipment would be shared across multiple parties, and the equipment utilization ratio would be high, the focus could be on improving the service aspect. Equipment such as fully assembled 3D printers, expensive microscopes, and other lab equipment could be great candidates for such a program. 
+I still believe there's a great opportunity to create a self-sustaining model by shuttling around relatively expensive equipment among schools (and potentially other institutions?) in Kathmandu. As the cost of the equipment would be shared across multiple parties, and the equipment utilization ratio would be high, the focus could be on improving the service aspect. Equipment such as fully assembled 3D printers, expensive microscopes, and other lab equipment could be great candidates for such a program.

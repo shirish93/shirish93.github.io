@@ -1,16 +1,19 @@
 ---
-layout: post
-title: What's next for AI? My predictions for the next 10 years
 author: shirish
 categories:
-  - ai
-  - llm
-  - engineering
+- ai
+- llm
+- engineering
 featured: false
-image: assets/images/llm.jpg
 hidden: false
-image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/). Human-created, AFAIK.
+image: assets/images/llm.jpg
+image_description: Royalty-free stock image above from [Pexels](https://www.pexels.com/).
+  Human-created, AFAIK.
+last_modified_at: '2026-08-04'
+layout: post
+title: What's next for AI? My predictions for the next 10 years
 ---
+
 Explainable AI, optical AI, analog AI, and meta-learning. I predict the culmination of optimizing massive generative models will result generative AI being turned into a commodity, and these four areas will be the next frontiers of innovation in machine learning.
 
 Machine learning and Artificial Intelligence (AI)  --  used interchangeably[^1] -- have undeniably changed the world. From revolutionizing healthcare diagnostics to powering supervised-driving cars, AI is a part of our lives. But even as such applications proliferate, an even more advanced future awaits us. I believe it will be driven by advancements in these areas: Optical AI, Analog Computing, Meta-Learning, and Explainable AI. Each of these fields holds great potential in pushing the boundaries of what's possible and redefining the impact -- and meaning -- of what artificial intelligence even means.

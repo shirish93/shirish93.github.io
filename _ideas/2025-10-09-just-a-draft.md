@@ -1,10 +1,12 @@
 ---
-layout: post
-title: All the blogs I want on this site
 author: shirish
 categories:
-  - ideas
+- ideas
+last_modified_at: '2026-08-04'
+layout: post
+title: All the blogs I want on this site
 ---
+
 This is me ideating on all the cool sections I'd want on this site, and if it's just a wild fantasy that'll never be realized.
 
 

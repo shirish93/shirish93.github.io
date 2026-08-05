@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "Special techniques and discoveries in fermentation"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: Special techniques and discoveries in fermentation
 ---
-
 
 Where do I learn the special techniques from? HOw do I validate them? How do I accept/reject them?
       * add carrots, 

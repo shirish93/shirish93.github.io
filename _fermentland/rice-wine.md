@@ -1,8 +1,11 @@
 ---
-layout: post
-title:  "My ferments: rice wine/beer"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: rice wine/beer'
 ---
 
 * Rice beer made in Asia over thousands of years. 

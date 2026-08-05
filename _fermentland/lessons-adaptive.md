@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "Lessons in fermentation: adaptive and hardy creatures"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'Lessons in fermentation: adaptive and hardy creatures'
 ---
-
 
 ADAPTIVE
 * Using milk kefir for water kefir

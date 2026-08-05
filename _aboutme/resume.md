@@ -1,10 +1,13 @@
 ---
-layout: summary
-title:  "Resume"
 author: shirish
-categories: [ resume ]
+categories:
+- resume
+last_modified_at: '2026-08-04'
+layout: summary
 permalink: /resume
+title: Resume
 ---
+
 ## Shirish Pokharel
 
 **Contact**

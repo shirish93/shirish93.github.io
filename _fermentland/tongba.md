@@ -1,10 +1,12 @@
 ---
-layout: post
-title:  "My ferments: Millet wine / tongba"
 author: shirish
-categories: [ fermentation, hobby ]
+categories:
+- fermentation
+- hobby
+last_modified_at: '2026-08-04'
+layout: post
+title: 'My ferments: Millet wine / tongba'
 ---
-
 
 * Made by the Limbu people in eastern Nepal, millet grains fermented by mold and amylase enzymes, plus yeast from the air. 
 * Ferment it by boiling millet grains, adding mold starter after cooling and putting the mixture in a warm sport for couple of months.
