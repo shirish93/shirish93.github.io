@@ -6,7 +6,7 @@ categories:
 - ideas
 - remigration
 - Kathmandu
-last_modified_at: '2026-08-04 17:14:34'
+last_modified_at: '2026-08-04 20:46:34'
 layout: post
 title: A minor proposal for starting the returnee economy in Nepal
 ---
@@ -80,17 +80,17 @@ I'm also particularly interested in Pillar 3 and 4 related to re-integration and
 
 > Pillar 3 · Reintegration and Circular Migration
 
-    Operationalise Nepal's Reintegration Programme with clear institutional mandates, dedicated funding, and integrated one-stop services — combining job-matching, skills recognition, psychosocial support, and entrepreneurship assistance — across federal, provincial, and local levels.
+> Operationalise Nepal's Reintegration Programme with clear institutional mandates, dedicated funding, and integrated one-stop services — combining job-matching, skills recognition, psychosocial support, and entrepreneurship assistance — across federal, provincial, and local levels.
 
-    Formally recognise and certify skills acquired abroad; target the 48% of Europe-based Nepalis undecided about return with concrete incentives for circular engagement and diaspora investment linkages.
+> Formally recognise and certify skills acquired abroad; target the 48% of Europe-based Nepalis undecided about return with concrete incentives for circular engagement and diaspora investment linkages.
 
 Pillar 4 · Promoting Remittances and Diaspora Investment
 
-    Create a sub-FDI investment tier for NRN investors (below NPR 20 million), fast-track NRN citizenship processing through European embassies, and extend NID and PAN access to unlock routine financial participation including fixed deposits and formal banking.
+> Create a sub-FDI investment tier for NRN investors (below NPR 20 million), fast-track NRN citizenship processing through European embassies, and extend NID and PAN access to unlock routine financial participation including fixed deposits and formal banking.
 
-    Strengthen formal remittance channels by reducing transaction costs and expanding digital financial products; conclude DTAAs with Belgium, Germany, Netherlands, Portugal, and France to remove a documented deterrent to diaspora investment and profit repatriation.
+> Strengthen formal remittance channels by reducing transaction costs and expanding digital financial products; conclude DTAAs with Belgium, Germany, Netherlands, Portugal, and France to remove a documented deterrent to diaspora investment and profit repatriation.
 
-    Treat political and regulatory stability — anti-corruption frameworks, transparent business registration, judicial enforcement of contracts — as non-negotiable preconditions for large-scale diaspora capital flows
+> Treat political and regulatory stability — anti-corruption frameworks, transparent business registration, judicial enforcement of contracts — as non-negotiable preconditions for large-scale diaspora capital flows
 
 So what can be done?
 
