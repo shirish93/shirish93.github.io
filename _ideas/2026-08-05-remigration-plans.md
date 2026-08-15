@@ -6,7 +6,7 @@ categories:
 - ideas
 - remigration
 - Kathmandu
-last_modified_at: '2026-08-04 23:25:39'
+last_modified_at: '2026-08-15 13:36:01'
 layout: post
 title: A minor proposal for starting the returnee economy in Nepal
 ---
@@ -18,6 +18,46 @@ There's a potential for remigration in Nepal. We can create a thriving "returnee
 **The idea:**
 
 What's the smallest viable idea for this? What would be the lowest hanging fruit to accomplish some of the goals below for the highest ROI per lowest expense?
+
+
+
+
+---
+**Aug 15, 2026 update** :
+
+Why would people invest in companies or hire people associated with this plan though? Because if they need to pay a % of their contract size as a finders fee, they'd rather just hide the transaction, and not report it at all!
+
+
+Here's another related idea independent of that scheme, but also synergistic with it.
+
+The solution is: INVESTMENT FUNDS!
+
+Each returnee, meaning explicitly somebody working abroad with a valid working visa, or a student visa, NOT a tourist visa, gets an opportunity to invest in multiple investment funds exclusive to the scheme.
+
+They are annual investment funds at different tiers: 1Lakh tier,, 5lakh tier, 10lakh tier, 25 lakh tier 50 lakh tier....ETC. Each single individual can 'buy' one slot in the investment fund, no more, no less. Each year has its own funds that can last for several years. The government matches funds by 20% in the lowest tiers, and 3-6% in the upper tiers. Gotta make it a liiitle more competitive vs. putting money in the bank for the first year!
+
+What that does is make the democracy in the investment fund quite simple: 1 person, 1 vote.
+
+The government decides the major fields (eg. tourism, agriculture, IT, etc), and the investors in the fund can design how they want to divide their investment. Eg 45% tourism, 35%agriculture, 20% IT etc.
+
+Now within the field nominations, who gets the fund? Anybody can apply for the fund (with prioritization, as explained below), and the individual investors get to vote for the specific recipients for the funds. The government does basic check to verify there's no obvious conflict of interest etc.
+
+How does it relate to the other idea?
+
+Because! The individuals/companies/projects who are given higher priority (or the only people eligible after the first few years) are those who have reported/registered transactions through the program, and paid finders fees!
+
+Eg. The finders fee is 6%. I signed a contract of 1crore with somebody I found through the program. I paid 6% of that = 6 lakhs. I'm now eligible for 1 crore of investment (or whatever that multiplier number for the Eligible_Investment_amt/total_reported_business_amt maybe. Maybe the ratio's 1, maybe it's 4. It can't be too high, or it'll be very susceptible for fraud)
+
+Now, the incentive to hire people, and invest in this program becomes the fact that you get an interest free investment in return for equity, with tonnes of very emotionally invested and interested people helping out your business. If you don't report your business contracts through the program, you got your lead, but you're not involved with the program anymore!
+
+Also should be a way to 'report' transactions, maybe a raffle for each of the payments monthly or weekly (like the tax raffle) with the winner getting a certain cash amount? We need just one of the two parties to report the transaction to us!
+
+This addition introduces one additional very exciting concept: annual investment funds with fixed amount of investment allowed, for various tiers, to make investments inside the company. 
+
+The only issue is, is it going to be load with expected returns, or cash-for-equity trade. The latter can be tricky because how liquid is a cow farm really, and its multiple is going to be really low, but maybe we can think up something later. For now, I'm loving this idea!
+
+---
+
 
 My proposal:
 
