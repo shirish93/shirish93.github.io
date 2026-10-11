@@ -1,6 +1,6 @@
 ---
 comments: true
-last_modified_at: '2024-03-13 20:40:09'
+last_modified_at: '2026-10-10 20:34:12'
 layout: page
 permalink: /fermentland
 title: Shirish Pokharel's Adventures in Fermentland
@@ -20,9 +20,11 @@ This is my "Adventures in Fermentland" journal. My observations, thoughts and on
 </div>
 <section class="recent-posts">
 <div class="row listrecent">
-    {% for post in site.fermentland %}
+    {% assign sorted_blogs = site.fermentland | sort: "last_modified_at" | reverse %}
+    {% for post in sorted_blogs %}
             {% include postbox.html %}
     {% endfor %}
+</div>
 </div>
 </section>
 
