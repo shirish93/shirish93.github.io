@@ -3,7 +3,7 @@ author: shirish
 categories:
 - ethnic-foods
 - nepali-foods
-last_modified_at: '2026-10-10 18:59:17'
+last_modified_at: '2026-10-10 19:57:32'
 layout: post
 title: Nepal's Ethnic food idea
 ---
@@ -11,10 +11,8 @@ title: Nepal's Ethnic food idea
 This is the best idea I've ever had. I'm willing to spend the rest of my life working towards it. I don't know how to put it at the top of this page, but if you encounter this, please read this!
 
 
-**Sept 21, 2025 Update**
+**Sept 21, 2026 Update**
 Here's a slop draft of potentially unique cuisines that sound remotely viable that I got gemini to generate. I don't trust it one bit, but it's ONE starting point versus not having anything.
-
-My apologies for the confusion. Here is the complete master list containing **all individual dishes** for each of the 20 distinct cuisines covered in our conversation, compiled without duplicates:
 
 ```
 
