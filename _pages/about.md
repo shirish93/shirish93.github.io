@@ -1,6 +1,6 @@
 ---
 comments: true
-last_modified_at: '2024-03-09 23:15:22'
+last_modified_at: '2026-10-10 18:59:17'
 layout: page
 permalink: /about
 title: Welcome!
@@ -14,10 +14,6 @@ title: Welcome!
 
 <p>As of September 2024 I work as an Senior Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
 
-<p>
-{% assign resume_link = "/resume" %}
-{% include thumbnail.html link=resume_link text="My resume" image="thumbnails/resume.webp" %} is available if your interests are strictly professional.
-</p>
 
 <p>
 {% assign timeline_link = "/aboutme/timeline" %}

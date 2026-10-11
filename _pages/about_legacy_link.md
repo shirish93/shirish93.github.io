@@ -1,6 +1,6 @@
 ---
 comments: true
-last_modified_at: '2024-04-14 19:03:36'
+last_modified_at: '2026-10-10 18:59:17'
 layout: page
 permalink: /about/index.html
 title: Welcome!
@@ -14,8 +14,6 @@ title: Welcome!
 <p>I go by 'Shirish' which is pronounced Si-Reash. My last name is pronounced Pokharel -- Poe-Kh-Rael.</p>
 
 <p>As of March 2024 I work as an Innovation Engineer at Solaria Labs. I enjoy working here, with smart, talented, and caring coworkers.</p>
-
-<p>If your interests here are strictly professional, my resume can be found <a href="{{ site.url }}{% link _aboutme/resume.md%}">here</a>.</p>
 
 <p>A 'timeline' of interesting things I've been doing in the past 15 or so years can be found <a href="{{ site.url }}{% link _aboutme/timeline.md %}">here</a>.</p>
 

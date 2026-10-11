@@ -4,7 +4,7 @@ categories:
 - innovation
 - food
 - nepal
-last_modified_at: '2024-03-30 20:11:43'
+last_modified_at: '2026-10-10 18:59:17'
 layout: post
 title: ''
 ---
@@ -16,6 +16,10 @@ title: ''
 Nepal boasts a rich freshwater "seafood" (hereafter referred to as riverfood) culture, offering unique and delicious dishes enjoyed for generations. However, due to a lack of marketing and changing social perceptions, riverfood consumption has declined. This proposal aims to revitalize Nepal's riverfood scene, focusing on both internal consumption and attracting external tourists, particularly from Southeast Asia. Nepal boasts a hidden gem – a rich tradition of freshwater "seafood" (hereafter referred to as riverfood) that offers unique and delicious dishes enjoyed for generations.  However, due to a lack of marketing and changing social perceptions, this culinary treasure trove has been somewhat neglected. This proposal aims to breathe new life into Nepal's riverfood scene, not only for domestic consumption but also to attract external tourists, particularly from Southeast Asian nations with a deep appreciation for seafood.
 
 Imagine indulging in a plate of Syauja, a spicy stir-fry featuring plump freshwater snails (Ghongi) bathed in a fragrant garlic and chilies sauce. Or perhaps a steaming bowl of Paha ko Achar, a tangy pickle made with chunks of marinated freshwater frogs (Paha), seasoned with mustard seeds and fiery chilies.  For those seeking a subtler taste, Sipi ko Tarkari, a comforting curry made with river mussels (Sipi), simmered in a creamy tomato and coconut milk base, will tantalize the taste buds.  These are just a few examples of the culinary possibilities that await exploration. By incorporating these unique freshwater creatures – snails (Ghongi), freshwater prawns (Tite machha), frogs (Paha), and mussels (Sipi) – into familiar Southeast Asian flavor profiles, Nepali chefs can create a unforgettable dining experience for adventurous tourists seeking a taste of Nepal's hidden culinary heritage.
+
+Items:
+
+Ghonghi, Paha, Sipi, TIte maccha, gagata, jhinge machha, hile machha (eel), Pani Phal / Kamal Kakdi
 
 **Introduction:**
 
