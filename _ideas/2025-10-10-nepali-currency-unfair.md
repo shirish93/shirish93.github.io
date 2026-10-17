@@ -5,13 +5,20 @@ categories:
 - research
 - ideas
 - Kathmandu
-last_modified_at: '2025-11-05 18:28:28'
+last_modified_at: '2026-10-16 19:00:42'
 layout: post
 title: The unfairness of Nepali currency pegging
 ---
 
 Nepali currency is massively overvalued for it's relative usage in the global economy. It's value against the dollar (and by general proxy most other currencies) going down will be good for the local market, and for the entire economy in the long term.
   
+
+**Oct 16, 2026 Edit**
+
+With the Indian currency depreciating considerably against the USD, thus weakening NPR against other currencies (all except the Indian currency), is it a good happenstance? Fuel prices are going crazy, along with commodity prices -- including fertilizer -- so is it a coincidence that the talk of resurrecting domestic industrial base has been getting louder? Is the pain of higher prices absolutely necessary or are there less painful ways for the adjustment to be triggered?
+
+---
+
 
 **NOTE: THIS WILL GO TO THE WHY NEPAL? JOURNAL. Until Then, It stays here, because who knows when I'll get around to creating it?**
 
