@@ -97,7 +97,7 @@
       align-items: center; 
       gap: 8px; 
       flex-wrap: wrap; 
-      margin-bottom: 12px;
+      margin-bottom: 20px;
       margin-top: 0;
     }
     .breadcrumb h2 { margin: 0; font-size: 22px; color: #fff; font-weight: 700; }
@@ -111,7 +111,7 @@
     }
     .arrow { color: #5a628a; font-weight: 600; font-size: 16px; }
 
-    .selected-emotion p { color: #d0d4e3; line-height: 1.6; font-size: 16px; margin-bottom: 24px; font-weight: 300;}
+    .selected-emotion p { color: #d0d4e3; line-height: 1.6; font-size: 16px; margin: 20px 0; font-weight: 300;}
     
     .note-input {
       margin-bottom: 16px;
@@ -187,20 +187,21 @@
 
   <div class="content-section">
     
-    <!-- Emotion Tree Mapping First -->
+    <!-- Unified Emotion Control Card -->
     <div class="card selected-emotion">
       <div id="breadcrumb" class="breadcrumb">
         <h2>Unselected</h2>
       </div>
-      <p id="emotionDef">Select an emotion from the wheel to read how it physically manifests in your body.</p>
+      
+      <!-- Search Bar Moved Here -->
+      <input type="text" class="search-bar" id="searchInput" placeholder="Search for a specific feeling..." oninput="searchEmotions()">
+      
+      <p id="emotionDef">Select an emotion from the wheel or search to read how it physically manifests in your body.</p>
       <input type="text" id="emotionNote" class="search-bar note-input" placeholder="Add a note to your check-in (optional)...">
       <button class="check-in-btn" id="logBtn" onclick="logEmotion()">Log this Emotion</button>
     </div>
 
-    <!-- Search Bar Second -->
-    <input type="text" class="search-bar" id="searchInput" placeholder="Search for a specific feeling..." oninput="searchEmotions()">
-
-    <!-- Recent Check-Ins Third -->
+    <!-- Recent Check-Ins -->
     <div class="card">
       <h2 style="font-size: 18px; text-align: left; margin:0; color: #fff; font-weight: 600;">Recent Check-Ins</h2>
       <ul class="log-list" id="logList"></ul>
@@ -492,7 +493,7 @@ function renderBreadcrumbs(node) {
 function resetSelection() {
   currentEmotion = null;
   renderBreadcrumbs(null);
-  document.getElementById('emotionDef').textContent = "Select an emotion from the wheel to read how it physically manifests in your body.";
+  document.getElementById('emotionDef').textContent = "Select an emotion from the wheel or search to read how it physically manifests in your body.";
   document.getElementById('searchInput').value = '';
   updateWheelOpacities(null);
 }
