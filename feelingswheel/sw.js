@@ -1,4 +1,4 @@
-const CACHE_NAME = 'feelings-wheel-v1';
+const CACHE_NAME = 'feelings-wheel-v2';
 const ASSETS = [
   './index.html',
   './manifest.json',
