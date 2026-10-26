@@ -51,6 +51,7 @@
       user-select: none;
       -webkit-user-select: none;
       flex-shrink: 0;
+      transition: transform 0.3s ease;
     }
     .wheel-container:active { cursor: grabbing; }
     svg { width: 100%; height: 100%; display: block; filter: drop-shadow(0 10px 30px rgba(0,0,0,0.3)); }
@@ -158,11 +159,13 @@
       font-style: italic;
     }
 
-    /* Mobile Scaling Logic */
+    /* Mobile Scaling & Translation Logic */
     @media (max-width: 768px) {
       .wheel-container {
-        width: 170vw; 
+        width: 180vw; 
         max-width: none;
+        /* Pulls the center of the wheel near the left edge of the screen */
+        transform: translateX(-40vw); 
       }
       .wheel-section {
         height: 85vh; 
@@ -193,7 +196,7 @@
         <h2>Unselected</h2>
       </div>
       
-      <!-- Search Bar Moved Here -->
+      <!-- Search Bar -->
       <input type="text" class="search-bar" id="searchInput" placeholder="Search for a specific feeling..." oninput="searchEmotions()">
       
       <p id="emotionDef">Select an emotion from the wheel or search to read how it physically manifests in your body.</p>
@@ -390,9 +393,8 @@ function drawWheel(node, depth) {
     text.setAttribute("class", "wheel-text");
     text.setAttribute("data-id", node.id);
     
+    // Core fix: Text strictly points outward from center, no dynamic flipping.
     let rot = midAngle - 90;
-    rot = ((rot % 360) + 360) % 360; 
-    if (rot > 90 && rot < 270) rot += 180; 
     text.setAttribute("transform", `rotate(${rot} ${pos.x} ${pos.y})`);
     text.textContent = node.name;
     wheelGroup.appendChild(text);
