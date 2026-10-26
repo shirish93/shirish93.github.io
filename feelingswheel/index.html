@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emotion Check-In</title>
+  <link rel="manifest" href="manifest.json">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      border: none !important;
+      outline: none !important;
+    }
+    body {
+      font-family: 'Nunito', sans-serif;
+      background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%);
+      color: #4a4a4a;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    .container {
+      width: 100%;
+      max-width: 800px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+    .card {
+      background: #ffffff;
+      border-radius: 24px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.04);
+      padding: 30px;
+      text-align: center;
+    }
+    .header h1 { font-size: 28px; color: #2c3e50; font-weight: 800; margin-bottom: 8px; }
+    .header p { font-size: 16px; color: #7f8c8d; }
+    
+    .search-bar {
+      width: 100%;
+      padding: 16px 24px;
+      font-size: 16px;
+      background: #f4f6f8;
+      border-radius: 100px;
+      box-shadow: inset 0 2px 6px rgba(0,0,0,0.02);
+      transition: box-shadow 0.3s ease;
+      font-family: 'Nunito', sans-serif;
+    }
+    .search-bar:focus { box-shadow: inset 0 2px 10px rgba(0,0,0,0.06); }
+    
+    .wheel-container {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+      aspect-ratio: 1;
+    }
+    svg { width: 100%; height: 100%; filter: drop-shadow(0 8px 16px rgba(0,0,0,0.05)); }
+    
+    .selected-emotion h2 { color: #34495e; margin-bottom: 12px; font-size: 24px; }
+    .selected-emotion p { color: #555; line-height: 1.6; margin-bottom: 24px; font-size: 15px; }
+    
+    .check-in-btn {
+      background: #8e44ad;
+      color: white;
+      padding: 14px 32px;
+      font-size: 16px;
+      font-weight: 600;
+      border-radius: 100px;
+      cursor: pointer;
+      box-shadow: 0 6px 20px rgba(142, 68, 173, 0.3);
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .check-in-btn:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(142, 68, 173, 0.4); }
+    
+    .log-list { list-style: none; text-align: left; margin-top: 16px; }
+    .log-item {
+      background: #f9f9f9;
+      padding: 16px;
+      border-radius: 16px;
+      margin-bottom: 12px;
+      display: flex;
+      justify-content: space-between;
+      color: #333;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.02);
+    }
+    .log-time { color: #95a5a6; font-size: 13px; }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="card header">
+    <h1>Take a Breath.</h1>
+    <p>How are you feeling in this exact moment? It's okay to feel whatever is coming up.</p>
+  </div>
+
+  <input type="text" class="search-bar" id="searchInput" placeholder="Search for an emotion..." oninput="searchEmotions()">
+
+  <div class="wheel-container">
+    <svg id="wheelSvg" viewBox="0 0 1000 1000"></svg>
+  </div>
+
+  <div class="card selected-emotion">
+    <h2 id="emotionName">Explore the Wheel</h2>
+    <p id="emotionDef">Tap any slice on the wheel above or search to understand the feelings present in your body.</p>
+    <button class="check-in-btn" onclick="logEmotion()">Check-In with this Feeling</button>
+  </div>
+
+  <div class="card">
+    <h2 style="font-size: 20px; color: #2c3e50; text-align: left;">Recent Check-Ins</h2>
+    <ul class="log-list" id="logList"></ul>
+  </div>
+</div>
+
+<script>
+const emotionsData = {
+  name: "Center", leaves: 0,
+  children: [
+    {
+      name: "Joy", color: "#ffd1d1", def: "Feelings of happiness and contentment, often accompanied by excitement or delight.",
+      children: [
+        { name: "Proud", def: "A sense of achievement and self-worth, making reasonable progress toward a goal.", children: [{name: "Confident", def:"Secure in abilities."}, {name: "Successful", def:"Achieving desired outcomes."}] },
+        { name: "Peaceful", def: "A state of calm and low physical arousal.", children: [{name: "Loving", def:"Warm affection."}, {name: "Thankful", def:"Gratitude and appreciation."}] }
+      ]
+    },
+    {
+      name: "Sadness", color: "#ffe2d1", def: "Encompasses feelings of sorrow, disappointment, or grief, often related to experiencing an irrevocable loss.",
+      children: [
+        { name: "Lonely", def: "Feeling disconnected or lacking social bonds.", children: [{name: "Isolated", def:"Physically or emotionally separated."}, {name: "Abandoned", def:"Left behind."}] },
+        { name: "Despair", def: "A deep sense of hopelessness.", children: [{name: "Grief", def:"Intense sorrow from loss."}, {name: "Powerless", def:"Lacking agency."}] }
+      ]
+    },
+    {
+      name: "Anger", color: "#eaddff", def: "An innate response enabling defense of ourselves and resources, often from perceived unfairness.",
+      children: [
+        { name: "Frustrated", def: "Blockage of a desired goal.", children: [{name: "Annoyed", def:"Mild irritation."}, {name: "Infuriated", def:"Intense rage."}] },
+        { name: "Mad", def: "A primary descriptor of intense hostility.", children: [{name: "Furious", def:"Explosive anger."}, {name: "Jealous", def:"Fear of losing something valuable to a rival."}] }
+      ]
+    },
+    {
+      name: "Fear", color: "#d1e8ff", def: "An automatic response to ecological challenges or danger, helping us escape threats.",
+      children: [
+        { name: "Anxious", def: "Anticipatory apprehension about future threats.", children: [{name: "Worried", def:"Cognitive concern."}, {name: "Overwhelmed", def:"Inability to cope with stimuli."}] },
+        { name: "Scared", def: "Immediate alarm reaction to present danger.", children: [{name: "Helpless", def:"Unable to defend oneself."}, {name: "Frightened", def:"Acute sudden fear."}] }
+      ]
+    },
+    {
+      name: "Disgust", color: "#e8ffd1", def: "A complex experience of aversion, revulsion, and repulsion toward offensive stimuli.",
+      children: [
+        { name: "Disapproving", def: "Cognitive judgment against a stimulus.", children: [{name: "Judgmental", def:"Critical evaluation."}, {name: "Condemned", def:"Strong moral rejection."}] },
+        { name: "Repelled", def: "Physical or emotional urge to distance.", children: [{name: "Horrified", def:"Shock mixed with revulsion."}, {name: "Nauseated", def:"Physical sickness response."}] }
+      ]
+    },
+    {
+      name: "Surprise", color: "#fffcd1", def: "Arises when an unexpected event occurs, leading to a brief state of astonishment.",
+      children: [
+        { name: "Amazed", def: "Wonder at something unexpected.", children: [{name: "Awe", def:"Reverence and wonder."}, {name: "Astonished", def:"Great surprise."}] },
+        { name: "Startled", def: "Sudden physical reflex to a stimulus.", children: [{name: "Shocked", def:"Distressing surprise."}, {name: "Dismayed", def:"Disheartening unexpected news."}] }
+      ]
+    }
+  ]
+};
+
+// Data Prep
+let flatEmotions = [];
+function inheritColors(node, parentColor) {
+  if(!node.color) node.color = parentColor;
+  if(node.name !== "Center") flatEmotions.push(node);
+  if(node.children) node.children.forEach(c => inheritColors(c, node.color));
+}
+inheritColors(emotionsData, "#ffffff");
+
+function countLeaves(node) {
+  if (!node.children) { node.leaves = 1; return 1; }
+  let sum = 0;
+  node.children.forEach(c => sum += countLeaves(c));
+  node.leaves = sum;
+  return sum;
+}
+
+function assignAngles(node, startAngle, totalLeaves) {
+  const anglePerLeaf = 360 / totalLeaves;
+  node.startAngle = startAngle;
+  node.endAngle = startAngle + (node.leaves * anglePerLeaf);
+  let currentAngle = startAngle;
+  if (node.children) {
+    node.children.forEach(c => {
+      assignAngles(c, currentAngle, totalLeaves);
+      currentAngle += (c.leaves * anglePerLeaf);
+    });
+  }
+}
+
+// SVG Drawing
+const svg = document.getElementById('wheelSvg');
+const cx = 500, cy = 500;
+
+function polarToCartesian(centerX, centerY, radius, angleInDegrees) {
+  const angleInRadians = (angleInDegrees - 90) * Math.PI / 180.0;
+  return { x: centerX + (radius * Math.cos(angleInRadians)), y: centerY + (radius * Math.sin(angleInRadians)) };
+}
+
+function describeArc(x, y, innerRadius, outerRadius, startAngle, endAngle){
+  const gap = 1;
+  const startInner = polarToCartesian(x, y, innerRadius, startAngle + gap);
+  const endInner   = polarToCartesian(x, y, innerRadius, endAngle - gap);
+  const startOuter = polarToCartesian(x, y, outerRadius, startAngle + gap);
+  const endOuter   = polarToCartesian(x, y, outerRadius, endAngle - gap);
+  const largeArcFlag = endAngle - startAngle <= 180 ? "0" : "1";
+  return [
+    "M", startInner.x, startInner.y,
+    "L", startOuter.x, startOuter.y,
+    "A", outerRadius, outerRadius, 0, largeArcFlag, 1, endOuter.x, endOuter.y,
+    "L", endInner.x, endInner.y,
+    "A", innerRadius, innerRadius, 0, largeArcFlag, 0, startInner.x, startInner.y,
+    "Z"
+  ].join(" ");
+}
+
+function drawWheel(node, depth) {
+  if (depth > 0) {
+    const ir = 100 + (depth - 1) * 125;
+    const or = 100 + depth * 125;
+    
+    const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+    path.setAttribute("d", describeArc(cx, cy, ir, or, node.startAngle, node.endAngle));
+    path.setAttribute("fill", node.color);
+    path.style.cursor = "pointer";
+    path.style.transition = "opacity 0.2s";
+    path.onmouseover = () => path.style.opacity = 0.7;
+    path.onmouseout = () => path.style.opacity = 1;
+    path.onclick = () => selectEmotion(node);
+    svg.appendChild(path);
+
+    const midAngle = (node.startAngle + node.endAngle) / 2;
+    const midRadius = (ir + or) / 2;
+    const pos = polarToCartesian(cx, cy, midRadius, midAngle);
+    
+    const text = document.createElementNS("http://www.w3.org/2000/svg", "text");
+    text.setAttribute("x", pos.x);
+    text.setAttribute("y", pos.y);
+    text.setAttribute("text-anchor", "middle");
+    text.setAttribute("alignment-baseline", "middle");
+    text.setAttribute("font-size", depth === 1 ? "18" : "14");
+    text.setAttribute("font-family", "Nunito, sans-serif");
+    text.setAttribute("fill", "#2c3e50");
+    text.style.pointerEvents = "none";
+    
+    let rot = midAngle;
+    if (rot > 90 && rot < 270) rot += 180;
+    text.setAttribute("transform", `rotate(${rot} ${pos.x} ${pos.y})`);
+    text.textContent = node.name;
+    svg.appendChild(text);
+  }
+  if (node.children) node.children.forEach(c => drawWheel(c, depth + 1));
+}
+
+// Initialization
+countLeaves(emotionsData);
+assignAngles(emotionsData, 0, emotionsData.leaves);
+drawWheel(emotionsData, 0);
+
+// Interaction & Logging
+let currentEmotion = null;
+
+function selectEmotion(node) {
+  currentEmotion = node;
+  document.getElementById('emotionName').textContent = `Feeling ${node.name}`;
+  document.getElementById('emotionDef').textContent = node.def;
+  document.getElementById('searchInput').value = '';
+}
+
+function searchEmotions() {
+  const query = document.getElementById('searchInput').value.toLowerCase();
+  if(!query) return;
+  const match = flatEmotions.find(e => e.name.toLowerCase().includes(query));
+  if(match) selectEmotion(match);
+}
+
+function logEmotion() {
+  if(!currentEmotion) return;
+  const log = JSON.parse(localStorage.getItem('emotionLog') || '[]');
+  log.unshift({ time: new Date().toLocaleString(), emotion: currentEmotion.name, color: currentEmotion.color });
+  localStorage.setItem('emotionLog', JSON.stringify(log));
+  renderLog();
+}
+
+function renderLog() {
+  const log = JSON.parse(localStorage.getItem('emotionLog') || '[]');
+  const list = document.getElementById('logList');
+  list.innerHTML = '';
+  log.slice(0, 10).forEach(entry => {
+    const li = document.createElement('li');
+    li.className = 'log-item';
+    li.innerHTML = `<span><strong style="color:${entry.color}">●</strong> ${entry.emotion}</span> <span class="log-time">${entry.time}</span>`;
+    list.appendChild(li);
+  });
+}
+renderLog();
+
+// Service Worker Registration
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js');
+}
+</script>
+</body>
+</html>
