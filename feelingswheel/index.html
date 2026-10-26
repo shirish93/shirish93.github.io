@@ -2,98 +2,151 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes">
   <title>Emotion Check-In</title>
   <link rel="manifest" href="manifest.json">
-  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
   <style>
     :root {
-      --bg: #f5f7fa;
-      --card-bg: #ffffff;
-      --text-main: #2c3e50;
-      --text-muted: #7f8c8d;
-      --border: #e1e8ed;
+      --bg: #16182a;
+      --card-bg: rgba(30, 34, 56, 0.8);
+      --text-main: #ffffff;
+      --text-muted: #a0a5b5;
+      --border: #2c3252;
     }
     html, body {
       margin: 0; padding: 0;
       font-family: 'Nunito', sans-serif;
-      background: var(--bg);
+      background: radial-gradient(circle at top, #1f233f, #0d0f1a);
       color: var(--text-main);
       min-height: 100vh;
       display: flex;
       flex-direction: column;
       align-items: center;
-      overflow-x: hidden;
     }
     .container {
       width: 100%;
-      max-width: 800px;
+      max-width: 900px;
       display: flex;
       flex-direction: column;
       gap: 20px;
       padding: 20px;
+      box-sizing: border-box;
     }
     .card {
       background: var(--card-bg);
       border-radius: 16px;
       border: 1px solid var(--border);
-      box-shadow: 0 4px 12px rgba(0,0,0,0.03);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.2);
       padding: 24px;
       text-align: center;
     }
-    .header h1 { font-size: 24px; font-weight: 800; margin-bottom: 8px; margin-top:0;}
+    .header h1 { font-size: 24px; font-weight: 800; margin-bottom: 8px; margin-top:0; color: #fff;}
     .header p { font-size: 15px; color: var(--text-muted); margin:0;}
     
     .search-bar {
       width: 100%;
       padding: 14px 20px;
       font-size: 16px;
-      background: #fff;
+      background: rgba(13, 15, 26, 0.6);
+      color: #fff;
       border: 1px solid var(--border);
       border-radius: 8px;
       font-family: 'Nunito', sans-serif;
+      box-sizing: border-box;
       transition: border-color 0.2s;
     }
-    .search-bar:focus { outline: none; border-color: #8e44ad; }
+    .search-bar:focus { outline: none; border-color: #e67715; }
     
     .wheel-container {
       width: 100%;
-      max-width: 700px;
+      max-width: 850px;
       margin: 0 auto;
       aspect-ratio: 1;
       position: relative;
-      touch-action: none; /* Prevents page scroll when spinning */
+      cursor: grab;
+      /* Prevents double-tap zooming & text highlighting that warps the layout */
+      touch-action: manipulation; 
+      user-select: none;
+      -webkit-user-select: none;
+    }
+    .wheel-container:active {
+      cursor: grabbing;
     }
     svg { width: 100%; height: 100%; display: block; }
     
-    .selected-emotion { text-align: left; }
-    .selected-emotion h2 { margin-top: 0; font-size: 22px; color: #2c3e50; display:flex; align-items:center; gap:10px; }
-    .selected-emotion p { color: #4a4a4a; line-height: 1.5; font-size: 15px; margin-bottom: 20px; }
+    .wheel-segment, .wheel-text {
+      transition: opacity 0.3s ease;
+    }
+    .wheel-segment:hover {
+      filter: brightness(1.1);
+    }
     
+    .selected-emotion { text-align: left; }
+    
+    /* Breadcrumb Styles */
+    .breadcrumb { 
+      display: flex; 
+      align-items: center; 
+      gap: 8px; 
+      flex-wrap: wrap; 
+      margin-bottom: 12px;
+      margin-top: 0;
+    }
+    .breadcrumb h2 { margin: 0; font-size: 22px; color: #fff; }
+    .badge { 
+      padding: 6px 14px; 
+      border-radius: 20px; 
+      font-weight: 800; 
+      font-size: 15px; 
+      color: #fff; 
+      box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    }
+    .arrow { color: #5a628a; font-weight: 800; font-size: 16px; }
+
+    .selected-emotion p { color: #d0d4e3; line-height: 1.6; font-size: 15px; margin-bottom: 20px; }
+    
+    .note-input {
+      margin-bottom: 16px;
+      background: rgba(20, 24, 44, 0.5);
+      border: 1px solid transparent;
+    }
+    .note-input:focus { border-color: #5a628a; background: rgba(20, 24, 44, 0.8); }
+
     .check-in-btn {
-      background: #2c3e50;
+      background: #3a4163;
       color: white;
-      padding: 12px 24px;
+      padding: 14px 24px;
       font-size: 16px;
-      font-weight: 600;
+      font-weight: 700;
       border: none;
       border-radius: 8px;
       cursor: pointer;
       width: 100%;
       transition: background 0.2s;
     }
-    .check-in-btn:hover { background: #1a252f; }
+    .check-in-btn:hover { background: #505982; }
     
     .log-list { list-style: none; padding:0; margin: 16px 0 0 0; text-align: left; }
     .log-item {
       padding: 12px 0;
       border-bottom: 1px solid var(--border);
       display: flex;
-      justify-content: space-between;
+      flex-direction: column;
+      gap: 8px;
       font-size: 14px;
     }
     .log-item:last-child { border-bottom: none; }
+    .log-header { display: flex; justify-content: space-between; align-items: center; }
     .log-time { color: var(--text-muted); font-size: 12px; }
+    .log-note {
+      font-size: 13.5px;
+      color: #a0a5b5;
+      background: rgba(0,0,0,0.2);
+      padding: 10px 14px;
+      border-radius: 8px;
+      font-style: italic;
+    }
   </style>
 </head>
 <body>
@@ -101,19 +154,24 @@
 <div class="container">
   <div class="card header">
     <h1>Emotion Check-In</h1>
-    <p>Drag the wheel to spin. Tap a segment to explore.</p>
+    <p>Drag to spin. Tap a feeling to trace its path. Pinch to zoom.</p>
   </div>
 
   <input type="text" class="search-bar" id="searchInput" placeholder="Search for an emotion..." oninput="searchEmotions()">
 
   <div class="wheel-container" id="wheelContainer">
-    <svg id="wheelSvg" viewBox="0 0 1000 1000"></svg>
+    <svg id="wheelSvg" viewBox="0 0 1000 1000">
+      <g id="wheelGroup" transform="rotate(0 500 500)"></g>
+    </svg>
   </div>
 
   <div class="card selected-emotion">
-    <h2 id="emotionName">Center</h2>
-    <p id="emotionDef">Select an emotion from the wheel or search above to understand what you are feeling.</p>
-    <button class="check-in-btn" onclick="logEmotion()">Log this Emotion</button>
+    <div id="breadcrumb" class="breadcrumb">
+      <h2>Center</h2>
+    </div>
+    <p id="emotionDef">Select an emotion from the wheel or search above to read its clinical definition and understand what you are feeling.</p>
+    <input type="text" id="emotionNote" class="search-bar note-input" placeholder="Add a note to your check-in (optional)...">
+    <button class="check-in-btn" id="logBtn" onclick="logEmotion()">Log this Emotion</button>
   </div>
 
   <div class="card">
@@ -123,110 +181,107 @@
 </div>
 
 <script>
+let nodeIdCounter = 0;
 const emotionsData = {
   name: "Center", leaves: 0,
   children: [
     {
-      name: "Bad", color: "#54b2a9", def: "A generalized state of physical, mental, or emotional discomfort and lack of well-being.",
+      name: "Bad", color: "#5b2b7b", def: "A generalized state of negative affect, often characterized by subjective distress, lethargy, or discomfort. Research indicates 'bad' is an undifferentiated affective state preceding specific emotional categorization (Feldman Barrett, 2006).",
       children: [
-        { name: "Tired", def: "Depleted of strength or energy.", children: [{name: "Sleepy", def: "Needing rest or sleep."}, {name: "Unfocused", def: "Lacking concentration or clarity."}] },
-        { name: "Stressed", def: "Experiencing mental or emotional tension.", children: [{name: "Overwhelmed", def: "Defeated by an excessive amount of input."}, {name: "Out of control", def: "Lacking the ability to direct one's environment."}] },
-        { name: "Busy", def: "Occupied to the point of cognitive load.", children: [{name: "Rushed", def: "Forced to act with excessive speed."}, {name: "Pressured", def: "Feeling coerced by demands or time."}] },
-        { name: "Bored", def: "Feeling weary and restless through lack of interest.", children: [{name: "Apathetic", def: "Lacking feeling, emotion, or interest."}, {name: "Indifferent", def: "Having no particular interest or sympathy."}] }
+        { name: "Tired", def: "Physiological exhaustion. Felt as heaviness in the limbs and reduced cognitive processing speed (Hockey, 2013).", children: [{name: "Sleepy", def: "High sleep drive; felt as drooping eyelids and difficulty sustaining attention (Borbély, 1982)."}, {name: "Unfocused", def: "Deficit in executive attention; characterized by mind-wandering and inability to sustain working memory tasks (Posner & Petersen, 1990)."}] },
+        { name: "Stressed", def: "HPA-axis activation. Felt as elevated heart rate, muscle tension, and a sense of being overwhelmed by demands exceeding coping resources (Lazarus & Folkman, 1984).", children: [{name: "Overwhelmed", def: "Cognitive overload where sensory or emotional input exceeds processing capacity, often leading to executive dysfunction (Sweller, 1988)."}, {name: "Out of control", def: "A lack of perceived self-efficacy or locus of control, leading to heightened anxiety and distress (Bandura, 1977)."}] },
+        { name: "Busy", def: "High cognitive and behavioral load. Experienced as continuous task-switching and a persistent sense of urgency.", children: [{name: "Rushed", def: "Time pressure; felt as a quickened pulse and narrowed cognitive focus (Svenson & Maule, 1993)."}, {name: "Pressured", def: "The subjective experience of internal or external demands requiring immediate performance (Baumeister, 1984)."}] },
+        { name: "Bored", def: "A state of low arousal and dissatisfaction. Felt as a restless desire to engage in satisfying activity but an inability to do so (Eastwood et al., 2012).", children: [{name: "Apathetic", def: "A deficit in goal-directed behavior and emotional responsiveness. Felt as a profound lack of motivation or 'flat' affect (Marin, 1991)."}, {name: "Indifferent", def: "An absence of emotional valence or subjective preference toward a stimulus (Russell, 1980)."}] }
       ]
     },
     {
-      name: "Fearful", color: "#3a9adb", def: "An automatic psychological and physiological response to perceived ecological challenges or danger.",
+      name: "Fearful", color: "#c91c73", def: "Sympathetic nervous system activation in response to perceived threat. Felt as adrenaline release, hypervigilance, and an urge to escape (Ekman, 1992).",
       children: [
-        { name: "Scared", def: "Immediate alarm reaction to present danger.", children: [{name: "Helpless", def: "Unable to defend oneself or act effectively."}, {name: "Frightened", def: "Experiencing acute, sudden fear."}] },
-        { name: "Anxious", def: "Anticipatory apprehension about future threats.", children: [{name: "Concerned", def: "Troubled or anxious about something specific."}, {name: "Worried", def: "Preoccupied with potential negative outcomes."}] },
-        { name: "Insecure", def: "Lacking confidence or assurance.", children: [{name: "Inadequate", def: "Feeling insufficient for a purpose."}, {name: "Inferior", def: "Feeling lower in status or quality than others."}] },
-        { name: "Weak", def: "Lacking physical or emotional fortitude.", children: [{name: "Worthless", def: "Feeling one has no value or use."}, {name: "Insignificant", def: "Feeling too small to be meaningful."}] },
-        { name: "Rejected", def: "Experiencing the dismissal of one's affections or presence.", children: [{name: "Excluded", def: "Denied access or participation."}, {name: "Persecuted", def: "Subjected to hostility or ill-treatment."}] },
-        { name: "Threatened", def: "Anticipating hostile action or harm.", children: [{name: "Nervous", def: "Highly strung or easily agitated."}, {name: "Exposed", def: "Left without protection or shelter."}] }
+        { name: "Scared", def: "Acute fear response. Felt as a sudden jolt, increased heart rate, and rapid, shallow breathing (LeDoux, 2012).", children: [{name: "Helpless", def: "Learned helplessness; perceived absence of control over aversive stimuli. Felt as a collapse in motivation and passive resignation (Seligman, 1972)."}, {name: "Frightened", def: "Intense, immediate alarm to a present danger. Accompanied by the startle reflex and widened eyes (Darwin, 1872)."}] },
+        { name: "Anxious", def: "Anticipatory threat response. Felt as rumination, muscular tension, and gastrointestinal distress (Barlow, 2002).", children: [{name: "Concerned", def: "Mild cognitive anxiety focused on specific future outcomes, often involving prosocial worry for others."}, {name: "Worried", def: "Repetitive, negative linguistic thought about future threats. Felt as a continuous cognitive loop and mild somatic tension (Borkovec, 1983)."}] },
+        { name: "Insecure", def: "A vulnerability regarding self-worth. Felt as hyper-sensitivity to social evaluation and self-doubt (Maslow, 1942).", children: [{name: "Inadequate", def: "The subjective perception of failing to meet competence standards. Felt as a shrinking posture and desire to hide."}, {name: "Inferior", def: "Negative social comparison. Felt as subordination and a painful awareness of perceived lower status (Adler, 1927)."}] },
+        { name: "Weak", def: "Perceived lack of physical or psychological resilience. Felt as physical flaccidity or lack of willpower.", children: [{name: "Worthless", def: "Profoundly low self-esteem; a core belief of unlovability, often associated with depressive states (Beck, 1979)."}, {name: "Insignificant", def: "Feeling socially invisible or lacking impact on one's environment."}] },
+        { name: "Rejected", def: "Social pain from ostracism. Neurologically processed similarly to physical pain, felt as an ache in the chest (Eisenberger, 2003).", children: [{name: "Excluded", def: "The state of being kept out of a social group. Felt as loneliness and a drop in baseline mood."}, {name: "Persecuted", def: "The perception of being actively targeted with hostility. Felt as paranoid hypervigilance."}] },
+        { name: "Threatened", def: "Detection of a stimulus that signals impending harm. Felt as a spike in cortisol and defensive posturing.", children: [{name: "Nervous", def: "High-arousal apprehension. Felt as tremors, sweating, and butterflies in the stomach."}, {name: "Exposed", def: "Vulnerability to social or physical harm. Felt as a sudden desire to cover oneself or flee the situation."}] }
       ]
     },
     {
-      name: "Angry", color: "#9564b7", def: "An emotional reflex enabling the defense of ourselves and our resources, often triggered by perceived unfairness.",
+      name: "Angry", color: "#c32026", def: "Approach-motivated negative affect triggered by goal blockage or norm violation. Felt as heat in the face, clenched jaw, and an urge to strike (Harmon-Jones, 2003).",
       children: [
-        { name: "Let down", def: "Failing to have expectations met.", children: [{name: "Betrayed", def: "Violated by a breach of trust."}, {name: "Resentful", def: "Indignant at having been treated unfairly."}] },
-        { name: "Humiliated", def: "Made to feel ashamed and foolish.", children: [{name: "Disrespected", def: "Treated with a lack of courtesy."}, {name: "Ridiculed", def: "Subjected to contemptuous dismissal."}] },
-        { name: "Bitter", def: "Angry or unhappy because of a perceived injustice.", children: [{name: "Indignant", def: "Showing anger at unfair treatment."}, {name: "Violated", def: "Having one's boundaries forcefully crossed."}] },
-        { name: "Mad", def: "A primary descriptor of intense hostility.", children: [{name: "Furious", def: "Extremely angry and explosive."}, {name: "Jealous", def: "Fiercely protective of one's rights or possessions."}] },
-        { name: "Aggressive", def: "Ready or likely to attack or confront.", children: [{name: "Provoked", def: "Deliberately incited to anger."}, {name: "Hostile", def: "Showing active opposition or unfriendliness."}] },
-        { name: "Frustrated", def: "Distressed by the inability to change or achieve something.", children: [{name: "Infuriated", def: "Made extremely angry and impatient."}, {name: "Annoyed", def: "Slightly irritated."}] },
-        { name: "Distant", def: "Emotionally uncommunicative.", children: [{name: "Withdrawn", def: "Retreating inward from social contact."}, {name: "Numb", def: "Deprived of the power of sensation."}] },
-        { name: "Critical", def: "Expressing adverse or disapproving judgments.", children: [{name: "Sceptical", def: "Not easily convinced; having doubts."}, {name: "Dismissive", def: "Showing that something is unworthy of consideration."}] }
+        { name: "Let down", def: "Disappointment mixed with mild resentment from broken trust. Felt as a deflation of energy.", children: [{name: "Betrayed", def: "Acute violation of a trusted relationship. Felt as shock followed by a visceral, burning anger and rumination (Gottman, 1993)."}, {name: "Resentful", def: "Chronic, low-grade anger stemming from perceived unfairness. Felt as a simmering bitterness and repetitive grievance."}] },
+        { name: "Humiliated", def: "Intense shame combined with a perception of unjust public degradation. Felt as a hot flush and a desire to disappear (Klein, 1991).", children: [{name: "Disrespected", def: "Anger directed at a violation of one's social status or boundaries. Felt as a stiffening of posture."}, {name: "Ridiculed", def: "The experience of being mocked. Felt as a stinging sensation and immediate defensive anger."}] },
+        { name: "Bitter", def: "Prolonged resentment. Felt as a sour, cynical cognitive bias and emotional rigidity.", children: [{name: "Indignant", def: "Righteous anger over an unfairness to oneself or others. Felt as a surge of energy and an urge to speak out."}, {name: "Violated", def: "Profound boundary crossing. Felt as a sickening combination of fear, disgust, and rage."}] },
+        { name: "Mad", def: "A generalized state of high-arousal frustration or rage. Felt as elevated blood pressure and a narrow, fixated gaze.", children: [{name: "Furious", def: "Maximum-intensity anger. Felt as an explosive loss of behavioral control and overwhelming heat."}, {name: "Jealous", def: "Threat of losing a valued relationship to a rival. Felt as a mix of anxiety, anger, and hypervigilance (Buss, 2000)."}] },
+        { name: "Aggressive", def: "The behavioral readiness to inflict harm or assert dominance. Felt as forward-leaning posture and muscle tension.", children: [{name: "Provoked", def: "Anger explicitly triggered by an external instigator. Felt as a sudden spike in adrenaline."}, {name: "Hostile", def: "A stable cognitive trait of cynicism and anger toward others. Felt as chronic irritability."}] },
+        { name: "Frustrated", def: "Arousal from an inability to overcome an obstacle. Felt as restlessness and an urge to act out physically (Dollard, 1939).", children: [{name: "Infuriated", def: "Extremely intensely frustrated, to the point of losing cognitive flexibility."}, {name: "Annoyed", def: "Mild irritation from a persistent, low-level aversive stimulus."}] },
+        { name: "Distant", def: "Interpersonal withdrawal as a defensive anger response. Felt as emotional coldness and physical pulling away.", children: [{name: "Withdrawn", def: "Active disengagement from social interaction to protect boundaries or signal displeasure."}, {name: "Numb", def: "Emotional blunting or dissociation resulting from overwhelming conflict. Felt as a hollow, detached sensation."}] },
+        { name: "Critical", def: "A cognitive stance of finding fault, often to assert superiority. Felt as a narrowing of empathy.", children: [{name: "Sceptical", def: "A defensive doubt regarding others' motives. Felt as intellectual tension and a guarded posture."}, {name: "Dismissive", def: "Rejecting someone's worth or input entirely. Felt as arrogance and a physical turning away."}] }
       ]
     },
     {
-      name: "Disgusted", color: "#a87178", def: "A complex experience associated with aversion, revulsion, and repulsion toward offensive stimuli or situations.",
+      name: "Disgusted", color: "#8e5229", def: "Avoidance motivation aimed at rejecting aversive entities. Felt as nausea, a wrinkled nose, and a strong urge to distance oneself (Rozin, 2008).",
       children: [
-        { name: "Disapproving", def: "Expressing an unfavorable opinion.", children: [{name: "Judgmental", def: "Having an excessively critical point of view."}, {name: "Condemned", def: "Sentenced to a state of strong moral rejection."}] },
-        { name: "Uncomfortable", def: "Causing or feeling slight physical or mental unease.", children: [{name: "Appalled", def: "Greatly dismayed or horrified."}, {name: "Revolted", def: "Feeling intense disgust."}] },
-        { name: "Awful", def: "Very bad or unpleasant.", children: [{name: "Nauseated", def: "Feeling sick to one's stomach."}, {name: "Detestable", def: "Deserving intense dislike."}] },
-        { name: "Repelled", def: "Driven back by strong distaste.", children: [{name: "Horrified", def: "Filled with shock and revulsion."}, {name: "Hesitant", def: "Tentative or unsure in acting."}] }
+        { name: "Disapproving", def: "Moral or social disgust. Felt as a narrowing of the eyes and a sense of superiority.", children: [{name: "Judgmental", def: "An active, negative evaluation of another's character. Felt as a rigid cognitive stance."}, {name: "Condemned", def: "To declare someone or something entirely reprehensible. Felt as an absolute, uncompromising rejection."}] },
+        { name: "Uncomfortable", def: "Mild dissonance or aversive arousal. Felt as shifting weight and a desire to exit a situation.", children: [{name: "Appalled", def: "Strong dismay and disapproval, often mixed with surprise. Felt as a dropping of the jaw and a physical recoil."}, {name: "Revolted", def: "Intense, visceral disgust. Felt as a gag reflex and an overwhelming need to look away."}] },
+        { name: "Awful", def: "An overpowering sense of unpleasantness or badness.", children: [{name: "Nauseated", def: "The literal, somatic sensation of gastrointestinal distress and impending emesis."}, {name: "Detestable", def: "Perceiving an object or person as deserving intense hatred and disgust."}] },
+        { name: "Repelled", def: "The kinesthetic urge to push away or step back from a stimulus.", children: [{name: "Horrified", def: "A terrifying blend of fear and disgust. Felt as paralysis, wide eyes, and skin prickling."}, {name: "Hesitant", def: "Behavioral inhibition driven by aversive uncertainty. Felt as freezing or pausing."}] }
       ]
     },
     {
-      name: "Sad", color: "#eb6c61", def: "Encompasses feelings of sorrow, disappointment, or grief, often related to experiencing a loss.",
+      name: "Sad", color: "#273a72", def: "A low-arousal state triggered by loss or goal failure. Felt as heaviness, a lump in the throat, and tearing (Lazarus, 1991).",
       children: [
-        { name: "Hurt", def: "Experiencing emotional pain or distress.", children: [{name: "Embarrassed", def: "Feeling ashamed or self-conscious."}, {name: "Disappointed", def: "Saddened by the failure of expectations."}] },
-        { name: "Depressed", def: "In a state of general unhappiness or despondency.", children: [{name: "Unseen", def: "Feeling unrecognized or ignored."}, {name: "Empty", def: "Lacking purpose or emotional resonance."}] },
-        { name: "Guilty", def: "Culpable of or responsible for a specified wrongdoing.", children: [{name: "Remorseful", def: "Filled with deep regret."}, {name: "Ashamed", def: "Embarrassed by one's actions or characteristics."}] },
-        { name: "Despair", def: "The complete loss or absence of hope.", children: [{name: "Grief", def: "Intense sorrow, especially caused by someone's death."}, {name: "Powerless", def: "Without ability, influence, or power."}] },
-        { name: "Vulnerable", def: "Susceptible to emotional attack or harm.", children: [{name: "Victimised", def: "Singled out for cruel or unjust treatment."}, {name: "Fragile", def: "Easily broken or damaged emotionally."}] },
-        { name: "Lonely", def: "Sad because one has no friends or company.", children: [{name: "Isolated", def: "Remaining alone or apart from others."}, {name: "Abandoned", def: "Having been deserted or cast off."}] }
+        { name: "Hurt", def: "Emotional pain from a social injury. Felt as an aching sensation in the chest and a desire to seek comfort.", children: [{name: "Embarrassed", def: "Acute self-conscious distress from a social misstep. Felt as blushing and an urge to avert one's gaze (Keltner, 1995)."}, {name: "Disappointed", def: "Sadness resulting from unmet expectations. Felt as a sudden drop in energy and a sighing respiration."}] },
+        { name: "Depressed", def: "A prolonged state of severe anhedonia and low affect. Felt as profound lethargy and psychomotor retardation (DSM-5).", children: [{name: "Unseen", def: "The painful feeling of lacking acknowledgment or validation. Felt as a fading sense of self."}, {name: "Empty", def: "A void of emotional experience or purpose. Felt as a hollow sensation in the torso."}] },
+        { name: "Guilty", def: "Self-conscious distress regarding a specific behavior that violated personal morals. Felt as a heavy conscience and an urge to repair (Tangney, 2007).", children: [{name: "Remorseful", def: "Deep, enduring regret for a past action. Accompanied by rumination and a desire for atonement."}, {name: "Ashamed", def: "A global negative evaluation of the self. Felt as a desire to shrink, hide, or disappear."}] },
+        { name: "Despair", def: "The total loss of hope. Felt as physical collapse, uncontrollable weeping, or catatonia.", children: [{name: "Grief", def: "The complex, agonizing response to permanent loss. Felt in waves of somatic pain, yearning, and cognitive disorientation (Kübler-Ross, 1969)."}, {name: "Powerless", def: "An absolute lack of agency. Felt as complete submission and passivity."}] },
+        { name: "Vulnerable", def: "An open susceptibility to emotional wounding. Felt as a lack of defensive barriers and heightened sensitivity.", children: [{name: "Victimised", def: "The perception of having been unjustly harmed. Felt as a mix of powerlessness and latent anger."}, {name: "Fragile", def: "Feeling emotionally brittle, where minor stressors could cause a breakdown. Felt as tenseness and hyper-reactivity."}] },
+        { name: "Lonely", def: "The distressing gap between desired and actual social connections. Felt as an aching emptiness and coldness (Cacioppo, 2008).", children: [{name: "Isolated", def: "Physical or emotional separation from support systems. Felt as being stranded or alone in a crowd."}, {name: "Abandoned", def: "The traumatic experience of being left behind by an attachment figure. Felt as panic followed by profound sorrow."}] }
       ]
     },
     {
-      name: "Happy", color: "#fb9455", def: "A state characterized by feelings of contentment, and making reasonable progress toward a goal.",
+      name: "Happy", color: "#e67715", def: "A high-valence state of well-being, signaling goal progress and resource acquisition. Felt as lightness, smiling, and broadened attention (Fredrickson, 2001).",
       children: [
-        { name: "Optimistic", def: "Hopeful and confident about the future.", children: [{name: "Inspired", def: "Filled with the urge or ability to do something creative."}, {name: "Hopeful", def: "Feeling optimism about a future event."}] },
-        { name: "Trusting", def: "Showing confidence in others.", children: [{name: "Intimate", def: "Closely acquainted; familiar."}, {name: "Sensitive", def: "Quick to detect or respond to slight changes or signals."}] },
-        { name: "Peaceful", def: "Free from disturbance; tranquil.", children: [{name: "Thankful", def: "Expressing gratitude and relief."}, {name: "Loving", def: "Feeling or showing love or great care."}] },
-        { name: "Powerful", def: "Having great capability, influence, or control.", children: [{name: "Creative", def: "Relating to the use of imagination."}, {name: "Courageous", def: "Not deterred by danger or pain."}] },
-        { name: "Accepted", def: "Embraced as adequate or suitable.", children: [{name: "Valued", def: "Considered to be important or beneficial."}, {name: "Respected", def: "Deeply admired for abilities or achievements."}] },
-        { name: "Proud", def: "Feeling deep pleasure or satisfaction as a result of one's own achievements.", children: [{name: "Confident", def: "Feeling self-assurance arising from one's appreciation of one's own abilities."}, {name: "Successful", def: "Accomplishing an aim or purpose."}] },
-        { name: "Interested", def: "Showing curiosity or concern about something.", children: [{name: "Inquisitive", def: "Curious or inquiring."}, {name: "Curious", def: "Eager to know or learn something."}] },
-        { name: "Content", def: "In a state of peaceful happiness.", children: [{name: "Joyful", def: "Feeling, expressing, or causing great pleasure and happiness."}, {name: "Free", def: "Not under the control or in the power of another."}] },
-        { name: "Playful", def: "Fond of games and amusement; lighthearted.", children: [{name: "Cheeky", def: "Impudent or irreverent, typically in an endearing way."}, {name: "Aroused", def: "Evoked to a state of heightened physiological activity."}] }
+        { name: "Optimistic", def: "A cognitive bias expecting positive future outcomes. Felt as a buoyant, forward-looking energy.", children: [{name: "Inspired", def: "A state of transcendent motivation triggered by an elevating stimulus. Felt as a rush of creative energy (Thrash, 2003)."}, {name: "Hopeful", def: "Goal-directed anticipation of a positive outcome. Felt as warmth and a resilient mindset."}] },
+        { name: "Trusting", def: "A state of psychological safety and reliance on another. Felt as relaxed muscles and an open posture.", children: [{name: "Intimate", def: "Profound closeness and mutual vulnerability. Felt as warmth, oxytocin release, and a merged sense of self."}, {name: "Sensitive", def: "Adept emotional attunement to self and others. Felt as a gentle, receptive state of awareness."}] },
+        { name: "Peaceful", def: "A high-valence, low-arousal state. Felt as a slowed heart rate, deep breathing, and a cessation of striving.", children: [{name: "Thankful", def: "Gratitude for a received benefit. Felt as a warm glow in the chest and a desire to reciprocate (Emmons, 2004)."}, {name: "Loving", def: "Deep affection and attachment. Felt as unconditional warmth, care, and parasympathetic nervous system dominance."}] },
+        { name: "Powerful", def: "A sense of high self-efficacy and agency. Felt as an expanded chest, upright posture, and cognitive clarity.", children: [{name: "Creative", def: "The fluid cognitive state of divergent thinking and flow. Felt as effortless engagement and timelessness (Csikszentmihalyi, 1990)."}, {name: "Courageous", def: "The willingness to act effectively despite fear. Felt as a grounding resilience and focused determination."}] },
+        { name: "Accepted", def: "The feeling of secure belonging within a group. Felt as a relaxing of social defenses and baseline contentment.", children: [{name: "Valued", def: "Recognized for one's intrinsic or extrinsic worth. Felt as an ego-boost and a sense of stability."}, {name: "Respected", def: "Accorded high status or reverence. Felt as pride and an elevated social posture."}] },
+        { name: "Proud", def: "A self-conscious emotion signaling a socially valued achievement. Felt as an expanded physical presence and upward head tilt (Tracy, 2007).", children: [{name: "Confident", def: "High certainty in one's abilities. Felt as a relaxed, steady gait and decisive action."}, {name: "Successful", def: "The satisfaction of completing a desired goal. Felt as a dopamine-driven rush of reward."}] },
+        { name: "Interested", def: "Approach motivation directed toward novel stimuli. Felt as focused attention and mild physiological arousal.", children: [{name: "Inquisitive", def: "An active desire to acquire new information. Felt as a leaning forward and visual scanning."}, {name: "Curious", def: "The intrinsic drive to explore. Associated with dopamine release and reward anticipation (Panksepp, 1998)."}] },
+        { name: "Content", def: "Satisfaction with current conditions. Felt as a cessation of desires and a baseline neurochemical balance.", children: [{name: "Joyful", def: "High-arousal happiness. Felt as an urge to laugh, jump, or play, driven by high dopamine and endorphins."}, {name: "Free", def: "The subjective experience of unconstrained autonomy. Felt as a literal lightness in the body and expansive movement."}] },
+        { name: "Playful", def: "A state of non-serious, exploratory engagement. Felt as spontaneous energy and a relaxation of social norms.", children: [{name: "Cheeky", def: "Playful defiance or mild irreverence. Felt as a mischievous, amused arousal."}, {name: "Aroused", def: "Heightened physiological activation, often directed toward excitement or sexual readiness. Felt as an accelerated pulse and sensory acuity."}] }
       ]
     },
     {
-      name: "Surprised", color: "#f8b75d", def: "An emotion arising when an unexpected event occurs, leading to a brief state of astonishment.",
+      name: "Surprised", color: "#237a44", def: "A transient, high-arousal state triggered by a schema-violating event. Felt as widened eyes, a gasp, and an interruption of ongoing behavior (Meyer, 1997).",
       children: [
-        { name: "Excited", def: "Very enthusiastic and eager.", children: [{name: "Energetic", def: "Showing or involving great activity or vitality."}, {name: "Eager", def: "Wanting to do or have something very much."}] },
-        { name: "Amazed", def: "Filled with great surprise or wonder.", children: [{name: "Awe", def: "A feeling of reverential respect mixed with fear or wonder."}, {name: "Astonished", def: "Greatly surprised or impressed."}] },
-        { name: "Confused", def: "Unable to think clearly; bewildered.", children: [{name: "Perplexed", def: "Completely baffled; very puzzled."}, {name: "Disillusioned", def: "Disappointed in someone or something that one discovers to be less good than one had believed."}] },
-        { name: "Startled", def: "Feeling sudden shock or alarm.", children: [{name: "Dismayed", def: "Struck with disappointment or concern."}, {name: "Shocked", def: "Experiencing a sudden upsetting or surprising event."}] }
+        { name: "Excited", def: "High-arousal, positive anticipation. Felt as fidgeting, an accelerated heart rate, and an urge to move.", children: [{name: "Energetic", def: "A surplus of physiological and metabolic resources. Felt as a restless readiness for physical action."}, {name: "Eager", def: "Intense, impatient desire for a future event. Felt as a leaning forward and a narrowing of temporal focus."}] },
+        { name: "Amazed", def: "Profound surprise mixed with positive valence. Felt as a temporary suspension of thought and a dropping of the jaw.", children: [{name: "Awe", def: "An overwhelming sense of vastness that alters one's worldview. Felt as goosebumps, stillness, and a shrinking of the ego (Keltner, 2003)."}, {name: "Astonished", def: "Surprise of a highly unexpected magnitude. Felt as temporary cognitive paralysis."}] },
+        { name: "Confused", def: "Cognitive dissonance from incomprehensible stimuli. Felt as a furrowed brow and a slowing of processing speed.", children: [{name: "Perplexed", def: "Deeply baffled by a complex problem. Felt as intellectual tension and a persistent seeking of resolution."}, {name: "Disillusioned", def: "The sudden, jarring loss of a cherished belief. Felt as a heavy sinking sensation and cognitive shock."}] },
+        { name: "Startled", def: "The fastest physiological reflex to a sudden, intense stimulus. Felt as a full-body jerk and immediate defensive posturing (Ekman, 1985).", children: [{name: "Dismayed", def: "A sudden loss of courage or resolution due to alarming news. Felt as a drop in the stomach."}, {name: "Shocked", def: "Intense emotional and physical reaction to trauma or severe surprise. Felt as numbness, dissociation, and an adrenaline flood."}] }
       ]
     }
   ]
 };
 
-// Data & Color prep
 let flatEmotions = [];
 
-// Slightly lighten hex color for outer rings
-function lightenColor(color, percent) {
-  let num = parseInt(color.replace("#",""), 16),
-      amt = Math.round(2.55 * percent),
-      R = (num >> 16) + amt,
-      G = (num >> 8 & 0x00FF) + amt,
-      B = (num & 0x0000FF) + amt;
-  return "#" + (0x1000000 + (R<255?R<1?0:R:255)*0x10000 + (G<255?G<1?0:G:255)*0x100 + (B<255?B<1?0:B:255)).toString(16).slice(1);
-}
-
-function assignColorsAndFlatten(node, parentColor, depth) {
-  if (depth === 1) node.color = node.color; // Keep base color for primary
-  else if (depth > 1) node.color = lightenColor(parentColor, 15); // Lighten as it goes out
-  else node.color = "#ffffff";
+function initializeData(node, parentNode, passedColor) {
+  node.id = 'node_' + (nodeIdCounter++);
+  node.parent = parentNode;
   
+  if (parentNode && parentNode.name === "Center") {
+    node.color = node.color; 
+  } else if (parentNode) {
+    node.color = passedColor; 
+  } else {
+    node.color = "#ffffff";
+  }
+
   if (node.name !== "Center") flatEmotions.push(node);
-  if (node.children) node.children.forEach(c => assignColorsAndFlatten(c, node.color, depth + 1));
+  if (node.children) node.children.forEach(c => initializeData(c, node, node.color));
 }
-assignColorsAndFlatten(emotionsData, "#ffffff", 0);
+initializeData(emotionsData, null, null);
 
 function countLeaves(node) {
   if (!node.children) { node.leaves = 1; return 1; }
@@ -251,12 +306,8 @@ function assignAngles(node, startAngle, totalLeaves) {
 countLeaves(emotionsData);
 assignAngles(emotionsData, 0, emotionsData.leaves);
 
-// SVG Drawing
-const svg = document.getElementById('wheelSvg');
+const wheelGroup = document.getElementById('wheelGroup');
 const cx = 500, cy = 500;
-const wheelGroup = document.createElementNS("http://www.w3.org/2000/svg", "g");
-wheelGroup.setAttribute("id", "wheelGroup");
-svg.appendChild(wheelGroup);
 
 function polarToCartesian(centerX, centerY, radius, angleInDegrees) {
   const angleInRadians = (angleInDegrees - 90) * Math.PI / 180.0;
@@ -281,22 +332,21 @@ function describeArc(x, y, innerRadius, outerRadius, startAngle, endAngle){
 
 function drawWheel(node, depth) {
   if (depth > 0) {
-    const ir = depth === 1 ? 0 : 50 + (depth - 1) * 150;
-    const or = 50 + depth * 150;
+    const ir = depth === 1 ? 0 : 120 + (depth - 2) * 160;
+    const or = 120 + (depth - 1) * 160;
     
     const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
     path.setAttribute("d", describeArc(cx, cy, ir, or, node.startAngle, node.endAngle));
     path.setAttribute("fill", node.color);
-    path.setAttribute("stroke", "#ffffff"); // Added boundaries
-    path.setAttribute("stroke-width", "2");
-    path.style.cursor = "pointer";
-    path.onclick = (e) => { 
-        if(!isDraggingWheel) selectEmotion(node); 
-    };
+    path.setAttribute("stroke", "#ffffff"); 
+    path.setAttribute("stroke-width", "1.5");
+    path.setAttribute("class", "wheel-segment");
+    path.setAttribute("data-id", node.id);
+    path.onclick = () => { if (!isDraggingWheel) selectEmotion(node); };
     wheelGroup.appendChild(path);
 
     const midAngle = (node.startAngle + node.endAngle) / 2;
-    const midRadius = depth === 1 ? or * 0.6 : (ir + or) / 2;
+    const midRadius = depth === 1 ? or * 0.65 : (ir + or) / 2;
     const pos = polarToCartesian(cx, cy, midRadius, midAngle);
     
     const text = document.createElementNS("http://www.w3.org/2000/svg", "text");
@@ -304,15 +354,17 @@ function drawWheel(node, depth) {
     text.setAttribute("y", pos.y);
     text.setAttribute("text-anchor", "middle");
     text.setAttribute("alignment-baseline", "middle");
-    text.setAttribute("font-size", depth === 1 ? "22" : (depth === 2 ? "16" : "13"));
+    text.setAttribute("font-size", depth === 1 ? "18" : (depth === 2 ? "12" : "9"));
     text.setAttribute("font-family", "Nunito, sans-serif");
-    text.setAttribute("font-weight", depth === 1 ? "800" : "600");
-    text.setAttribute("fill", depth === 1 ? "#ffffff" : "#ffffff");
+    text.setAttribute("font-weight", depth === 1 ? "800" : "700");
+    text.setAttribute("fill", "#ffffff");
     text.style.pointerEvents = "none";
+    text.setAttribute("class", "wheel-text");
+    text.setAttribute("data-id", node.id);
     
-    // Rotate text for readability
-    let rot = midAngle;
-    if (rot > 90 && rot < 270) rot += 180; // Flip text on bottom half
+    let rot = midAngle - 90;
+    rot = ((rot % 360) + 360) % 360; 
+    if (rot > 90 && rot < 270) rot += 180; 
     text.setAttribute("transform", `rotate(${rot} ${pos.x} ${pos.y})`);
     text.textContent = node.name;
     wheelGroup.appendChild(text);
@@ -321,43 +373,92 @@ function drawWheel(node, depth) {
 }
 drawWheel(emotionsData, 0);
 
-// Interaction Logic
+// Interaction & Breadcrumb Logic
 let currentEmotion = null;
 
+function getAllRelatedIds(node) {
+  const ids = new Set();
+  let current = node;
+  while (current && current.name !== "Center") {
+    ids.add(current.id);
+    current = current.parent;
+  }
+  function addDescendants(n) {
+    if(!n || n.name === "Center") return;
+    ids.add(n.id);
+    if(n.children) n.children.forEach(addDescendants);
+  }
+  addDescendants(node);
+  return ids;
+}
+
+function updateWheelOpacities(activeNode) {
+  const elements = document.querySelectorAll('.wheel-segment, .wheel-text');
+  if (!activeNode) {
+    elements.forEach(el => el.style.opacity = '1');
+    return;
+  }
+  const relatedIds = getAllRelatedIds(activeNode);
+  elements.forEach(el => {
+    const id = el.getAttribute('data-id');
+    el.style.opacity = relatedIds.has(id) ? '1' : '0.15';
+  });
+}
+
+function renderBreadcrumbs(node) {
+  const breadcrumbContainer = document.getElementById('breadcrumb');
+  if (!node || node.name === "Center") {
+    breadcrumbContainer.innerHTML = '<h2>Center</h2>';
+    return;
+  }
+  
+  const path = [];
+  let curr = node;
+  while (curr && curr.name !== "Center") {
+    path.unshift(curr);
+    curr = curr.parent;
+  }
+  
+  const html = path.map((n, i) => {
+    const isLast = i === path.length - 1;
+    const arrow = isLast ? '' : `<span class="arrow">→</span>`;
+    return `<span class="badge" style="background: ${n.color}">${n.name}</span> ${arrow}`;
+  }).join(' ');
+  
+  breadcrumbContainer.innerHTML = html;
+}
+
 function selectEmotion(node) {
+  if (currentEmotion === node) {
+    currentEmotion = null;
+    renderBreadcrumbs(null);
+    document.getElementById('emotionDef').textContent = "Select an emotion from the wheel or search above to read its clinical definition and understand what you are feeling.";
+    document.getElementById('searchInput').value = '';
+    updateWheelOpacities(null);
+    return;
+  }
+  
   currentEmotion = node;
-  document.getElementById('emotionName').innerHTML = `<span style="color:${node.color}">●</span> ${node.name}`;
+  renderBreadcrumbs(node);
   document.getElementById('emotionDef').textContent = node.def;
-  document.getElementById('searchInput').value = '';
+  document.getElementById('searchInput').value = node.name;
+  updateWheelOpacities(node);
 }
 
 function searchEmotions() {
   const query = document.getElementById('searchInput').value.toLowerCase();
-  if(!query) return;
+  if(!query) {
+    updateWheelOpacities(null);
+    return;
+  }
   const match = flatEmotions.find(e => e.name.toLowerCase() === query || e.name.toLowerCase().includes(query));
-  if(match) selectEmotion(match);
+  if(match) {
+    currentEmotion = match;
+    renderBreadcrumbs(match);
+    document.getElementById('emotionDef').textContent = match.def;
+    updateWheelOpacities(match);
+  }
 }
-
-function logEmotion() {
-  if(!currentEmotion) return;
-  const log = JSON.parse(localStorage.getItem('emotionLog') || '[]');
-  log.unshift({ time: new Date().toLocaleString(), emotion: currentEmotion.name, color: currentEmotion.color });
-  localStorage.setItem('emotionLog', JSON.stringify(log));
-  renderLog();
-}
-
-function renderLog() {
-  const log = JSON.parse(localStorage.getItem('emotionLog') || '[]');
-  const list = document.getElementById('logList');
-  list.innerHTML = '';
-  log.slice(0, 5).forEach(entry => {
-    const li = document.createElement('li');
-    li.className = 'log-item';
-    li.innerHTML = `<span><strong style="color:${entry.color}">●</strong> ${entry.emotion}</span> <span class="log-time">${entry.time}</span>`;
-    list.appendChild(li);
-  });
-}
-renderLog();
 
 // Spinning Logic
 const container = document.getElementById('wheelContainer');
@@ -367,7 +468,7 @@ let currentRotation = 0;
 let startAngle = 0;
 
 function getAngle(e) {
-  const rect = svg.getBoundingClientRect();
+  const rect = container.getBoundingClientRect();
   const clientX = e.touches ? e.touches[0].clientX : e.clientX;
   const clientY = e.touches ? e.touches[0].clientY : e.clientY;
   const x = clientX - (rect.left + rect.width / 2);
@@ -383,29 +484,84 @@ function onPointerDown(e) {
 
 function onPointerMove(e) {
   if (!isPointerDown) return;
+  // If multi-touch (pinching), allow browser to native-zoom and skip wheel rotation
+  if (e.touches && e.touches.length > 1) return; 
+  
   isDraggingWheel = true;
-  e.preventDefault(); // Stop scrolling while spinning
-  const newAngle = getAngle(e);
-  currentRotation = newAngle - startAngle;
-  wheelGroup.setAttribute('transform', `rotate(${currentRotation}, 500, 500)`);
+  e.preventDefault(); 
+  currentRotation = getAngle(e) - startAngle;
+  wheelGroup.setAttribute('transform', `rotate(${currentRotation} 500 500)`);
 }
 
 function onPointerUp() {
   isPointerDown = false;
-  setTimeout(() => isDraggingWheel = false, 50); // delay to prevent click fire
+  setTimeout(() => isDraggingWheel = false, 50); 
 }
 
 container.addEventListener('mousedown', onPointerDown);
-document.addEventListener('mousemove', onPointerMove);
+document.addEventListener('mousemove', onPointerMove, {passive: false});
 document.addEventListener('mouseup', onPointerUp);
 container.addEventListener('touchstart', onPointerDown, {passive: false});
 document.addEventListener('touchmove', onPointerMove, {passive: false});
 document.addEventListener('touchend', onPointerUp);
 
-// Service Worker Registration
-if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.register('sw.js');
+// Logging Logic
+function logEmotion() {
+  if(!currentEmotion) return;
+  const noteInput = document.getElementById('emotionNote');
+  const log = JSON.parse(localStorage.getItem('emotionLog') || '[]');
+  
+  log.unshift({ 
+    time: new Date().toLocaleString(), 
+    emotion: currentEmotion.name, 
+    color: currentEmotion.color,
+    note: noteInput.value.trim()
+  });
+  
+  localStorage.setItem('emotionLog', JSON.stringify(log));
+  noteInput.value = ''; // clear input
+  renderLog();
+  
+  const btn = document.getElementById('logBtn');
+  btn.textContent = "Logged!";
+  btn.style.background = "#237a44";
+  setTimeout(() => {
+    btn.textContent = "Log this Emotion";
+    btn.style.background = "#3a4163";
+  }, 2000);
 }
+
+function renderLog() {
+  const log = JSON.parse(localStorage.getItem('emotionLog') || '[]');
+  const list = document.getElementById('logList');
+  list.innerHTML = '';
+  log.slice(0, 10).forEach(entry => {
+    const li = document.createElement('li');
+    li.className = 'log-item';
+    
+    let noteHtml = entry.note ? `<div class="log-note">"${entry.note}"</div>` : '';
+    
+    li.innerHTML = `
+      <div class="log-header">
+        <span><strong style="color:${entry.color}">●</strong> ${entry.emotion}</span> 
+        <span class="log-time">${entry.time}</span>
+      </div>
+      ${noteHtml}
+    `;
+    list.appendChild(li);
+  });
+}
+renderLog();
+
+document.addEventListener('click', function(event) {
+  const isSvgClick = event.target.closest('svg');
+  const isSearchClick = event.target.closest('.search-bar');
+  const isCardClick = event.target.closest('.card');
+  
+  if (!isSvgClick && !isSearchClick && !isCardClick && currentEmotion) {
+    selectEmotion(currentEmotion); 
+  }
+});
 </script>
 </body>
 </html>
