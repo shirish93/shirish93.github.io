@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Counter</title>
+    <style>
+        body {
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            background-color: #ffffff;
+            color: #333333;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+        }
+
+        .header {
+            background-color: #f8f8f8;
+            border-bottom: 1px solid #e7e7e7;
+            padding: 15px 0;
+            margin-bottom: 30px;
+        }
+
+        .header-container {
+            max-width: 1140px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+
+        .brand {
+            font-size: 22px;
+            color: #007bff;
+            font-weight: bold;
+            text-decoration: none;
+            letter-spacing: -0.5px;
+        }
+        
+        .brand span {
+            color: #333;
+        }
+
+        .container {
+            max-width: 1140px;
+            margin: 0 auto;
+            padding: 0 15px;
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .main-col {
+            flex: 0 0 66.666667%;
+            max-width: 66.666667%;
+            padding-right: 30px;
+            box-sizing: border-box;
+        }
+
+        .sidebar {
+            flex: 0 0 33.333333%;
+            max-width: 33.333333%;
+            box-sizing: border-box;
+        }
+
+        .top-counters {
+            font-size: 28px;
+            margin-bottom: 15px;
+            color: #333;
+        }
+
+        .top-counters span.num {
+            font-weight: bold;
+        }
+
+        .top-counters span.label {
+            font-size: 20px;
+            color: #777;
+            margin-right: 15px;
+            font-weight: normal;
+        }
+
+        .textarea-wrapper {
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+
+        .toolbar {
+            background-color: #f5f5f5;
+            border-bottom: 1px solid #ccc;
+            padding: 8px 12px;
+            border-top-left-radius: 4px;
+            border-top-right-radius: 4px;
+            color: #777;
+            font-size: 12px;
+            display: flex;
+            gap: 10px;
+        }
+        
+        .toolbar span {
+            cursor: default;
+        }
+
+        textarea {
+            width: 100%;
+            height: 500px;
+            padding: 15px;
+            font-family: inherit;
+            font-size: 16px;
+            line-height: 1.5;
+            border: none;
+            resize: vertical;
+            box-sizing: border-box;
+            outline: none;
+            border-bottom-left-radius: 4px;
+            border-bottom-right-radius: 4px;
+            box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+        }
+
+        .panel {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            box-shadow: 0 1px 1px rgba(0,0,0,.05);
+        }
+
+        .panel-heading {
+            background-color: #f5f5f5;
+            border-bottom: 1px solid #ddd;
+            padding: 10px 15px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #333;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .panel-heading .hint {
+            font-size: 12px;
+            color: #777;
+            font-weight: normal;
+        }
+
+        .panel-body {
+            padding: 0;
+        }
+
+        .list-group {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .list-group-item {
+            padding: 10px 15px;
+            border-bottom: 1px solid #ddd;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .list-group-item:last-child {
+            border-bottom: none;
+        }
+
+        .badge {
+            background-color: transparent;
+            color: #333;
+            font-weight: normal;
+            font-size: 14px;
+        }
+
+        .keyword-item {
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .keyword-text {
+            color: #337ab7;
+        }
+
+        .keyword-stats {
+            color: #777;
+        }
+
+        @media (max-width: 768px) {
+            .main-col, .sidebar {
+                flex: 0 0 100%;
+                max-width: 100%;
+                padding-right: 0;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="header-container">
+            <div class="brand">Word<span>Counter</span></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="main-col">
+            <div class="top-counters">
+                <span class="num" id="top-word-count">0</span> <span class="label">words</span>
+                <span class="num" id="top-char-count">0</span> <span class="label">characters</span>
+            </div>
+            
+            <div class="textarea-wrapper">
+                <div class="toolbar">
+                    <span>File</span>
+                    <span>Edit</span>
+                    <span>View</span>
+                    <span>Format</span>
+                </div>
+                <textarea id="text-input" placeholder="Type or paste your text here to count words, check density, and extract TF-IDF keywords..."></textarea>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <div class="panel">
+                <div class="panel-heading">Details</div>
+                <div class="panel-body">
+                    <ul class="list-group">
+                        <li class="list-group-item">
+                            Words <span class="badge" id="side-word-count">0</span>
+                        </li>
+                        <li class="list-group-item">
+                            Characters <span class="badge" id="side-char-count">0</span>
+                        </li>
+                        <li class="list-group-item">
+                            Characters (no spaces) <span class="badge" id="char-nospace-count">0</span>
+                        </li>
+                        <li class="list-group-item">
+                            Sentences <span class="badge" id="sentence-count">0</span>
+                        </li>
+                        <li class="list-group-item">
+                            Paragraphs <span class="badge" id="paragraph-count">0</span>
+                        </li>
+                        <li class="list-group-item">
+                            Reading Level <span class="badge" id="readability-level">0</span>
+                        </li>
+                        <li class="list-group-item">
+                            Reading Time <span class="badge" id="reading-time">00:00</span>
+                        </li>
+                        <li class="list-group-item">
+                            Speaking Time <span class="badge" id="speaking-time">00:00</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Standard Keyword Density (Raw counts) -->
+            <div class="panel">
+                <div class="panel-heading">Keyword Density <span class="hint">Raw Count</span></div>
+                <div class="panel-body">
+                    <ul class="list-group" id="keyword-list">
+                        <li class="list-group-item" style="color: #777;">No keywords yet</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Smart TF-IDF Keyword Extraction -->
+            <div class="panel">
+                <div class="panel-heading">Important Keywords <span class="hint">TF-IDF</span></div>
+                <div class="panel-body">
+                    <ul class="list-group" id="tfidf-list">
+                        <li class="list-group-item" style="color: #777;">No keywords yet</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const textInput = document.getElementById('text-input');
+        
+        // Comprehensive list of common stop words
+        const stopWords = new Set(["a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "aren't", "as", "at", "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", "can't", "cannot", "could", "couldn't", "did", "didn't", "do", "does", "doesn't", "doing", "don't", "down", "during", "each", "few", "for", "from", "further", "had", "hadn't", "has", "hasn't", "have", "haven't", "having", "he", "he'd", "he'll", "he's", "her", "here", "here's", "hers", "herself", "him", "himself", "his", "how", "how's", "i", "i'd", "i'll", "i'm", "i've", "if", "in", "into", "is", "isn't", "it", "it's", "its", "itself", "let's", "me", "more", "most", "mustn't", "my", "myself", "no", "nor", "not", "of", "off", "on", "once", "only", "or", "other", "ought", "our", "ours", "ourselves", "out", "over", "own", "same", "shan't", "she", "she'd", "she'll", "she's", "should", "shouldn't", "so", "some", "such", "than", "that", "that's", "the", "their", "theirs", "them", "themselves", "then", "there", "there's", "these", "they", "they'd", "they'll", "they're", "they've", "this", "those", "through", "to", "too", "under", "until", "up", "very", "was", "wasn't", "we", "we'd", "we'll", "we're", "we've", "were", "weren't", "what", "what's", "when", "when's", "where", "where's", "which", "while", "who", "who's", "whom", "why", "why's", "with", "won't", "would", "wouldn't", "you", "you'd", "you'll", "you're", "you've", "your", "yours", "yourself", "yourselves"]);
+
+        // Load persisted text
+        const savedText = localStorage.getItem('wc_autosave_text');
+        if (savedText) {
+            textInput.value = savedText;
+        }
+
+        function countSyllables(word) {
+            word = word.toLowerCase().replace(/[^a-z]/g, '');
+            if (word.length <= 3) return 1;
+            word = word.replace(/(?:[^laeiouy]es|ed|[^laeiouy]e)$/, '');
+            word = word.replace(/^y/, '');
+            const syllables = word.match(/[aeiouy]{1,2}/g);
+            return syllables ? syllables.length : 1;
+        }
+
+        function analyzeText() {
+            const text = textInput.value;
+            localStorage.setItem('wc_autosave_text', text);
+
+            const chars = text.length;
+            const charsNoSpaces = text.replace(/\s+/g, '').length;
+            
+            // Raw text counts
+            const rawWordsArray = text.trim().split(/\s+/).filter(w => w.length > 0);
+            const words = rawWordsArray.length;
+
+            const paragraphs = text.split(/\n+/).filter(p => p.trim().length > 0).length;
+
+            // -------- TF-IDF & Keyword Pre-processing -------- //
+            // We treat sentences as our "documents" for the TF-IDF corpus
+            const sentencesArray = text.split(/[.!?\n]+/).filter(s => s.trim().length > 0);
+            const sentences = sentencesArray.length || (words > 0 ? 1 : 0);
+            
+            const totalDocuments = sentencesArray.length || 1;
+            const documentWords = [];
+            
+            let syllables = 0;
+            const termCounts = {};
+            const documentCounts = {};
+            let totalValidTerms = 0;
+
+            // Process sentence by sentence (document by document)
+            sentencesArray.forEach(sentence => {
+                // Strict lowercase normalization here
+                const wordsInSentence = sentence.toLowerCase().split(/\s+/)
+                    .map(w => w.replace(/[^a-z0-9]/g, ''))
+                    .filter(w => w.length > 0);
+
+                const uniqueWordsInThisSentence = new Set();
+
+                wordsInSentence.forEach(cleanWord => {
+                    // Count syllables for Readability
+                    syllables += countSyllables(cleanWord);
+                    
+                    // Filter out stopwords and single letters for keyword analysis
+                    if (cleanWord.length > 1 && !stopWords.has(cleanWord)) {
+                        termCounts[cleanWord] = (termCounts[cleanWord] || 0) + 1;
+                        uniqueWordsInThisSentence.add(cleanWord);
+                        totalValidTerms++;
+                    }
+                });
+
+                // Track how many *sentences* a word appears in (Document Frequency)
+                uniqueWordsInThisSentence.forEach(cleanWord => {
+                    documentCounts[cleanWord] = (documentCounts[cleanWord] || 0) + 1;
+                });
+            });
+
+            // -------- Calculate TF-IDF -------- //
+            const tfidfScores = [];
+            for (const word in termCounts) {
+                // Term Frequency (TF): occurrences in text / total non-stop words
+                const tf = termCounts[word] / (totalValidTerms || 1);
+                
+                // Inverse Document Frequency (IDF): Log of (Total Sentences / Sentences containing word)
+                // +1 prevents words in every sentence from scoring exactly 0
+                const idf = Math.log(totalDocuments / documentCounts[word]) + 1;
+                
+                tfidfScores.push({
+                    word: word,
+                    count: termCounts[word],
+                    score: tf * idf
+                });
+            }
+
+            // -------- Render Standard Density (By Raw Count) -------- //
+            const sortedDensity = [...tfidfScores].sort((a, b) => b.count - a.count).slice(0, 5);
+            const keywordListElement = document.getElementById('keyword-list');
+            keywordListElement.innerHTML = '';
+
+            if (sortedDensity.length === 0) {
+                keywordListElement.innerHTML = `<li class="list-group-item" style="color: #777;">No keywords yet</li>`;
+            } else {
+                sortedDensity.forEach(kw => {
+                    const percentage = ((kw.count / words) * 100).toFixed(0);
+                    keywordListElement.innerHTML += `
+                        <li class="list-group-item keyword-item">
+                            <span class="keyword-text">${kw.word}</span>
+                            <span class="keyword-stats">${kw.count} (${percentage}%)</span>
+                        </li>
+                    `;
+                });
+            }
+
+            // -------- Render TF-IDF (By Score) -------- //
+            // This favors words that are frequent but dense in specific contexts, penalizing general filler
+            const sortedTfidf = [...tfidfScores].sort((a, b) => b.score - a.score).slice(0, 5);
+            const tfidfListElement = document.getElementById('tfidf-list');
+            tfidfListElement.innerHTML = '';
+
+            if (sortedTfidf.length === 0) {
+                tfidfListElement.innerHTML = `<li class="list-group-item" style="color: #777;">No keywords yet</li>`;
+            } else {
+                sortedTfidf.forEach(kw => {
+                    // Map visual score for UI purposes (1-100 scale based on highest score in this text)
+                    const maxScore = sortedTfidf[0].score;
+                    const relativeImpact = Math.round((kw.score / maxScore) * 100);
+                    
+                    tfidfListElement.innerHTML += `
+                        <li class="list-group-item keyword-item">
+                            <span class="keyword-text" style="color: #28a745;">${kw.word}</span>
+                            <span class="keyword-stats">Score: ${relativeImpact}</span>
+                        </li>
+                    `;
+                });
+            }
+
+            // -------- Final Updates (Times & Readability) -------- //
+            const readTimeTotalSeconds = Math.ceil((words / 275) * 60);
+            const speakTimeTotalSeconds = Math.ceil((words / 130) * 60);
+
+            const formatTime = (totalSeconds) => {
+                if (totalSeconds === 0) return "00:00";
+                const m = Math.floor(totalSeconds / 60);
+                const s = totalSeconds % 60;
+                return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+            };
+
+            let gradeLevel = 0;
+            let readabilityLabel = "N/A";
+            if (words > 0 && sentences > 0) {
+                // Flesch-Kincaid Grade Level
+                gradeLevel = 0.39 * (words / sentences) + 11.8 * (syllables / words) - 15.59;
+                gradeLevel = Math.max(0, Math.round(gradeLevel * 10) / 10);
+                
+                if (gradeLevel < 5) readabilityLabel = "Very Easy";
+                else if (gradeLevel < 8) readabilityLabel = "11-12th Grade";
+                else if (gradeLevel < 10) readabilityLabel = "College Student";
+                else readabilityLabel = "College Graduate";
+            }
+
+            // Update DOM Counters
+            document.getElementById('top-word-count').innerText = words.toLocaleString();
+            document.getElementById('top-char-count').innerText = chars.toLocaleString();
+            document.getElementById('side-word-count').innerText = words.toLocaleString();
+            document.getElementById('side-char-count').innerText = chars.toLocaleString();
+            document.getElementById('char-nospace-count').innerText = charsNoSpaces.toLocaleString();
+            document.getElementById('sentence-count').innerText = sentences.toLocaleString();
+            document.getElementById('paragraph-count').innerText = paragraphs.toLocaleString();
+            document.getElementById('reading-time').innerText = formatTime(readTimeTotalSeconds);
+            document.getElementById('speaking-time').innerText = formatTime(speakTimeTotalSeconds);
+            document.getElementById('readability-level').innerText = words > 0 ? readabilityLabel : "-";
+        }
+
+        textInput.addEventListener('input', analyzeText);
+        analyzeText(); // Run once on page load
+    </script>
+</body>
+</html>
