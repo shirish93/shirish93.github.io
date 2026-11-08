@@ -4,12 +4,10 @@ categories:
 - engineering
 - ai
 - genai
-featured: true
-hidden: true
 image: assets/images/innotrap_br.png
 image_description: GenAI can be a tricky monster. Watch out for their evil ways! Lovingly
   illustrated on my Kindle scribe.
-last_modified_at: '2025-08-28 16:45:11'
+last_modified_at: '2026-11-07 21:13:18'
 layout: post
 title: Things to do before starting your big GenAI project
 ---
