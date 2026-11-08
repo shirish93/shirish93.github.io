@@ -8,8 +8,8 @@ featured: true
 hidden: true
 image: assets/images/robotired.jpg
 image_description: GenAI can be a tricky monster. Watch out for their evil ways! The
-  image was probably slop-genereated, and I don't want to talk about it.
-last_modified_at: '2026-11-07 21:09:03'
+  image was lovingly-handcrafted on my Kindle Scribe.
+last_modified_at: '2026-11-07 21:19:20'
 layout: post
 title: Against the genAI Omni-product
 ---
